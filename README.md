@@ -1046,6 +1046,7 @@
 
 ## Others 
 
+- [Doragd/Awesome-Paper-List](https://github.com/Doragd/Awesome-Paper-List) - A curated list of repositories in which many NLP/CV/ML papers and related area resources are collected.
 - [slowernews/hamster-system](https://github.com/slowernews/hamster-system) - Ultra-simple framework to organize your life.
 - [webflow/leadership](https://github.com/webflow/leadership) - A public compilation of Webflow's documentation that outlines how we practice servant leadership and the management strategies that follow.
 - [pmerson/ADR-template](https://github.com/pmerson/ADR-template) - A md template for Architecture Decision Records (ADRs)
@@ -1213,6 +1214,7 @@
 
 ## Python 
 
+- [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter
 - [beartype/beartype](https://github.com/beartype/beartype) - Unbearably fast O(1) runtime type-checking in pure Python.
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [MrS0m30n3/youtube-dl-gui](https://github.com/MrS0m30n3/youtube-dl-gui) - A cross platform front-end GUI of the popular youtube-dl written in wxPython.
@@ -1399,6 +1401,7 @@
 
 ## Shell 
 
+- [rien/reStream](https://github.com/rien/reStream) - Stream your reMarkable screen over SSH.
 - [leahneukirchen/hrmpf](https://github.com/leahneukirchen/hrmpf) - hrmpf rescue system, built on Void Linux
 - [ninegua/ic-utils](https://github.com/ninegua/ic-utils) - Unofficial software development kit for the Internet Computer
 - [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
@@ -1474,6 +1477,7 @@
 
 ## TypeScript 
 
+- [ritz078/transform](https://github.com/ritz078/transform) - A polyglot web converter.
 - [styfle/cancel-workflow-action](https://github.com/styfle/cancel-workflow-action) - ⏹️ GitHub Action to cancel previous running workflows on push
 - [mrbbot/html-rewriter-wasm](https://github.com/mrbbot/html-rewriter-wasm) - WebAssembly version of HTMLRewriter
 - [mtfoley/pr-compliance-action](https://github.com/mtfoley/pr-compliance-action) - Check PR for compliance on title, linked issues, and files changed
