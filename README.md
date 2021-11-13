@@ -1050,6 +1050,7 @@
 
 ## Others 
 
+- [adrianscheff/useful-sed](https://github.com/adrianscheff/useful-sed) - Useful sed scripts & patterns.
 - [Doragd/Awesome-Paper-List](https://github.com/Doragd/Awesome-Paper-List) - A curated list of repositories in which many NLP/CV/ML papers and related area resources are collected.
 - [slowernews/hamster-system](https://github.com/slowernews/hamster-system) - Ultra-simple framework to organize your life.
 - [webflow/leadership](https://github.com/webflow/leadership) - A public compilation of Webflow's documentation that outlines how we practice servant leadership and the management strategies that follow.
