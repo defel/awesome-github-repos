@@ -456,6 +456,7 @@
 
 ## JavaScript 
 
+- [prose/gatekeeper](https://github.com/prose/gatekeeper) - Enables client-side applications to dance OAuth with GitHub.
 - [maddevsio/seo-analyzer](https://github.com/maddevsio/seo-analyzer) - The library for analyze a HTML file to show all of the SEO defects
 - [iamarkadyt/aws-auth](https://github.com/iamarkadyt/aws-auth) - :fire: AWS authentication CLI with built-in support for MFA, secure credential storage and easy IAM role switching.
 - [zachleat/glyphhanger](https://github.com/zachleat/glyphhanger) - Your web font utility belt. It can subset web fonts. It can find unicode-ranges for you automatically. It makes julienne fries.
@@ -1406,6 +1407,7 @@
 
 ## Shell 
 
+- [toltec-dev/toltec](https://github.com/toltec-dev/toltec) - Community-maintained repository of free software for the reMarkable tablet.
 - [mercury2269/sqsmover](https://github.com/mercury2269/sqsmover) - AWS SQS Message mover
 - [rien/reStream](https://github.com/rien/reStream) - Stream your reMarkable screen over SSH.
 - [leahneukirchen/hrmpf](https://github.com/leahneukirchen/hrmpf) - hrmpf rescue system, built on Void Linux
@@ -1483,6 +1485,7 @@
 
 ## TypeScript 
 
+- [pahud/cdk-spot-one](https://github.com/pahud/cdk-spot-one) - One spot instance with EIP and defined duration. No interruption.
 - [ritz078/transform](https://github.com/ritz078/transform) - A polyglot web converter.
 - [styfle/cancel-workflow-action](https://github.com/styfle/cancel-workflow-action) - ⏹️ GitHub Action to cancel previous running workflows on push
 - [mrbbot/html-rewriter-wasm](https://github.com/mrbbot/html-rewriter-wasm) - WebAssembly version of HTMLRewriter
