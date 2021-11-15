@@ -1485,6 +1485,7 @@
 
 ## TypeScript 
 
+- [cdklabs/cdk-watchful](https://github.com/cdklabs/cdk-watchful) - Watching what's up with your CDK apps since 2019
 - [pahud/cdk-spot-one](https://github.com/pahud/cdk-spot-one) - One spot instance with EIP and defined duration. No interruption.
 - [ritz078/transform](https://github.com/ritz078/transform) - A polyglot web converter.
 - [styfle/cancel-workflow-action](https://github.com/styfle/cancel-workflow-action) - ⏹️ GitHub Action to cancel previous running workflows on push
