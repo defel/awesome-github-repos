@@ -456,7 +456,7 @@
 
 ## JavaScript 
 
-- [Budibase/budibase](https://github.com/Budibase/budibase) - Budibase is an open-source low-code platform and the easiest way to build beautiful business apps  🚀
+- [Budibase/budibase](https://github.com/Budibase/budibase) - Budibase is an open-source low-code platform for creating internal apps in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s 🚀
 - [prose/gatekeeper](https://github.com/prose/gatekeeper) - Enables client-side applications to dance OAuth with GitHub.
 - [maddevsio/seo-analyzer](https://github.com/maddevsio/seo-analyzer) - The library for analyze a HTML file to show all of the SEO defects
 - [iamarkadyt/aws-auth](https://github.com/iamarkadyt/aws-auth) - :fire: AWS authentication CLI with built-in support for MFA, secure credential storage and easy IAM role switching.
@@ -581,7 +581,7 @@
 - [mafintosh/pumpify](https://github.com/mafintosh/pumpify) - Combine an array of streams into a single duplex stream using pump and duplexify
 - [klaussinani/taskbook](https://github.com/klaussinani/taskbook) - Tasks, boards & notes for the command-line habitat
 - [mikerockett/vue-routisan](https://github.com/mikerockett/vue-routisan) - Elegant, fluent route definitions for Vue Router, inspired by Laravel. v3 is currently in beta. vue-routisan@next
-- [stanford-oval/almond-cloud](https://github.com/stanford-oval/almond-cloud) - Almond As A Service and Thingpedia
+- [stanford-oval/genie-cloud](https://github.com/stanford-oval/genie-cloud) - Genie As A Service and Thingpedia
 - [tjmehta/101](https://github.com/tjmehta/101) - A modern JS utility library
 - [heiseonline/embetty](https://github.com/heiseonline/embetty) - 🐙 Embetty displays remote content like tweets or YouTube videos without compromising your privacy.
 - [alexeyraspopov/dataclass](https://github.com/alexeyraspopov/dataclass) - Data classes for TypeScript & JavaScript
