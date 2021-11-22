@@ -65,6 +65,7 @@
 
 ## C 
 
+- [phillbush/pmenu](https://github.com/phillbush/pmenu) - A pie-menu in xlib and imlib2.
 - [mackron/miniaudio](https://github.com/mackron/miniaudio) - Single file audio playback and capture library written in C.
 - [google/hiba](https://github.com/google/hiba) - HIBA is a system built on top of regular OpenSSH certificate-based authentication that allows to manage flexible authorization of principals on pools of target hosts without the need to push customized authorized_users files periodically.
 - [Streampunk/beamlambda](https://github.com/Streampunk/beamlambda) - Node.js native bindings to FFmpeg as an AWS Lambda layer.
@@ -456,6 +457,8 @@
 
 ## JavaScript 
 
+- [premasagar/pablo](https://github.com/premasagar/pablo) - Pablo is a lightweight, expressive JavaScript SVG library. Pablo creates interactive drawings with SVG (Scalable Vector Graphics), giving access to all of SVG's granularity and power.
+- [bangle-io/bangle.dev](https://github.com/bangle-io/bangle.dev) - Collection of higher level rich text editing tools. It powers the local only note taking app https://bangle.io
 - [Budibase/budibase](https://github.com/Budibase/budibase) - Budibase is an open-source low-code platform for creating internal apps in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s 🚀
 - [prose/gatekeeper](https://github.com/prose/gatekeeper) - Enables client-side applications to dance OAuth with GitHub.
 - [maddevsio/seo-analyzer](https://github.com/maddevsio/seo-analyzer) - The library for analyze a HTML file to show all of the SEO defects
@@ -1193,7 +1196,7 @@
 - [janschejbal/piratenid](https://github.com/janschejbal/piratenid) - 
 - [inkscapeforum/Garden](https://github.com/inkscapeforum/Garden) - Vanilla is an open-source discussion forum for the web. It is built upon Garden, our pluggable application development framework.
 - [inkscapeforum/Inkscape-Forum-Theme](https://github.com/inkscapeforum/Inkscape-Forum-Theme) - Das Inkscape Forum Theme. Erweiterung des Vanilla default-Theme
-- [phork/phork](https://github.com/phork/phork) - Phork is a flexible, lightweight Open Source PHP 5 framework.
+- [phork/framework](https://github.com/phork/framework) - Phork/framework is a flexible, lightweight Open Source PHP 5 framework.
 - [DirkEngels/PhpTaskDaemon](https://github.com/DirkEngels/PhpTaskDaemon) - A deamon framework for running PHP continously and in daemon mode.
 - [plomlompom/PlomWiki](https://github.com/plomlompom/PlomWiki) - Extensible PHP wiki using plain text files as its database, with primitive wiki markup and page versioning. Plugins to extend its functionality available in my PlomWikiPlugins repository.
 - [kbjr/Git.php](https://github.com/kbjr/Git.php) - A PHP git library
@@ -1221,6 +1224,8 @@
 
 ## Python 
 
+- [jiaaro/pydub](https://github.com/jiaaro/pydub) - Manipulate audio with a simple and easy high level interface
+- [antiboredom/audiogrep](https://github.com/antiboredom/audiogrep) - Creates audio supercuts.
 - [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter
 - [beartype/beartype](https://github.com/beartype/beartype) - Unbearably fast O(1) runtime type-checking in pure Python.
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
