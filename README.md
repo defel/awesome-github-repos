@@ -262,6 +262,8 @@
 
 ## Go 
 
+- [pion/webrtc](https://github.com/pion/webrtc) - Pure Go implementation of the WebRTC API
+- [m1k1o/neko](https://github.com/m1k1o/neko) - A self hosted virtual browser that runs in docker and uses WebRTC.
 - [ddvk/rmfakecloud](https://github.com/ddvk/rmfakecloud) - host your own cloud for the remarkable
 - [remotemobprogramming/mob](https://github.com/remotemobprogramming/mob) - Tool for smooth git handover.
 - [maaslalani/confetty](https://github.com/maaslalani/confetty) - Confetti in your TTY
@@ -1196,7 +1198,7 @@
 - [janschejbal/piratenid](https://github.com/janschejbal/piratenid) - 
 - [inkscapeforum/Garden](https://github.com/inkscapeforum/Garden) - Vanilla is an open-source discussion forum for the web. It is built upon Garden, our pluggable application development framework.
 - [inkscapeforum/Inkscape-Forum-Theme](https://github.com/inkscapeforum/Inkscape-Forum-Theme) - Das Inkscape Forum Theme. Erweiterung des Vanilla default-Theme
-- [phork/framework](https://github.com/phork/framework) - Phork/framework is a flexible, lightweight Open Source PHP 5 framework.
+- [phork/framework](https://github.com/phork/framework) - A flexible, lightweight Open Source PHP 5 framework.
 - [DirkEngels/PhpTaskDaemon](https://github.com/DirkEngels/PhpTaskDaemon) - A deamon framework for running PHP continously and in daemon mode.
 - [plomlompom/PlomWiki](https://github.com/plomlompom/PlomWiki) - Extensible PHP wiki using plain text files as its database, with primitive wiki markup and page versioning. Plugins to extend its functionality available in my PlomWikiPlugins repository.
 - [kbjr/Git.php](https://github.com/kbjr/Git.php) - A PHP git library
@@ -1224,6 +1226,8 @@
 
 ## Python 
 
+- [vixrant/python-webrtc-computer-vision](https://github.com/vixrant/python-webrtc-computer-vision) - 𐄳 Attention detection in live video-lectures
+- [aiortc/aiortc](https://github.com/aiortc/aiortc) - WebRTC and ORTC implementation for Python using asyncio
 - [tomas-mazak/cdk-dns](https://github.com/tomas-mazak/cdk-dns) - High level AWS CDK constructs for DNS infrastructure in multi-account setups
 - [jiaaro/pydub](https://github.com/jiaaro/pydub) - Manipulate audio with a simple and easy high level interface
 - [antiboredom/audiogrep](https://github.com/antiboredom/audiogrep) - Creates audio supercuts.
