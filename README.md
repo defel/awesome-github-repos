@@ -125,6 +125,7 @@
 
 ## C++ 
 
+- [versatica/mediasoup](https://github.com/versatica/mediasoup) - Cutting Edge WebRTC Video Conferencing
 - [Maguines/Bitcoin-v0.1](https://github.com/Maguines/Bitcoin-v0.1) - Original Release of The Bitcoin Source Code (Version 0.1) by Satoshi Nakamoto
 - [weserv/images](https://github.com/weserv/images) - Source code of images.weserv.nl, to be used on your own server(s).
 - [axiomatic-systems/Bento4](https://github.com/axiomatic-systems/Bento4) - Full-featured MP4 format, MPEG DASH, HLS, CMAF SDK and tools
@@ -269,7 +270,7 @@
 - [maaslalani/confetty](https://github.com/maaslalani/confetty) - Confetti in your TTY
 - [kudrykv/latex-yearly-planner](https://github.com/kudrykv/latex-yearly-planner) - Digital planner for Supernote and ReMarkable
 - [ddosify/ddosify](https://github.com/ddosify/ddosify) - High-performance load testing tool, written in Golang.
-- [temporalio/temporal](https://github.com/temporalio/temporal) - Temporal service and CLI
+- [temporalio/temporal](https://github.com/temporalio/temporal) - Temporal service
 - [rhysd/actionlint](https://github.com/rhysd/actionlint) - :octocat: Static checker for GitHub Actions workflow files
 - [pyrra-dev/pyrra](https://github.com/pyrra-dev/pyrra) - Making SLOs with Prometheus manageable, accessible, and easy to use for everyone!
 - [ergochat/ergo](https://github.com/ergochat/ergo) - A modern IRC server (daemon/ircd) written in Go.
@@ -1071,7 +1072,6 @@
 - [mehdihadeli/awesome-software-architecture](https://github.com/mehdihadeli/awesome-software-architecture) - A curated list of awesome articles and resources to learn and practice about software architecture, patterns, and principles.
 - [joshbuchea/HEAD](https://github.com/joshbuchea/HEAD) - A simple guide to HTML &lt;head&gt; elements
 - [thedaviddias/Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) - 🗂 The perfect Front-End Checklist for modern websites and meticulous developers
-- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Roadmap to becoming a web developer in 2021
 - [kettanaito/naming-cheatsheet](https://github.com/kettanaito/naming-cheatsheet) - Comprehensive language-agnostic guidelines on variables naming. Home of the A/HC/LC pattern.
 - [zoupio/spec](https://github.com/zoupio/spec) - a specification for decentralized federated tumblelogs
 - [GorvGoyl/Clone-Wars](https://github.com/GorvGoyl/Clone-Wars) - 100+ open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix, Tiktok, Spotify, Whatsapp, Youtube etc. See source code, demo links, tech stack, github stars.
@@ -1198,7 +1198,7 @@
 - [janschejbal/piratenid](https://github.com/janschejbal/piratenid) - 
 - [inkscapeforum/Garden](https://github.com/inkscapeforum/Garden) - Vanilla is an open-source discussion forum for the web. It is built upon Garden, our pluggable application development framework.
 - [inkscapeforum/Inkscape-Forum-Theme](https://github.com/inkscapeforum/Inkscape-Forum-Theme) - Das Inkscape Forum Theme. Erweiterung des Vanilla default-Theme
-- [phork/framework](https://github.com/phork/framework) - A flexible, lightweight Open Source PHP 5 framework.
+- [phork/framework](https://github.com/phork/framework) - The Phork Framework is a flexible, lightweight Open Source PHP 5 framework.
 - [DirkEngels/PhpTaskDaemon](https://github.com/DirkEngels/PhpTaskDaemon) - A deamon framework for running PHP continously and in daemon mode.
 - [plomlompom/PlomWiki](https://github.com/plomlompom/PlomWiki) - Extensible PHP wiki using plain text files as its database, with primitive wiki markup and page versioning. Plugins to extend its functionality available in my PlomWikiPlugins repository.
 - [kbjr/Git.php](https://github.com/kbjr/Git.php) - A PHP git library
@@ -1540,6 +1540,7 @@
 - [reg-viz/reg-suit](https://github.com/reg-viz/reg-suit) - :recycle: Visual Regression Testing tool
 - [cassiozen/useStateMachine](https://github.com/cassiozen/useStateMachine) - The &lt;1 kb state machine hook for React
 - [mswjs/msw](https://github.com/mswjs/msw) - Seamless REST/GraphQL API mocking library for browser and Node.js.
+- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Roadmap to becoming a web developer in 2021
 - [andymatuschak/orbit](https://github.com/andymatuschak/orbit) - Experimental spaced repetition platform for exploring ideas in memory augmentation and programmable attention
 - [replit/clui](https://github.com/replit/clui) - CLUI is a collection of JavaScript libraries for building command-line interfaces with context-aware autocomplete.
 - [nickpalenchar/goodtimer](https://github.com/nickpalenchar/goodtimer) - A setTimeout/setInterval for Humans (and so much more)
