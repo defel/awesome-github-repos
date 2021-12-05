@@ -55,6 +55,7 @@
   - [Swift](#swift)
   - [TeX](#tex)
   - [TypeScript](#typescript)
+  - [V](#v)
   - [Vala](#vala)
   - [Vim script](#vim-script)
   - [VimL](#viml)
@@ -977,7 +978,7 @@
 - [fgnass/node-dev](https://github.com/fgnass/node-dev) - Zero-conf Node.js reloading
 - [squaremo/node-amqp](https://github.com/squaremo/node-amqp) - An obsolete fork of node-amqp. Please see squaremo/amqp.node for a better RabbitMQ client.
 - [partkeepr/PartKeepr](https://github.com/partkeepr/PartKeepr) - Open Source Inventory Management
-- [handlebars-lang/handlebars.js](https://github.com/handlebars-lang/handlebars.js) - 
+- [handlebars-lang/handlebars.js](https://github.com/handlebars-lang/handlebars.js) - Minimal templating on steroids.
 - [tsmith/node-control](https://github.com/tsmith/node-control) - Scripted system admin and deployment for many remote machines in parallel via ssh with Node
 - [uxebu/embedjs](https://github.com/uxebu/embedjs) - Mobile cross-platform JavaScript framework
 - [brianleroux/wtfjs](https://github.com/brianleroux/wtfjs) - wtfjs.com!
@@ -1387,7 +1388,7 @@
 - [trussed-dev/trussed](https://github.com/trussed-dev/trussed) - Modern Cryptographic Firmware
 - [nerdypepper/dijo](https://github.com/nerdypepper/dijo) - scriptable, curses-based, digital habit tracker
 - [imazen/imageflow](https://github.com/imazen/imageflow) - High-performance image manipulation for web servers. Includes imageflow_server, imageflow_tool, and libimageflow
-- [vectordotdev/vector](https://github.com/vectordotdev/vector) - A high-performance observability data pipeline.
+- [vectordotdev/vector](https://github.com/vectordotdev/vector) - A reliable, high-performance tool for building observability data pipelines.
 - [rome/tools](https://github.com/rome/tools) - The Rome Toolchain. A linter, compiler, bundler, and more for JavaScript, TypeScript, HTML, Markdown, and CSS.
 - [void-rs/void](https://github.com/void-rs/void) - terminal-based personal organizer
 - [Canop/broot](https://github.com/Canop/broot) - A new way to see and navigate directory trees : https://dystroy.org/broot
@@ -1500,6 +1501,7 @@
 
 ## TypeScript 
 
+- [code-hike/codehike](https://github.com/code-hike/codehike) - Marvellous code walkthroughs
 - [cdklabs/cdk-watchful](https://github.com/cdklabs/cdk-watchful) - Watching what's up with your CDK apps since 2019
 - [pahud/cdk-spot-one](https://github.com/pahud/cdk-spot-one) - One spot instance with EIP and defined duration. No interruption.
 - [ritz078/transform](https://github.com/ritz078/transform) - A polyglot web converter.
@@ -1611,6 +1613,10 @@
 - [sindresorhus/pageres](https://github.com/sindresorhus/pageres) - Capture website screenshots
 - [baconjs/bacon.js](https://github.com/baconjs/bacon.js) - Functional reactive programming library for TypeScript and JavaScript
 - [peers/peerjs](https://github.com/peers/peerjs) - Simple peer-to-peer with WebRTC
+
+## V 
+
+- [vlang/v](https://github.com/vlang/v) - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in &lt;1s with zero library dependencies. https://vlang.io
 
 ## Vala 
 
