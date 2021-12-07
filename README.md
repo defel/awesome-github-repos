@@ -530,7 +530,7 @@
 - [microsoft/monaco-editor](https://github.com/microsoft/monaco-editor) - A browser based code editor
 - [edent/SuperTinyIcons](https://github.com/edent/SuperTinyIcons) - Under 1KB each! Super Tiny Icons are miniscule SVG versions of your favourite website and app logos
 - [isaacs/minipass](https://github.com/isaacs/minipass) - A stream implementation that does more by doing less
-- [ariporad/pirates](https://github.com/ariporad/pirates) - Properly hijack require
+- [danez/pirates](https://github.com/danez/pirates) - Properly hijack require
 - [wavedrom/wavedrom](https://github.com/wavedrom/wavedrom) - :ocean: Digital timing diagram rendering engine
 - [typicode/lowdb](https://github.com/typicode/lowdb) - Simple to use local JSON database (supports Node, Electron and the browser)
 - [Hypfer/Valetudo](https://github.com/Hypfer/Valetudo) - Cloud-free control webinterface for vacuum robots
@@ -1070,7 +1070,7 @@
 - [joelparkerhenderson/architecture-decision-record](https://github.com/joelparkerhenderson/architecture-decision-record) - Architecture decision record (ADR) examples for software planning, IT leadership, and template documentation
 - [prathyvsh/pl-catalog](https://github.com/prathyvsh/pl-catalog) - A catalog of programming languages
 - [kuchin/awesome-cto](https://github.com/kuchin/awesome-cto) - A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups
-- [mehdihadeli/awesome-software-architecture](https://github.com/mehdihadeli/awesome-software-architecture) - A curated list of awesome articles and resources to learn and practice about software architecture, patterns, and principles.
+- [mehdihadeli/awesome-software-architecture](https://github.com/mehdihadeli/awesome-software-architecture) - A curated list of awesome articles, videos, and other resources to learn and practice about software architecture, patterns, and principles.
 - [joshbuchea/HEAD](https://github.com/joshbuchea/HEAD) - A simple guide to HTML &lt;head&gt; elements
 - [thedaviddias/Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) - 🗂 The perfect Front-End Checklist for modern websites and meticulous developers
 - [kettanaito/naming-cheatsheet](https://github.com/kettanaito/naming-cheatsheet) - Comprehensive language-agnostic guidelines on variables naming. Home of the A/HC/LC pattern.
