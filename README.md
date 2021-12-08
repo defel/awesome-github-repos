@@ -1227,6 +1227,7 @@
 
 ## Python 
 
+- [erik/squabble](https://github.com/erik/squabble) - An extensible linter for SQL queries and migrations.
 - [vixrant/python-webrtc-computer-vision](https://github.com/vixrant/python-webrtc-computer-vision) - 𐄳 Attention detection in live video-lectures
 - [aiortc/aiortc](https://github.com/aiortc/aiortc) - WebRTC and ORTC implementation for Python using asyncio
 - [tomas-mazak/cdk-dns](https://github.com/tomas-mazak/cdk-dns) - High level AWS CDK constructs for DNS infrastructure in multi-account setups
@@ -1377,6 +1378,7 @@
 
 ## Rust 
 
+- [sbdchd/squawk](https://github.com/sbdchd/squawk) - 🐘 linter for PostgreSQL, focused on migrations
 - [postcss-rs/postcss-rs](https://github.com/postcss-rs/postcss-rs) - 🚀 Fast and 100% API compatible postcss replacer, built in Rust
 - [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a syntax-aware diff
 - [Dusk-Labs/dim](https://github.com/Dusk-Labs/dim) - Dim, a media manager fueled by dark forces.
