@@ -1505,6 +1505,7 @@
 
 ## TypeScript 
 
+- [cloudcomponents/cdk-constructs](https://github.com/cloudcomponents/cdk-constructs) - A collection of higher-level reusable cdk constructs
 - [code-hike/codehike](https://github.com/code-hike/codehike) - Marvellous code walkthroughs
 - [cdklabs/cdk-watchful](https://github.com/cdklabs/cdk-watchful) - Watching what's up with your CDK apps since 2019
 - [pahud/cdk-spot-one](https://github.com/pahud/cdk-spot-one) - One spot instance with EIP and defined duration. No interruption.
