@@ -332,7 +332,7 @@
 - [StackExchange/dnscontrol](https://github.com/StackExchange/dnscontrol) - Synchronize your DNS to multiple providers from a simple DSL
 - [estesp/bucketbench](https://github.com/estesp/bucketbench) - Go-based framework for running benchmarks against Docker, containerd, runc, or any CRI-compliant runtime
 - [qax-os/goreporter](https://github.com/qax-os/goreporter) - A Golang tool that does static analysis, unit testing, code review and generate code quality report.
-- [gravitational/teleport](https://github.com/gravitational/teleport) - Certificate authority and access plane for SSH, Kubernetes, web applications, and databases
+- [gravitational/teleport](https://github.com/gravitational/teleport) - Certificate authority and access plane for SSH, Kubernetes, web apps, databases and desktops
 - [whyrusleeping/gx](https://github.com/whyrusleeping/gx) - A package management tool
 - [mroth/slacknimate](https://github.com/mroth/slacknimate) - :dancers: Realtime text animation for Slack chatops
 - [github/hub](https://github.com/github/hub) - A command-line tool that makes git easier to use with GitHub.
@@ -462,6 +462,7 @@
 
 ## JavaScript 
 
+- [mui-org/material-ui](https://github.com/mui-org/material-ui) - MUI (formerly Material-UI) is the React UI library you always wanted. Follow your own design system, or start with Material Design.
 - [premasagar/pablo](https://github.com/premasagar/pablo) - Pablo is a lightweight, expressive JavaScript SVG library. Pablo creates interactive drawings with SVG (Scalable Vector Graphics), giving access to all of SVG's granularity and power.
 - [bangle-io/bangle.dev](https://github.com/bangle-io/bangle.dev) - Collection of higher level rich text editing tools. It powers the local only note taking app https://bangle.io
 - [Budibase/budibase](https://github.com/Budibase/budibase) - Budibase is an open-source low-code platform for creating internal apps in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s 🚀
@@ -1505,6 +1506,7 @@
 
 ## TypeScript 
 
+- [iorate/uBlacklist](https://github.com/iorate/uBlacklist) - Blocks specific sites from appearing in Google search results
 - [cloudcomponents/cdk-constructs](https://github.com/cloudcomponents/cdk-constructs) - A collection of higher-level reusable cdk constructs
 - [code-hike/codehike](https://github.com/code-hike/codehike) - Marvellous code walkthroughs
 - [cdklabs/cdk-watchful](https://github.com/cdklabs/cdk-watchful) - Watching what's up with your CDK apps since 2019
