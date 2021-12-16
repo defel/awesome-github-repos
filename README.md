@@ -508,7 +508,7 @@
 - [upgundecha/howtheysre](https://github.com/upgundecha/howtheysre) - A curated collection of publicly available resources on how technology and tech-savvy organizations around the world practice Site Reliability Engineering (SRE)
 - [jxom/curji](https://github.com/jxom/curji) - Turn your website's cursor into an emoji 🙊
 - [estevanmaito/windmill-dashboard-react](https://github.com/estevanmaito/windmill-dashboard-react) - ❄ A multi theme, completely accessible, ready for production dashboard.
-- [i5ik/ViewFinder](https://github.com/i5ik/ViewFinder) - :camera: ViewFinder - Remote isolated browser API for security, automation visibility and interactivity. Free web UI for headless Chrome browser. RBI. CBII. Remote browser isolation, embeddable BrowserView, secure chrome-as-a-service. Managed, variable bandwidth and co-browsing options available in Pro versions. Like S2, WebGap, Bromium, Authentic8, Menlo Security and Broadcom, but free and source-available. Integrated secure document viewing with CDR from https://github.com/dosyago/p2%2e
+- [i5ik/ViewFinder](https://github.com/i5ik/ViewFinder) - :camera: ViewFinder - Remote isolated browser API for security, automation visibility and interactivity. Run on our cloud, or bring your own.
 - [mifi/editly](https://github.com/mifi/editly) - Slick, declarative command line video editing & API
 - [shuding/nextra](https://github.com/shuding/nextra) - The Next.js Static Site Generator
 - [aws/aws-cdk-rfcs](https://github.com/aws/aws-cdk-rfcs) - RFCs for the AWS CDK
