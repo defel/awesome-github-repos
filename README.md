@@ -436,7 +436,7 @@
 - [spring-projects/spring-authorization-server](https://github.com/spring-projects/spring-authorization-server) - The Spring Authorization Server project is focused on delivering OAuth 2.1 Authorization Server support to the Spring community.
 - [JetBrains/skija](https://github.com/JetBrains/skija) - Java bindings for Skia
 - [maciejwalkowiak/reactor-sqs-poc](https://github.com/maciejwalkowiak/reactor-sqs-poc) - Reactor + AWS SQS Proof of Concept
-- [spring-cloud/spring-cloud-aws](https://github.com/spring-cloud/spring-cloud-aws) - Integration for Amazon Web Services APIs with Spring
+- [spring-cloud/spring-cloud-aws](https://github.com/spring-cloud/spring-cloud-aws) - All development has moved to https://github.com/awspring/spring-cloud-aws Integration for Amazon Web Services APIs with Spring
 - [networknt/json-schema-validator](https://github.com/networknt/json-schema-validator) - A fast Java JSON schema validator that supports draft V4, V6, V7 and V2019-09
 - [reactive-streams/reactive-streams-jvm](https://github.com/reactive-streams/reactive-streams-jvm) - Reactive Streams Specification for the JVM
 - [graphql-java-kickstart/graphql-spring-boot](https://github.com/graphql-java-kickstart/graphql-spring-boot) - GraphQL and GraphiQL Spring Framework Boot Starters - Forked from oembedler/graphql-spring-boot due to inactivity.
@@ -462,6 +462,7 @@
 
 ## JavaScript 
 
+- [tuzig/terminal7](https://github.com/tuzig/terminal7) - A Touchable Terminal Emulator & Multiplexer hybrid app
 - [mui-org/material-ui](https://github.com/mui-org/material-ui) - MUI (formerly Material-UI) is the React UI library you always wanted. Follow your own design system, or start with Material Design.
 - [premasagar/pablo](https://github.com/premasagar/pablo) - Pablo is a lightweight, expressive JavaScript SVG library. Pablo creates interactive drawings with SVG (Scalable Vector Graphics), giving access to all of SVG's granularity and power.
 - [bangle-io/bangle.dev](https://github.com/bangle-io/bangle.dev) - Collection of higher level rich text editing tools. It powers the local only note taking app https://bangle.io
@@ -1230,6 +1231,7 @@
 
 ## Python 
 
+- [GOATS2K/overpass](https://github.com/GOATS2K/overpass) - A self-hosted streaming platform with Discord authentication, auto-recording and more!
 - [erik/squabble](https://github.com/erik/squabble) - An extensible linter for SQL queries and migrations.
 - [vixrant/python-webrtc-computer-vision](https://github.com/vixrant/python-webrtc-computer-vision) - 𐄳 Attention detection in live video-lectures
 - [aiortc/aiortc](https://github.com/aiortc/aiortc) - WebRTC and ORTC implementation for Python using asyncio
