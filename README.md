@@ -1424,7 +1424,7 @@
 ## Scala 
 
 - [sangria-graphql/sangria](https://github.com/sangria-graphql/sangria) - Scala GraphQL implementation
-- [getquill/quill](https://github.com/getquill/quill) - Compile-time Language Integrated Queries for Scala
+- [zio/zio-quill](https://github.com/zio/zio-quill) - Compile-time Language Integrated Queries for Scala
 - [optics-dev/Monocle](https://github.com/optics-dev/Monocle) - Optics library for Scala
 - [liquidizer/liquidizer](https://github.com/liquidizer/liquidizer) - Interactive voting game
 
