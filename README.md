@@ -264,6 +264,7 @@
 
 ## Go 
 
+- [livepeer/lpms](https://github.com/livepeer/lpms) - Livepeer media server
 - [palantir/bulldozer](https://github.com/palantir/bulldozer) - GitHub Pull Request Auto-Merge Bot
 - [pion/webrtc](https://github.com/pion/webrtc) - Pure Go implementation of the WebRTC API
 - [m1k1o/neko](https://github.com/m1k1o/neko) - A self hosted virtual browser that runs in docker and uses WebRTC.
@@ -423,7 +424,6 @@
 - [byorgey/swarm](https://github.com/byorgey/swarm) - Resource gathering + programming game
 - [github/semantic](https://github.com/github/semantic) - Parsing, analyzing, and comparing source code across many languages
 - [radicle-dev/radicle-alpha](https://github.com/radicle-dev/radicle-alpha) - A peer-to-peer stack for code collaboration
-- [lk-geimfari/awesomo](https://github.com/lk-geimfari/awesomo) - Cool open source projects written in C, C++, Clojure, Lisp, Elixir, Erlang, Elm, Golang, Haskell, JavaScript, Lua, OCaml, Python, R, Ruby, Rust, Scala, etc.
 - [michowski/jsn](https://github.com/michowski/jsn) - An absolutely simple & terse CLI app to manipulate JSON data
 - [quchen/articles](https://github.com/quchen/articles) - Miscellaneous articles. The readme is the table of contents.
 - [snapframework/snap](https://github.com/snapframework/snap) - Top-level package for the official Snap Framework libraries, includes the snaplets API as well as infrastructure for sessions, auth, and templates.
@@ -462,6 +462,7 @@
 
 ## JavaScript 
 
+- [tailwindlabs/tailwindcss-aspect-ratio](https://github.com/tailwindlabs/tailwindcss-aspect-ratio) - 
 - [tuzig/terminal7](https://github.com/tuzig/terminal7) - A Touchable Terminal Emulator & Multiplexer hybrid app
 - [mui-org/material-ui](https://github.com/mui-org/material-ui) - MUI (formerly Material-UI) is the React UI library you always wanted. Follow your own design system, or start with Material Design.
 - [premasagar/pablo](https://github.com/premasagar/pablo) - Pablo is a lightweight, expressive JavaScript SVG library. Pablo creates interactive drawings with SVG (Scalable Vector Graphics), giving access to all of SVG's granularity and power.
@@ -1288,6 +1289,7 @@
 - [dowjones/hammer](https://github.com/dowjones/hammer) - Dow Jones Hammer : Protect the cloud with the power of the cloud(AWS)
 - [mda590/cloudping.co](https://github.com/mda590/cloudping.co) - AWS Inter-Region Latency Monitoring
 - [Mergifyio/mergify-engine](https://github.com/Mergifyio/mergify-engine) - Engine for Mergify
+- [lk-geimfari/awesomo](https://github.com/lk-geimfari/awesomo) - Cool open source projects written in C, C++, Clojure, Lisp, Elixir, Erlang, Elm, Golang, Haskell, JavaScript, Lua, OCaml, Python, R, Ruby, Rust, Scala, etc.
 - [Netflix-Skunkworks/policyuniverse](https://github.com/Netflix-Skunkworks/policyuniverse) - Parse and Process AWS IAM Policies, Statements, ARNs, and wildcards.
 - [smacke/ffsubsync](https://github.com/smacke/ffsubsync) - Automagically synchronize subtitles with video.
 - [pindexis/marker](https://github.com/pindexis/marker) - The terminal command palette
