@@ -1064,6 +1064,7 @@
 
 ## Others 
 
+- [getgrav/awesome-grav](https://github.com/getgrav/awesome-grav) - A curated list of awesome stuff to do with Grav
 - [adrianscheff/useful-sed](https://github.com/adrianscheff/useful-sed) - Useful sed scripts & patterns.
 - [Doragd/Awesome-Paper-List](https://github.com/Doragd/Awesome-Paper-List) - A curated list of repositories in which many NLP/CV/ML papers and related area resources are collected.
 - [slowernews/hamster-system](https://github.com/slowernews/hamster-system) - Ultra-simple framework to organize your life.
