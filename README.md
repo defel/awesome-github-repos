@@ -134,7 +134,7 @@
 - [Streampunk/beamcoder](https://github.com/Streampunk/beamcoder) - Node.js native bindings to FFmpeg.
 - [nlohmann/json](https://github.com/nlohmann/json) - JSON for Modern C++
 - [ggerganov/imtui](https://github.com/ggerganov/imtui) - ImTui: Immediate Mode Text-based User Interface C++ Library
-- [taichi-dev/taichi](https://github.com/taichi-dev/taichi) - Productive parallel programming in "Python".
+- [taichi-dev/taichi](https://github.com/taichi-dev/taichi) - Productive & portable high-performance programming in Python.
 - [coqui-ai/STT](https://github.com/coqui-ai/STT) - The deep learning toolkit for Speech-to-Text. Training and deploying STT models has never been so easy.
 - [ArthurSonzogni/FTXUI](https://github.com/ArthurSonzogni/FTXUI) - :computer: C++ Functional Terminal User Interface. :heart:
 - [machinelevel/sp425-crazy-cow](https://github.com/machinelevel/sp425-crazy-cow) - Add crude keyboard-lettering function to eink tablet
