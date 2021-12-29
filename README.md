@@ -1064,6 +1064,7 @@
 
 ## Others 
 
+- [grantcarthew/awesome-unique-id](https://github.com/grantcarthew/awesome-unique-id) - A curated list of awesome Unique IDs
 - [getgrav/awesome-grav](https://github.com/getgrav/awesome-grav) - A curated list of awesome stuff to do with Grav
 - [adrianscheff/useful-sed](https://github.com/adrianscheff/useful-sed) - Useful sed scripts & patterns.
 - [Doragd/Awesome-Paper-List](https://github.com/Doragd/Awesome-Paper-List) - A curated list of repositories in which many NLP/CV/ML papers and related area resources are collected.
@@ -1236,7 +1237,7 @@
 - [pathbird/poetry-kernel](https://github.com/pathbird/poetry-kernel) - Python Jupyter kernel using Poetry for reproducible notebooks
 - [GOATS2K/overpass](https://github.com/GOATS2K/overpass) - A self-hosted streaming platform with Discord authentication, auto-recording and more!
 - [erik/squabble](https://github.com/erik/squabble) - An extensible linter for SQL queries and migrations.
-- [vixrant/python-webrtc-computer-vision](https://github.com/vixrant/python-webrtc-computer-vision) - 𐄳 Attention detection in live video-lectures
+- [vixrant/python-webrtc-computer-vision-demo](https://github.com/vixrant/python-webrtc-computer-vision-demo) - 𐄳 Attention detection in live video-lectures
 - [aiortc/aiortc](https://github.com/aiortc/aiortc) - WebRTC and ORTC implementation for Python using asyncio
 - [tomas-mazak/cdk-dns](https://github.com/tomas-mazak/cdk-dns) - High level AWS CDK constructs for DNS infrastructure in multi-account setups
 - [jiaaro/pydub](https://github.com/jiaaro/pydub) - Manipulate audio with a simple and easy high level interface
