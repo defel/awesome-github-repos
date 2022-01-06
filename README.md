@@ -126,6 +126,7 @@
 
 ## C++ 
 
+- [neutralinojs/neutralinojs](https://github.com/neutralinojs/neutralinojs) - Portable and lightweight cross-platform desktop application development framework
 - [versatica/mediasoup](https://github.com/versatica/mediasoup) - Cutting Edge WebRTC Video Conferencing
 - [Maguines/Bitcoin-v0.1](https://github.com/Maguines/Bitcoin-v0.1) - Original Release of The Bitcoin Source Code (Version 0.1) by Satoshi Nakamoto
 - [weserv/images](https://github.com/weserv/images) - Source code of images.weserv.nl, to be used on your own server(s).
@@ -383,6 +384,7 @@
 
 ## HTML 
 
+- [parkerhendo/figma-interface-language](https://github.com/parkerhendo/figma-interface-language) - A simple DSL for describing interfaces that can be compiled to build a Figma mockup using both existing and new components.
 - [Neufund/ESOP](https://github.com/Neufund/ESOP) - legal and smart contracts framework to implement Employee Stock Options Plan
 - [pballett/whatfreewords](https://github.com/pballett/whatfreewords) - 
 - [andybrewer/mvp](https://github.com/andybrewer/mvp) - MVP.css — Minimalist stylesheet for HTML elements
@@ -476,7 +478,6 @@
 - [iamarkadyt/aws-auth](https://github.com/iamarkadyt/aws-auth) - :fire: AWS authentication CLI with built-in support for MFA, secure credential storage and easy IAM role switching.
 - [zachleat/glyphhanger](https://github.com/zachleat/glyphhanger) - Your web font utility belt. It can subset web fonts. It can find unicode-ranges for you automatically. It makes julienne fries.
 - [pjeby/hot-reload](https://github.com/pjeby/hot-reload) - Automatically reload Obsidian plugins in development when their files are changed
-- [parkerhendo/figma-interface-language](https://github.com/parkerhendo/figma-interface-language) - A simple DSL for describing interfaces that can be compiled to build a Figma mockup using both existing and new components.
 - [xojs/xo](https://github.com/xojs/xo) - ❤️ JavaScript/TypeScript linter (ESLint wrapper) with great defaults
 - [itteco/iframely](https://github.com/itteco/iframely) - oEmbed proxy. Supports over 1800 domains via custom parsers, oEmbed, Twitter Cards and Open Graph
 - [GoogleChromeLabs/critters](https://github.com/GoogleChromeLabs/critters) - 🦔 A Webpack plugin to inline your critical CSS and lazy-load the rest.
@@ -1273,7 +1274,7 @@
 - [mzucker/noteshrink](https://github.com/mzucker/noteshrink) - Convert scans of handwritten notes to beautiful, compact PDFs
 - [tiangolo/typer](https://github.com/tiangolo/typer) - Typer, build great CLIs. Easy to code. Based on Python type hints.
 - [awslabs/aws-data-wrangler](https://github.com/awslabs/aws-data-wrangler) - Pandas on AWS - Easy integration with Athena, Glue, Redshift, Timestream, QuickSight, Chime, CloudWatchLogs, DynamoDB, EMR, SecretManager, PostgreSQL, MySQL, SQLServer and S3 (Parquet, CSV, JSON and EXCEL).
-- [willmcgugan/rich](https://github.com/willmcgugan/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
+- [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [plottertools/hatched](https://github.com/plottertools/hatched) - Convert images to plotter-friendly hatched patterns
 - [abhiTronix/vidgear](https://github.com/abhiTronix/vidgear) - A High-performance cross-platform Video Processing Python framework powerpacked with unique trailblazing features :fire:
 - [benjaminsoellner/quietpaper](https://github.com/benjaminsoellner/quietpaper) - Raspberry-based E-Paper Smart Home Display Project
@@ -1572,7 +1573,7 @@
 - [nodegui/svelte-nodegui](https://github.com/nodegui/svelte-nodegui) - Build performant, native and cross-platform desktop applications with native Svelte + powerful CSS-like styling.🚀
 - [windicss/vite-plugin-windicss](https://github.com/windicss/vite-plugin-windicss) - 🍃 Windi CSS for Vite ⚡️
 - [pmndrs/valtio](https://github.com/pmndrs/valtio) - 💊 Valtio makes proxy-state simple  for React and Vanilla
-- [johannesjo/super-productivity](https://github.com/johannesjo/super-productivity) - To-do list & time tracker for programmers and other digital workers with Jira, Github, and Gitlab integration
+- [johannesjo/super-productivity](https://github.com/johannesjo/super-productivity) - Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, Gitlab, GitHub and Open Project.
 - [seek-oss/treat](https://github.com/seek-oss/treat) - :candy: Themeable, statically extracted CSS‑in‑JS with near‑zero runtime.
 - [prabhuignoto/react-chrono](https://github.com/prabhuignoto/react-chrono) - 🕜 Modern Timeline component for React
 - [awslabs/diagram-maker](https://github.com/awslabs/diagram-maker) - A library to display an interactive editor for any graph-like data.
