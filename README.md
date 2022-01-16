@@ -1028,7 +1028,6 @@
 ## Less 
 
 - [taniarascia/new-moon](https://github.com/taniarascia/new-moon) - 🌙 ‎ The optimized dark theme for web development.
-- [klaussilveira/gitlist](https://github.com/klaussilveira/gitlist) - An elegant and modern git repository viewer
 
 ## LiveScript 
 
@@ -1070,6 +1069,7 @@
 
 ## Others 
 
+- [opsdisk/the_cyber_plumbers_handbook](https://github.com/opsdisk/the_cyber_plumbers_handbook) - Free copy of The Cyber Plumber's Handbook
 - [fikrikarim/companies-with-successful-pivot](https://github.com/fikrikarim/companies-with-successful-pivot) - List of startups/companies that had successful pivots
 - [grantcarthew/awesome-unique-id](https://github.com/grantcarthew/awesome-unique-id) - A curated list of awesome Unique IDs
 - [getgrav/awesome-grav](https://github.com/getgrav/awesome-grav) - A curated list of awesome stuff to do with Grav
@@ -1206,6 +1206,7 @@
 - [zutrinken/Scapegoat](https://github.com/zutrinken/Scapegoat) - Wordpress Theme for Berlin Pirate Party 🚧 Unmaintained
 - [captn3m0/ifttt-webhook](https://github.com/captn3m0/ifttt-webhook) - :recycle: A webhook middleware for the ifttt.com service
 - [niklasvh/php.js](https://github.com/niklasvh/php.js) - PHP to JavaScript converter and VM written in JavaScript
+- [klaussilveira/gitlist](https://github.com/klaussilveira/gitlist) - An elegant and modern git repository viewer
 - [straup/privatesquare](https://github.com/straup/privatesquare) - privatesquare is a simple web application to record and manage a database of foursquare check-ins.
 - [bendodson/phpMyOpenID](https://github.com/bendodson/phpMyOpenID) - phpMyOpenID is a simple to use install routine for the popular phpMyID library which allows you to host your own OpenID server
 - [hybridauth/hybridauth](https://github.com/hybridauth/hybridauth) - Open source social sign on PHP Library. HybridAuth goal is to act as an abstract api between your application and various social apis and identities providers such as Facebook, Twitter and Google.
