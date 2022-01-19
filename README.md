@@ -442,7 +442,7 @@
 - [spring-projects/spring-authorization-server](https://github.com/spring-projects/spring-authorization-server) - The Spring Authorization Server project is focused on delivering OAuth 2.1 Authorization Server support to the Spring community.
 - [JetBrains/skija](https://github.com/JetBrains/skija) - Java bindings for Skia
 - [maciejwalkowiak/reactor-sqs-poc](https://github.com/maciejwalkowiak/reactor-sqs-poc) - Reactor + AWS SQS Proof of Concept
-- [spring-cloud/spring-cloud-aws](https://github.com/spring-cloud/spring-cloud-aws) - All development has moved to https://github.com/awspring/spring-cloud-aws Integration for Amazon Web Services APIs with Spring
+- [spring-attic/spring-cloud-aws](https://github.com/spring-attic/spring-cloud-aws) - All development has moved to https://github.com/awspring/spring-cloud-aws Integration for Amazon Web Services APIs with Spring
 - [networknt/json-schema-validator](https://github.com/networknt/json-schema-validator) - A fast Java JSON schema validator that supports draft V4, V6, V7 and V2019-09
 - [reactive-streams/reactive-streams-jvm](https://github.com/reactive-streams/reactive-streams-jvm) - Reactive Streams Specification for the JVM
 - [graphql-java-kickstart/graphql-spring-boot](https://github.com/graphql-java-kickstart/graphql-spring-boot) - GraphQL and GraphiQL Spring Framework Boot Starters - Forked from oembedler/graphql-spring-boot due to inactivity.
@@ -1411,7 +1411,7 @@
 - [trussed-dev/trussed](https://github.com/trussed-dev/trussed) - Modern Cryptographic Firmware
 - [nerdypepper/dijo](https://github.com/nerdypepper/dijo) - scriptable, curses-based, digital habit tracker
 - [imazen/imageflow](https://github.com/imazen/imageflow) - High-performance image manipulation for web servers. Includes imageflow_server, imageflow_tool, and libimageflow
-- [vectordotdev/vector](https://github.com/vectordotdev/vector) - A reliable, high-performance tool for building observability data pipelines.
+- [vectordotdev/vector](https://github.com/vectordotdev/vector) - A high-performance observability data pipeline.
 - [rome/tools](https://github.com/rome/tools) - The Rome Toolchain. A linter, compiler, bundler, and more for JavaScript, TypeScript, HTML, Markdown, and CSS.
 - [void-rs/void](https://github.com/void-rs/void) - terminal-based personal organizer
 - [Canop/broot](https://github.com/Canop/broot) - A new way to see and navigate directory trees : https://dystroy.org/broot
