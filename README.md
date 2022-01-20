@@ -1007,6 +1007,7 @@
 
 ## Kotlin 
 
+- [darthmachina/obsidian-kotlin-plugin](https://github.com/darthmachina/obsidian-kotlin-plugin) - Base Obsidian plugin written in Kotlin
 - [awslabs/smithy-kotlin](https://github.com/awslabs/smithy-kotlin) - Smithy code generator for Kotlin (in development)
 - [Kotlin/kotlinx-kover](https://github.com/Kotlin/kotlinx-kover) - 
 - [awslabs/aws-sdk-kotlin](https://github.com/awslabs/aws-sdk-kotlin) - Multiplatform AWS SDK for Kotlin
@@ -1525,6 +1526,8 @@
 
 ## TypeScript 
 
+- [TfTHacker/obsidian42-text-transporter](https://github.com/TfTHacker/obsidian42-text-transporter) - Text Transporter - advanced text management for Obsidian. Part of the Obisidan42 family of Obsidian plugins.
+- [tinyplex/tinybase](https://github.com/tinyplex/tinybase) - A tiny, reactive JavaScript library for structured state and tabular data.
 - [jogold/cloudstructs](https://github.com/jogold/cloudstructs) - High-level constructs for AWS CDK
 - [iorate/ublacklist](https://github.com/iorate/ublacklist) - Blocks specific sites from appearing in Google search results
 - [cloudcomponents/cdk-constructs](https://github.com/cloudcomponents/cdk-constructs) - A collection of higher-level reusable cdk constructs
