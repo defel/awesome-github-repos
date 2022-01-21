@@ -468,6 +468,7 @@
 
 ## JavaScript 
 
+- [robvanderleek/create-issue-branch](https://github.com/robvanderleek/create-issue-branch) - GitHub App/Action that automates the creation of issue branches
 - [miroslavpejic85/mirotalk](https://github.com/miroslavpejic85/mirotalk) - 🚀 WebRTC - P2P - Simple, Secure, Fast Real-Time Video Conferences Up to 4k and 60fps, compatible with all browsers and platforms.
 - [miroslavpejic85/mirotalksfu](https://github.com/miroslavpejic85/mirotalksfu) - 🏆 WebRTC - SFU - Secure, Simple, and Scalable Real-Time Video Conferences Up to 4k, compatible with all browsers and platforms.
 - [tailwindlabs/tailwindcss-aspect-ratio](https://github.com/tailwindlabs/tailwindcss-aspect-ratio) - 
@@ -1542,7 +1543,7 @@
 - [atek-cloud/spork](https://github.com/atek-cloud/spork) - [CLI app] Peer-to-peer socket magic in the air
 - [yuanqing/vdx](https://github.com/yuanqing/vdx) - :film_strip: An intuitive CLI for processing video, powered by FFmpeg
 - [cdklabs/aws-delivlib](https://github.com/cdklabs/aws-delivlib) - setup and manage continuous delivery pipelines for code libraries in multiple languages
-- [AriaMinaei/theatre](https://github.com/AriaMinaei/theatre) - Motion design editor for the web
+- [theatre-js/theatre](https://github.com/theatre-js/theatre) - Motion design editor for the web
 - [seeebiii/projen-test](https://github.com/seeebiii/projen-test) - An example project explaining how to create and publish CDK constructs using projen and jsii. It lets you publish your CDK constructs to npm, Maven, NuGet and PyPi.
 - [projen/projen](https://github.com/projen/projen) - A new generation of project generators
 - [jaredpalmer/the-platform](https://github.com/jaredpalmer/the-platform) - Web. Components. 😂
