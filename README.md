@@ -1492,7 +1492,7 @@
 - [ganifladi/blurme](https://github.com/ganifladi/blurme) - Blurme v.1.0 Codename MEH (My Eyes Hurt)
 - [jgonsior/dotfiles](https://github.com/jgonsior/dotfiles) - 
 - [antonlindstrom/passpwn](https://github.com/antonlindstrom/passpwn) - See if your passwords in pass has been breached.
-- [prowler-cloud/prowler](https://github.com/prowler-cloud/prowler) - Prowler is a security tool to perform AWS security best practices assessments, audits, incident response, continuous monitoring, hardening and forensics readiness. It contains more than 200 controls covering CIS, ISO27001, GDPR, HIPAA, SOC2, ENS and other security frameworks.
+- [prowler-cloud/prowler](https://github.com/prowler-cloud/prowler) - Prowler is an Open Source security tool to perform AWS security best practices assessments, audits, incident response, continuous monitoring, hardening and forensics readiness. It contains more than 200 controls covering CIS, PCI-DSS, ISO27001, GDPR, HIPAA, FFIEC, SOC2, AWS FTR, ENS and custom security frameworks.
 - [mozilla/zilla-slab](https://github.com/mozilla/zilla-slab) - Mozilla's Zilla Slab Type Family
 - [k4m4/terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy) - 💥 A curated list of Terminal frameworks, plugins & resources for CLI lovers.
 - [juliangruber/yarn-aliases](https://github.com/juliangruber/yarn-aliases) - Commonly used yarn aliases. Fork for more!
