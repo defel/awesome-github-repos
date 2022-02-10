@@ -471,6 +471,7 @@
 
 ## JavaScript 
 
+- [bunchtogether/vite-plugin-flow](https://github.com/bunchtogether/vite-plugin-flow) - 
 - [jberg/butterchurn](https://github.com/jberg/butterchurn) - Butterchurn is a WebGL implementation of the Milkdrop Visualizer
 - [ctrlplusb/easy-peasy](https://github.com/ctrlplusb/easy-peasy) - Vegetarian friendly state for React
 - [robvanderleek/create-issue-branch](https://github.com/robvanderleek/create-issue-branch) - GitHub App/Action that automates the creation of issue branches
@@ -1249,6 +1250,7 @@
 
 ## Python 
 
+- [arrrrrmin/cloudfront-cognito-auth](https://github.com/arrrrrmin/cloudfront-cognito-auth) - Lambda@edge to secure cloudfront distributions using cognito as IDP in python
 - [keithasaurus/koda](https://github.com/keithasaurus/koda) - Type-safe functional tools for Python.
 - [pyannote/pyannote-audio](https://github.com/pyannote/pyannote-audio) - Neural building blocks for speaker diarization: speech activity detection, speaker change detection, overlapped speech detection, speaker embedding
 - [ploomber/ploomber](https://github.com/ploomber/ploomber) - The fastest ⚡️ way to build data pipelines. Develop iteratively, deploy anywhere. ☁️
