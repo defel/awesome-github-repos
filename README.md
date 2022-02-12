@@ -170,6 +170,7 @@
 
 ## CSS 
 
+- [gitobsidiantutorial/obsidian-tabs](https://github.com/gitobsidiantutorial/obsidian-tabs) - Plugin for tabbed obsidian browsing
 - [tzi/chewing-grid.css](https://github.com/tzi/chewing-grid.css) - A CSS Grid ideal for card listing design like tiles, videos or articles listing. Responsive without media-queries.
 - [jagregory/abrash-black-book](https://github.com/jagregory/abrash-black-book) - Markdown source for Michael Abrash's Graphics Programming Black Book
 - [jaicab/progressiveenhancement](https://github.com/jaicab/progressiveenhancement) - A site for all things progressively enhanced
