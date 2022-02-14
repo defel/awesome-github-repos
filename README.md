@@ -936,7 +936,7 @@
 - [hoodiehq/hoodie](https://github.com/hoodiehq/hoodie) - :dog: The Offline First JavaScript Backend
 - [ternjs/tern](https://github.com/ternjs/tern) - A JavaScript code analyzer for deep, cross-editor language support
 - [segmentio/analytics.js](https://github.com/segmentio/analytics.js) - The hassle-free way to integrate analytics into any web application.
-- [oncletom/crx](https://github.com/oncletom/crx) - A node.js command line app for packing Google Chrome extensions.
+- [thom4parisot/crx](https://github.com/thom4parisot/crx) - A node.js command line app for packing Google Chrome extensions.
 - [baryshev/ect](https://github.com/baryshev/ect) - Fastest JavaScript template engine with embedded CoffeeScript syntax
 - [rvagg/node-worker-farm](https://github.com/rvagg/node-worker-farm) - Distribute processing tasks to child processes with an über-simple API and baked-in durability & custom concurrency options.
 - [nwjs/nw.js](https://github.com/nwjs/nw.js) - Call all Node.js modules directly from DOM/WebWorker and enable a new way of writing applications with all Web technologies.
