@@ -95,7 +95,7 @@
 - [dchest/passwordcheck](https://github.com/dchest/passwordcheck) - Go package passwordcheck is a password and passphrase strength checker based on passwdqc.
 - [lavabit/magma](https://github.com/lavabit/magma) - The magma server daemon, is an encrypted email system with support for SMTP, POP, IMAP, HTTP and MOLTEN,. Additional support for DMTP and DMAP is currently in active development.
 - [leahneukirchen/nq](https://github.com/leahneukirchen/nq) - Unix command line queue utility
-- [aws/s2n-tls](https://github.com/aws/s2n-tls) - s2n : an implementation of the TLS/SSL protocols
+- [aws/s2n-tls](https://github.com/aws/s2n-tls) - An implementation of the TLS/SSL protocols
 - [github/brubeck](https://github.com/github/brubeck) - A Statsd-compatible metrics aggregator
 - [micha/st](https://github.com/micha/st) - suckless.org simple terminal
 - [vstakhov/libucl](https://github.com/vstakhov/libucl) - Universal configuration library parser
@@ -442,6 +442,8 @@
 
 ## Java 
 
+- [gstreamer-java/gst1-java-examples](https://github.com/gstreamer-java/gst1-java-examples) - Repository for examples of using gst1-java-core
+- [jcodec/jcodec](https://github.com/jcodec/jcodec) - JCodec main repo
 - [resilience4j/resilience4j](https://github.com/resilience4j/resilience4j) - Resilience4j is a fault tolerance library designed for Java8 and functional programming
 - [jbangdev/jbang](https://github.com/jbangdev/jbang) - Unleash the power of Java - JBang Lets Students, Educators and Professional Developers create, edit and run self-contained source-only Java programs with unprecedented ease.
 - [spring-projects/spring-authorization-server](https://github.com/spring-projects/spring-authorization-server) - The Spring Authorization Server project is focused on delivering OAuth 2.1 Authorization Server support to the Spring community.
