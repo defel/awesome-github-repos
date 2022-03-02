@@ -1554,6 +1554,7 @@
 
 ## TypeScript 
 
+- [audapolis/audapolis](https://github.com/audapolis/audapolis) - an editor for spoken-word audio with automatic transcription
 - [coddingtonbear/obsidian-csv-table](https://github.com/coddingtonbear/obsidian-csv-table) - Have a CSV file you want to render some or all of the data from?  This plugin allows you to display that data in your obsidian preview.
 - [kcwinner/cdk-appsync-transformer](https://github.com/kcwinner/cdk-appsync-transformer) - AWS Amplify inspired CDK construct for creating directive based AppSync APIs
 - [soketi/soketi](https://github.com/soketi/soketi) - Just another simple, fast, and resilient open-source WebSockets server. 📣
