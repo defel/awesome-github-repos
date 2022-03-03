@@ -271,6 +271,7 @@
 
 ## Go 
 
+- [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
 - [wader/ansisvg](https://github.com/wader/ansisvg) - Convert ANSI to SVG
 - [lnenad/newser](https://github.com/lnenad/newser) - Newser is a simple utility to generate a pdf with you favorite news articles
 - [git-town/git-town](https://github.com/git-town/git-town) - Generic, high-level Git workflow support!
@@ -487,7 +488,7 @@
 - [ctrlplusb/easy-peasy](https://github.com/ctrlplusb/easy-peasy) - Vegetarian friendly state for React
 - [robvanderleek/create-issue-branch](https://github.com/robvanderleek/create-issue-branch) - GitHub App/Action that automates the creation of issue branches
 - [miroslavpejic85/mirotalk](https://github.com/miroslavpejic85/mirotalk) - 🚀 WebRTC - P2P - Simple, Secure, Fast Real-Time Video Conferences Up to 4k and 60fps, compatible with all browsers and platforms.
-- [miroslavpejic85/mirotalksfu](https://github.com/miroslavpejic85/mirotalksfu) - 🏆 WebRTC - SFU - Secure, Simple, Scalable Real-Time Video Conferences Up to 4k, compatible with all browsers and platforms.
+- [miroslavpejic85/mirotalksfu](https://github.com/miroslavpejic85/mirotalksfu) - 🏆 WebRTC - SFU - Simple, Secure, Scalable Real-Time Video Conferences Up to 4k, compatible with all browsers and platforms.
 - [tailwindlabs/tailwindcss-aspect-ratio](https://github.com/tailwindlabs/tailwindcss-aspect-ratio) - 
 - [tuzig/terminal7](https://github.com/tuzig/terminal7) - A Touchable Terminal Emulator & Multiplexer hybrid app
 - [mui/material-ui](https://github.com/mui/material-ui) - MUI Core (formerly Material UI) is the React UI library you always wanted. Follow your own design system, or start with Material Design.
@@ -535,7 +536,7 @@
 - [upgundecha/howtheysre](https://github.com/upgundecha/howtheysre) - A curated collection of publicly available resources on how technology and tech-savvy organizations around the world practice Site Reliability Engineering (SRE)
 - [jxom/curji](https://github.com/jxom/curji) - Turn your website's cursor into an emoji 🙊
 - [estevanmaito/windmill-dashboard-react](https://github.com/estevanmaito/windmill-dashboard-react) - ❄ A multi theme, completely accessible, ready for production dashboard.
-- [crisdosyago/Viewfinder](https://github.com/crisdosyago/Viewfinder) - 📷 ViewFinder - Remote isolated browser API for security, automation visibility and interactivity. Run on our cloud, or bring your own. Full scope double reverse web proxy with multi-tab, mobile-ready browser UI frontend. Plus co-browsing, advanced adaptive streaming, secure document viewing and more! But only in the Pro version. Get Viewfinder today! Secure your document needs and internet, today!
+- [crisdosyago/BrowserBox](https://github.com/crisdosyago/BrowserBox) - 📷 BrowserBox - Remote isolated browser API for security, automation visibility and interactivity. Run on our cloud, or bring your own. Full scope double reverse web proxy with multi-tab, mobile-ready browser UI frontend. Plus co-browsing, advanced adaptive streaming, secure document viewing and more! But only in the Pro version. Get BB today! Secure your document needs and internet, today!
 - [mifi/editly](https://github.com/mifi/editly) - Slick, declarative command line video editing & API
 - [shuding/nextra](https://github.com/shuding/nextra) - The Next.js Static Site Generator
 - [aws/aws-cdk-rfcs](https://github.com/aws/aws-cdk-rfcs) - RFCs for the AWS CDK
