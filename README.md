@@ -440,7 +440,7 @@
 
 ## Haskell 
 
-- [byorgey/swarm](https://github.com/byorgey/swarm) - Resource gathering + programming game
+- [swarm-game/swarm](https://github.com/swarm-game/swarm) - Resource gathering + programming game
 - [github/semantic](https://github.com/github/semantic) - Parsing, analyzing, and comparing source code across many languages
 - [radicle-dev/radicle-alpha](https://github.com/radicle-dev/radicle-alpha) - A peer-to-peer stack for code collaboration
 - [michowski/jsn](https://github.com/michowski/jsn) - An absolutely simple & terse CLI app to manipulate JSON data
@@ -532,7 +532,7 @@
 - [nosir/cleave.js](https://github.com/nosir/cleave.js) - Format input text content when you are typing...
 - [Bogdan-Lyashenko/codecrumbs](https://github.com/Bogdan-Lyashenko/codecrumbs) - Learn, design or document codebase by putting breadcrumbs in source code. Live updates, multi-language support and more.
 - [projectwallace/wallace-cli](https://github.com/projectwallace/wallace-cli) - Pretty CSS analytics on the CLI
-- [google/zx](https://github.com/google/zx) - Replace Bash with JavaScript
+- [google/zx](https://github.com/google/zx) - A tool for writing better scripts 🐚🔥🔥
 - [downshift-js/downshift](https://github.com/downshift-js/downshift) - 🏎 A set of primitives to build simple, flexible, WAI-ARIA compliant React autocomplete, combobox or select dropdown components.
 - [SectorLabs/postcss-inline-class](https://github.com/SectorLabs/postcss-inline-class) - A webpack plugin to inline CSS classes in other CSS classes using postcss
 - [tholman/ascii-morph](https://github.com/tholman/ascii-morph) - Library to animate between two ascii images -
@@ -1091,6 +1091,7 @@
 
 ## Others 
 
+- [Ph055a/OSINT_Collection](https://github.com/Ph055a/OSINT_Collection) - Maintained collection of OSINT related resources. (All Free & Actionable)
 - [tehtbl/awesome-note-taking](https://github.com/tehtbl/awesome-note-taking) - A curated list of awesome note-taking software.
 - [DamZiobro/gstreamerCheatsheet](https://github.com/DamZiobro/gstreamerCheatsheet) - GStreamer pipelines and CLI commands for different GStreamer based features (process MPEG2-TS files, get video from DVB, deinterlace video, capture RTSP stream etc.)
 - [liuzhen03/awesome-video-enhancement](https://github.com/liuzhen03/awesome-video-enhancement) - Paper list for video enhancement, including video super-resolution, interpolation, denoising, deblurring and inpainting.
@@ -1433,7 +1434,7 @@
 - [tkellogg/dura](https://github.com/tkellogg/dura) - You shouldn't ever lose your work if you're using Git
 - [sbdchd/squawk](https://github.com/sbdchd/squawk) - 🐘 linter for PostgreSQL, focused on migrations
 - [postcss-rs/postcss-rs](https://github.com/postcss-rs/postcss-rs) - 🚀 Fast and 100% API compatible postcss replacer, built in Rust
-- [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a syntax-aware diff 🟥🟩
+- [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a diff that understands syntax 🟥🟩
 - [Dusk-Labs/dim](https://github.com/Dusk-Labs/dim) - Dim, a media manager fueled by dark forces.
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
 - [jpochyla/psst](https://github.com/jpochyla/psst) - Fast and multi-platform Spotify client with native GUI
