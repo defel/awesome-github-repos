@@ -533,7 +533,7 @@
 - [nosir/cleave.js](https://github.com/nosir/cleave.js) - Format input text content when you are typing...
 - [Bogdan-Lyashenko/codecrumbs](https://github.com/Bogdan-Lyashenko/codecrumbs) - Learn, design or document codebase by putting breadcrumbs in source code. Live updates, multi-language support and more.
 - [projectwallace/wallace-cli](https://github.com/projectwallace/wallace-cli) - Pretty CSS analytics on the CLI
-- [google/zx](https://github.com/google/zx) - A tool for writing better scripts 🔥🔥🔥
+- [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [downshift-js/downshift](https://github.com/downshift-js/downshift) - 🏎 A set of primitives to build simple, flexible, WAI-ARIA compliant React autocomplete, combobox or select dropdown components.
 - [SectorLabs/postcss-inline-class](https://github.com/SectorLabs/postcss-inline-class) - A webpack plugin to inline CSS classes in other CSS classes using postcss
 - [tholman/ascii-morph](https://github.com/tholman/ascii-morph) - Library to animate between two ascii images -
@@ -616,7 +616,7 @@
 - [shama/testron](https://github.com/shama/testron) - :electric_plug: CI your client side tests with Electron
 - [mafintosh/browser-server](https://github.com/mafintosh/browser-server) - A HTTP "server" in the browser that uses a service worker to allow you to easily send back your own stream of data.
 - [mixn/carbon-now-cli](https://github.com/mixn/carbon-now-cli) - 🎨 Beautiful images of your code — from right inside your terminal.
-- [ungoldman/hyperaxe](https://github.com/ungoldman/hyperaxe) - ⚔️ An enchanted hyperscript weapon.
+- [ungoldman/hyperaxe](https://github.com/ungoldman/hyperaxe) - 🪓 An enchanted hyperscript weapon.
 - [maxogden/cat-lobby](https://github.com/maxogden/cat-lobby) - simple http+sse based lobby server with cat themed room names
 - [mafintosh/pumpify](https://github.com/mafintosh/pumpify) - Combine an array of streams into a single duplex stream using pump and duplexify
 - [klaussinani/taskbook](https://github.com/klaussinani/taskbook) - Tasks, boards & notes for the command-line habitat
@@ -1092,6 +1092,7 @@
 
 ## Others 
 
+- [rothgar/awesome-tuis](https://github.com/rothgar/awesome-tuis) - List of projects that provide terminal user interfaces
 - [Ph055a/OSINT_Collection](https://github.com/Ph055a/OSINT_Collection) - Maintained collection of OSINT related resources. (All Free & Actionable)
 - [tehtbl/awesome-note-taking](https://github.com/tehtbl/awesome-note-taking) - A curated list of awesome note-taking software.
 - [DamZiobro/gstreamerCheatsheet](https://github.com/DamZiobro/gstreamerCheatsheet) - GStreamer pipelines and CLI commands for different GStreamer based features (process MPEG2-TS files, get video from DVB, deinterlace video, capture RTSP stream etc.)
