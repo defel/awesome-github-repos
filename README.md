@@ -326,7 +326,7 @@
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues
 - [markphelps/flipt](https://github.com/markphelps/flipt) - An open-source, on-prem feature flag solution
 - [nomasters/handshake](https://github.com/nomasters/handshake) - a peculiar chat app for strange times
-- [talos-systems/conform](https://github.com/talos-systems/conform) - Policy enforcement for your pipelines.
+- [siderolabs/conform](https://github.com/siderolabs/conform) - Policy enforcement for your pipelines.
 - [blevesearch/bleve](https://github.com/blevesearch/bleve) - A modern text indexing library for go
 - [akarki15/dbdot](https://github.com/akarki15/dbdot) - Generate DOT description for postgres db schema
 - [eranyanay/1m-go-websockets](https://github.com/eranyanay/1m-go-websockets) - handling 1M websockets connections in Go
