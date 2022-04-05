@@ -272,6 +272,7 @@
 
 ## Go 
 
+- [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) - The SSH directory ✨
 - [TomWright/dasel](https://github.com/TomWright/dasel) - Select, put and delete data from JSON, TOML, YAML, XML and CSV files with a single tool. Supports conversion between formats and can be used as a Go package.
 - [esm-dev/esm.sh](https://github.com/esm-dev/esm.sh) - A fast, global content delivery network for ES Modules.
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
@@ -298,7 +299,7 @@
 - [FiloSottile/age](https://github.com/FiloSottile/age) - A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.
 - [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser) - 📂 Web File Browser
 - [johnkerl/miller](https://github.com/johnkerl/miller) - Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON
-- [grafana/agent](https://github.com/grafana/agent) - Prometheus Metrics, Loki Logs, and Tempo Traces, optimized for Grafana Cloud.
+- [grafana/agent](https://github.com/grafana/agent) - Telemetry agent for the LGTM stack.
 - [zettelstore/zettelstore](https://github.com/zettelstore/zettelstore) - This is a mirror of https://zettelstore.de
 - [securitybunker/databunker](https://github.com/securitybunker/databunker) - Secure SDK/vault for personal records/PII built to comply with GDPR
 - [schollz/croc](https://github.com/schollz/croc) - Easily and securely send things from one computer to another :crocodile: :package:
@@ -477,7 +478,7 @@
 - [nathanmarz/storm](https://github.com/nathanmarz/storm) - Distributed and fault-tolerant realtime computation: stream processing, continuous computation, distributed RPC, and more
 - [Drahflow/Utilator](https://github.com/Drahflow/Utilator) - Utilitarian "Todo" Management
 - [pockethub/PocketHub](https://github.com/pockethub/PocketHub) - PocketHub Android App
-- [spring-projects/spring-social-samples](https://github.com/spring-projects/spring-social-samples) - Samples of using Spring Social
+- [spring-attic/spring-social-samples](https://github.com/spring-attic/spring-social-samples) - Samples of using Spring Social
 - [scribejava/scribejava](https://github.com/scribejava/scribejava) - Simple OAuth library for Java
 - [elastic/elasticsearch](https://github.com/elastic/elasticsearch) - Free and Open, Distributed, RESTful Search Engine
 - [colder/phantm](https://github.com/colder/phantm) - Static analysis using data-flow and type inference for PHP applications - Implemented in Scala
