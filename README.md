@@ -1492,6 +1492,7 @@
 
 ## Shell 
 
+- [selfscrum/wardley-maps-book](https://github.com/selfscrum/wardley-maps-book) - You know Simon Wardley's medium posts on his Wardley Mapping technique? This is an AsciiDoc of them, including the german translation
 - [CyberShadow/aconfmgr](https://github.com/CyberShadow/aconfmgr) - A configuration manager for Arch Linux
 - [aws-samples/amazon-sagemaker-notebook-instance-lifecycle-config-samples](https://github.com/aws-samples/amazon-sagemaker-notebook-instance-lifecycle-config-samples) - A collection of sample scripts to customize Amazon SageMaker Notebook Instances using Lifecycle Configurations
 - [dwmkerr/hacker-laws](https://github.com/dwmkerr/hacker-laws) - 💻📖 Laws, Theories, Principles and Patterns that developers will find useful. #hackerlaws
