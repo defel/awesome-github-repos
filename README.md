@@ -486,6 +486,7 @@
 
 ## JavaScript 
 
+- [goldbergyoni/javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices) - 📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (April 2022)
 - [blahah/yunodb](https://github.com/blahah/yunodb) - A portable, persistent, electron-embeddable fulltext search + document store database for node.js
 - [GoogleChromeLabs/css-paint-polyfill](https://github.com/GoogleChromeLabs/css-paint-polyfill) - CSS Custom Paint / Paint Worklet polyfill with special browser optimizations.
 - [GoogleChromeLabs/buffer-backed-object](https://github.com/GoogleChromeLabs/buffer-backed-object) - Buffer-backed objects in JavaScript.
@@ -1289,7 +1290,7 @@
 - [pathbird/poetry-kernel](https://github.com/pathbird/poetry-kernel) - Python Jupyter kernel using Poetry for reproducible notebooks
 - [GOATS2K/overpass](https://github.com/GOATS2K/overpass) - A self-hosted streaming platform with Discord authentication, auto-recording and more!
 - [erik/squabble](https://github.com/erik/squabble) - An extensible linter for SQL queries and migrations.
-- [vixrant/python-webrtc-computer-vision-demo](https://github.com/vixrant/python-webrtc-computer-vision-demo) - 𐄳 Attention detection in live video-lectures
+- [vixrant/py-webrtc-cv-demo](https://github.com/vixrant/py-webrtc-cv-demo) - 𐄳 Attention detection in live video, Python WebRTC and OpenCV demo
 - [aiortc/aiortc](https://github.com/aiortc/aiortc) - WebRTC and ORTC implementation for Python using asyncio
 - [tomas-mazak/cdk-dns](https://github.com/tomas-mazak/cdk-dns) - High level AWS CDK constructs for DNS infrastructure in multi-account setups
 - [jiaaro/pydub](https://github.com/jiaaro/pydub) - Manipulate audio with a simple and easy high level interface
@@ -1730,6 +1731,7 @@
 
 ## Vue 
 
+- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
 - [Kholid060/automa](https://github.com/Kholid060/automa) - A chrome extension for automating your browser by connecting blocks
 - [epicmaxco/vuestic-ui](https://github.com/epicmaxco/vuestic-ui) - Free and Open Source UI Library for Vue 3 🤘
 - [probil/vue-moveable](https://github.com/probil/vue-moveable) - ↔️ ↕️ 🔄  Vue.js wrapper for Moveable
