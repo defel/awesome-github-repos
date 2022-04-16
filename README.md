@@ -1027,6 +1027,7 @@
 
 ## Jupyter Notebook 
 
+- [dcmoura/spyql](https://github.com/dcmoura/spyql) - Query data on the command line with SQL-like SELECTs powered by Python expressions
 - [eleanorlutz/asteroids_atlas_of_space](https://github.com/eleanorlutz/asteroids_atlas_of_space) - Code, data, and instructions for mapping orbits of asteroids in the solar system
 - [marceloprates/prettymaps](https://github.com/marceloprates/prettymaps) - A small set of Python functions to draw pretty maps from OpenStreetMap data. Based on osmnx, matplotlib and shapely libraries.
 - [leandromoreira/digital_video_introduction](https://github.com/leandromoreira/digital_video_introduction) - A hands-on introduction to video technology: image, video, codec (av1, vp9, h265) and more (ffmpeg encoding).
@@ -1277,6 +1278,7 @@
 
 ## Python 
 
+- [httpie/httpie](https://github.com/httpie/httpie) - As easy as /aitch-tee-tee-pie/ 🥧 Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/httpie
 - [cwacek/python-jsonschema-objects](https://github.com/cwacek/python-jsonschema-objects) - Automatic Python binding generation from JSON Schemas
 - [bcwaldon/warlock](https://github.com/bcwaldon/warlock) - 
 - [assetnote/ghostbuster](https://github.com/assetnote/ghostbuster) - Eliminate dangling elastic IPs by performing analysis on your resources within all your AWS accounts.
@@ -1442,6 +1444,7 @@
 
 ## Rust 
 
+- [zesterer/chumsky](https://github.com/zesterer/chumsky) - A parser library for humans with powerful error recovery.
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
 - [PaulJuliusMartinez/jless](https://github.com/PaulJuliusMartinez/jless) - jless is a command-line JSON viewer designed for reading, exploring, and searching through JSON data.
 - [svix/svix-webhooks](https://github.com/svix/svix-webhooks) - The enterprise-ready webhooks service 🦀
