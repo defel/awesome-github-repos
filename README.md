@@ -452,6 +452,7 @@
 
 ## Java 
 
+- [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
 - [queer/utt](https://github.com/queer/utt) - utt is the universal text transformer
 - [gstreamer-java/gst1-java-examples](https://github.com/gstreamer-java/gst1-java-examples) - Repository for examples of using gst1-java-core
 - [jcodec/jcodec](https://github.com/jcodec/jcodec) - JCodec main repo
@@ -1578,6 +1579,9 @@
 
 ## TypeScript 
 
+- [changesets/changesets](https://github.com/changesets/changesets) - 🦋       A way to manage your versioning and changelogs with a focus on monorepos
+- [moltar/projen-turborepo](https://github.com/moltar/projen-turborepo) - Projen project type for Turborepo monorepo setup.
+- [radix-ui/primitives](https://github.com/radix-ui/primitives) - An open-source UI component library for building high-quality, accessible design systems and web apps. Maintained by @modulz.
 - [gvergnaud/ts-pattern](https://github.com/gvergnaud/ts-pattern) - 🎨 The exhaustive Pattern Matching library for TypeScript, with smart type inference.
 - [tajo/ladle](https://github.com/tajo/ladle) - 🥄 Develop, test and document your React story components faster.
 - [nkallen/plasticity](https://github.com/nkallen/plasticity) - 
