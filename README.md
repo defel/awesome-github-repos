@@ -495,7 +495,6 @@
 - [jamesplease/react-composer](https://github.com/jamesplease/react-composer) - Compose render prop components
 - [facebook/lexical](https://github.com/facebook/lexical) - Lexical is an extensible text editor framework that provides excellent reliability, accessibility and performance.
 - [goldbergyoni/javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices) - 📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (April 2022)
-- [tajo/ladle](https://github.com/tajo/ladle) - 🥄 Develop, test and document your React story components faster.
 - [blahah/yunodb](https://github.com/blahah/yunodb) - A portable, persistent, electron-embeddable fulltext search + document store database for node.js
 - [GoogleChromeLabs/css-paint-polyfill](https://github.com/GoogleChromeLabs/css-paint-polyfill) - CSS Custom Paint / Paint Worklet polyfill with special browser optimizations.
 - [GoogleChromeLabs/buffer-backed-object](https://github.com/GoogleChromeLabs/buffer-backed-object) - Buffer-backed objects in JavaScript.
@@ -1608,6 +1607,7 @@
 - [moltar/projen-turborepo](https://github.com/moltar/projen-turborepo) - Projen project type for Turborepo monorepo setup.
 - [radix-ui/primitives](https://github.com/radix-ui/primitives) - An open-source UI component library for building high-quality, accessible design systems and web apps. Maintained by @modulz.
 - [gvergnaud/ts-pattern](https://github.com/gvergnaud/ts-pattern) - 🎨 The exhaustive Pattern Matching library for TypeScript, with smart type inference.
+- [tajo/ladle](https://github.com/tajo/ladle) - 🥄 Develop, test and document your React story components faster.
 - [nkallen/plasticity](https://github.com/nkallen/plasticity) - 
 - [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog provides open-source product analytics that you can self-host.
 - [muxinc/stream.new](https://github.com/muxinc/stream.new) - The repo for https://stream.new
@@ -1689,7 +1689,7 @@
 - [wenyan-lang/wenyan](https://github.com/wenyan-lang/wenyan) - 文言文編程語言 A programming language for the ancient Chinese.
 - [statelyai/xstate](https://github.com/statelyai/xstate) - State machines and statecharts for the modern web.
 - [deniszholob/factorio-cheat-sheet](https://github.com/deniszholob/factorio-cheat-sheet) - Cheat Sheet for Factorio
-- [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - an open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS.
+- [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - an open source note taking and to-do application with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.
 - [Shopify/quilt](https://github.com/Shopify/quilt) - A loosely related set of packages for JavaScript/TypeScript projects at Shopify
 - [naver/egjs-flicking](https://github.com/naver/egjs-flicking) - 🎠 ♻️ Everyday 30 million people experience. It's reliable, flexible and extendable carousel.
 - [akveo/kittenTricks](https://github.com/akveo/kittenTricks) - React Native starter kit with over 40 screens and modern Light and Dark theme for creating stunning cross-platform mobile applications.
