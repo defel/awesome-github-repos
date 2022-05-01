@@ -273,6 +273,7 @@
 
 ## Go 
 
+- [sourcegraph/doctree](https://github.com/sourcegraph/doctree) - First-class library docs tool: supports every language, symbol search, finds usage examples automagically. Based on tree-sitter, runnable standalone or via http://doctree.org
 - [antonmedv/fx](https://github.com/antonmedv/fx) - Terminal JSON viewer
 - [aler9/rtsp-simple-server](https://github.com/aler9/rtsp-simple-server) - ready-to-use RTSP / RTMP / HLS server and proxy that allows to read, publish and proxy video and audio streams
 - [dagger/dagger](https://github.com/dagger/dagger) - A portable devkit for CI/CD pipelines
@@ -491,6 +492,7 @@
 
 ## JavaScript 
 
+- [actualbudget/actual](https://github.com/actualbudget/actual) - A local-first personal finance system
 - [bvaughn/react-virtualized](https://github.com/bvaughn/react-virtualized) - React components for efficiently rendering large lists and tabular data
 - [jamesplease/react-composer](https://github.com/jamesplease/react-composer) - Compose render prop components
 - [facebook/lexical](https://github.com/facebook/lexical) - Lexical is an extensible text editor framework that provides excellent reliability, accessibility and performance.
@@ -1595,6 +1597,8 @@
 
 ## TypeScript 
 
+- [jonelantha/react-responsive-pagination](https://github.com/jonelantha/react-responsive-pagination) - A React pagination component which intelligently renders to the available width
+- [shiftkey/desktop](https://github.com/shiftkey/desktop) - Fork of GitHub Desktop to support various Linux distributions
 - [radix-ui/design-system](https://github.com/radix-ui/design-system) - An extensive design system for building high-quality websites and web apps. Maintained and used by Modulz.
 - [adobe/react-spectrum](https://github.com/adobe/react-spectrum) - A collection of libraries and tools that help you build adaptive, accessible, and robust user experiences.
 - [outline/outline](https://github.com/outline/outline) - The fastest wiki and knowledge base for growing teams. Beautiful, feature rich, and markdown compatible.
