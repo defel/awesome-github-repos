@@ -1294,6 +1294,7 @@
 
 ## Python 
 
+- [kaporzhu/protobuf-to-dict](https://github.com/kaporzhu/protobuf-to-dict) - A small Python library for creating dicts from protocol buffers. Useful as an intermediate step before serialization (e.g. to JSON).
 - [project-alice-assistant/ProjectAlice](https://github.com/project-alice-assistant/ProjectAlice) - Main repository of Project Alice, contains main unit source code
 - [saleor/saleor](https://github.com/saleor/saleor) - A modular, high performance, headless e-commerce platform built with Python, GraphQL, Django, and React.
 - [holoviz/panel](https://github.com/holoviz/panel) - A high-level app and dashboarding solution for Python
@@ -1767,6 +1768,7 @@
 
 ## Vue 
 
+- [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hosted startpage for your server. Easy to use visual editor, status checking, widgets, themes and tons more!
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
 - [Kholid060/automa](https://github.com/Kholid060/automa) - A chrome extension for automating your browser by connecting blocks
 - [epicmaxco/vuestic-ui](https://github.com/epicmaxco/vuestic-ui) - Free and Open Source UI Library for Vue 3 🤘
