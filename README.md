@@ -1604,6 +1604,7 @@
 
 ## TypeScript 
 
+- [seamapi/prefixed-api-key](https://github.com/seamapi/prefixed-api-key) - Module for generating a prefixed API Key
 - [ariakit/ariakit](https://github.com/ariakit/ariakit) - Toolkit for building accessible web apps with React
 - [awslabs/aws-solutions-constructs](https://github.com/awslabs/aws-solutions-constructs) - The AWS Solutions Constructs Library is an open-source extension of the AWS Cloud Development Kit (AWS CDK) that provides multi-service, well-architected patterns for quickly defining solutions
 - [jonelantha/react-responsive-pagination](https://github.com/jonelantha/react-responsive-pagination) - A React pagination component which intelligently renders to the available width
