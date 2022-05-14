@@ -273,6 +273,7 @@
 
 ## Go 
 
+- [fullstorydev/grpcurl](https://github.com/fullstorydev/grpcurl) - Like cURL, but for gRPC: Command-line tool for interacting with gRPC servers
 - [sourcegraph/doctree](https://github.com/sourcegraph/doctree) - First-class library docs tool: supports every language, symbol search, finds usage examples automagically. Based on tree-sitter, runnable standalone or via http://doctree.org
 - [antonmedv/fx](https://github.com/antonmedv/fx) - Terminal JSON viewer
 - [aler9/rtsp-simple-server](https://github.com/aler9/rtsp-simple-server) - ready-to-use RTSP / RTMP / HLS server and proxy that allows to read, publish and proxy video and audio streams
@@ -1111,6 +1112,7 @@
 
 ## Others 
 
+- [djsime1/awesome-flipperzero](https://github.com/djsime1/awesome-flipperzero) - 🐬 A collection of awesome resources for the Flipper Zero device.
 - [mclaeysb/FerrarGIS](https://github.com/mclaeysb/FerrarGIS) - Using QGIS to apply a 1777 style to today's OpenStreetMap data.
 - [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is a blazingly-fast modern Rust based GPU-accelerated terminal built to make you and your team more productive.
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
@@ -1296,6 +1298,8 @@
 
 ## Python 
 
+- [bookwyrm-social/bookwyrm](https://github.com/bookwyrm-social/bookwyrm) - Social reading and reviewing, decentralized with ActivityPub
+- [bashrc2/epicyon](https://github.com/bashrc2/epicyon) - ActivityPub server without Javascript, designed for simplicity and accessibility. Includes calendar, news and sharing economy features to empower your federated community.
 - [kaporzhu/protobuf-to-dict](https://github.com/kaporzhu/protobuf-to-dict) - A small Python library for creating dicts from protocol buffers. Useful as an intermediate step before serialization (e.g. to JSON).
 - [project-alice-assistant/ProjectAlice](https://github.com/project-alice-assistant/ProjectAlice) - Main repository of Project Alice, contains main unit source code
 - [saleor/saleor](https://github.com/saleor/saleor) - A modular, high performance, headless e-commerce platform built with Python, GraphQL, Django, and React.
