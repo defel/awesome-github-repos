@@ -493,6 +493,7 @@
 
 ## JavaScript 
 
+- [blinry/sliderland](https://github.com/blinry/sliderland) - A (very) minimalist creative coding playground. Make animations using only 64 HTML sliders!
 - [thelostword/timeline](https://github.com/thelostword/timeline) - canvas时间轴组件，支持缩放、拖拽、无限滚动
 - [bbc/VideoContext](https://github.com/bbc/VideoContext) - An experimental HTML5 & WebGL video composition and rendering API.
 - [actualbudget/actual](https://github.com/actualbudget/actual) - A local-first personal finance system
@@ -1047,6 +1048,7 @@
 
 ## Kotlin 
 
+- [grpc/grpc-kotlin](https://github.com/grpc/grpc-kotlin) - Kotlin gRPC implementation. HTTP/2 based RPC
 - [Netflix/dgs-framework](https://github.com/Netflix/dgs-framework) - GraphQL for Java with Spring Boot made easy.
 - [darthmachina/obsidian-kotlin-plugin](https://github.com/darthmachina/obsidian-kotlin-plugin) - Base Obsidian plugin written in Kotlin
 - [awslabs/smithy-kotlin](https://github.com/awslabs/smithy-kotlin) - Smithy code generator for Kotlin (in development)
