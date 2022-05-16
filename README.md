@@ -330,7 +330,7 @@
 - [4xoc/uuid](https://github.com/4xoc/uuid) - UUID package with type-specific IDs
 - [hoanhan101/ultimate-go](https://github.com/hoanhan101/ultimate-go) - The Ultimate Go Study Guide
 - [jroimartin/gocui](https://github.com/jroimartin/gocui) - Minimalist Go package aimed at creating Console User Interfaces.
-- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues
+- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues and hard-coded secrets
 - [markphelps/flipt](https://github.com/markphelps/flipt) - An open-source, on-prem feature flag solution
 - [nomasters/handshake](https://github.com/nomasters/handshake) - a peculiar chat app for strange times
 - [siderolabs/conform](https://github.com/siderolabs/conform) - Policy enforcement for your pipelines.
@@ -1300,6 +1300,7 @@
 
 ## Python 
 
+- [dry-python/returns](https://github.com/dry-python/returns) - Make your functions return something meaningful, typed, and safe!
 - [bookwyrm-social/bookwyrm](https://github.com/bookwyrm-social/bookwyrm) - Social reading and reviewing, decentralized with ActivityPub
 - [bashrc2/epicyon](https://github.com/bashrc2/epicyon) - ActivityPub server without Javascript, designed for simplicity and accessibility. Includes calendar, news and sharing economy features to empower your federated community.
 - [kaporzhu/protobuf-to-dict](https://github.com/kaporzhu/protobuf-to-dict) - A small Python library for creating dicts from protocol buffers. Useful as an intermediate step before serialization (e.g. to JSON).
