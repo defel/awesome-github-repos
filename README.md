@@ -493,6 +493,7 @@
 
 ## JavaScript 
 
+- [gesinger/debug-video](https://github.com/gesinger/debug-video) - A debugging tool for HLS and DASH
 - [blinry/sliderland](https://github.com/blinry/sliderland) - A (very) minimalist creative coding playground. Make animations using only 64 HTML sliders!
 - [thelostword/timeline](https://github.com/thelostword/timeline) - canvas时间轴组件，支持缩放、拖拽、无限滚动
 - [bbc/VideoContext](https://github.com/bbc/VideoContext) - An experimental HTML5 & WebGL video composition and rendering API.
@@ -907,12 +908,13 @@
 - [HubSpot/messenger](https://github.com/HubSpot/messenger) - Growl-style alerts and messages for your app. #hubspot-open-source
 - [jimhigson/oboe.js](https://github.com/jimhigson/oboe.js) - A streaming approach to JSON. Oboe.js speeds up web applications by providing parsed objects before the response completes.
 - [cameronmcefee/plax](https://github.com/cameronmcefee/plax) - JQuery powered parallaxing
+- [pyramation/LaTeX2JS](https://github.com/pyramation/LaTeX2JS) - LaTeX web components
 - [node-formidable/formidable](https://github.com/node-formidable/formidable) - The most used, flexible, fast and streaming parser for multipart form data. Supports uploading to serverless environments, AWS S3, Azure, GCP or the filesystem. Used in production.
 - [alabid/flylatex](https://github.com/alabid/flylatex) - FlyLatex: A Realtime Collaborative Environment (with a concurrent editor) in node-js.
 - [conditionizr/conditionizr](https://github.com/conditionizr/conditionizr) - Conditional JavaScript, CSS, callbacks and classNames for environments.
 - [Reportr/dashboard](https://github.com/Reportr/dashboard) - Your life's personal dashboard.
 - [Unitech/angular-bridge](https://github.com/Unitech/angular-bridge) - Link models easily via a REST interface between Mongoose/Node-Express/Angular.js
-- [videojs/video.js](https://github.com/videojs/video.js) - Video.js - open source HTML5 & Flash video player
+- [videojs/video.js](https://github.com/videojs/video.js) - Video.js - open source HTML5 video player
 - [begriffs/css-ratiocinator](https://github.com/begriffs/css-ratiocinator) - because your CSS is garbage
 - [jakutis/httpinvoke](https://github.com/jakutis/httpinvoke) - A no-dependencies HTTP client library for browsers and Node.js with a promise-based or Node.js-style callback-based API to progress events, text and binary file upload and download, partial response b
 - [sintaxi/harp](https://github.com/sintaxi/harp) - Static Site Server/Generator with built-in preprocessing
@@ -1246,7 +1248,6 @@
 - [nzakas/understandinges6](https://github.com/nzakas/understandinges6) - Content for the ebook "Understanding ECMAScript 6"
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [csswizardry/CSS-Guidelines](https://github.com/csswizardry/CSS-Guidelines) - High-level guidelines for writing manageable, maintainable CSS
-- [pyramation/LaTeX2HTML5](https://github.com/pyramation/LaTeX2HTML5) - LaTeX web components
 - [necolas/idiomatic-css](https://github.com/necolas/idiomatic-css) - Principles of writing consistent, idiomatic CSS.
 - [monitoringsucks/tool-repos](https://github.com/monitoringsucks/tool-repos) - Tracking various tools that fit in the monitoring and metrics space
 - [meenie/8bit.js](https://github.com/meenie/8bit.js) - 8Bit.js Audio Library - Write music using 8bit oscillation sounds.
@@ -1781,7 +1782,7 @@
 
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hosted startpage for your server. Easy to use visual editor, status checking, widgets, themes and tons more!
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
-- [Kholid060/automa](https://github.com/Kholid060/automa) - A chrome extension for automating your browser by connecting blocks
+- [AutomaApp/automa](https://github.com/AutomaApp/automa) - A chrome extension for automating your browser by connecting blocks
 - [epicmaxco/vuestic-ui](https://github.com/epicmaxco/vuestic-ui) - Free and Open Source UI Library for Vue 3 🤘
 - [probil/vue-moveable](https://github.com/probil/vue-moveable) - ↔️ ↕️ 🔄  Vue.js wrapper for Moveable
 - [antonreshetov/vue-eva-icons](https://github.com/antonreshetov/vue-eva-icons) - Is a pack of more than 480 beautiful open source Eva icons as Vue components
