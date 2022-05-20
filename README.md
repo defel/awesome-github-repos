@@ -496,7 +496,6 @@
 
 - [gesinger/debug-video](https://github.com/gesinger/debug-video) - A debugging tool for HLS and DASH
 - [blinry/sliderland](https://github.com/blinry/sliderland) - A (very) minimalist creative coding playground. Make animations using only 64 HTML sliders!
-- [thelostword/timeline](https://github.com/thelostword/timeline) - canvas时间轴组件，支持缩放、拖拽、无限滚动
 - [bbc/VideoContext](https://github.com/bbc/VideoContext) - An experimental HTML5 & WebGL video composition and rendering API.
 - [actualbudget/actual](https://github.com/actualbudget/actual) - A local-first personal finance system
 - [bvaughn/react-virtualized](https://github.com/bvaughn/react-virtualized) - React components for efficiently rendering large lists and tabular data
@@ -1615,6 +1614,7 @@
 
 - [primer/react](https://github.com/primer/react) - An implementation of GitHub's Primer Design System using React
 - [seamapi/prefixed-api-key](https://github.com/seamapi/prefixed-api-key) - Module for generating a prefixed API Key
+- [thelostword/timeline](https://github.com/thelostword/timeline) - canvas时间轴组件，支持缩放、拖拽、无限滚动
 - [ariakit/ariakit](https://github.com/ariakit/ariakit) - Toolkit for building accessible web apps with React
 - [awslabs/aws-solutions-constructs](https://github.com/awslabs/aws-solutions-constructs) - The AWS Solutions Constructs Library is an open-source extension of the AWS Cloud Development Kit (AWS CDK) that provides multi-service, well-architected patterns for quickly defining solutions
 - [jonelantha/react-responsive-pagination](https://github.com/jonelantha/react-responsive-pagination) - A React pagination component which intelligently renders to the available width
