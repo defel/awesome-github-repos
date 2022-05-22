@@ -1118,6 +1118,7 @@
 
 ## Others 
 
+- [hng/tech-coops](https://github.com/hng/tech-coops) - A list of tech coops and resources concerning tech coops and worker owned cooperatives in general.
 - [djsime1/awesome-flipperzero](https://github.com/djsime1/awesome-flipperzero) - 🐬 A collection of awesome resources for the Flipper Zero device.
 - [mclaeysb/FerrarGIS](https://github.com/mclaeysb/FerrarGIS) - Using QGIS to apply a 1777 style to today's OpenStreetMap data.
 - [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is a blazingly-fast modern Rust based GPU-accelerated terminal built to make you and your team more productive.
