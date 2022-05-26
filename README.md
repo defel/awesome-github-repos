@@ -467,7 +467,7 @@
 - [jcodec/jcodec](https://github.com/jcodec/jcodec) - JCodec main repo
 - [resilience4j/resilience4j](https://github.com/resilience4j/resilience4j) - Resilience4j is a fault tolerance library designed for Java8 and functional programming
 - [jbangdev/jbang](https://github.com/jbangdev/jbang) - Unleash the power of Java - JBang Lets Students, Educators and Professional Developers create, edit and run self-contained source-only Java programs with unprecedented ease.
-- [spring-projects/spring-authorization-server](https://github.com/spring-projects/spring-authorization-server) - The Spring Authorization Server project is focused on delivering OAuth 2.1 Authorization Server support to the Spring community.
+- [spring-projects/spring-authorization-server](https://github.com/spring-projects/spring-authorization-server) - Spring Authorization Server
 - [JetBrains/skija](https://github.com/JetBrains/skija) - Java bindings for Skia
 - [maciejwalkowiak/reactor-sqs-poc](https://github.com/maciejwalkowiak/reactor-sqs-poc) - Reactor + AWS SQS Proof of Concept
 - [spring-attic/spring-cloud-aws](https://github.com/spring-attic/spring-cloud-aws) - All development has moved to https://github.com/awspring/spring-cloud-aws Integration for Amazon Web Services APIs with Spring
