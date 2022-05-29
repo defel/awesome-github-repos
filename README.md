@@ -10,6 +10,7 @@
 - [C#](#c#)
 - [C++](#c++)
 - [CSS](#css)
+- [CartoCSS](#cartocss)
 - [Clojure](#clojure)
 - [CoffeeScript](#coffeescript)
 - [Common Lisp](#common-lisp)
@@ -201,6 +202,10 @@
 - [typeplate/starter-kit](https://github.com/typeplate/starter-kit) - Typeplate is a “Typographic Starter Kit.” We don’t make aesthetic design choices, but define proper markup with extensible styling for common typographic patterns. A stripped-down Sass library concern
 - [rowanmanning/pigeon](https://github.com/rowanmanning/pigeon) - [UNMAINTAINED] Pigeon is an OOCSS framework for rapid prototyping and building smart, scalable websites.
 
+## CartoCSS 
+
+- [gravitystorm/openstreetmap-carto](https://github.com/gravitystorm/openstreetmap-carto) - A general-purpose OpenStreetMap mapnik style, in CartoCSS
+
 ## Clojure 
 
 - [penpot/penpot](https://github.com/penpot/penpot) - Penpot - The Open-Source design & prototyping platform
@@ -274,7 +279,7 @@
 
 ## Go 
 
-- [livekit/egress](https://github.com/livekit/egress) - Export and recording of WebRTC sessions and tracks
+- [livekit/egress](https://github.com/livekit/egress) - Export and record WebRTC sessions and tracks
 - [livekit/livekit](https://github.com/livekit/livekit) - Scalable, high-performance WebRTC SFU. SDKs in JavaScript, React, React Native, Flutter, Swift, Kotlin, Unity/C#, Go, Ruby and Node.
 - [fullstorydev/grpcurl](https://github.com/fullstorydev/grpcurl) - Like cURL, but for gRPC: Command-line tool for interacting with gRPC servers
 - [sourcegraph/doctree](https://github.com/sourcegraph/doctree) - First-class library documentation for every language (based on tree-sitter), with symbol search & more. Lightweight single binary, run locally or self-host. Surfaces usage examples via Sourcegraph.
@@ -1787,6 +1792,7 @@
 
 ## Vue 
 
+- [ellenhp/headway](https://github.com/ellenhp/headway) - Self-hostable maps stack, powered by OpenStreetMap.
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hosted startpage for your server. Easy to use visual editor, status checking, widgets, themes and tons more!
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
 - [AutomaApp/automa](https://github.com/AutomaApp/automa) - A browser extension for automating your browser by connecting blocks
