@@ -129,6 +129,7 @@
 
 ## C++ 
 
+- [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly) - A modern replacement for Redis and Memcached
 - [alphacep/vosk-api](https://github.com/alphacep/vosk-api) - Offline speech recognition API for Android, iOS, Raspberry Pi and servers with Python, Java, C# and Node
 - [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf) - Protocol Buffers - Google's data interchange format
 - [neutralinojs/neutralinojs](https://github.com/neutralinojs/neutralinojs) - Portable and lightweight cross-platform desktop application development framework
@@ -561,6 +562,7 @@
 - [nosir/cleave.js](https://github.com/nosir/cleave.js) - Format input text content when you are typing...
 - [Bogdan-Lyashenko/codecrumbs](https://github.com/Bogdan-Lyashenko/codecrumbs) - Learn, design or document codebase by putting breadcrumbs in source code. Live updates, multi-language support and more.
 - [projectwallace/wallace-cli](https://github.com/projectwallace/wallace-cli) - Pretty CSS analytics on the CLI
+- [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [downshift-js/downshift](https://github.com/downshift-js/downshift) - 🏎 A set of primitives to build simple, flexible, WAI-ARIA compliant React autocomplete, combobox or select dropdown components.
 - [SectorLabs/postcss-inline-class](https://github.com/SectorLabs/postcss-inline-class) - A webpack plugin to inline CSS classes in other CSS classes using postcss
 - [tholman/ascii-morph](https://github.com/tholman/ascii-morph) - Library to animate between two ascii images -
@@ -1123,7 +1125,7 @@
 
 ## Others 
 
-- [reanalytics-databoutique/webscraping-open-project](https://github.com/reanalytics-databoutique/webscraping-open-project) - Repository of open knowledge about web scraping in Python
+- [reanalytics-databoutique/webscraping-open-project](https://github.com/reanalytics-databoutique/webscraping-open-project) - The web scraping open project repository aims to share knowledge and experiences about web scraping with Python
 - [hng/tech-coops](https://github.com/hng/tech-coops) - A list of tech coops and resources concerning tech coops and worker owned cooperatives in general.
 - [djsime1/awesome-flipperzero](https://github.com/djsime1/awesome-flipperzero) - 🐬 A collection of awesome resources for the Flipper Zero device.
 - [mclaeysb/FerrarGIS](https://github.com/mclaeysb/FerrarGIS) - Using QGIS to apply a 1777 style to today's OpenStreetMap data.
@@ -1699,7 +1701,6 @@
 - [cassiozen/useStateMachine](https://github.com/cassiozen/useStateMachine) - The &lt;1 kb state machine hook for React
 - [mswjs/msw](https://github.com/mswjs/msw) - Seamless REST/GraphQL API mocking library for browser and Node.js.
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Roadmap to becoming a developer in 2022
-- [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [andymatuschak/orbit](https://github.com/andymatuschak/orbit) - Experimental spaced repetition platform for exploring ideas in memory augmentation and programmable attention
 - [replit/clui](https://github.com/replit/clui) - CLUI is a collection of JavaScript libraries for building command-driven interfaces with context-aware autocomplete.
 - [nickpalenchar/goodtimer](https://github.com/nickpalenchar/goodtimer) - A setTimeout/setInterval for Humans (and so much more)
