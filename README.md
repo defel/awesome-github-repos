@@ -1634,7 +1634,7 @@
 - [awslabs/aws-solutions-constructs](https://github.com/awslabs/aws-solutions-constructs) - The AWS Solutions Constructs Library is an open-source extension of the AWS Cloud Development Kit (AWS CDK) that provides multi-service, well-architected patterns for quickly defining solutions
 - [jonelantha/react-responsive-pagination](https://github.com/jonelantha/react-responsive-pagination) - A React pagination component which intelligently renders to the available width
 - [shiftkey/desktop](https://github.com/shiftkey/desktop) - Fork of GitHub Desktop to support various Linux distributions
-- [radix-ui/design-system](https://github.com/radix-ui/design-system) - An extensive design system for building high-quality websites and web apps. Maintained and used by Modulz.
+- [radix-ui/design-system](https://github.com/radix-ui/design-system) - An extensive design system for building high-quality websites and web apps. Maintained and used by @WorkOS.
 - [adobe/react-spectrum](https://github.com/adobe/react-spectrum) - A collection of libraries and tools that help you build adaptive, accessible, and robust user experiences.
 - [outline/outline](https://github.com/outline/outline) - The fastest wiki and knowledge base for growing teams. Beautiful, feature rich, and markdown compatible.
 - [react-pdf-viewer/react-pdf-viewer](https://github.com/react-pdf-viewer/react-pdf-viewer) - A React component to view a PDF document
@@ -1645,7 +1645,7 @@
 - [changesets/action](https://github.com/changesets/action) - 
 - [changesets/changesets](https://github.com/changesets/changesets) - 🦋       A way to manage your versioning and changelogs with a focus on monorepos
 - [moltar/projen-turborepo](https://github.com/moltar/projen-turborepo) - Projen project type for Turborepo monorepo setup.
-- [radix-ui/primitives](https://github.com/radix-ui/primitives) - An open-source UI component library for building high-quality, accessible design systems and web apps. Maintained by @modulz.
+- [radix-ui/primitives](https://github.com/radix-ui/primitives) - An open-source UI component library for building high-quality, accessible design systems and web apps. Maintained by @workos.
 - [gvergnaud/ts-pattern](https://github.com/gvergnaud/ts-pattern) - 🎨 The exhaustive Pattern Matching library for TypeScript, with smart type inference.
 - [tajo/ladle](https://github.com/tajo/ladle) - 🥄 Develop, test and document your React story components faster.
 - [nkallen/plasticity](https://github.com/nkallen/plasticity) - 
