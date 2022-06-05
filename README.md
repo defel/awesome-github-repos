@@ -478,7 +478,7 @@
 - [JetBrains/skija](https://github.com/JetBrains/skija) - Java bindings for Skia
 - [maciejwalkowiak/reactor-sqs-poc](https://github.com/maciejwalkowiak/reactor-sqs-poc) - Reactor + AWS SQS Proof of Concept
 - [spring-attic/spring-cloud-aws](https://github.com/spring-attic/spring-cloud-aws) - All development has moved to https://github.com/awspring/spring-cloud-aws Integration for Amazon Web Services APIs with Spring
-- [networknt/json-schema-validator](https://github.com/networknt/json-schema-validator) - A fast Java JSON schema validator that supports draft V4, V6, V7 and V2019-09
+- [networknt/json-schema-validator](https://github.com/networknt/json-schema-validator) - A fast Java JSON schema validator that supports draft V4, V6, V7, V2019-09 and V2020-12
 - [reactive-streams/reactive-streams-jvm](https://github.com/reactive-streams/reactive-streams-jvm) - Reactive Streams Specification for the JVM
 - [graphql-java-kickstart/graphql-spring-boot](https://github.com/graphql-java-kickstart/graphql-spring-boot) - GraphQL and GraphiQL Spring Framework Boot Starters - Forked from oembedler/graphql-spring-boot due to inactivity.
 - [tabulapdf/tabula-java](https://github.com/tabulapdf/tabula-java) - Extract tables from PDF files
