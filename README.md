@@ -640,6 +640,7 @@
 - [dchest/tweetnacl-js](https://github.com/dchest/tweetnacl-js) - Port of TweetNaCl cryptographic library to JavaScript
 - [glennreyes/graphpack](https://github.com/glennreyes/graphpack) - ☄️ A minimalistic zero-config GraphQL server.
 - [jeffbski/wait-on](https://github.com/jeffbski/wait-on) - wait-on is a cross-platform command line utility and Node.js API which will wait for files, ports, sockets, and http(s) resources to become available
+- [cncf/landscape](https://github.com/cncf/landscape) - 🌄The Cloud Native Interactive Landscape filters and sorts hundreds of projects and products, and shows details including GitHub stars, funding or market cap, first and last commits, contributor counts
 - [kopterio/vue-auth-cognito](https://github.com/kopterio/vue-auth-cognito) - A Vue.js Vuex module for authentication using Amazon AWS Cognito
 - [feross/thanks](https://github.com/feross/thanks) - 🙌 Give thanks to the open source maintainers you depend on! ✨
 - [naturalatlas/tilestrata](https://github.com/naturalatlas/tilestrata) - A pluggable Node.js map tile server.
@@ -1190,7 +1191,6 @@
 - [k88hudson/git-flight-rules](https://github.com/k88hudson/git-flight-rules) - Flight rules for git
 - [maguowei/awesome-stars](https://github.com/maguowei/awesome-stars) - My Awesome List
 - [InterviewMap/CS-Interview-Knowledge-Map](https://github.com/InterviewMap/CS-Interview-Knowledge-Map) - Build the best interview map. The current content includes JS, network, browser related, performance optimization, security, framework, Git, data structure, algorithm, etc.
-- [cncf/landscape](https://github.com/cncf/landscape) - 🌄The Cloud Native Interactive Landscape filters and sorts hundreds of projects and products, and shows details including GitHub stars, funding or market cap, first and last commits, contributor counts
 - [j4p3/strimpack](https://github.com/j4p3/strimpack) - A platform for livestreamers to make a home for their audience.
 - [pzwang/lostweb](https://github.com/pzwang/lostweb) - The Web We Lost, and What Comes Next
 - [ddbeck/readme-checklist](https://github.com/ddbeck/readme-checklist) - A checklist for writing READMEs
@@ -1723,7 +1723,7 @@
 - [hupe1980/react-script-hook](https://github.com/hupe1980/react-script-hook) - React hook to dynamically load an external script and know when its loaded
 - [Urigo/graphql-mesh](https://github.com/Urigo/graphql-mesh) - GraphQL Mesh — Query anything, run anywhere
 - [cdk-patterns/serverless](https://github.com/cdk-patterns/serverless) - This is intended to be a repo containing all of the official AWS Serverless architecture patterns built with CDK for developers to use. All patterns come in Typescript and Python with the exported Clo
-- [tannerlinsley/react-query](https://github.com/tannerlinsley/react-query) - ⚛️ Hooks for fetching, caching and updating asynchronous data in React
+- [TanStack/query](https://github.com/TanStack/query) - 🤖 Powerful asynchronous state management, server-state utilities and data fetching for TS/JS, React, Solid, Svelte and Vue.
 - [nhn/tui.editor](https://github.com/nhn/tui.editor) - 🍞📝 Markdown WYSIWYG Editor. GFM Standard + Chart & UML Extensible.
 - [Figma-Linux/figma-linux](https://github.com/Figma-Linux/figma-linux) - Figma is the first interface design tool based in the browser, making it easier for teams to create software. Join us in https://t.me/figma_linux and https://spectrum.chat/figma-linux
 - [zzarcon/react-cristal](https://github.com/zzarcon/react-cristal) - Beautiful window manager for React
