@@ -355,7 +355,7 @@
 - [gaia-pipeline/gaia](https://github.com/gaia-pipeline/gaia) - Build powerful pipelines in any programming language.
 - [go-jira/jira](https://github.com/go-jira/jira) - simple jira command line client in Go
 - [42wim/matterbridge](https://github.com/42wim/matterbridge) - bridge between mattermost, IRC, gitter, xmpp, slack, discord, telegram, rocketchat, twitch, ssh-chat, zulip, whatsapp, keybase, matrix, microsoft teams, nextcloud, mumble, vk and more with REST API (m
-- [mlabouardy/komiser](https://github.com/mlabouardy/komiser) - :cloud: Cloud Environment Inspector 👮:lock: :moneybag:
+- [mlabouardy/komiser](https://github.com/mlabouardy/komiser) - Cloud Environment Inspector 👮:lock: :moneybag:
 - [erroneousboat/slack-term](https://github.com/erroneousboat/slack-term) - Slack client for your terminal
 - [mozilla/sops](https://github.com/mozilla/sops) - Simple and flexible tool for managing secrets
 - [influxdata/telegraf](https://github.com/influxdata/telegraf) - The plugin-driven server agent for collecting & reporting metrics.
@@ -1160,7 +1160,7 @@
 - [zoupio/spec](https://github.com/zoupio/spec) - a specification for decentralized federated tumblelogs
 - [GorvGoyl/Clone-Wars](https://github.com/GorvGoyl/Clone-Wars) - 100+ open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix, Tiktok, Spotify, Whatsapp, Youtube etc. See source code, demo links, tech stack, github stars.
 - [jeanqasaur/women-in-programming-languages-research](https://github.com/jeanqasaur/women-in-programming-languages-research) - Women in Programming Languages and Software Engineering Research
-- [AndySparks/captains-log](https://github.com/AndySparks/captains-log) - Knowledge and essays. Personal and public.
+- [AndySparks/public-journal](https://github.com/AndySparks/public-journal) - Knowledge and essays. Personal and public.
 - [ksindi/managers-playbook](https://github.com/ksindi/managers-playbook) - :book: Heuristics for effective management
 - [ewasm/design](https://github.com/ewasm/design) - Ewasm Design Overview and Specification
 - [WICG/video-editing](https://github.com/WICG/video-editing) - 
