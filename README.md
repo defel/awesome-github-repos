@@ -10,6 +10,7 @@
 - [C#](#c#)
 - [C++](#c++)
 - [CSS](#css)
+- [CUE](#cue)
 - [CartoCSS](#cartocss)
 - [Clojure](#clojure)
 - [CoffeeScript](#coffeescript)
@@ -203,6 +204,10 @@
 - [typeplate/starter-kit](https://github.com/typeplate/starter-kit) - Typeplate is a “Typographic Starter Kit.” We don’t make aesthetic design choices, but define proper markup with extensible styling for common typographic patterns. A stripped-down Sass library concern
 - [rowanmanning/pigeon](https://github.com/rowanmanning/pigeon) - [UNMAINTAINED] Pigeon is an OOCSS framework for rapid prototyping and building smart, scalable websites.
 
+## CUE 
+
+- [dagger/dagger](https://github.com/dagger/dagger) - A portable devkit for CI/CD pipelines
+
 ## CartoCSS 
 
 - [gravitystorm/openstreetmap-carto](https://github.com/gravitystorm/openstreetmap-carto) - A general-purpose OpenStreetMap mapnik style, in CartoCSS
@@ -287,7 +292,6 @@
 - [sourcegraph/doctree](https://github.com/sourcegraph/doctree) - First-class library documentation for every language (based on tree-sitter), with symbol search & more. Lightweight single binary, run locally or self-host. Surfaces usage examples via Sourcegraph.
 - [antonmedv/fx](https://github.com/antonmedv/fx) - Terminal JSON viewer
 - [aler9/rtsp-simple-server](https://github.com/aler9/rtsp-simple-server) - ready-to-use RTSP / RTMP / LL-HLS server and proxy that allows to read, publish and proxy video and audio streams
-- [dagger/dagger](https://github.com/dagger/dagger) - A portable devkit for CI/CD pipelines
 - [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) - The SSH directory ✨
 - [TomWright/dasel](https://github.com/TomWright/dasel) - Select, put and delete data from JSON, TOML, YAML, XML and CSV files with a single tool. Supports conversion between formats and can be used as a Go package.
 - [esm-dev/esm.sh](https://github.com/esm-dev/esm.sh) - A fast, global content delivery network for ES Modules.
@@ -1801,7 +1805,7 @@
 ## Vue 
 
 - [headwaymaps/headway](https://github.com/headwaymaps/headway) - Self-hostable maps stack, powered by OpenStreetMap.
-- [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hosted startpage for your server. Easy to use visual editor, status checking, widgets, themes and tons more!
+- [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
 - [AutomaApp/automa](https://github.com/AutomaApp/automa) - A browser extension for automating your browser by connecting blocks
 - [epicmaxco/vuestic-ui](https://github.com/epicmaxco/vuestic-ui) - Free and Open Source UI Library for Vue 3 🤘
