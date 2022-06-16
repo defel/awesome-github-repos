@@ -507,6 +507,7 @@
 
 ## JavaScript 
 
+- [typescript-cheatsheets/react](https://github.com/typescript-cheatsheets/react) - Cheatsheets for experienced React developers getting started with TypeScript
 - [advplyr/audiobookshelf](https://github.com/advplyr/audiobookshelf) - Self-hosted audiobook and podcast server
 - [KnowKit/configure-aws-codeartifact](https://github.com/KnowKit/configure-aws-codeartifact) - custom Github Action to use AWS CodeArtifact token in Github Actions Workflow
 - [feross/simple-peer](https://github.com/feross/simple-peer) - 📡 Simple WebRTC video, voice, and data channels
