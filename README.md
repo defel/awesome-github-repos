@@ -360,7 +360,7 @@
 - [go-jira/jira](https://github.com/go-jira/jira) - simple jira command line client in Go
 - [42wim/matterbridge](https://github.com/42wim/matterbridge) - bridge between mattermost, IRC, gitter, xmpp, slack, discord, telegram, rocketchat, twitch, ssh-chat, zulip, whatsapp, keybase, matrix, microsoft teams, nextcloud, mumble, vk and more with REST API (m
 - [mlabouardy/komiser](https://github.com/mlabouardy/komiser) - Cloud Environment Inspector 👮:lock: :moneybag:
-- [erroneousboat/slack-term](https://github.com/erroneousboat/slack-term) - Slack client for your terminal
+- [jpbruinsslot/slack-term](https://github.com/jpbruinsslot/slack-term) - Slack client for your terminal
 - [mozilla/sops](https://github.com/mozilla/sops) - Simple and flexible tool for managing secrets
 - [influxdata/telegraf](https://github.com/influxdata/telegraf) - The plugin-driven server agent for collecting & reporting metrics.
 - [asciimoo/wuzz](https://github.com/asciimoo/wuzz) - Interactive cli tool for HTTP inspection
