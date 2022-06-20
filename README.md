@@ -532,7 +532,6 @@
 - [tuzig/terminal7](https://github.com/tuzig/terminal7) - A Touchable Terminal Emulator & Multiplexer hybrid app
 - [mui/material-ui](https://github.com/mui/material-ui) - MUI Core (formerly Material-UI) is the React UI library you always wanted. Follow your own design system, or start with Material Design.
 - [premasagar/pablo](https://github.com/premasagar/pablo) - Pablo is a lightweight, expressive JavaScript SVG library. Pablo creates interactive drawings with SVG (Scalable Vector Graphics), giving access to all of SVG's granularity and power.
-- [bangle-io/bangle.dev](https://github.com/bangle-io/bangle.dev) - Collection of higher level rich text editing tools. It powers the local only note taking app https://bangle.io
 - [Budibase/budibase](https://github.com/Budibase/budibase) - Budibase is a low-code platform for creating internal apps, workflows, and admin panels in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀
 - [prose/gatekeeper](https://github.com/prose/gatekeeper) - Enables client-side applications to dance OAuth with GitHub.
 - [maddevsio/seo-analyzer](https://github.com/maddevsio/seo-analyzer) - The library for analyze a HTML file to show all of the SEO defects
@@ -1132,6 +1131,7 @@
 
 ## Others 
 
+- [hwayne/awesome-cold-showers](https://github.com/hwayne/awesome-cold-showers) - For when people get too hyped up about things
 - [reanalytics-databoutique/webscraping-open-project](https://github.com/reanalytics-databoutique/webscraping-open-project) - The web scraping open project repository aims to share knowledge and experiences about web scraping with Python
 - [hng/tech-coops](https://github.com/hng/tech-coops) - A list of tech coops and resources concerning tech coops and worker owned cooperatives in general.
 - [djsime1/awesome-flipperzero](https://github.com/djsime1/awesome-flipperzero) - 🐬 A collection of awesome resources for the Flipper Zero device.
@@ -1318,6 +1318,8 @@
 
 ## Python 
 
+- [kraanzu/dooit](https://github.com/kraanzu/dooit) - A TUI todo manager
+- [Florents-Tselai/WarcDB](https://github.com/Florents-Tselai/WarcDB) - WarcDB: Web crawl data as SQLite databases.
 - [faif/python-patterns](https://github.com/faif/python-patterns) - A collection of design patterns/idioms in Python
 - [satwikkansal/wtfpython](https://github.com/satwikkansal/wtfpython) - What the f*ck Python? 😱
 - [flathunters/flathunter](https://github.com/flathunters/flathunter) - TelegramBot that finds flats on immobilienscout24.de, wg-gesucht.de, ebay-kleinanzeigen.de, immowelt.de, idealista.it, subito.it and immobiliare.it
@@ -1671,6 +1673,7 @@
 - [iorate/ublacklist](https://github.com/iorate/ublacklist) - Blocks specific sites from appearing in Google search results
 - [cloudcomponents/cdk-constructs](https://github.com/cloudcomponents/cdk-constructs) - A collection of higher-level reusable cdk constructs
 - [code-hike/codehike](https://github.com/code-hike/codehike) - Marvellous code walkthroughs
+- [bangle-io/bangle.dev](https://github.com/bangle-io/bangle.dev) - Collection of higher level rich text editing tools. It powers the local only note taking app https://bangle.io
 - [cdklabs/cdk-watchful](https://github.com/cdklabs/cdk-watchful) - Watching what's up with your CDK apps since 2019
 - [pahud/cdk-spot-one](https://github.com/pahud/cdk-spot-one) - One spot instance with EIP and defined duration. No interruption.
 - [ritz078/transform](https://github.com/ritz078/transform) - A polyglot web converter.
