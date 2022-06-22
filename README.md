@@ -359,7 +359,6 @@
 - [gaia-pipeline/gaia](https://github.com/gaia-pipeline/gaia) - Build powerful pipelines in any programming language.
 - [go-jira/jira](https://github.com/go-jira/jira) - simple jira command line client in Go
 - [42wim/matterbridge](https://github.com/42wim/matterbridge) - bridge between mattermost, IRC, gitter, xmpp, slack, discord, telegram, rocketchat, twitch, ssh-chat, zulip, whatsapp, keybase, matrix, microsoft teams, nextcloud, mumble, vk and more with REST API (m
-- [mlabouardy/komiser](https://github.com/mlabouardy/komiser) - Cloud Environment Inspector 👮:lock: :moneybag:
 - [jpbruinsslot/slack-term](https://github.com/jpbruinsslot/slack-term) - Slack client for your terminal
 - [mozilla/sops](https://github.com/mozilla/sops) - Simple and flexible tool for managing secrets
 - [influxdata/telegraf](https://github.com/influxdata/telegraf) - The plugin-driven server agent for collecting & reporting metrics.
@@ -1605,7 +1604,7 @@
 - [fukawi2/ffiler](https://github.com/fukawi2/ffiler) - File Filer; sort files into structured directory tree. Tree can be structured based on various designs such as date (file modification time), file hash, file prefix etc
 - [frdmn/docker-mailbox](https://github.com/frdmn/docker-mailbox) - Postfix, Dovecot, Roundcube and ViMbAdmin in a Docker boat
 - [unixorn/awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) - A collection of ZSH frameworks, plugins, themes and tutorials.
-- [demohi/ivm](https://github.com/demohi/ivm) - io.js version management
+- [desenmeng/ivm](https://github.com/desenmeng/ivm) - io.js version management
 - [jmonster/heroku-buildpack-iojs](https://github.com/jmonster/heroku-buildpack-iojs) - A Heroku buildpack for &lt;s&gt;Node&lt;/s&gt;io.js apps.
 - [ninjudd/drip](https://github.com/ninjudd/drip) - Fast JVM launching without the hassle of persistent JVMs.
 - [cattleio/stampede](https://github.com/cattleio/stampede) - Hybrid IaaS/Docker orchestration platform running on CoreOS
@@ -1768,6 +1767,7 @@
 - [prisma-labs/graphqlgen](https://github.com/prisma-labs/graphqlgen) - ⚙️ Generate type-safe resolvers based upon your GraphQL Schema
 - [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap) - The headless editor framework for web artisans.
 - [kusti8/proton-native](https://github.com/kusti8/proton-native) - A React environment for cross platform desktop apps
+- [mlabouardy/komiser](https://github.com/mlabouardy/komiser) - Cloud Environment Inspector 👮:lock: :moneybag:
 - [typeorm/typeorm](https://github.com/typeorm/typeorm) - ORM for TypeScript and JavaScript (ES7, ES6, ES5). Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron
 - [alexa/alexa-skills-kit-sdk-for-nodejs](https://github.com/alexa/alexa-skills-kit-sdk-for-nodejs) - The Alexa Skills Kit SDK for Node.js helps you get a skill up and running quickly, letting you focus on skill logic instead of boilerplate code.
 - [michaelgrosner/tribeca](https://github.com/michaelgrosner/tribeca) - A high frequency, market making cryptocurrency trading platform in node.js
