@@ -166,7 +166,7 @@
 - [Evrytania/LTE-Cell-Scanner](https://github.com/Evrytania/LTE-Cell-Scanner) - LTE SDR cell scanner optimized to work with very low performance RF front ends (8bit A/D, 20dB noise figure)
 - [rvagg/archived-node-libssh](https://github.com/rvagg/archived-node-libssh) - A Low-level Node.js binding for libssh
 - [dogecoin/dogecoin](https://github.com/dogecoin/dogecoin) - very currency
-- [ripple/rippled](https://github.com/ripple/rippled) - Decentralized cryptocurrency blockchain daemon implementing the XRP Ledger in C++
+- [XRPLF/rippled](https://github.com/XRPLF/rippled) - Decentralized cryptocurrency blockchain daemon implementing the XRP Ledger in C++
 - [Mowje/node-cryptopp](https://github.com/Mowje/node-cryptopp) - Node.js static bindings to the Crypto++ library (NOT CURRENTLY MAINTAINED! USE AT YOUR OWN RISK!)
 - [reverbrain/grape](https://github.com/reverbrain/grape) - realtime pipeline processing engine
 - [indutny/vock](https://github.com/indutny/vock) - VoIP on node.js
@@ -1638,6 +1638,7 @@
 
 ## TypeScript 
 
+- [vitest-dev/vitest](https://github.com/vitest-dev/vitest) - A Vite-native test framework. It's fast!
 - [googleapis/release-please](https://github.com/googleapis/release-please) - generate release PRs based on the conventionalcommits.org spec
 - [primer/react](https://github.com/primer/react) - An implementation of GitHub's Primer Design System using React
 - [seamapi/prefixed-api-key](https://github.com/seamapi/prefixed-api-key) - Module for generating a prefixed API Key
