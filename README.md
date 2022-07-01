@@ -1177,7 +1177,7 @@
 - [Bloomberg-Beta/Investment-Documents](https://github.com/Bloomberg-Beta/Investment-Documents) - Bloomberg Beta's Investment Documents for Series Seed, SAFEs, and Notes
 - [duffn/dumb-password-rules](https://github.com/duffn/dumb-password-rules) - Shaming sites with dumb password rules.
 - [othneildrew/Best-README-Template](https://github.com/othneildrew/Best-README-Template) - An awesome README template to jumpstart your projects!
-- [SkullTech/aws-solutions-architect-associate-notes](https://github.com/SkullTech/aws-solutions-architect-associate-notes) - My notes for AWS Solutions Architect Associate.
+- [skulltech/aws-solutions-architect-associate-notes](https://github.com/skulltech/aws-solutions-architect-associate-notes) - My notes for AWS Solutions Architect Associate.
 - [0x4447/0x4447_product_answering_machine](https://github.com/0x4447/0x4447_product_answering_machine) - ☎️ An automated answering machine build on top of Amazon Connect
 - [puresec/awesome-serverless-security](https://github.com/puresec/awesome-serverless-security) - A curated list of awesome serverless security resources such as (e)books, articles, whitepapers, blogs and research papers.
 - [cutenode/1x.engineer](https://github.com/cutenode/1x.engineer) - The official website of 1x Engineers around the world
@@ -1812,6 +1812,7 @@
 
 ## Vue 
 
+- [kochrt/markwhen](https://github.com/kochrt/markwhen) - Make a cascading timeline from markdown-like text. Supports simple American/European date styles, ISO8601, images, links, locations, and more.
 - [headwaymaps/headway](https://github.com/headwaymaps/headway) - Self-hostable maps stack, powered by OpenStreetMap.
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
