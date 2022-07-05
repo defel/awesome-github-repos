@@ -191,7 +191,7 @@
 - [t32k/stylestats](https://github.com/t32k/stylestats) - StyleStats is a library to collect CSS statistics.
 - [mrmrs/pesticide](https://github.com/mrmrs/pesticide) - Kill your css layout bugs
 - [north/north](https://github.com/north/north) - Design and development standards to align and guide your project.
-- [chriskempson/tomorrow-theme](https://github.com/chriskempson/tomorrow-theme) - Tomorrow Theme now lives on at https://github.com/chriskempson/base16
+- [chriskempson/tomorrow-theme](https://github.com/chriskempson/tomorrow-theme) - Tomorrow Theme
 - [madmalik/mononoki](https://github.com/madmalik/mononoki) - a programming typeface
 - [HubSpot/odometer](https://github.com/HubSpot/odometer) - Smoothly transitions numbers with ease. #hubspot-open-source
 - [mozilla/Fira](https://github.com/mozilla/Fira) - Mozilla's new typeface, used in Firefox OS
@@ -472,6 +472,7 @@
 
 ## Java 
 
+- [bottomless-archive-project/library-of-alexandria](https://github.com/bottomless-archive-project/library-of-alexandria) - Library of Alexandria (LoA in short) is a project that aims to collect and archive documents from the internet.
 - [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
 - [queer/utt](https://github.com/queer/utt) - utt is the universal text transformer
 - [gstreamer-java/gst1-java-examples](https://github.com/gstreamer-java/gst1-java-examples) - Repository for examples of using gst1-java-core
@@ -1358,7 +1359,7 @@
 - [python-poetry/poetry](https://github.com/python-poetry/poetry) - Python dependency management and packaging made easy.
 - [bundesAPI/deutschland](https://github.com/bundesAPI/deutschland) - Die wichtigsten APIs Deutschlands in einem Python Paket.
 - [andersju/zzzfoo](https://github.com/andersju/zzzfoo) - Full-text desktop search with Rofi+Recoll
-- [KnowKit/convmoji](https://github.com/KnowKit/convmoji) - A simple cli tool to commit Conventional Commits
+- [alt-meta/convmoji](https://github.com/alt-meta/convmoji) - A simple cli tool to commit Conventional Commits
 - [trailofbits/pip-audit](https://github.com/trailofbits/pip-audit) - Audits Python environments and dependency trees for known vulnerabilities
 - [binxio/aws-cloudwatch-log-minder](https://github.com/binxio/aws-cloudwatch-log-minder) - command line utility and Lambda to maintain AWS Cloudwatch logs
 - [bordaigorl/rmview](https://github.com/bordaigorl/rmview) - A live viewer for reMarkable written in PyQt5
