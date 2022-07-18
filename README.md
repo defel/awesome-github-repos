@@ -440,7 +440,6 @@
 - [jmhobbs/cultofthepartyparrot.com](https://github.com/jmhobbs/cultofthepartyparrot.com) - PARTY OR DIE
 - [google/tacotron](https://github.com/google/tacotron) - Audio samples accompanying publications related to Tacotron, an end-to-end speech synthesis model.
 - [eliangcs/pystock-data](https://github.com/eliangcs/pystock-data) - (UNMAINTAINED) US stock market data since 2009
-- [flov/Hitchlog](https://github.com/flov/Hitchlog) - A Social Network For Hitchhikers
 - [kizu/bemto](https://github.com/kizu/bemto) - Smart mixins for writing BEM in Pug
 - [720kb/angular-fx](https://github.com/720kb/angular-fx) - Angular CSS3 animation directives (ngfx-bounce, ngfx-shake, ngfx-flip, ngfx-pulse and more ...)  https://720kb.github.io/angular-fx
 - [prometheus-junkyard/promdash](https://github.com/prometheus-junkyard/promdash) - Prometheus Dashboard Builder
@@ -1193,7 +1192,7 @@
 - [larahogan/ally-resources](https://github.com/larahogan/ally-resources) - A handful of things that were helpful to me, or that I developed with other allies, while working at Etsy.
 - [mthenw/awesome-layers](https://github.com/mthenw/awesome-layers) - λ A curated list of awesome AWS Lambda Layers. Sponsored by https://cloudash.dev
 - [csabapalfi/awesome-pagespeed-metrics](https://github.com/csabapalfi/awesome-pagespeed-metrics) - ⚡Metrics to help understand page speed and user experience
-- [Mergifyio/mergify](https://github.com/Mergifyio/mergify) - Engine for Mergify
+- [Mergifyio/mergify](https://github.com/Mergifyio/mergify) - Mergify Community Issue Tracker
 - [trimstray/the-practical-linux-hardening-guide](https://github.com/trimstray/the-practical-linux-hardening-guide) - This guide details creating a secure Linux production system. OpenSCAP (C2S/CIS, STIG).
 - [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - A collection of (mostly) technical things every software developer should know about
 - [mtdvio/going-to-production](https://github.com/mtdvio/going-to-production) - A reference checklist for topics which should be covered before going to production.
@@ -1546,6 +1545,7 @@
 - [primer/css](https://github.com/primer/css) - The CSS design system that powers GitHub
 - [slatedocs/slate](https://github.com/slatedocs/slate) - Beautiful static documentation for your API
 - [pop-os/gtk-theme](https://github.com/pop-os/gtk-theme) - System76 Pop GTK+ Theme
+- [flov/Hitchlog](https://github.com/flov/Hitchlog) - A Social Network For Hitchhikers
 - [bradfrost/atomic-design](https://github.com/bradfrost/atomic-design) - The repository for the Atomic Design book
 - [mdo/code-guide](https://github.com/mdo/code-guide) - Standards for developing consistent, flexible, and sustainable HTML and CSS.
 
