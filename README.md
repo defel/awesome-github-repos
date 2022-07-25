@@ -286,6 +286,7 @@
 
 ## Go 
 
+- [maxmunzel/kvass](https://github.com/maxmunzel/kvass) - a personal key-value store
 - [sachaos/viddy](https://github.com/sachaos/viddy) - 👀 A modern watch command. Time machine and pager etc.
 - [adalkiran/webrtc-nuts-and-bolts](https://github.com/adalkiran/webrtc-nuts-and-bolts) - A holistic way of understanding how WebRTC and its protocols run in practice, with code and detailed documentation.
 - [livekit/egress](https://github.com/livekit/egress) - Export and record WebRTC sessions and tracks
@@ -1642,6 +1643,8 @@
 
 ## TypeScript 
 
+- [cloudscape-design/components](https://github.com/cloudscape-design/components) - React components for Cloudscape Design System
+- [chhoumann/PodNotes](https://github.com/chhoumann/PodNotes) - PodNotes is a plugin for Obsidian that helps the user write notes on podcasts.
 - [jon-heard/obsidian-text-expander-js](https://github.com/jon-heard/obsidian-text-expander-js) - Obsidian plugin: Type text shortcuts that expand into javascript generated text.
 - [clauderic/dnd-kit](https://github.com/clauderic/dnd-kit) - The modern, lightweight, performant, accessible and extensible drag & drop toolkit for React.
 - [codemix/deprank](https://github.com/codemix/deprank) - Use PageRank to find the most important files in your codebase.
