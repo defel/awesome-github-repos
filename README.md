@@ -1328,7 +1328,7 @@
 - [Florents-Tselai/WarcDB](https://github.com/Florents-Tselai/WarcDB) - WarcDB: Web crawl data as SQLite databases.
 - [faif/python-patterns](https://github.com/faif/python-patterns) - A collection of design patterns/idioms in Python
 - [satwikkansal/wtfpython](https://github.com/satwikkansal/wtfpython) - What the f*ck Python? 😱
-- [flathunters/flathunter](https://github.com/flathunters/flathunter) - TelegramBot that finds flats on immobilienscout24.de, wg-gesucht.de, ebay-kleinanzeigen.de, immowelt.de, idealista.it, subito.it and immobiliare.it
+- [flathunters/flathunter](https://github.com/flathunters/flathunter) - Bot that finds real-estate rentals on immobilienscout24.de, wg-gesucht.de, ebay-kleinanzeigen.de, immowelt.de, idealista.it, subito.it and immobiliare.it.
 - [dry-python/returns](https://github.com/dry-python/returns) - Make your functions return something meaningful, typed, and safe!
 - [bookwyrm-social/bookwyrm](https://github.com/bookwyrm-social/bookwyrm) - Social reading and reviewing, decentralized with ActivityPub
 - [bashrc2/epicyon](https://github.com/bashrc2/epicyon) - ActivityPub server without Javascript, designed for simplicity and accessibility. Includes calendar, news and sharing economy features to empower your federated community.
