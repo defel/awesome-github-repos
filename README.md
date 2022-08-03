@@ -788,7 +788,7 @@
 - [devinivy/bedwetter](https://github.com/devinivy/bedwetter) - Auto-generated, RESTful, CRUDdy route handlers for Waterline models in hapi
 - [balderdashy/waterline](https://github.com/balderdashy/waterline) - An adapter-based ORM for Node.js  with support for mysql, mongo, postgres, mssql (SQL Server), and more
 - [segment-boneyard/highlight](https://github.com/segment-boneyard/highlight) - A simple, pluggable API for syntax highlighting.
-- [gaslight/angular-schema-form](https://github.com/gaslight/angular-schema-form) - Directives to build forms from json schema
+- [launchscout/angular-schema-form](https://github.com/launchscout/angular-schema-form) - Directives to build forms from json schema
 - [ralphtheninja/mkstack](https://github.com/ralphtheninja/mkstack) - Create and apply your favorite npm stacks.
 - [json-schema-form/angular-schema-form](https://github.com/json-schema-form/angular-schema-form) - Generate forms from a JSON schema, with AngularJS!
 - [github/fetch](https://github.com/github/fetch) - A window.fetch JavaScript polyfill.
@@ -1325,6 +1325,7 @@
 
 ## Python 
 
+- [jaredtrog/cfplot](https://github.com/jaredtrog/cfplot) - A simple tool to generate waterfall graphs of CloudFormation Templates
 - [andreheuer/grocy-create-product](https://github.com/andreheuer/grocy-create-product) - 
 - [tubearchivist/tubearchivist](https://github.com/tubearchivist/tubearchivist) - Your self hosted YouTube media server
 - [kraanzu/dooit](https://github.com/kraanzu/dooit) - A TUI todo manager
@@ -1353,7 +1354,6 @@
 - [pathbird/poetry-kernel](https://github.com/pathbird/poetry-kernel) - Python Jupyter kernel using Poetry for reproducible notebooks
 - [GOATS2K/overpass](https://github.com/GOATS2K/overpass) - A self-hosted streaming platform with Discord authentication, auto-recording and more!
 - [erik/squabble](https://github.com/erik/squabble) - An extensible linter for SQL queries and migrations.
-- [vixrant/py-webrtc-cv-demo](https://github.com/vixrant/py-webrtc-cv-demo) - 𐄳 Attention detection in live video, Python WebRTC and OpenCV demo
 - [aiortc/aiortc](https://github.com/aiortc/aiortc) - WebRTC and ORTC implementation for Python using asyncio
 - [tomas-mazak/cdk-dns](https://github.com/tomas-mazak/cdk-dns) - High level AWS CDK constructs for DNS infrastructure in multi-account setups
 - [jiaaro/pydub](https://github.com/jiaaro/pydub) - Manipulate audio with a simple and easy high level interface
