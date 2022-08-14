@@ -1070,6 +1070,7 @@
 
 ## Kotlin 
 
+- [krzema12/github-actions-kotlin-dsl](https://github.com/krzema12/github-actions-kotlin-dsl) - Authoring GitHub Actions workflows in Kotlin.
 - [grpc/grpc-kotlin](https://github.com/grpc/grpc-kotlin) - Kotlin gRPC implementation. HTTP/2 based RPC
 - [Netflix/dgs-framework](https://github.com/Netflix/dgs-framework) - GraphQL for Java with Spring Boot made easy.
 - [darthmachina/obsidian-kotlin-plugin](https://github.com/darthmachina/obsidian-kotlin-plugin) - Base Obsidian plugin written in Kotlin
@@ -1082,7 +1083,7 @@
 - [eddumelendez/reactor-kotlin-workshop](https://github.com/eddumelendez/reactor-kotlin-workshop) - Hands-On Lab with Reactor and Kotlin
 - [vmadalin/android-modular-architecture](https://github.com/vmadalin/android-modular-architecture) - 📚  Sample Android Components Architecture on a modular word focused on the scalability, testability and maintainability written in Kotlin, following best practices using Jetpack.
 - [pjagielski/punkt](https://github.com/pjagielski/punkt) - Live coding music library/environment for Kotlin
-- [joreilly/PeopleInSpace](https://github.com/joreilly/PeopleInSpace) - Minimal Kotlin Multiplatform project with SwiftUI, Jetpack Compose, Wear Compose, Compose for Desktop, Compose for Web and Kotlin/JS + React clients along with Ktor backend.
+- [joreilly/PeopleInSpace](https://github.com/joreilly/PeopleInSpace) - Kotlin Multiplatform project with SwiftUI, Jetpack Compose, Wear Compose, Compose for Desktop, Compose for Web and Kotlin/JS + React clients along with Ktor backend.
 - [ivan-moto/30-seconds-of-kotlin](https://github.com/ivan-moto/30-seconds-of-kotlin) - Kotlin snippets that you can understand quickly, using only stdlib functionality.
 - [marcoferrer/kroto-plus](https://github.com/marcoferrer/kroto-plus) - gRPC Kotlin Coroutines, Protobuf DSL, Scripting for Protoc
 - [raharrison/kotlin-ktor-exposed-starter](https://github.com/raharrison/kotlin-ktor-exposed-starter) - Starter RESTful service with websocket notifications using Kotlin, Ktor and Exposed with H2, HikariCP and FlyWay
@@ -1325,6 +1326,7 @@
 
 ## Python 
 
+- [toluaina/pgsync](https://github.com/toluaina/pgsync) - Postgres to elasticsearch sync
 - [kizniche/Mycodo](https://github.com/kizniche/Mycodo) - An environmental monitoring and regulation system
 - [jaredtrog/cfplot](https://github.com/jaredtrog/cfplot) - A simple tool to generate waterfall graphs of CloudFormation Templates
 - [andreheuer/grocy-create-product](https://github.com/andreheuer/grocy-create-product) - 
