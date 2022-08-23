@@ -508,6 +508,9 @@
 
 ## JavaScript 
 
+- [garysieling/transcript-alignment](https://github.com/garysieling/transcript-alignment) - Map closed captions to transcripts with Smith-Waterman alignment
+- [EthanRutherford/fast-fuzzy](https://github.com/EthanRutherford/fast-fuzzy) - Fast fuzzy search utility
+- [ffmpegwasm/ffmpeg.wasm](https://github.com/ffmpegwasm/ffmpeg.wasm) - FFmpeg for browser and node, powered by WebAssembly
 - [cloudflare/cloudflare.design](https://github.com/cloudflare/cloudflare.design) - 
 - [gfodor/p2pcf](https://github.com/gfodor/p2pcf) - Low cost, low effort P2P WebRTC serverless signalling using Cloudflare Workers
 - [typescript-cheatsheets/react](https://github.com/typescript-cheatsheets/react) - Cheatsheets for experienced React developers getting started with TypeScript
