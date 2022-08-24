@@ -1331,6 +1331,7 @@
 
 ## Python 
 
+- [deter0/xborder](https://github.com/deter0/xborder) - Active window border replacement for window managers.
 - [toluaina/pgsync](https://github.com/toluaina/pgsync) - Postgres to elasticsearch sync
 - [kizniche/Mycodo](https://github.com/kizniche/Mycodo) - An environmental monitoring and regulation system
 - [jaredtrog/cfplot](https://github.com/jaredtrog/cfplot) - A simple tool to generate waterfall graphs of CloudFormation Templates
@@ -1719,7 +1720,7 @@
 - [steveruizok/perfect-arrows](https://github.com/steveruizok/perfect-arrows) - Draw perfect arrows between points and shapes.
 - [roshan8/slo-tracker](https://github.com/roshan8/slo-tracker) - A tool to track SLA, SLO and Error budgets
 - [timc1/kbar](https://github.com/timc1/kbar) - fast, portable, and extensible cmd+k interface for your site
-- [exhibitionist-digital/ultra](https://github.com/exhibitionist-digital/ultra) - 💎 Modern Streaming SSR React Framework in Deno
+- [exhibitionist-digital/ultra](https://github.com/exhibitionist-digital/ultra) - 💎 Next-gen browser/server fluid React framework
 - [basarat/typescript-book](https://github.com/basarat/typescript-book) - :books: The definitive guide to TypeScript and possibly the best TypeScript book :book:. Free and Open Source 🌹
 - [elthrasher/cdk-dynamo-lambda-loader](https://github.com/elthrasher/cdk-dynamo-lambda-loader) - 
 - [sveltejs/svelte](https://github.com/sveltejs/svelte) - Cybernetically enhanced web apps
