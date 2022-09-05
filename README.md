@@ -153,7 +153,7 @@
 - [neuro-sys/tumblr-likes-downloader](https://github.com/neuro-sys/tumblr-likes-downloader) - Download Tumblr posts that you liked
 - [NixOS/nix](https://github.com/NixOS/nix) - Nix, the purely functional package manager
 - [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a free analytics DBMS for big data
-- [OpenGenus/cosmos](https://github.com/OpenGenus/cosmos) - Hacktoberfest 2021 | World's largest Contributor driven code dataset | Algorithms that run our universe | Your personal library of every algorithm and data structure code that you will ever encounter 
+- [OpenGenus/cosmos](https://github.com/OpenGenus/cosmos) - Hacktoberfest 2022 coming | World's largest Contributor driven code dataset | Algorithms that run our universe | Your personal library of every algorithm and data structure code that you will ever enc
 - [nginnever/zogminer](https://github.com/nginnever/zogminer) - an OpenCL Zcash GPU miner
 - [Ankoku/df-webfort](https://github.com/Ankoku/df-webfort) - Web Fortress
 - [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
