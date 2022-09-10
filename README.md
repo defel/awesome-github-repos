@@ -472,6 +472,7 @@
 
 ## Java 
 
+- [vespa-engine/vespa](https://github.com/vespa-engine/vespa) - The open big data serving engine. https://vespa.ai
 - [bottomless-archive-project/library-of-alexandria](https://github.com/bottomless-archive-project/library-of-alexandria) - Library of Alexandria (LoA in short) is a project that aims to collect and archive documents from the internet.
 - [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
 - [queer/utt](https://github.com/queer/utt) - utt is the universal text transformer
@@ -939,7 +940,7 @@
 - [videojs/video.js](https://github.com/videojs/video.js) - Video.js - open source HTML5 video player
 - [begriffs/css-ratiocinator](https://github.com/begriffs/css-ratiocinator) - because your CSS is garbage
 - [jakutis/httpinvoke](https://github.com/jakutis/httpinvoke) - A no-dependencies HTTP client library for browsers and Node.js with a promise-based or Node.js-style callback-based API to progress events, text and binary file upload and download, partial response b
-- [sintaxi/harp](https://github.com/sintaxi/harp) - Static Site Server/Generator with built-in preprocessing
+- [sintaxi/harp](https://github.com/sintaxi/harp) - Static Web Server/Generator/Bundler
 - [share/sharedb](https://github.com/share/sharedb) - Realtime database backend based on Operational Transformation (OT)
 - [tj/consolidate.js](https://github.com/tj/consolidate.js) - Template engine consolidation library for node.js
 - [shelljs/shelljs](https://github.com/shelljs/shelljs) - :shell: Portable Unix shell commands for Node.js
@@ -1411,7 +1412,7 @@
 - [CorentinJ/Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) - Clone a voice in 5 seconds to generate arbitrary speech in real-time
 - [andresriancho/enumerate-iam](https://github.com/andresriancho/enumerate-iam) - Enumerate the permissions associated with AWS credential set
 - [luoliyan/chinese-support-redux](https://github.com/luoliyan/chinese-support-redux) - Anki add-on providing support for Chinese study
-- [edgedb/edgedb](https://github.com/edgedb/edgedb) - A next-generation graph-relational database.
+- [edgedb/edgedb](https://github.com/edgedb/edgedb) - A graph-relational database with declarative schema, built-in migration system, and a next-generation query language
 - [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature-rich, GPU based terminal
 - [lyft/cartography](https://github.com/lyft/cartography) - Cartography is a Python tool that consolidates infrastructure assets and the relationships between them in an intuitive graph view powered by a Neo4j database.
 - [dowjones/hammer](https://github.com/dowjones/hammer) - Dow Jones Hammer : Protect the cloud with the power of the cloud(AWS)
