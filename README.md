@@ -284,6 +284,7 @@
 
 ## Go 
 
+- [ContainerSSH/ContainerSSH](https://github.com/ContainerSSH/ContainerSSH) - ContainerSSH: Launch containers on demand
 - [nathants/git-remote-aws](https://github.com/nathants/git-remote-aws) - encrypted git hosting should be easy
 - [maxmunzel/kvass](https://github.com/maxmunzel/kvass) - a personal key-value store
 - [sachaos/viddy](https://github.com/sachaos/viddy) - 👀 A modern watch command. Time machine and pager etc.
