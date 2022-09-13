@@ -426,7 +426,7 @@
 - [parkerhendo/figma-interface-language](https://github.com/parkerhendo/figma-interface-language) - A simple DSL for describing interfaces that can be compiled to build a Figma mockup using both existing and new components.
 - [Neufund/ESOP](https://github.com/Neufund/ESOP) - legal and smart contracts framework to implement Employee Stock Options Plan
 - [pballett/whatfreewords](https://github.com/pballett/whatfreewords) - 
-- [andybrewer/mvp](https://github.com/andybrewer/mvp) - MVP.css — Minimalist stylesheet for HTML elements
+- [andybrewer/mvp](https://github.com/andybrewer/mvp) - MVP.css — Minimalist classless CSS stylesheet for HTML elements
 - [WebReflection/hyperHTML](https://github.com/WebReflection/hyperHTML) - A Fast & Light Virtual DOM Alternative
 - [cryptoanarchywiki/cryptoanarchywiki.github.io](https://github.com/cryptoanarchywiki/cryptoanarchywiki.github.io) - Encryption, digital money, anonymous networks, digital pseudonyms, zero knowledge, reputations, information markets, black markets, collapse of governments. - Timothy C. May
 - [hundredrabbits/100r.co](https://github.com/hundredrabbits/100r.co) - Official Website
