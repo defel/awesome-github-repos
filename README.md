@@ -806,7 +806,6 @@
 - [gorescript/gorescript](https://github.com/gorescript/gorescript) - Retro first-person shooter, written in JavaScript using three.js.
 - [arcanis/ohui](https://github.com/arcanis/ohui) - Javascript curses library
 - [yaronn/GifW00t](https://github.com/yaronn/GifW00t) - A pure javascript web recorder
-- [substack/node-transfuse](https://github.com/substack/node-transfuse) - streaming JSON transformer
 - [HelloZeroNet/ZeroNet](https://github.com/HelloZeroNet/ZeroNet) - ZeroNet - Decentralized websites using Bitcoin crypto and BitTorrent network
 - [json-schema-faker/json-schema-faker](https://github.com/json-schema-faker/json-schema-faker) - JSON-Schema + fake data generators
 - [bebraw/schema2object](https://github.com/bebraw/schema2object) - Generate random objects based on JSON Schema (MIT)
@@ -920,7 +919,6 @@
 - [toddmotto/echo](https://github.com/toddmotto/echo) - Lazy-loading images with data-* attributes
 - [cschwarz/nsm](https://github.com/cschwarz/nsm) - A service manager for node
 - [frictionlessdata/dpm-js](https://github.com/frictionlessdata/dpm-js) - [DEPRECATED] Please use https://datahub.io/docs/features/data-cli
-- [substack/wit](https://github.com/substack/wit) - command-line wifi manager for linux
 - [floriangrundig/karma-remote-reporter](https://github.com/floriangrundig/karma-remote-reporter) - Karma plugin which enables test reporting via tcp to a remote server.
 - [tantaman/LargeLocalStorage](https://github.com/tantaman/LargeLocalStorage) - Problem: You need to store a large amount of key-value based data in IE, Chrome, Safari, AND Firefox
 - [riot/riot](https://github.com/riot/riot) - Simple and elegant component-based UI library
@@ -969,7 +967,6 @@
 - [bcle/fuse4js](https://github.com/bcle/fuse4js) - FUSE bindings for Javascript and node.js
 - [jakiestfu/Medium.js](https://github.com/jakiestfu/Medium.js) - A tiny JavaScript library for making contenteditable beautiful (Like Medium's editor)
 - [ractivejs/ractive](https://github.com/ractivejs/ractive) - Next-generation DOM manipulation
-- [substack/level-assoc](https://github.com/substack/level-assoc) - relational foreign key associations (hasMany, belongsTo) for leveldb
 - [fdietz/recipes-with-angular-js-examples](https://github.com/fdietz/recipes-with-angular-js-examples) - Recipes with Angular.js
 - [nrstott/bogart](https://github.com/nrstott/bogart) - Fast, Sinatra-Inspired JavaScript Framework running on JSGI with Node.JS!
 - [clipperz/password-manager](https://github.com/clipperz/password-manager) - Clipperz is an online vault and password manager that knows nothing about you and your data.  Everything you submit is locally encrypted by your browser before being uploaded to Clipperz. The encrypti
@@ -1006,7 +1003,6 @@
 - [nodejitsu/haibu](https://github.com/nodejitsu/haibu) - [Deprecated] a node.js application server - spawn your own node.js clouds, on your own hardware
 - [nodejitsu/require-analyzer](https://github.com/nodejitsu/require-analyzer) - Determine the set of requirements for a given node.js file, directory tree, or module
 - [imakewebthings/waypoints](https://github.com/imakewebthings/waypoints) - Waypoints is a library that makes it easy to execute a function whenever you scroll to an element.
-- [substack/node-hat](https://github.com/substack/node-hat) - Generate random IDs and avoid collisions.
 - [kainosnoema/jim](https://github.com/kainosnoema/jim) - Simple webhook server
 - [marcojetson/jquery-notification](https://github.com/marcojetson/jquery-notification) - 
 - [jdotjdot/CouchQueue](https://github.com/jdotjdot/CouchQueue) - CouchQueue is a module that enables queuing systems to be built out of CouchDB databases.
@@ -1017,7 +1013,6 @@
 - [bower/bower](https://github.com/bower/bower) - A package manager for the web
 - [natefaubion/matches.js](https://github.com/natefaubion/matches.js) - Powerful pattern matching for Javascript
 - [TradeMe/bootup.js](https://github.com/TradeMe/bootup.js) - Cache and load static files from local storage.
-- [substack/stream-handbook](https://github.com/substack/stream-handbook) - how to write node programs with streams
 - [openstreetmap/iD](https://github.com/openstreetmap/iD) - 🆔 The easy-to-use OpenStreetMap editor in JavaScript.
 - [imsky/holder](https://github.com/imsky/holder) - :city_sunrise: Client-side image placeholders.
 - [HabitRPG/habitica](https://github.com/HabitRPG/habitica) - A habit tracker app which treats your goals like a Role Playing Game.
