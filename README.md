@@ -1330,6 +1330,7 @@
 
 ## Python 
 
+- [mtkennerly/poetry-dynamic-versioning](https://github.com/mtkennerly/poetry-dynamic-versioning) - Plugin for Poetry to enable dynamic versioning based on VCS tags
 - [Miksus/rocketry](https://github.com/Miksus/rocketry) - Modern scheduling library for Python
 - [nat-n/poethepoet](https://github.com/nat-n/poethepoet) - A task runner that works well with poetry.
 - [PyFPDF/fpdf2](https://github.com/PyFPDF/fpdf2) - Simple PDF generation for Python
