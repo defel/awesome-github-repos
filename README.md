@@ -152,7 +152,7 @@
 - [neuro-sys/tumblr-likes-downloader](https://github.com/neuro-sys/tumblr-likes-downloader) - Download Tumblr posts that you liked
 - [NixOS/nix](https://github.com/NixOS/nix) - Nix, the purely functional package manager
 - [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a free analytics DBMS for big data
-- [OpenGenus/cosmos](https://github.com/OpenGenus/cosmos) - Hacktoberfest 2022 coming | World's largest Contributor driven code dataset | Algorithms that run our universe | Your personal library of every algorithm and data structure code that you will ever enc
+- [OpenGenus/cosmos](https://github.com/OpenGenus/cosmos) - Hacktoberfest 2022 | World's largest Contributor driven code dataset | Algorithms that run our universe | Your personal library of every algorithm and data structure code that you will ever encounter 
 - [nginnever/zogminer](https://github.com/nginnever/zogminer) - an OpenCL Zcash GPU miner
 - [Ankoku/df-webfort](https://github.com/Ankoku/df-webfort) - Web Fortress
 - [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
@@ -1334,6 +1334,7 @@
 
 ## Python 
 
+- [CadQuery/cadquery](https://github.com/CadQuery/cadquery) - A python parametric CAD scripting framework based on OCCT
 - [sdispater/pendulum](https://github.com/sdispater/pendulum) - Python datetimes made easy
 - [mtkennerly/poetry-dynamic-versioning](https://github.com/mtkennerly/poetry-dynamic-versioning) - Plugin for Poetry to enable dynamic versioning based on VCS tags
 - [Miksus/rocketry](https://github.com/Miksus/rocketry) - Modern scheduling library for Python
