@@ -510,6 +510,7 @@
 
 ## JavaScript 
 
+- [depcheck/depcheck](https://github.com/depcheck/depcheck) - Check your npm module for unused dependencies
 - [designsystemsinternational/mechanic](https://github.com/designsystemsinternational/mechanic) - Mechanic is a framework to build assets built on web code.
 - [naptha/tesseract.js](https://github.com/naptha/tesseract.js) - Pure Javascript OCR for more than 100 Languages 📖🎉🖥
 - [garysieling/transcript-alignment](https://github.com/garysieling/transcript-alignment) - Map closed captions to transcripts with Smith-Waterman alignment
