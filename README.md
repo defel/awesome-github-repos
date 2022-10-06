@@ -1531,7 +1531,7 @@
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - Open source virtual / remote desktop infrastructure for everyone! The open source TeamViewer alternative. Display and control your PC and Android devices from anywhere at anytime.
 - [izderadicka/audioserve](https://github.com/izderadicka/audioserve) - Simple personal server to serve audiofiles files from folders.  Intended primarily for audio books, but anything with decent folder structure will do.
 - [zoeyfyi/Boop-GTK](https://github.com/zoeyfyi/Boop-GTK) - Port of @IvanMathy's Boop to GTK, a scriptable scratchpad for developers.
-- [LemmyNet/lemmy](https://github.com/LemmyNet/lemmy) - 🐀 Building a federated link aggregator in rust
+- [LemmyNet/lemmy](https://github.com/LemmyNet/lemmy) - 🐀 A link aggregator and forum for the fediverse
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [zesterer/chumsky](https://github.com/zesterer/chumsky) - A parser library for humans with powerful error recovery.
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
@@ -1668,6 +1668,7 @@
 
 ## TypeScript 
 
+- [maxwellpeterson/kafka-worker](https://github.com/maxwellpeterson/kafka-worker) - Kafka 0.8.0 broker implementation on top of Cloudflare Workers
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source APM. It helps developers monitor their applications & troubleshoot problems, an open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open source Application Performanc
 - [erxes/erxes](https://github.com/erxes/erxes) - The open-source Hubspot alternative enables SaaS providers and digital marketing agencies/developers to create unique experiences for their entire business.
 - [steven-tey/dub](https://github.com/steven-tey/dub) - An open-source link shortener with built-in analytics + free custom domains.
