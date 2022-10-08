@@ -38,7 +38,6 @@
 - [Nix](#nix)
 - [Nunjucks](#nunjucks)
 - [OCaml](#ocaml)
-- [Objective-C](#objective-c)
 - [Others](#others)
 - [PHP](#php)
 - [Perl](#perl)
@@ -85,6 +84,7 @@
 - [blblapco/xmcp](https://github.com/blblapco/xmcp) - Universal Color Picker.
 - [woltapp/blurhash](https://github.com/woltapp/blurhash) - A very compact representation of a placeholder for an image.
 - [MobilityDB/MobilityDB](https://github.com/MobilityDB/MobilityDB) - MobilityDB is a geospatial trajectory data management & analysis platform, built on PostgreSQL and PostGIS.
+- [ImVexed/muon](https://github.com/ImVexed/muon) - GPU based Electron on a diet
 - [zv/9Problems](https://github.com/zv/9Problems) - A Tiling Window Manager for Plan9
 - [openvenues/libpostal](https://github.com/openvenues/libpostal) - A C library for parsing/normalizing street addresses around the world. Powered by statistical NLP and open geo data.
 - [mbionchi/telnet-site](https://github.com/mbionchi/telnet-site) - 
@@ -136,6 +136,7 @@
 - [Maguines/Bitcoin-v0.1](https://github.com/Maguines/Bitcoin-v0.1) - Original Release of The Bitcoin Source Code (Version 0.1) by Satoshi Nakamoto
 - [weserv/images](https://github.com/weserv/images) - Source code of images.weserv.nl, to be used on your own server(s).
 - [axiomatic-systems/Bento4](https://github.com/axiomatic-systems/Bento4) - Full-featured MP4 format, MPEG DASH, HLS, CMAF SDK and tools
+- [expo/expo](https://github.com/expo/expo) - An open-source platform for making universal native apps with React. Expo runs on Android, iOS, and the web.
 - [typesense/typesense](https://github.com/typesense/typesense) - Open Source alternative to Algolia and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences
 - [Streampunk/beamcoder](https://github.com/Streampunk/beamcoder) - Node.js native bindings to FFmpeg.
 - [nlohmann/json](https://github.com/nlohmann/json) - JSON for Modern C++
@@ -342,7 +343,6 @@
 - [jenkins-x/lighthouse](https://github.com/jenkins-x/lighthouse) - 
 - [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool
 - [4xoc/monban](https://github.com/4xoc/monban) - User and Group Membership Management for LDAP
-- [ImVexed/muon](https://github.com/ImVexed/muon) - GPU based Electron on a diet
 - [facette/facette](https://github.com/facette/facette) - Time series data visualization software
 - [4xoc/uuid](https://github.com/4xoc/uuid) - UUID package with type-specific IDs
 - [hoanhan101/ultimate-go](https://github.com/hoanhan101/ultimate-go) - The Ultimate Go Study Guide
@@ -1135,10 +1135,6 @@
 - [savonet/liquidsoap](https://github.com/savonet/liquidsoap) - Audio and video streaming language
 - [reasonml/reason](https://github.com/reasonml/reason) - Simple, fast & type safe code that leverages the JavaScript & OCaml ecosystems
 
-## Objective-C 
-
-- [expo/expo](https://github.com/expo/expo) - An open-source platform for making universal native apps with React. Expo runs on Android, iOS, and the web.
-
 ## Others 
 
 - [jeffbarr/gridfinity-catalog](https://github.com/jeffbarr/gridfinity-catalog) - Catalog of Gridfinity Designs and Other Resources
@@ -1668,6 +1664,7 @@
 
 ## TypeScript 
 
+- [sofn-xyz/mailing](https://github.com/sofn-xyz/mailing) - Build, test, send emails with React
 - [maxwellpeterson/kafka-worker](https://github.com/maxwellpeterson/kafka-worker) - Kafka 0.8.0 broker implementation on top of Cloudflare Workers
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source APM. It helps developers monitor their applications & troubleshoot problems, an open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open source Application Performanc
 - [erxes/erxes](https://github.com/erxes/erxes) - The open-source Hubspot alternative enables SaaS providers and digital marketing agencies/developers to create unique experiences for their entire business.
