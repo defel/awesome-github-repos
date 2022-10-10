@@ -66,6 +66,7 @@
 
 ## C 
 
+- [ggerganov/whisper.cpp](https://github.com/ggerganov/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
 - [dimitri/pgcopydb](https://github.com/dimitri/pgcopydb) - Copy a Postgres database to a target Postgres server (pg_dump | pg_restore on steroids)
 - [DorianRudolph/pinenotes](https://github.com/DorianRudolph/pinenotes) - Notes about PineNote development
 - [ahrm/sioyek](https://github.com/ahrm/sioyek) - Sioyek is a PDF viewer designed for reading research papers and technical books.
@@ -177,6 +178,7 @@
 
 ## CSS 
 
+- [csstools/sanitize.css](https://github.com/csstools/sanitize.css) - A best-practices CSS foundation
 - [cat-a-flame/CSSHell](https://github.com/cat-a-flame/CSSHell) - Collection of common CSS mistakes, and how to fix them
 - [gitobsidiantutorial/obsidian-tabs](https://github.com/gitobsidiantutorial/obsidian-tabs) - Plugin for tabbed obsidian browsing
 - [tzi/chewing-grid.css](https://github.com/tzi/chewing-grid.css) - A CSS Grid ideal for card listing design like tiles, videos or articles listing. Responsive without media-queries.
@@ -1125,6 +1127,8 @@
 
 ## Nix 
 
+- [tazjin/nix-1p](https://github.com/tazjin/nix-1p) - A (more or less) one page introduction to Nix, the language.
+- [hercules-ci/flake-parts](https://github.com/hercules-ci/flake-parts) - Minimal Nix modules for Flakes: split your flakes into modules and get things done with community modules.
 - [numtide/flake-utils](https://github.com/numtide/flake-utils) - Pure Nix flake utility functions
 - [nix-community/poetry2nix](https://github.com/nix-community/poetry2nix) - Convert poetry projects to nix automagically [maintainer=@adisbladis]
 - [ninegua/ic-blackhole](https://github.com/ninegua/ic-blackhole) - Once a canister sets its only controller to a black hole, it becomes immutable and more!
