@@ -514,6 +514,7 @@
 
 ## JavaScript 
 
+- [nenadmarkus/picojs](https://github.com/nenadmarkus/picojs) - A face detection library in 200 lines of JavaScript
 - [depcheck/depcheck](https://github.com/depcheck/depcheck) - Check your npm module for unused dependencies
 - [designsystemsinternational/mechanic](https://github.com/designsystemsinternational/mechanic) - Mechanic is a framework to build assets built on web code.
 - [naptha/tesseract.js](https://github.com/naptha/tesseract.js) - Pure Javascript OCR for more than 100 Languages 📖🎉🖥
@@ -725,7 +726,7 @@
 - [highcharts/highstock-release](https://github.com/highcharts/highstock-release) - Official shim repo for Highstock releases
 - [plotly/plotly.js](https://github.com/plotly/plotly.js) - Open-source JavaScript charting library behind Plotly and Dash
 - [alexanderGugel/ied](https://github.com/alexanderGugel/ied) - :package: Like npm, but faster - an alternative package manager for Node
-- [PatrickJS/angular-starter](https://github.com/PatrickJS/angular-starter) - Angular Starter
+- [PatrickJS/MFE-starter](https://github.com/PatrickJS/MFE-starter) - MFE Starter
 - [wardbell/bardjs](https://github.com/wardbell/bardjs) - Spec helpers for testing angular v.1.x apps with Mocha, Jasmine and QUnit
 - [moment/moment](https://github.com/moment/moment) - Parse, validate, manipulate, and display dates in javascript.
 - [brunch/brunch](https://github.com/brunch/brunch) - :fork_and_knife: Web applications made easy. Since 2011.
@@ -830,7 +831,7 @@
 - [shanzi/myicons](https://github.com/shanzi/myicons) - Your flat icons manager and font builder.
 - [observing/tolkien](https://github.com/observing/tolkien) - Passwords are obsolete - Send one time tokens for authentication instead.
 - [juliangruber/capture-screenshot](https://github.com/juliangruber/capture-screenshot) - Capture screenshots in multiple browsers!
-- [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagram and flowchart from text in a similar manner as markdown
+- [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 - [nodemailer/mailparser](https://github.com/nodemailer/mailparser) - Decode mime formatted e-mails
 - [btmills/geopattern](https://github.com/btmills/geopattern) - Generate beautiful SVG patterns
 - [davidsonfellipe/awesome-wpo](https://github.com/davidsonfellipe/awesome-wpo) - :pencil: A curated list of Web Performance Optimization. Everyone can contribute here!
