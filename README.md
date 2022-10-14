@@ -110,11 +110,7 @@
 - [radareorg/radare2](https://github.com/radareorg/radare2) - UNIX-like reverse engineering framework and command-line toolset
 - [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
 - [stedolan/jq](https://github.com/stedolan/jq) - Command-line JSON processor
-- [bumptech/stud](https://github.com/bumptech/stud) - The Scalable TLS Unwrapping Daemon
-- [nodejitsu/forza](https://github.com/nodejitsu/forza) - A lightweight agent for Godot
-- [sorbo/tcpcrypt](https://github.com/sorbo/tcpcrypt) - Fast TCP encryption
 - [haiwen/seafile](https://github.com/haiwen/seafile) - High performance file syncing and sharing, with also Markdown WYSIWYG editing, Wiki, file label and other knowledge management features.
-- [rcouch/couch_core](https://github.com/rcouch/couch_core) - CouchDB core for refuge and static distributions of CouchDB using rebar
 - [tj/histo](https://github.com/tj/histo) - beautiful charts in the terminal for static or streaming data
 - [dividuum/info-beamer](https://github.com/dividuum/info-beamer) - The Multimedia Presenter for Lua (for commercial projects, use info-beamer pi instead)
 - [cjdelisle/cjdns](https://github.com/cjdelisle/cjdns) - An encrypted IPv6 network using public-key cryptography for address allocation and a distributed hash table for routing.
@@ -124,9 +120,6 @@
 
 - [actions/runner](https://github.com/actions/runner) - The Runner for GitHub Actions :rocket:
 - [Relfos/Dither_Machine](https://github.com/Relfos/Dither_Machine) - Pixel dithering tool made with Unity
-- [TheBerkin/rant3](https://github.com/TheBerkin/rant3) - (Obsolete) Archive of Rant 3.x.
-- [Puchaczov/Musoq](https://github.com/Puchaczov/Musoq) - Use SQL on various data sources
-- [mrts/git-svn-bridge](https://github.com/mrts/git-svn-bridge) - Instructions, scripts and utility programs for synchronizing/mirroring changes between git and Subversion
 
 ## C++ 
 
@@ -172,38 +165,22 @@
 - [reverbrain/grape](https://github.com/reverbrain/grape) - realtime pipeline processing engine
 - [indutny/vock](https://github.com/indutny/vock) - VoIP on node.js
 - [farbrausch/fr_public](https://github.com/farbrausch/fr_public) - Farbrausch demo tools 2001-2011
-- [appjs/appjs](https://github.com/appjs/appjs) - (Deprecated!) SDK on top of nodejs to build desktop apps using HTML5/CSS/JS
 - [stealth/sshttp](https://github.com/stealth/sshttp) - SSH/HTTP(S) multiplexer. Run a webserver and a sshd on the same port w/o changes.
-- [facebook/hhvm](https://github.com/facebook/hhvm) - A virtual machine for executing programs written in Hack.
 
 ## CSS 
 
 - [csstools/sanitize.css](https://github.com/csstools/sanitize.css) - A best-practices CSS foundation
 - [cat-a-flame/CSSHell](https://github.com/cat-a-flame/CSSHell) - Collection of common CSS mistakes, and how to fix them
-- [gitobsidiantutorial/obsidian-tabs](https://github.com/gitobsidiantutorial/obsidian-tabs) - Plugin for tabbed obsidian browsing
-- [tzi/chewing-grid.css](https://github.com/tzi/chewing-grid.css) - A CSS Grid ideal for card listing design like tiles, videos or articles listing. Responsive without media-queries.
 - [jagregory/abrash-black-book](https://github.com/jagregory/abrash-black-book) - Markdown source for Michael Abrash's Graphics Programming Black Book
 - [jaicab/progressiveenhancement](https://github.com/jaicab/progressiveenhancement) - A site for all things progressively enhanced
-- [adapta-project/adapta-gtk-theme](https://github.com/adapta-project/adapta-gtk-theme) - An adaptive Gtk+ theme based on Material Design Guidelines
 - [connors/photon](https://github.com/connors/photon) - The fastest way to build beautiful Electron apps using simple HTML and CSS
-- [domeide/domeide.github.io](https://github.com/domeide/domeide.github.io) - Docker meets the IDE - Integrating your favorite containers in the editor of your choice
 - [qrohlf/trianglify-generator](https://github.com/qrohlf/trianglify-generator) - no-coding-required triangle pattern generator. work in progress.
-- [mikekelly/hal_specification](https://github.com/mikekelly/hal_specification) - HAL Specification
-- [fians/marka](https://github.com/fians/marka) - Beautiful transformable icons built for the web.
 - [t32k/stylestats](https://github.com/t32k/stylestats) - StyleStats is a library to collect CSS statistics.
-- [mrmrs/pesticide](https://github.com/mrmrs/pesticide) - Kill your css layout bugs
 - [north/north](https://github.com/north/north) - Design and development standards to align and guide your project.
 - [chriskempson/tomorrow-theme](https://github.com/chriskempson/tomorrow-theme) - Tomorrow Theme
-- [HubSpot/odometer](https://github.com/HubSpot/odometer) - Smoothly transitions numbers with ease. #hubspot-open-source
 - [mozilla/Fira](https://github.com/mozilla/Fira) - Mozilla's new typeface, used in Firefox OS
 - [philipwalton/solved-by-flexbox](https://github.com/philipwalton/solved-by-flexbox) - A showcase of problems once hard or impossible to solve with CSS alone, now made trivially easy with Flexbox.
-- [rowanmanning/frag](https://github.com/rowanmanning/frag) - [UNMAINTAINED] Frag is a fluid, responsive, simple grid system for CSS written in Sass.
-- [ThrivingKings/animo.js](https://github.com/ThrivingKings/animo.js) - A powerful little tool for managing CSS animations
-- [ripienaar/gdash](https://github.com/ripienaar/gdash) - A dashboard for Graphite
 - [floriangrundig/grails-angular-phonecat](https://github.com/floriangrundig/grails-angular-phonecat) - 
-- [hoodiehq-archive/hood.ie-website-old](https://github.com/hoodiehq-archive/hood.ie-website-old) - ⛔ deprecated
-- [typeplate/starter-kit](https://github.com/typeplate/starter-kit) - Typeplate is a “Typographic Starter Kit.” We don’t make aesthetic design choices, but define proper markup with extensible styling for common typographic patterns. A stripped-down Sass library concern
-- [rowanmanning/pigeon](https://github.com/rowanmanning/pigeon) - [UNMAINTAINED] Pigeon is an OOCSS framework for rapid prototyping and building smart, scalable websites.
 
 ## CUE 
 
@@ -228,24 +205,12 @@
 - [dropbox/zxcvbn](https://github.com/dropbox/zxcvbn) - Low-Budget Password Strength Estimation
 - [UnquietCode/Cloud-Temple](https://github.com/UnquietCode/Cloud-Temple) - A collection of rituals and incantations which assist in the creation of modular (reusable, extensible) CloudFormation templates in JavaScript.
 - [swarmsim/swarm](https://github.com/swarmsim/swarm) - Swarm Simulator, an idle game with lots of bugs.
-- [koraa/node-discordianquotes](https://github.com/koraa/node-discordianquotes) - Hail Eris. Hail Discordia!
 - [segment-boneyard/nsqjs](https://github.com/segment-boneyard/nsqjs) - JavaScript fork of the coffeescript nsqjs
 - [gss/engine](https://github.com/gss/engine) - GSS engine
-- [bboyle87/hubot-yolo](https://github.com/bboyle87/hubot-yolo) - listens for someone to say yolo in campfire and responds with a random image of you-only-living-once.
-- [websecurify/node-roost](https://github.com/websecurify/node-roost) - 
-- [mikesmullin/borg](https://github.com/mikesmullin/borg) - DevOps with CoffeeScript and Node.JS
-- [rikukissa/domo](https://github.com/rikukissa/domo) - Domo the incredible irc-bot
-- [jwill/todo.txt-coffee](https://github.com/jwill/todo.txt-coffee) - CoffeeScript library for Todo.txt
-- [jescalan/roots](https://github.com/jescalan/roots) - a toolkit for rapid advanced front-end development
-- [jaymedavis/hubble](https://github.com/jaymedavis/hubble) - A dashboard that displays in the terminal
-- [michaelficarra/CoffeeScriptRedux](https://github.com/michaelficarra/CoffeeScriptRedux) - :sweat: rewrite of the CoffeeScript compiler with proper compiler design principles and a focus on robustness and extensibility
-- [github/hubot-scripts](https://github.com/github/hubot-scripts) - DEPRECATED, see https://github.com/github/hubot-scripts/issues/1113 for details - optional scripts for hubot, opt in via hubot-scripts.json
-- [sleepyfox/coffeescript-koans](https://github.com/sleepyfox/coffeescript-koans) - Koans: learn CoffeeScript by doing it
 
 ## Common Lisp 
 
 - [jrm-code-project/LISP-Machine](https://github.com/jrm-code-project/LISP-Machine) - Archive of LISP Machine, Inc.
-- [stumpwm/stumpwm](https://github.com/stumpwm/stumpwm) - The Stump Window Manager
 
 ## D 
 
@@ -348,7 +313,6 @@
 - [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool
 - [4xoc/monban](https://github.com/4xoc/monban) - User and Group Membership Management for LDAP
 - [facette/facette](https://github.com/facette/facette) - Time series data visualization software
-- [4xoc/uuid](https://github.com/4xoc/uuid) - UUID package with type-specific IDs
 - [hoanhan101/ultimate-go](https://github.com/hoanhan101/ultimate-go) - The Ultimate Go Study Guide
 - [jroimartin/gocui](https://github.com/jroimartin/gocui) - Minimalist Go package aimed at creating Console User Interfaces.
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
@@ -359,7 +323,6 @@
 - [akarki15/dbdot](https://github.com/akarki15/dbdot) - Generate DOT description for postgres db schema
 - [eranyanay/1m-go-websockets](https://github.com/eranyanay/1m-go-websockets) - handling 1M websockets connections in Go
 - [cloudutil/AutoSpotting](https://github.com/cloudutil/AutoSpotting) - Saves up to 90% of AWS EC2 costs by automating the use of spot instances on existing AutoScaling groups. Installs in minutes using CloudFormation or Terraform. Convenient to deploy at scale using Stac
-- [capitalone/checks-out](https://github.com/capitalone/checks-out) - Checks-Out pull request approval system
 - [glassechidna/pstore](https://github.com/glassechidna/pstore) - Environment variable-based AWS Parameter Store command shim
 - [wagoodman/bashful](https://github.com/wagoodman/bashful) - Use a yaml file to stitch together commands and bash snippits and run them with a bit of style.  Why? Because your bash script should be quiet and shy-like (...and not such a loud mouth).
 - [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
@@ -1079,7 +1042,8 @@
 
 ## Kotlin 
 
-- [krzema12/github-actions-kotlin-dsl](https://github.com/krzema12/github-actions-kotlin-dsl) - Authoring GitHub Actions workflows in Kotlin.
+- [JetBrains/skiko](https://github.com/JetBrains/skiko) - Kotlin MPP bindings to Skia
+- [krzema12/github-workflows-kt](https://github.com/krzema12/github-workflows-kt) - Authoring GitHub Actions workflows in Kotlin.
 - [grpc/grpc-kotlin](https://github.com/grpc/grpc-kotlin) - Kotlin gRPC implementation. HTTP/2 based RPC
 - [Netflix/dgs-framework](https://github.com/Netflix/dgs-framework) - GraphQL for Java with Spring Boot made easy.
 - [darthmachina/obsidian-kotlin-plugin](https://github.com/darthmachina/obsidian-kotlin-plugin) - Base Obsidian plugin written in Kotlin
@@ -1364,7 +1328,6 @@
 - [dry-python/returns](https://github.com/dry-python/returns) - Make your functions return something meaningful, typed, and safe!
 - [bookwyrm-social/bookwyrm](https://github.com/bookwyrm-social/bookwyrm) - Social reading and reviewing, decentralized with ActivityPub
 - [bashrc2/epicyon](https://github.com/bashrc2/epicyon) - ActivityPub server without Javascript, designed for simplicity and accessibility. Includes calendar, news and sharing economy features to empower your federated community.
-- [kaporzhu/protobuf-to-dict](https://github.com/kaporzhu/protobuf-to-dict) - A small Python library for creating dicts from protocol buffers. Useful as an intermediate step before serialization (e.g. to JSON).
 - [project-alice-assistant/ProjectAlice](https://github.com/project-alice-assistant/ProjectAlice) - Main repository of Project Alice, contains main unit source code
 - [saleor/saleor](https://github.com/saleor/saleor) - A modular, high performance, headless e-commerce platform built with Python, GraphQL, Django, and React.
 - [holoviz/panel](https://github.com/holoviz/panel) - A high-level app and dashboarding solution for Python
@@ -1531,6 +1494,7 @@
 
 ## Rust 
 
+- [rant-lang/rant](https://github.com/rant-lang/rant) - Rant - The templating language for procedural generation.
 - [arxanas/git-branchless](https://github.com/arxanas/git-branchless) - High-velocity, monorepo-scale workflow for Git
 - [tonarino/innernet](https://github.com/tonarino/innernet) - A private network system that uses WireGuard under the hood.
 - [extrawurst/gitui](https://github.com/extrawurst/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
@@ -1677,6 +1641,7 @@
 
 ## TypeScript 
 
+- [liamcain/obsidian-creases](https://github.com/liamcain/obsidian-creases) - 👕 Tools for effectively folding markdown sections in Obsidian
 - [tremorlabs/tremor](https://github.com/tremorlabs/tremor) - The react library to build dashboards fast.
 - [sofn-xyz/mailing](https://github.com/sofn-xyz/mailing) - Build, test, send emails with React
 - [maxwellpeterson/kafka-worker](https://github.com/maxwellpeterson/kafka-worker) - Kafka 0.8.0 broker implementation on top of Cloudflare Workers
