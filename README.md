@@ -10,7 +10,6 @@
 - [C#](#c#)
 - [C++](#c++)
 - [CSS](#css)
-- [CUE](#cue)
 - [CartoCSS](#cartocss)
 - [Clojure](#clojure)
 - [CoffeeScript](#coffeescript)
@@ -182,10 +181,6 @@
 - [philipwalton/solved-by-flexbox](https://github.com/philipwalton/solved-by-flexbox) - A showcase of problems once hard or impossible to solve with CSS alone, now made trivially easy with Flexbox.
 - [floriangrundig/grails-angular-phonecat](https://github.com/floriangrundig/grails-angular-phonecat) - 
 
-## CUE 
-
-- [dagger/dagger](https://github.com/dagger/dagger) - A portable devkit for CI/CD pipelines
-
 ## CartoCSS 
 
 - [gravitystorm/openstreetmap-carto](https://github.com/gravitystorm/openstreetmap-carto) - A general-purpose OpenStreetMap mapnik style, in CartoCSS
@@ -265,6 +260,7 @@
 - [sourcegraph/doctree](https://github.com/sourcegraph/doctree) - First-class library documentation for every language (based on tree-sitter), with symbol search & more. Lightweight single binary, run locally or self-host. Surfaces usage examples via Sourcegraph.
 - [antonmedv/fx](https://github.com/antonmedv/fx) - Terminal JSON viewer
 - [aler9/rtsp-simple-server](https://github.com/aler9/rtsp-simple-server) - ready-to-use RTSP / RTMP / LL-HLS server and proxy that allows to read, publish and proxy video and audio streams
+- [dagger/dagger](https://github.com/dagger/dagger) - A portable devkit for CI/CD pipelines
 - [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) - The SSH directory ✨
 - [TomWright/dasel](https://github.com/TomWright/dasel) - Select, put and delete data from JSON, TOML, YAML, XML and CSV files with a single tool. Supports conversion between formats and can be used as a Go package.
 - [ije/esm.sh](https://github.com/ije/esm.sh) - A fast, global content delivery network for ES Modules.
@@ -1304,6 +1300,7 @@
 
 ## Python 
 
+- [google/gin-config](https://github.com/google/gin-config) - Gin provides a lightweight configuration framework for Python
 - [amsehili/auditok](https://github.com/amsehili/auditok) - An audio/acoustic activity detection and audio segmentation tool
 - [NixOS/nix.dev](https://github.com/NixOS/nix.dev) - An opinionated guide for developers wanting to get things done with the Nix ecosystem.
 - [cruft/cruft](https://github.com/cruft/cruft) - Allows you to maintain all the necessary cruft for packaging and building projects separate from the code you intentionally write. Built on-top of, and fully compatible with, CookieCutter.
