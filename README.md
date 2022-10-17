@@ -630,7 +630,7 @@
 - [ungoldman/hyperaxe](https://github.com/ungoldman/hyperaxe) - 🪓 An enchanted hyperscript weapon.
 - [maxogden/cat-lobby](https://github.com/maxogden/cat-lobby) - simple http+sse based lobby server with cat themed room names
 - [mafintosh/pumpify](https://github.com/mafintosh/pumpify) - Combine an array of streams into a single duplex stream using pump and duplexify
-- [klaussinani/taskbook](https://github.com/klaussinani/taskbook) - Tasks, boards & notes for the command-line habitat
+- [klaudiosinani/taskbook](https://github.com/klaudiosinani/taskbook) - Tasks, boards & notes for the command-line habitat
 - [mikerockett/vue-routisan](https://github.com/mikerockett/vue-routisan) - Elegant, fluent route definitions for Vue Router, inspired by Laravel. v3 is currently in beta. vue-routisan@next
 - [stanford-oval/genie-cloud](https://github.com/stanford-oval/genie-cloud) - Genie As A Service and Thingpedia
 - [tjmehta/101](https://github.com/tjmehta/101) - A modern JS utility library
