@@ -122,6 +122,7 @@
 
 ## C++ 
 
+- [hoffstadt/DearPyGui](https://github.com/hoffstadt/DearPyGui) - Dear PyGui: A fast and powerful Graphical User Interface Toolkit for Python with minimal dependencies
 - [StanfordSNR/gg](https://github.com/StanfordSNR/gg) - The Stanford Builder
 - [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly) - A modern replacement for Redis and Memcached
 - [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf) - Protocol Buffers - Google's data interchange format
@@ -1301,6 +1302,7 @@
 
 ## Python 
 
+- [open-telemetry/opentelemetry-python](https://github.com/open-telemetry/opentelemetry-python) - OpenTelemetry Python API and SDK
 - [google/gin-config](https://github.com/google/gin-config) - Gin provides a lightweight configuration framework for Python
 - [amsehili/auditok](https://github.com/amsehili/auditok) - An audio/acoustic activity detection and audio segmentation tool
 - [NixOS/nix.dev](https://github.com/NixOS/nix.dev) - An opinionated guide for developers wanting to get things done with the Nix ecosystem.
@@ -1639,6 +1641,7 @@
 
 ## TypeScript 
 
+- [Redocly/redoc](https://github.com/Redocly/redoc) - 📘  OpenAPI/Swagger-generated API Reference Documentation
 - [liamcain/obsidian-creases](https://github.com/liamcain/obsidian-creases) - 👕 Tools for effectively folding markdown sections in Obsidian
 - [tremorlabs/tremor](https://github.com/tremorlabs/tremor) - The react library to build dashboards fast.
 - [sofn-xyz/mailing](https://github.com/sofn-xyz/mailing) - Build, test, send emails with React
