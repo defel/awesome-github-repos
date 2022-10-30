@@ -1656,6 +1656,7 @@
 
 ## TypeScript 
 
+- [lucaorio/obsidian-image-gallery](https://github.com/lucaorio/obsidian-image-gallery) - A zero setup masonry image gallery for Obsidian
 - [dddddddddzzzz/open-stories-element](https://github.com/dddddddddzzzz/open-stories-element) - Open Stories feed → Story viewer
 - [dddddddddzzzz/OpenStories](https://github.com/dddddddddzzzz/OpenStories) - The Open Stories format.
 - [gcanti/io-ts](https://github.com/gcanti/io-ts) - Runtime type system for IO decoding/encoding
