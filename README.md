@@ -250,6 +250,7 @@
 
 ## Go 
 
+- [ema/pets](https://github.com/ema/pets) - A configuration management system for Pets, not Cattle
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼
 - [OpenSLO/OpenSLO](https://github.com/OpenSLO/OpenSLO) - Open specification for defining and expressing service level objectives (SLO)
 - [tellerops/teller](https://github.com/tellerops/teller) - Cloud native secrets management for developers - never leave your command line for secrets.
@@ -482,6 +483,7 @@
 
 ## JavaScript 
 
+- [meld-cp/obsidian-calc](https://github.com/meld-cp/obsidian-calc) - 
 - [ableplayer/ableplayer](https://github.com/ableplayer/ableplayer) - fully accessible cross-browser HTML5 media player.
 - [nenadmarkus/picojs](https://github.com/nenadmarkus/picojs) - A face detection library in 200 lines of JavaScript
 - [depcheck/depcheck](https://github.com/depcheck/depcheck) - Check your npm module for unused dependencies
