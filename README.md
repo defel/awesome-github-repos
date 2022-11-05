@@ -489,6 +489,7 @@
 
 ## JavaScript 
 
+- [webtiming/timingsrc](https://github.com/webtiming/timingsrc) - Source code for timing related libraries managed by webtiming (multi-device timing CG)
 - [youkaclub/mediasync](https://github.com/youkaclub/mediasync) - sync html media elements
 - [wooorm/starry-night](https://github.com/wooorm/starry-night) - Syntax highlighting, like GitHub
 - [raphaelameaume/fragment](https://github.com/raphaelameaume/fragment) - [alpha] A web development environment for creative coding
@@ -1131,6 +1132,8 @@
 
 ## Others 
 
+- [webtiming/mediasync](https://github.com/webtiming/mediasync) - MediaSync is a JavaScrpt library implementing timed playback of HTML5 audio/video, based on the TimingObject
+- [webtiming/sequencer](https://github.com/webtiming/sequencer) - A generic JavaScript Sequencer for precisely timed presentation of timed data, using HTMLTimingObject/SharedMotion as timing source.
 - [evilmartians/mono](https://github.com/evilmartians/mono) - Free and open-source monospaced font from Evil Martians
 - [zalando/tech-radar](https://github.com/zalando/tech-radar) - Visualizing our technology choices
 - [jeffbarr/gridfinity-catalog](https://github.com/jeffbarr/gridfinity-catalog) - Catalog of Gridfinity Designs and Other Resources
@@ -1759,7 +1762,7 @@
 - [steveruizok/perfect-arrows](https://github.com/steveruizok/perfect-arrows) - Draw perfect arrows between points and shapes.
 - [roshan8/slo-tracker](https://github.com/roshan8/slo-tracker) - A tool to track SLA, SLO and Error budgets
 - [timc1/kbar](https://github.com/timc1/kbar) - fast, portable, and extensible cmd+k interface for your site
-- [exhibitionist-digital/ultra](https://github.com/exhibitionist-digital/ultra) - 🧙 Hypermodern Zero-Legacy Deno/React Framework
+- [exhibitionist-digital/ultra](https://github.com/exhibitionist-digital/ultra) - 🧙 Zero-Legacy Deno/React Suspense SSR Framework
 - [basarat/typescript-book](https://github.com/basarat/typescript-book) - :books: The definitive guide to TypeScript and possibly the best TypeScript book :book:. Free and Open Source 🌹
 - [elthrasher/cdk-dynamo-lambda-loader](https://github.com/elthrasher/cdk-dynamo-lambda-loader) - 
 - [sveltejs/svelte](https://github.com/sveltejs/svelte) - Cybernetically enhanced web apps
