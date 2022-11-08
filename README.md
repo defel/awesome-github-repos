@@ -25,6 +25,7 @@
 - [HCL](#hcl)
 - [HTML](#html)
 - [Haskell](#haskell)
+- [Janet](#janet)
 - [Java](#java)
 - [JavaScript](#javascript)
 - [Jupyter Notebook](#jupyter-notebook)
@@ -453,6 +454,10 @@
 - [quchen/articles](https://github.com/quchen/articles) - Miscellaneous articles. The readme is the table of contents.
 - [snapframework/snap](https://github.com/snapframework/snap) - Top-level package for the official Snap Framework libraries, includes the snaplets API as well as infrastructure for sessions, auth, and templates.
 - [basvandijk/aws](https://github.com/basvandijk/aws) - Amazon Web Services for Haskell
+
+## Janet 
+
+- [ianthehenry/bauble](https://github.com/ianthehenry/bauble) - a playground for making 3D art with lisp and math
 
 ## Java 
 
