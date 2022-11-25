@@ -255,6 +255,9 @@
 
 ## Go 
 
+- [segmentio/ksuid](https://github.com/segmentio/ksuid) - K-Sortable Globally Unique IDs
+- [terrastruct/d2](https://github.com/terrastruct/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
+- [MichaelMure/git-bug](https://github.com/MichaelMure/git-bug) - Distributed, offline-first bug tracker embedded in git, with bridges
 - [benthosdev/benthos](https://github.com/benthosdev/benthos) - Fancy stream processing made operationally mundane
 - [superseriousbusiness/activity](https://github.com/superseriousbusiness/activity) - ActivityStreams & ActivityPub in golang, oh my!
 - [superseriousbusiness/gotosocial](https://github.com/superseriousbusiness/gotosocial) - Fast, fun, ActivityPub server, powered by Go.
@@ -406,6 +409,7 @@
 
 ## HTML 
 
+- [HoangTuan110/subreply-css](https://github.com/HoangTuan110/subreply-css) - A simple, yet modern and beautiful classless CSS style. Influenced by Subreply (https://subreply.com/about)
 - [Daiz/frame-accurate-ish](https://github.com/Daiz/frame-accurate-ish) - Research on getting accurate video frame numbers out of HTML5 video element
 - [dddddddddzzzz/OpenHeart](https://github.com/dddddddddzzzz/OpenHeart) - The Open Heart protocol.
 - [litmuschaos/litmus](https://github.com/litmuschaos/litmus) - Litmus helps  SREs and developers practice chaos engineering in a Cloud-native way. Chaos experiments are published at the ChaosHub  (https://hub.litmuschaos.io). Community notes is at https://hackmd.
@@ -1146,6 +1150,7 @@
 
 ## Others 
 
+- [github/hubot-sans](https://github.com/github/hubot-sans) - Hubot Sans, a variable font from GitHub
 - [wbkd/awesome-node-based-uis](https://github.com/wbkd/awesome-node-based-uis) - A curated list with resources about node-based UIs
 - [ChristianLempa/cheat-sheets](https://github.com/ChristianLempa/cheat-sheets) - This is my personal knowledge-base. Here you'll find code-snippets, technical documentation, and command reference for various tools, and technologies.
 - [tleb/awesome-mastodon](https://github.com/tleb/awesome-mastodon) - Curated list of awesome Mastodon-related stuff!
@@ -1703,6 +1708,7 @@
 
 ## TypeScript 
 
+- [michaelcpuckett/activitypub-core](https://github.com/michaelcpuckett/activitypub-core) - An attempt to build a spec-compliant ActivityPub core library.
 - [tailwindlabs/headlessui](https://github.com/tailwindlabs/headlessui) - Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.
 - [hedgedoc/hedgedoc](https://github.com/hedgedoc/hedgedoc) - HedgeDoc - The best platform to write and share markdown.
 - [components-ai/css.gui](https://github.com/components-ai/css.gui) - Visual development environment for CSS
