@@ -1300,7 +1300,7 @@
 - [monitoringsucks/tool-repos](https://github.com/monitoringsucks/tool-repos) - Tracking various tools that fit in the monitoring and metrics space
 - [meenie/8bit.js](https://github.com/meenie/8bit.js) - 8Bit.js Audio Library - Write music using 8bit oscillation sounds.
 - [nilium/st2-nil-theme](https://github.com/nilium/st2-nil-theme) - Minimalist Sublime Text 2 UI dark and light themes and color schemes. Includes HDPI support for retina displays. (Unmaintained)
-- [PascalPrecht/angular-component-spec](https://github.com/PascalPrecht/angular-component-spec) - Specification for reusable AngularJS components
+- [0x-r4bbit/angular-component-spec](https://github.com/0x-r4bbit/angular-component-spec) - Specification for reusable AngularJS components
 - [IFTTT/statsd](https://github.com/IFTTT/statsd) - Simple daemon for easy stats aggregation
 - [bundestag/gesetze](https://github.com/bundestag/gesetze) - Bundesgesetze und -verordnungen
 - [Lokaltog/vim-powerline](https://github.com/Lokaltog/vim-powerline) - Moved to powerline/powerline.
