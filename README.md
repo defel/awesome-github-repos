@@ -97,7 +97,7 @@
 - [leandromoreira/ffmpeg-libav-tutorial](https://github.com/leandromoreira/ffmpeg-libav-tutorial) - FFmpeg libav tutorial - learn how media works from basic to transmuxing, transcoding and more
 - [swaywm/sway](https://github.com/swaywm/sway) - i3-compatible Wayland compositor
 - [i3/i3](https://github.com/i3/i3) - A tiling window manager
-- [vivien/i3blocks](https://github.com/vivien/i3blocks) - A feed generator for text based status bars
+- [vivien/i3blocks](https://github.com/vivien/i3blocks) - The hacker-friendly status_command for Sway and i3
 - [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager
 - [davatorium/rofi](https://github.com/davatorium/rofi) - Rofi: A window switcher, application launcher and dmenu replacement
 - [dchest/passwordcheck](https://github.com/dchest/passwordcheck) - Go package passwordcheck is a password and passphrase strength checker based on passwdqc.
@@ -1351,6 +1351,7 @@
 
 ## Python 
 
+- [mozilla/bleach](https://github.com/mozilla/bleach) - Bleach is an allowed-list-based HTML sanitizing library that escapes or strips markup and attributes
 - [pdm-project/pdm](https://github.com/pdm-project/pdm) - A modern Python package and dependency manager supporting the latest PEP standards
 - [jointakahe/takahe](https://github.com/jointakahe/takahe) - An ActivityPub/Fediverse server
 - [freedomofpress/dangerzone](https://github.com/freedomofpress/dangerzone) - Take potentially dangerous PDFs, office documents, or images and convert them to safe PDFs
@@ -1662,7 +1663,7 @@
 - [ganifladi/blurme](https://github.com/ganifladi/blurme) - Blurme v.1.0 Codename MEH (My Eyes Hurt)
 - [jgonsior/dotfiles](https://github.com/jgonsior/dotfiles) - 
 - [antonlindstrom/passpwn](https://github.com/antonlindstrom/passpwn) - See if your passwords in pass has been breached.
-- [prowler-cloud/prowler](https://github.com/prowler-cloud/prowler) - Prowler is an Open Source security tool to perform AWS security best practices assessments, audits, incident response, continuous monitoring, hardening and forensics readiness. It contains more than 2
+- [prowler-cloud/prowler](https://github.com/prowler-cloud/prowler) - Prowler is an Open Source security tool to perform cloud security best practices assessments, audits, incident response, continuous monitoring, hardening and forensics readiness. It contains more than
 - [mozilla/zilla-slab](https://github.com/mozilla/zilla-slab) - Mozilla's Zilla Slab Type Family
 - [k4m4/terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy) - 💥 A curated list of Terminal frameworks, plugins & resources for CLI lovers.
 - [juliangruber/yarn-aliases](https://github.com/juliangruber/yarn-aliases) - Commonly used yarn aliases. Fork for more!
