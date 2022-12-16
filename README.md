@@ -46,7 +46,6 @@
 - [PureScript](#purescript)
 - [Python](#python)
 - [QML](#qml)
-- [Roff](#roff)
 - [Ruby](#ruby)
 - [Rust](#rust)
 - [SCSS](#scss)
@@ -177,6 +176,7 @@
 - [csstools/sanitize.css](https://github.com/csstools/sanitize.css) - A best-practices CSS foundation
 - [cat-a-flame/CSSHell](https://github.com/cat-a-flame/CSSHell) - Collection of common CSS mistakes, and how to fix them
 - [jagregory/abrash-black-book](https://github.com/jagregory/abrash-black-book) - Markdown source for Michael Abrash's Graphics Programming Black Book
+- [NsCDE/NsCDE](https://github.com/NsCDE/NsCDE) - Modern and functional CDE desktop based on FVWM
 - [jaicab/progressiveenhancement](https://github.com/jaicab/progressiveenhancement) - A site for all things progressively enhanced
 - [connors/photon](https://github.com/connors/photon) - The fastest way to build beautiful Electron apps using simple HTML and CSS
 - [qrohlf/trianglify-generator](https://github.com/qrohlf/trianglify-generator) - no-coding-required triangle pattern generator. work in progress.
@@ -282,7 +282,7 @@
 - [fullstorydev/grpcurl](https://github.com/fullstorydev/grpcurl) - Like cURL, but for gRPC: Command-line tool for interacting with gRPC servers
 - [sourcegraph/doctree](https://github.com/sourcegraph/doctree) - First-class library documentation for every language (based on tree-sitter), with symbol search & more. Lightweight single binary, run locally or self-host. Surfaces usage examples via Sourcegraph.
 - [antonmedv/fx](https://github.com/antonmedv/fx) - Terminal JSON viewer
-- [aler9/rtsp-simple-server](https://github.com/aler9/rtsp-simple-server) - ready-to-use RTSP / RTMP / LL-HLS server and proxy that allows to read, publish and proxy video and audio streams
+- [aler9/rtsp-simple-server](https://github.com/aler9/rtsp-simple-server) - ready-to-use RTSP / RTMP / LL-HLS / WebRTC server and proxy that allows to read, publish and proxy video and audio streams
 - [dagger/dagger](https://github.com/dagger/dagger) - A programmable CI/CD engine that runs your pipelines in containers
 - [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) - The SSH directory ✨
 - [TomWright/dasel](https://github.com/TomWright/dasel) - Select, put and delete data from JSON, TOML, YAML, XML and CSV files with a single tool. Supports conversion between formats and can be used as a Go package.
@@ -1516,10 +1516,6 @@
 - [khanhas/zshelf](https://github.com/khanhas/zshelf) - reMarkable app: Browse and download books from Z-Library
 - [Swordfish90/cool-retro-term](https://github.com/Swordfish90/cool-retro-term) - A good looking terminal emulator which mimics the old cathode display...
 
-## Roff 
-
-- [NsCDE/NsCDE](https://github.com/NsCDE/NsCDE) - Modern and functional CDE desktop based on FVWM
-
 ## Ruby 
 
 - [motor-admin/motor-admin](https://github.com/motor-admin/motor-admin) - Deploy a no-code admin panel for any application in less than a minute. Search, create, update, and delete data entries, create custom actions, and build reports.
@@ -1667,7 +1663,7 @@
 - [mozilla/zilla-slab](https://github.com/mozilla/zilla-slab) - Mozilla's Zilla Slab Type Family
 - [k4m4/terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy) - 💥 A curated list of Terminal frameworks, plugins & resources for CLI lovers.
 - [juliangruber/yarn-aliases](https://github.com/juliangruber/yarn-aliases) - Commonly used yarn aliases. Fork for more!
-- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,000+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,100+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [tmux-plugins/tmux-open](https://github.com/tmux-plugins/tmux-open) - Tmux key bindings for quick opening of a highlighted file or url
 - [tmux-plugins/tmux-copycat](https://github.com/tmux-plugins/tmux-copycat) - A plugin that enhances tmux search
 - [tmux-plugins/tmux-resurrect](https://github.com/tmux-plugins/tmux-resurrect) - Persists tmux environment across system restarts.
