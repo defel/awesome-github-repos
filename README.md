@@ -505,6 +505,7 @@
 
 ## JavaScript 
 
+- [ungoldman/format-duration](https://github.com/ungoldman/format-duration) - ⏱ Convert milliseconds to a standard duration string.
 - [mozilla/pdf.js](https://github.com/mozilla/pdf.js) - PDF Reader in JavaScript
 - [yjs/yjs](https://github.com/yjs/yjs) - Shared data types for building collaborative software
 - [webtiming/timingsrc](https://github.com/webtiming/timingsrc) - Source code for timing related libraries managed by webtiming (multi-device timing CG)
@@ -1659,7 +1660,7 @@
 - [ganifladi/blurme](https://github.com/ganifladi/blurme) - Blurme v.1.0 Codename MEH (My Eyes Hurt)
 - [jgonsior/dotfiles](https://github.com/jgonsior/dotfiles) - 
 - [antonlindstrom/passpwn](https://github.com/antonlindstrom/passpwn) - See if your passwords in pass has been breached.
-- [prowler-cloud/prowler](https://github.com/prowler-cloud/prowler) - Prowler is an Open Source Security tool to perform Cloud security best practices assessments, audits, incident response, continuous monitoring, hardening and forensics readiness. It contains hundreds 
+- [prowler-cloud/prowler](https://github.com/prowler-cloud/prowler) - Prowler is an Open Source Security tool to perform Cloud Security best practices assessments, audits, incident response, continuous monitoring, hardening and forensics readiness. It contains hundreds 
 - [mozilla/zilla-slab](https://github.com/mozilla/zilla-slab) - Mozilla's Zilla Slab Type Family
 - [k4m4/terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy) - 💥 A curated list of Terminal frameworks, plugins & resources for CLI lovers.
 - [juliangruber/yarn-aliases](https://github.com/juliangruber/yarn-aliases) - Commonly used yarn aliases. Fork for more!
