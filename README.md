@@ -1476,6 +1476,7 @@
 - [spotify/luigi](https://github.com/spotify/luigi) - Luigi is a Python module that helps you build complex pipelines of batch jobs. It handles dependency resolution, workflow management, visualization etc. It also comes with Hadoop support built in.
 - [aws-samples/ecs-blue-green-deployment](https://github.com/aws-samples/ecs-blue-green-deployment) - Reference architecture for doing blue green deployments on ECS.
 - [goberoi/cloud_speech_experiments](https://github.com/goberoi/cloud_speech_experiments) - Scripts to experiment with cloud speech vendors like Google Cloud Speech.
+- [prowler-cloud/prowler](https://github.com/prowler-cloud/prowler) - Prowler is an Open Source Security tool to perform Cloud Security best practices assessments, audits, incident response, continuous monitoring, hardening and forensics readiness. It contains hundreds 
 - [jarun/buku](https://github.com/jarun/buku) - :bookmark: Personal mini-web in text
 - [awslabs/aws-iam-generator](https://github.com/awslabs/aws-iam-generator) - Generate Multi-Account IAM users/groups/roles/policies from a simple YAML configuration file and Jinja2 templates.
 - [Kwpolska/upass](https://github.com/Kwpolska/upass) - Console UI for pass.
@@ -1660,7 +1661,6 @@
 - [ganifladi/blurme](https://github.com/ganifladi/blurme) - Blurme v.1.0 Codename MEH (My Eyes Hurt)
 - [jgonsior/dotfiles](https://github.com/jgonsior/dotfiles) - 
 - [antonlindstrom/passpwn](https://github.com/antonlindstrom/passpwn) - See if your passwords in pass has been breached.
-- [prowler-cloud/prowler](https://github.com/prowler-cloud/prowler) - Prowler is an Open Source Security tool to perform Cloud Security best practices assessments, audits, incident response, continuous monitoring, hardening and forensics readiness. It contains hundreds 
 - [mozilla/zilla-slab](https://github.com/mozilla/zilla-slab) - Mozilla's Zilla Slab Type Family
 - [k4m4/terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy) - 💥 A curated list of Terminal frameworks, plugins & resources for CLI lovers.
 - [juliangruber/yarn-aliases](https://github.com/juliangruber/yarn-aliases) - Commonly used yarn aliases. Fork for more!
