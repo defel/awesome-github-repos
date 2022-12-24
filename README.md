@@ -164,7 +164,7 @@
 - [Evrytania/LTE-Cell-Scanner](https://github.com/Evrytania/LTE-Cell-Scanner) - LTE SDR cell scanner optimized to work with very low performance RF front ends (8bit A/D, 20dB noise figure)
 - [rvagg/archived-node-libssh](https://github.com/rvagg/archived-node-libssh) - A Low-level Node.js binding for libssh
 - [dogecoin/dogecoin](https://github.com/dogecoin/dogecoin) - very currency
-- [XRPLF/rippled](https://github.com/XRPLF/rippled) - Decentralized cryptocurrency blockchain daemon implementing the XRP Ledger in C++
+- [XRPLF/rippled](https://github.com/XRPLF/rippled) - Decentralized cryptocurrency blockchain daemon implementing the XRP Ledger protocol in C++
 - [Mowje/node-cryptopp](https://github.com/Mowje/node-cryptopp) - Node.js static bindings to the Crypto++ library (NOT CURRENTLY MAINTAINED! USE AT YOUR OWN RISK!)
 - [reverbrain/grape](https://github.com/reverbrain/grape) - realtime pipeline processing engine
 - [indutny/vock](https://github.com/indutny/vock) - VoIP on node.js
@@ -173,6 +173,7 @@
 
 ## CSS 
 
+- [lucaorio/obsidian-image-gallery](https://github.com/lucaorio/obsidian-image-gallery) - A zero setup masonry image gallery for Obsidian
 - [csstools/sanitize.css](https://github.com/csstools/sanitize.css) - A best-practices CSS foundation
 - [cat-a-flame/CSSHell](https://github.com/cat-a-flame/CSSHell) - Collection of common CSS mistakes, and how to fix them
 - [jagregory/abrash-black-book](https://github.com/jagregory/abrash-black-book) - Markdown source for Michael Abrash's Graphics Programming Black Book
@@ -1714,7 +1715,6 @@
 - [slash9494/react-modern-audio-player](https://github.com/slash9494/react-modern-audio-player) - 🔊 Simple, accessible and flexible audio player
 - [colinhacks/zod](https://github.com/colinhacks/zod) - TypeScript-first schema validation with static type inference
 - [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.
-- [lucaorio/obsidian-image-gallery](https://github.com/lucaorio/obsidian-image-gallery) - A zero setup masonry image gallery for Obsidian
 - [dddddddddzzzz/open-stories-element](https://github.com/dddddddddzzzz/open-stories-element) - Open Stories feed → Story viewer
 - [dddddddddzzzz/OpenStories](https://github.com/dddddddddzzzz/OpenStories) - The Open Stories format.
 - [gcanti/io-ts](https://github.com/gcanti/io-ts) - Runtime type system for IO decoding/encoding
