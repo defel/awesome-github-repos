@@ -1353,6 +1353,7 @@
 
 ## Python 
 
+- [elanmart/cbp-translate](https://github.com/elanmart/cbp-translate) - 
 - [mozilla/bleach](https://github.com/mozilla/bleach) - Bleach is an allowed-list-based HTML sanitizing library that escapes or strips markup and attributes
 - [pdm-project/pdm](https://github.com/pdm-project/pdm) - A modern Python package and dependency manager supporting the latest PEP standards
 - [jointakahe/takahe](https://github.com/jointakahe/takahe) - An ActivityPub/Fediverse server
@@ -1549,6 +1550,7 @@
 
 ## Rust 
 
+- [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🤖 ChatGPT Desktop Application (Mac, Windows and Linux)
 - [extism/extism](https://github.com/extism/extism) - The Universal Plug-in System. Extend anything with WebAssembly.
 - [hyperium/tonic](https://github.com/hyperium/tonic) - A native gRPC client & server implementation with async/await support.
 - [quickwit-oss/tantivy-py](https://github.com/quickwit-oss/tantivy-py) - Python bindings for Tantivy
