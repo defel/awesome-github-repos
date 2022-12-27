@@ -66,6 +66,7 @@
 
 ## C 
 
+- [JHUISI/charm](https://github.com/JHUISI/charm) - Charm: A Framework for Rapidly Prototyping Cryptosystems
 - [metacall/core](https://github.com/metacall/core) - MetaCall: The ultimate polyglot programming experience.
 - [jonas/tig](https://github.com/jonas/tig) - Text-mode interface for git
 - [reddit/snudown](https://github.com/reddit/snudown) - reddit's markdown renderer. based on sundown.
@@ -506,6 +507,7 @@
 
 ## JavaScript 
 
+- [Sh3B0/realtime-web](https://github.com/Sh3B0/realtime-web) - Comparing WebSocket, WebRTC, and WebTransport under packet loss
 - [ungoldman/format-duration](https://github.com/ungoldman/format-duration) - ⏱ Convert milliseconds to a standard duration string.
 - [mozilla/pdf.js](https://github.com/mozilla/pdf.js) - PDF Reader in JavaScript
 - [yjs/yjs](https://github.com/yjs/yjs) - Shared data types for building collaborative software
@@ -1705,6 +1707,7 @@
 
 ## TypeScript 
 
+- [aws/aws-prototyping-sdk](https://github.com/aws/aws-prototyping-sdk) - Contains useful CDK and Projen constructs vended in multiple languages
 - [amandaghassaei/gpu-io](https://github.com/amandaghassaei/gpu-io) - A GPU-accelerated computing library for physics simulations and other mathematical calculations
 - [michaelcpuckett/activitypub-core](https://github.com/michaelcpuckett/activitypub-core) - An attempt to build a spec-compliant ActivityPub core library.
 - [tailwindlabs/headlessui](https://github.com/tailwindlabs/headlessui) - Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.
