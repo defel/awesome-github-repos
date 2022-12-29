@@ -627,7 +627,7 @@
 - [hypercore-protocol/hyperdrive-schemas](https://github.com/hypercore-protocol/hyperdrive-schemas) - Protobuf/gRPC schemas for the Hyperdrive API
 - [hypercore-protocol/hyperdrive-daemon](https://github.com/hypercore-protocol/hyperdrive-daemon) - Hyperdrive, batteries included.
 - [hypercore-protocol/hyperdrive](https://github.com/hypercore-protocol/hyperdrive) - Hyperdrive is a secure, real time distributed file system
-- [hypercore-protocol/hypercore](https://github.com/hypercore-protocol/hypercore) - Hypercore is a secure, distributed append-only log.
+- [holepunchto/hypercore](https://github.com/holepunchto/hypercore) - Hypercore is a secure, distributed append-only log.
 - [lukeed/sublet](https://github.com/lukeed/sublet) - Reactive leases for data subscriptions
 - [vadimdemedes/create-pastel-app](https://github.com/vadimdemedes/create-pastel-app) - Generate a starter Pastel app
 - [danielepiccone/ditherjs](https://github.com/danielepiccone/ditherjs) - A javascript library which dithers an &lt;img&gt; using a fixed palette
@@ -1799,7 +1799,7 @@
 - [steveruizok/perfect-arrows](https://github.com/steveruizok/perfect-arrows) - Draw perfect arrows between points and shapes.
 - [roshan8/slo-tracker](https://github.com/roshan8/slo-tracker) - A tool to track SLA, SLO and Error budgets
 - [timc1/kbar](https://github.com/timc1/kbar) - fast, portable, and extensible cmd+k interface for your site
-- [exhibitionist-digital/ultra](https://github.com/exhibitionist-digital/ultra) - 🧙 Zero-Legacy Deno/React Suspense SSR Framework
+- [exhibitionist-digital/ultra](https://github.com/exhibitionist-digital/ultra) - Zero-Legacy Deno/React Suspense SSR Framework
 - [basarat/typescript-book](https://github.com/basarat/typescript-book) - :books: The definitive guide to TypeScript and possibly the best TypeScript book :book:. Free and Open Source 🌹
 - [elthrasher/cdk-dynamo-lambda-loader](https://github.com/elthrasher/cdk-dynamo-lambda-loader) - 
 - [sveltejs/svelte](https://github.com/sveltejs/svelte) - Cybernetically enhanced web apps
