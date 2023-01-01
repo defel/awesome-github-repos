@@ -1358,6 +1358,7 @@
 
 ## Python 
 
+- [zakird/crux-top-lists](https://github.com/zakird/crux-top-lists) - Downloadable snapshots of the Google Chrome (CrUX) Top Million Websites pulled from public CrUX data in Google BigQuery.
 - [elanmart/cbp-translate](https://github.com/elanmart/cbp-translate) - 
 - [mozilla/bleach](https://github.com/mozilla/bleach) - Bleach is an allowed-list-based HTML sanitizing library that escapes or strips markup and attributes
 - [pdm-project/pdm](https://github.com/pdm-project/pdm) - A modern Python package and dependency manager supporting the latest PEP standards
