@@ -287,7 +287,7 @@
 - [sachaos/viddy](https://github.com/sachaos/viddy) - 👀 A modern watch command. Time machine and pager etc.
 - [adalkiran/webrtc-nuts-and-bolts](https://github.com/adalkiran/webrtc-nuts-and-bolts) - A holistic way of understanding how WebRTC and its protocols run in practice, with code and detailed documentation.
 - [livekit/egress](https://github.com/livekit/egress) - Export and record WebRTC sessions and tracks
-- [livekit/livekit](https://github.com/livekit/livekit) - End to end stack for WebRTC. SFU media server and SDKs
+- [livekit/livekit](https://github.com/livekit/livekit) - End-to-end stack for WebRTC. SFU media server and SDKs.
 - [fullstorydev/grpcurl](https://github.com/fullstorydev/grpcurl) - Like cURL, but for gRPC: Command-line tool for interacting with gRPC servers
 - [sourcegraph/doctree](https://github.com/sourcegraph/doctree) - First-class library documentation for every language (based on tree-sitter), with symbol search & more. Lightweight single binary, run locally or self-host. Surfaces usage examples via Sourcegraph.
 - [antonmedv/fx](https://github.com/antonmedv/fx) - Terminal JSON viewer
@@ -1390,7 +1390,7 @@
 - [PyFPDF/fpdf2](https://github.com/PyFPDF/fpdf2) - Simple PDF generation for Python
 - [markqvist/Reticulum](https://github.com/markqvist/Reticulum) - The cryptography-based networking stack for building unstoppable networks with LoRa, Packet Radio, WiFi and everything in between.
 - [deter0/xborder](https://github.com/deter0/xborder) - Active window border replacement for window managers.
-- [toluaina/pgsync](https://github.com/toluaina/pgsync) - Postgres to Elasticsearch/Opensearch sync
+- [toluaina/pgsync](https://github.com/toluaina/pgsync) - Postgres to Elasticsearch/OpenSearch sync
 - [kizniche/Mycodo](https://github.com/kizniche/Mycodo) - An environmental monitoring and regulation system
 - [jaredtrog/cfplot](https://github.com/jaredtrog/cfplot) - A simple tool to generate waterfall graphs of CloudFormation Templates
 - [andreheuer/grocy-create-product](https://github.com/andreheuer/grocy-create-product) - 
