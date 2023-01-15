@@ -262,6 +262,7 @@
 
 ## Go 
 
+- [makeworld-the-better-one/didder](https://github.com/makeworld-the-better-one/didder) - An extensive, fast, and accurate command-line image dithering tool.
 - [segmentio/ksuid](https://github.com/segmentio/ksuid) - K-Sortable Globally Unique IDs
 - [terrastruct/d2](https://github.com/terrastruct/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
 - [MichaelMure/git-bug](https://github.com/MichaelMure/git-bug) - Distributed, offline-first bug tracker embedded in git, with bridges
@@ -334,7 +335,7 @@
 - [cortexproject/cortex](https://github.com/cortexproject/cortex) - A horizontally scalable, highly available, multi-tenant, long term Prometheus.
 - [furkansenharputlu/f-license](https://github.com/furkansenharputlu/f-license) - Open Source License Key Generation and Verification Tool written in Go
 - [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker
-- [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast JavaScript and CSS bundler and minifier
+- [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast bundler for the web
 - [reviewdog/reviewdog](https://github.com/reviewdog/reviewdog) - 🐶 Automated code review tool integrated with any code analysis tools regardless of programming language
 - [disneystreaming/ssm-helpers](https://github.com/disneystreaming/ssm-helpers) - Help manage AWS systems manager with helpers
 - [jenkins-x/lighthouse](https://github.com/jenkins-x/lighthouse) - 
@@ -918,7 +919,7 @@
 - [havard/node-openid](https://github.com/havard/node-openid) - OpenID for Node.js
 - [aaditmshah/augment](https://github.com/aaditmshah/augment) - The world's smallest and fastest classical JavaScript inheritance pattern.
 - [sahat/hackathon-starter](https://github.com/sahat/hackathon-starter) - A boilerplate for Node.js web applications
-- [oddoculus/scrollreveal](https://github.com/oddoculus/scrollreveal) - Animate elements as they scroll into view.
+- [jlmakes/scrollreveal](https://github.com/jlmakes/scrollreveal) - Animate elements as they scroll into view.
 - [pstadler/flightplan](https://github.com/pstadler/flightplan) - Run sequences of shell commands against local and remote hosts.
 - [broccolijs/broccoli](https://github.com/broccolijs/broccoli) - Browser compilation library – an asset pipeline for applications that run in the browser
 - [katiefenn/parker](https://github.com/katiefenn/parker) - Stylesheet analysis tool.
