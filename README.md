@@ -82,7 +82,6 @@
 - [EricssonResearch/openwebrtc](https://github.com/EricssonResearch/openwebrtc) - A cross-platform WebRTC client framework based on GStreamer
 - [phillbush/pmenu](https://github.com/phillbush/pmenu) - A pie-menu in xlib and imlib2.
 - [mackron/miniaudio](https://github.com/mackron/miniaudio) - Audio playback and capture library written in C, in a single source file.
-- [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩
 - [google/hiba](https://github.com/google/hiba) - HIBA is a system built on top of regular OpenSSH certificate-based authentication that allows to manage flexible authorization of principals on pools of target hosts without the need to push customize
 - [Streampunk/beamlambda](https://github.com/Streampunk/beamlambda) - Node.js native bindings to FFmpeg as an AWS Lambda layer.
 - [larsimmisch/pyalsaaudio](https://github.com/larsimmisch/pyalsaaudio) - ALSA wrappers for Python
@@ -1596,6 +1595,7 @@
 - [tkellogg/dura](https://github.com/tkellogg/dura) - You shouldn't ever lose your work if you're using Git
 - [sbdchd/squawk](https://github.com/sbdchd/squawk) - 🐘 linter for PostgreSQL, focused on migrations
 - [postcss-rs/postcss-rs](https://github.com/postcss-rs/postcss-rs) - 🚀 Fast and 100% API compatible postcss replacer, built in Rust
+- [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩
 - [Dusk-Labs/dim](https://github.com/Dusk-Labs/dim) - Dim, a media manager fueled by dark forces.
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
 - [jpochyla/psst](https://github.com/jpochyla/psst) - Fast and multi-platform Spotify client with native GUI
