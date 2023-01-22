@@ -518,6 +518,7 @@
 
 ## JavaScript 
 
+- [chrisguttandin/timingsrc](https://github.com/chrisguttandin/timingsrc) - A library to synchronize a MediaElement with a TimingObject.
 - [molefrog/wouter](https://github.com/molefrog/wouter) - 🥢 A minimalist-friendly ~1.5KB routing for React and Preact. Nothing else but HOOKS.
 - [TfTHacker/DashboardPlusPlus](https://github.com/TfTHacker/DashboardPlusPlus) - Demonstrating the Dashboard++ method of organizing a vault in Obsidian
 - [Sh3B0/realtime-web](https://github.com/Sh3B0/realtime-web) - Comparing WebSocket, WebRTC, and WebTransport under packet loss
