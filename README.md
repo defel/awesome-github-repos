@@ -186,6 +186,7 @@
 - [jagregory/abrash-black-book](https://github.com/jagregory/abrash-black-book) - Markdown source for Michael Abrash's Graphics Programming Black Book
 - [NsCDE/NsCDE](https://github.com/NsCDE/NsCDE) - Modern and functional CDE desktop based on FVWM
 - [jaicab/progressiveenhancement](https://github.com/jaicab/progressiveenhancement) - A site for all things progressively enhanced
+- [cncf/landscape](https://github.com/cncf/landscape) - 🌄 The Cloud Native Interactive Landscape filters and sorts hundreds of projects and products, and shows details including GitHub stars, funding or market cap, first and last commits, contributor count
 - [connors/photon](https://github.com/connors/photon) - The fastest way to build beautiful Electron apps using simple HTML and CSS
 - [qrohlf/trianglify-generator](https://github.com/qrohlf/trianglify-generator) - no-coding-required triangle pattern generator. work in progress.
 - [t32k/stylestats](https://github.com/t32k/stylestats) - StyleStats is a library to collect CSS statistics.
@@ -305,6 +306,7 @@
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - A tasty, self-hostable Git server for the command line🍦
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
 - [zorchenhimer/MovieNight](https://github.com/zorchenhimer/MovieNight) - Single instance video streaming server with integrated chat.
+- [owncast/owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming + chat out of the box.
 - [livepeer/lpms](https://github.com/livepeer/lpms) - Livepeer media server
 - [palantir/bulldozer](https://github.com/palantir/bulldozer) - GitHub Pull Request Auto-Merge Bot
 - [pion/webrtc](https://github.com/pion/webrtc) - Pure Go implementation of the WebRTC API
@@ -354,12 +356,10 @@
 - [LeanerCloud/AutoSpotting](https://github.com/LeanerCloud/AutoSpotting) - Saves up to 90% of AWS EC2 costs by automating the use of spot instances on existing AutoScaling groups. Installs in minutes using CloudFormation or Terraform. Convenient to deploy at scale using Stac
 - [glassechidna/pstore](https://github.com/glassechidna/pstore) - Environment variable-based AWS Parameter Store command shim
 - [wagoodman/bashful](https://github.com/wagoodman/bashful) - Use a yaml file to stitch together commands and bash snippits and run them with a bit of style.  Why? Because your bash script should be quiet and shy-like (...and not such a loud mouth).
-- [cncf/landscape](https://github.com/cncf/landscape) - 🌄 The Cloud Native Interactive Landscape filters and sorts hundreds of projects and products, and shows details including GitHub stars, funding or market cap, first and last commits, contributor count
 - [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
 - [gaia-pipeline/gaia](https://github.com/gaia-pipeline/gaia) - Build powerful pipelines in any programming language.
 - [go-jira/jira](https://github.com/go-jira/jira) - simple jira command line client in Go
 - [42wim/matterbridge](https://github.com/42wim/matterbridge) - bridge between mattermost, IRC, gitter, xmpp, slack, discord, telegram, rocketchat, twitch, ssh-chat, zulip, whatsapp, keybase, matrix, microsoft teams, nextcloud, mumble, vk and more with REST API (m
-- [tailwarden/komiser](https://github.com/tailwarden/komiser) - The open-source cloud resource manager
 - [jpbruinsslot/slack-term](https://github.com/jpbruinsslot/slack-term) - Slack client for your terminal
 - [mozilla/sops](https://github.com/mozilla/sops) - Simple and flexible tool for managing secrets
 - [influxdata/telegraf](https://github.com/influxdata/telegraf) - The plugin-driven server agent for collecting & reporting metrics.
@@ -427,7 +427,6 @@
 - [LingDong-/shan-shui-inf](https://github.com/LingDong-/shan-shui-inf) - Procedurally generated Chinese landscape painting.
 - [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Chinese only).
 - [binford2k/goatops](https://github.com/binford2k/goatops) - This is the source for goatops.com
-- [owncast/owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming + chat out of the box.
 - [parkerhendo/figma-interface-language](https://github.com/parkerhendo/figma-interface-language) - A simple DSL for describing interfaces that can be compiled to build a Figma mockup using both existing and new components.
 - [Neufund/ESOP](https://github.com/Neufund/ESOP) - legal and smart contracts framework to implement Employee Stock Options Plan
 - [pballett/whatfreewords](https://github.com/pballett/whatfreewords) - 
@@ -912,7 +911,7 @@
 - [kvz/metriks](https://github.com/kvz/metriks) - [UNMAINTAINED] A lightweight server graphing framework
 - [Pana/nrm](https://github.com/Pana/nrm) - NPM registry manager, fast switch between different registries: npm, cnpm, nj, taobao
 - [marmelab/gremlins.js](https://github.com/marmelab/gremlins.js) - Monkey testing library for web apps and Node.js
-- [madhums/node-express-mongoose-demo](https://github.com/madhums/node-express-mongoose-demo) - A simple demo app using node and mongodb for beginners
+- [madhums/node-express-mongoose-demo](https://github.com/madhums/node-express-mongoose-demo) - A simple demo app using node and mongodb for beginners (with docker)
 - [mllrsohn/gulp-protractor](https://github.com/mllrsohn/gulp-protractor) - gulp wrapper for protractor tests
 - [segmentio/myth](https://github.com/segmentio/myth) - A CSS preprocessor that acts like a polyfill for future versions of the spec.
 - [CodeboxIDE/gittle.js](https://github.com/CodeboxIDE/gittle.js) - Simple Node.js wrapper for the Git CLI
@@ -1901,6 +1900,7 @@
 - [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap) - The headless editor framework for web artisans.
 - [alexeyraspopov/dataclass](https://github.com/alexeyraspopov/dataclass) - Data classes for TypeScript & JavaScript
 - [kusti8/proton-native](https://github.com/kusti8/proton-native) - A React environment for cross platform desktop apps
+- [tailwarden/komiser](https://github.com/tailwarden/komiser) - The open-source cloud resource manager
 - [typeorm/typeorm](https://github.com/typeorm/typeorm) - ORM for TypeScript and JavaScript (ES7, ES6, ES5). Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron
 - [alexa/alexa-skills-kit-sdk-for-nodejs](https://github.com/alexa/alexa-skills-kit-sdk-for-nodejs) - The Alexa Skills Kit SDK for Node.js helps you get a skill up and running quickly, letting you focus on skill logic instead of boilerplate code.
 - [michaelgrosner/tribeca](https://github.com/michaelgrosner/tribeca) - A high frequency, market making cryptocurrency trading platform in node.js
