@@ -262,6 +262,7 @@
 
 ## Go 
 
+- [dapr/dapr](https://github.com/dapr/dapr) - Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.
 - [alajmo/mani](https://github.com/alajmo/mani) - :robot: CLI tool to help you manage repositories
 - [TykTechnologies/tyk](https://github.com/TykTechnologies/tyk) - Tyk Open Source API Gateway written in Go, supporting REST, GraphQL, TCP and gRPC protocols
 - [makeworld-the-better-one/didder](https://github.com/makeworld-the-better-one/didder) - An extensive, fast, and accurate command-line image dithering tool.
@@ -521,6 +522,7 @@
 
 ## JavaScript 
 
+- [alexcasalboni/aws-lambda-power-tuning](https://github.com/alexcasalboni/aws-lambda-power-tuning) - AWS Lambda Power Tuning is an open-source tool that can help you visualize and fine-tune the memory/power configuration of Lambda functions. It runs in your own AWS account - powered by AWS Step Funct
 - [chrisguttandin/timingsrc](https://github.com/chrisguttandin/timingsrc) - A library to synchronize a MediaElement with a TimingObject.
 - [molefrog/wouter](https://github.com/molefrog/wouter) - 🥢 A minimalist-friendly ~1.5KB routing for React and Preact. Nothing else but HOOKS.
 - [TfTHacker/DashboardPlusPlus](https://github.com/TfTHacker/DashboardPlusPlus) - Demonstrating the Dashboard++ method of organizing a vault in Obsidian
@@ -770,7 +772,7 @@
 - [Netflix/falcor](https://github.com/Netflix/falcor) - A JavaScript library for efficient data fetching
 - [e-oz/gardener](https://github.com/e-oz/gardener) - Protractor Helper for Jasmine
 - [Gamereclaim/httpbackendext](https://github.com/Gamereclaim/httpbackendext) - Http backend mock module for protractor
-- [oliver-moran/jimp](https://github.com/oliver-moran/jimp) - An image processing library written entirely in JavaScript for Node, with zero external or native dependencies.
+- [jimp-dev/jimp](https://github.com/jimp-dev/jimp) - An image processing library written entirely in JavaScript for Node, with zero external or native dependencies.
 - [plopjs/plop](https://github.com/plopjs/plop) - Consistency Made Simple
 - [jviotti/queryl](https://github.com/jviotti/queryl) - :mag_right: Query language to perform complex object searches
 - [SpiderOak/Encryptr](https://github.com/SpiderOak/Encryptr) - Encryptr is a zero-knowledge cloud-based password manager / e-wallet powered by Crypton
@@ -1572,6 +1574,7 @@
 
 ## Rust 
 
+- [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - RisingWave: A Distributed SQL Database for Stream Processing
 - [metalbear-co/mirrord](https://github.com/metalbear-co/mirrord) - Connect your local process and your cloud environment, and run local code in cloud conditions.
 - [aalykiot/dune](https://github.com/aalykiot/dune) - A hobby runtime for JavaScript and TypeScript 🚀
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
@@ -1728,6 +1731,8 @@
 
 ## TypeScript 
 
+- [cloudflare/wrangler2](https://github.com/cloudflare/wrangler2) - ⛅️ The CLI for Cloudflare Workers®
+- [alixaxel/chrome-aws-lambda](https://github.com/alixaxel/chrome-aws-lambda) - Chromium Binary for AWS Lambda and Google Cloud Functions
 - [alma-cdk/cross-region-parameter](https://github.com/alma-cdk/cross-region-parameter) - Store SSM Parameter into another AWS Region with AWS CDK
 - [jensmtg/influx](https://github.com/jensmtg/influx) - An alternative backlinks plugin, which displays relevant and formatted excerpts from notes with linked mentions, based on the position of mentions in the notes' hierarchical structure (bullet level in
 - [Kanaries/graphic-walker](https://github.com/Kanaries/graphic-walker) - An open source alternative to Tableau. Easily embedded as a component in web apps.
