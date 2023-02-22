@@ -1777,7 +1777,7 @@
 - [googleapis/release-please](https://github.com/googleapis/release-please) - generate release PRs based on the conventionalcommits.org spec
 - [primer/react](https://github.com/primer/react) - An implementation of GitHub's Primer Design System using React
 - [seamapi/prefixed-api-key](https://github.com/seamapi/prefixed-api-key) - Module for generating a prefixed API Key
-- [thelostword/timeline](https://github.com/thelostword/timeline) - canvas时间轴组件，支持缩放、拖拽、无限滚动
+- [thelostword/timeline](https://github.com/thelostword/timeline) - Canvas timeline, supports zooming, dragging, and infinite scrolling.       -- Canvas 时间轴组件，支持缩放、拖拽、无限滚动
 - [ariakit/ariakit](https://github.com/ariakit/ariakit) - Toolkit for building accessible web apps with React
 - [awslabs/aws-solutions-constructs](https://github.com/awslabs/aws-solutions-constructs) - The AWS Solutions Constructs Library is an open-source extension of the AWS Cloud Development Kit (AWS CDK) that provides multi-service, well-architected patterns for quickly defining solutions
 - [jonelantha/react-responsive-pagination](https://github.com/jonelantha/react-responsive-pagination) - A React pagination component which intelligently renders to the available width
