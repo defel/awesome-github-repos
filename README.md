@@ -295,7 +295,7 @@
 - [fullstorydev/grpcurl](https://github.com/fullstorydev/grpcurl) - Like cURL, but for gRPC: Command-line tool for interacting with gRPC servers
 - [sourcegraph/doctree](https://github.com/sourcegraph/doctree) - First-class library documentation for every language (based on tree-sitter), with symbol search & more. Lightweight single binary, run locally or self-host. Surfaces usage examples via Sourcegraph.
 - [antonmedv/fx](https://github.com/antonmedv/fx) - Terminal JSON viewer
-- [aler9/rtsp-simple-server](https://github.com/aler9/rtsp-simple-server) - ready-to-use RTSP / RTMP / LL-HLS / WebRTC server and proxy that allows to read, publish and proxy video and audio streams
+- [aler9/rtsp-simple-server](https://github.com/aler9/rtsp-simple-server) - ready-to-use RTSP / RTMP / LL-HLS / WebRTC server and proxy that allows to read, publish and proxy video and audio streams. Also known as MediaMTX
 - [dagger/dagger](https://github.com/dagger/dagger) - A programmable CI/CD engine that runs your pipelines in containers
 - [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) - The SSH directory ✨
 - [TomWright/dasel](https://github.com/TomWright/dasel) - Select, put and delete data from JSON, TOML, YAML, XML and CSV files with a single tool. Supports conversion between formats and can be used as a Go package.
@@ -1579,6 +1579,7 @@
 
 ## Rust 
 
+- [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Friendly React-like GUI library for desktop, web, mobile, and more.
 - [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - RisingWave: A Distributed SQL Database for Stream Processing
 - [metalbear-co/mirrord](https://github.com/metalbear-co/mirrord) - Connect your local process and your cloud environment, and run local code in cloud conditions.
 - [aalykiot/dune](https://github.com/aalykiot/dune) - A hobby runtime for JavaScript and TypeScript 🚀
