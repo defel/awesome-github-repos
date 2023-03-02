@@ -1901,7 +1901,7 @@
 - [chanind/hanzi-writer](https://github.com/chanind/hanzi-writer) - Chinese character stroke order animations and practice quizzes
 - [tomi/fromfrom](https://github.com/tomi/fromfrom) - A JS library written in TS to transform sequences of data from format to another
 - [niieani/hashids.js](https://github.com/niieani/hashids.js) - A small JavaScript library to generate YouTube-like ids from numbers.
-- [thi-ng/umbrella](https://github.com/thi-ng/umbrella) - ⛱  Broadly scoped ecosystem & mono-repository of 177 TypeScript projects for general purpose, functional, data driven development
+- [thi-ng/umbrella](https://github.com/thi-ng/umbrella) - ⛱  Broadly scoped ecosystem & mono-repository of 178 TypeScript projects for general purpose, functional, data driven development
 - [gajus/slonik](https://github.com/gajus/slonik) - A Node.js PostgreSQL client with runtime and build time type safety, and composable SQL.
 - [Unleash/unleash](https://github.com/Unleash/unleash) - Simplify your code production through the world’s largest open-source feature management platform.
 - [tutao/tutanota](https://github.com/tutao/tutanota) - Tutanota is an email service with a strong focus on security and privacy that lets you encrypt emails, contacts and calendar entries on all your devices.
