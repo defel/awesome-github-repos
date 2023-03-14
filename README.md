@@ -266,7 +266,7 @@
 - [dapr/dapr](https://github.com/dapr/dapr) - Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.
 - [alajmo/mani](https://github.com/alajmo/mani) - :robot: CLI tool to help you manage repositories
 - [TykTechnologies/tyk](https://github.com/TykTechnologies/tyk) - Tyk Open Source API Gateway written in Go, supporting REST, GraphQL, TCP and gRPC protocols
-- [makeworld-the-better-one/didder](https://github.com/makeworld-the-better-one/didder) - An extensive, fast, and accurate command-line image dithering tool.
+- [makew0rld/didder](https://github.com/makew0rld/didder) - An extensive, fast, and accurate command-line image dithering tool.
 - [segmentio/ksuid](https://github.com/segmentio/ksuid) - K-Sortable Globally Unique IDs
 - [terrastruct/d2](https://github.com/terrastruct/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
 - [MichaelMure/git-bug](https://github.com/MichaelMure/git-bug) - Distributed, offline-first bug tracker embedded in git, with bridges
@@ -1686,7 +1686,7 @@
 - [screetsec/Sudomy](https://github.com/screetsec/Sudomy) - Sudomy is a subdomain enumeration tool to collect subdomains and analyzing domains performing automated reconnaissance (recon) for bug hunting / pentesting
 - [charlax/engineering-management](https://github.com/charlax/engineering-management) - A collection of inspiring resources related to engineering management and tech leadership
 - [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
-- [felipec/sharness](https://github.com/felipec/sharness) - Shell library to test your Unix tools like Git does
+- [felipec/sharness](https://github.com/felipec/sharness) - Shell library to test your tools like Git does
 - [nerdgeneration/www.sh](https://github.com/nerdgeneration/www.sh) - Web framework in Bash
 - [sos4nt/dynamic-colors](https://github.com/sos4nt/dynamic-colors) - Change terminal colors on the fly
 - [zunit-zsh/zunit](https://github.com/zunit-zsh/zunit) - A powerful testing framework for ZSH projects
