@@ -1496,7 +1496,7 @@
 - [borgbackup/borg](https://github.com/borgbackup/borg) - Deduplicating archiver with compression and authenticated encryption.
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [soundcloud/project-dev-kpis](https://github.com/soundcloud/project-dev-kpis) - Key Performance Indicators of product development teams.
-- [chenjj/CORScanner](https://github.com/chenjj/CORScanner) - Fast CORS misconfiguration vulnerabilities scanner🍻
+- [chenjj/CORScanner](https://github.com/chenjj/CORScanner) - 🎯 Fast CORS misconfiguration vulnerabilities scanner
 - [mhagger/git-when-merged](https://github.com/mhagger/git-when-merged) - Determine when a particular commit was merged into a git branch
 - [sentialabs/coto](https://github.com/sentialabs/coto) - Undocumented AWS Management Console APIs SDK for Python
 - [stav121/i3wm-themer](https://github.com/stav121/i3wm-themer) - 🎨 Theme collection manager for i3-wm
@@ -1605,7 +1605,7 @@
 - [zoeyfyi/Boop-GTK](https://github.com/zoeyfyi/Boop-GTK) - Port of @IvanMathy's Boop to GTK, a scriptable scratchpad for developers.
 - [LemmyNet/lemmy](https://github.com/LemmyNet/lemmy) - 🐀 A link aggregator and forum for the fediverse
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
-- [zesterer/chumsky](https://github.com/zesterer/chumsky) - Blindingly quick parsers for humans with expressive errors, powerful recovery, zero-copy parsing, built-in span support, and much more. All in an easy to use package.
+- [zesterer/chumsky](https://github.com/zesterer/chumsky) - Write expressive, high-performance parsers with ease.
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
 - [PaulJuliusMartinez/jless](https://github.com/PaulJuliusMartinez/jless) - jless is a command-line JSON viewer designed for reading, exploring, and searching through JSON data.
 - [svix/svix-webhooks](https://github.com/svix/svix-webhooks) - The enterprise-ready webhooks service 🦀
@@ -1904,7 +1904,7 @@
 - [chanind/hanzi-writer](https://github.com/chanind/hanzi-writer) - Chinese character stroke order animations and practice quizzes
 - [tomi/fromfrom](https://github.com/tomi/fromfrom) - A JS library written in TS to transform sequences of data from format to another
 - [niieani/hashids.js](https://github.com/niieani/hashids.js) - A small JavaScript library to generate YouTube-like ids from numbers.
-- [thi-ng/umbrella](https://github.com/thi-ng/umbrella) - ⛱  Broadly scoped ecosystem & mono-repository of 178 TypeScript projects for general purpose, functional, data driven development
+- [thi-ng/umbrella](https://github.com/thi-ng/umbrella) - ⛱  Broadly scoped ecosystem & mono-repository of 179 TypeScript projects for general purpose, functional, data driven development
 - [gajus/slonik](https://github.com/gajus/slonik) - A Node.js PostgreSQL client with runtime and build time type safety, and composable SQL.
 - [Unleash/unleash](https://github.com/Unleash/unleash) - Simplify your code production through the world’s largest open-source feature management platform.
 - [tutao/tutanota](https://github.com/tutao/tutanota) - Tutanota is an email service with a strong focus on security and privacy that lets you encrypt emails, contacts and calendar entries on all your devices.
