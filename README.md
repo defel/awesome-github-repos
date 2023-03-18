@@ -285,7 +285,7 @@
 - [tellerops/teller](https://github.com/tellerops/teller) - Cloud native secrets management for developers - never leave your command line for secrets.
 - [cshum/imagorvideo](https://github.com/cshum/imagorvideo) - imagor video thumbnail server in Go and ffmpeg C bindings
 - [adevinta/maiao](https://github.com/adevinta/maiao) - Seamless GitHub PR management from the command-line
-- [milvus-io/milvus](https://github.com/milvus-io/milvus) - Vector database for scalable similarity search and AI applications.
+- [milvus-io/milvus](https://github.com/milvus-io/milvus) - A cloud-native vector database with high-performance and high scalability.
 - [ContainerSSH/ContainerSSH](https://github.com/ContainerSSH/ContainerSSH) - ContainerSSH: Launch containers on demand
 - [nathants/git-remote-aws](https://github.com/nathants/git-remote-aws) - encrypted git hosting should be easy
 - [maxmunzel/kvass](https://github.com/maxmunzel/kvass) - a personal key-value store
@@ -508,6 +508,7 @@
 - [tmobile/pacbot](https://github.com/tmobile/pacbot) - PacBot (Policy as Code Bot)
 - [treasure-data/digdag](https://github.com/treasure-data/digdag) - Workload Automation System
 - [failsafe-lib/failsafe](https://github.com/failsafe-lib/failsafe) - Fault tolerance and resilience patterns for the JVM
+- [facebook/react-native](https://github.com/facebook/react-native) - A framework for building native applications using React
 - [apache/flink](https://github.com/apache/flink) - Apache Flink
 - [HannahMitt/HomeMirror](https://github.com/HannahMitt/HomeMirror) - Android application powering the mirror in my house
 - [blangel/wrk](https://github.com/blangel/wrk) - A command line interface to Trello
@@ -758,7 +759,6 @@
 - [zenorocha/clipboard.js](https://github.com/zenorocha/clipboard.js) - :scissors: Modern copy to clipboard. No Flash. Just 3kb gzipped :clipboard:
 - [yaronn/wopr](https://github.com/yaronn/wopr) - A simple markup language for creating rich terminal reports, presentations and infographics
 - [benoitvallon/react-native-nw-react-calculator](https://github.com/benoitvallon/react-native-nw-react-calculator) - Mobile, desktop and website Apps with the same code
-- [facebook/react-native](https://github.com/facebook/react-native) - A framework for building native applications using React
 - [d3/d3](https://github.com/d3/d3) - Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada:
 - [brett-lempereur/icra](https://github.com/brett-lempereur/icra) - Giving the home secretary a helping hand.
 - [simov/grant](https://github.com/simov/grant) - OAuth Proxy
