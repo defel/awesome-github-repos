@@ -306,7 +306,7 @@
 - [dagger/dagger](https://github.com/dagger/dagger) - A programmable CI/CD engine that runs your pipelines in containers
 - [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) - The SSH directory ✨
 - [TomWright/dasel](https://github.com/TomWright/dasel) - Select, put and delete data from JSON, TOML, YAML, XML and CSV files with a single tool. Supports conversion between formats and can be used as a Go package.
-- [esm-dev/esm.sh](https://github.com/esm-dev/esm.sh) - A fast, global content delivery network (CDN) for modern(es2015+) web development.
+- [esm-dev/esm.sh](https://github.com/esm-dev/esm.sh) - A fast, global, &smart CDN for modern(es2015+) web development.
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
 - [wader/ansisvg](https://github.com/wader/ansisvg) - Convert ANSI to SVG
 - [lnenad/newser](https://github.com/lnenad/newser) - Newser is a simple utility to generate a pdf with you favorite news articles
@@ -1929,7 +1929,7 @@
 - [chanind/hanzi-writer](https://github.com/chanind/hanzi-writer) - Chinese character stroke order animations and practice quizzes
 - [tomi/fromfrom](https://github.com/tomi/fromfrom) - A JS library written in TS to transform sequences of data from format to another
 - [niieani/hashids.js](https://github.com/niieani/hashids.js) - A small JavaScript library to generate YouTube-like ids from numbers.
-- [thi-ng/umbrella](https://github.com/thi-ng/umbrella) - ⛱  Broadly scoped ecosystem & mono-repository of 179 TypeScript projects for general purpose, functional, data driven development
+- [thi-ng/umbrella](https://github.com/thi-ng/umbrella) - ⛱  Broadly scoped ecosystem & mono-repository of 180 TypeScript projects for general purpose, functional, data driven development
 - [gajus/slonik](https://github.com/gajus/slonik) - A Node.js PostgreSQL client with runtime and build time type safety, and composable SQL.
 - [Unleash/unleash](https://github.com/Unleash/unleash) - Simplify your code production through the world’s largest open-source feature management platform.
 - [tutao/tutanota](https://github.com/tutao/tutanota) - Tutanota is an email service with a strong focus on security and privacy that lets you encrypt emails, contacts and calendar entries on all your devices.
