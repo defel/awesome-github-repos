@@ -589,7 +589,6 @@
 - [miroslavpejic85/mirotalk](https://github.com/miroslavpejic85/mirotalk) - 🚀 WebRTC - P2P - Simple, Secure, Fast Real-Time Video Conferences Up to 4k and 60fps, compatible with all browsers and platforms.
 - [miroslavpejic85/mirotalksfu](https://github.com/miroslavpejic85/mirotalksfu) - 🏆 WebRTC - SFU - Simple, Secure, Scalable Real-Time Video Conferences Up to 4k, compatible with all browsers and platforms.
 - [tailwindlabs/tailwindcss-aspect-ratio](https://github.com/tailwindlabs/tailwindcss-aspect-ratio) - 
-- [mui/material-ui](https://github.com/mui/material-ui) - MUI Core: Ready-to-use foundational React components, free forever. It includes Material UI, which implements Google's Material Design.
 - [premasagar/pablo](https://github.com/premasagar/pablo) - Pablo is a lightweight, expressive JavaScript SVG library. Pablo creates interactive drawings with SVG (Scalable Vector Graphics), giving access to all of SVG's granularity and power.
 - [prose/gatekeeper](https://github.com/prose/gatekeeper) - Enables client-side applications to dance OAuth with GitHub.
 - [maddevsio/seo-analyzer](https://github.com/maddevsio/seo-analyzer) - The library for analyze a HTML file to show all of the SEO defects
@@ -1273,7 +1272,6 @@
 - [mtdvio/going-to-production](https://github.com/mtdvio/going-to-production) - A reference checklist for topics which should be covered before going to production.
 - [kdeldycke/awesome-falsehood](https://github.com/kdeldycke/awesome-falsehood) - 😱 Falsehoods Programmers Believe in
 - [k88hudson/git-flight-rules](https://github.com/k88hudson/git-flight-rules) - Flight rules for git
-- [maguowei/awesome-stars](https://github.com/maguowei/awesome-stars) - My Awesome List
 - [InterviewMap/CS-Interview-Knowledge-Map](https://github.com/InterviewMap/CS-Interview-Knowledge-Map) - Build the best interview map. The current content includes JS, network, browser related, performance optimization, security, framework, Git, data structure, algorithm, etc.
 - [j4p3/strimpack](https://github.com/j4p3/strimpack) - A platform for livestreamers to make a home for their audience.
 - [pzwang/lostweb](https://github.com/pzwang/lostweb) - The Web We Lost, and What Comes Next
@@ -1463,7 +1461,6 @@
 - [antiboredom/audiogrep](https://github.com/antiboredom/audiogrep) - Creates audio supercuts.
 - [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter
 - [beartype/beartype](https://github.com/beartype/beartype) - Unbearably fast near-real-time runtime type-checking in pure Python.
-- [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [MrS0m30n3/youtube-dl-gui](https://github.com/MrS0m30n3/youtube-dl-gui) - A cross platform front-end GUI of the popular youtube-dl written in wxPython.
 - [python-poetry/poetry](https://github.com/python-poetry/poetry) - Python packaging and dependency management made easy
 - [bundesAPI/deutschland](https://github.com/bundesAPI/deutschland) - Die wichtigsten APIs Deutschlands in einem Python Paket.
@@ -1856,6 +1853,7 @@
 - [jogold/cloudstructs](https://github.com/jogold/cloudstructs) - High-level constructs for AWS CDK
 - [owncast/owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming + chat out of the box.
 - [tuzig/terminal7](https://github.com/tuzig/terminal7) - A Touchable Terminal Emulator & Multiplexer hybrid app
+- [mui/material-ui](https://github.com/mui/material-ui) - MUI Core: Ready-to-use foundational React components, free forever. It includes Material UI, which implements Google's Material Design.
 - [iorate/ublacklist](https://github.com/iorate/ublacklist) - Blocks specific sites from appearing in Google search results
 - [cloudcomponents/cdk-constructs](https://github.com/cloudcomponents/cdk-constructs) - A collection of higher-level reusable cdk constructs
 - [code-hike/codehike](https://github.com/code-hike/codehike) - Marvellous code walkthroughs
