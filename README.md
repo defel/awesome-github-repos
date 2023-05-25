@@ -494,6 +494,7 @@
 
 ## Java 
 
+- [SimonHalvdansson/Harmonic-HN](https://github.com/SimonHalvdansson/Harmonic-HN) - An Android client for Hacker News
 - [vespa-engine/vespa](https://github.com/vespa-engine/vespa) - The open big data serving engine. https://vespa.ai
 - [bottomless-archive-project/library-of-alexandria](https://github.com/bottomless-archive-project/library-of-alexandria) - Library of Alexandria (LoA in short) is a project that aims to collect and archive documents from the internet.
 - [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
@@ -657,7 +658,7 @@
 - [golden-layout/golden-layout](https://github.com/golden-layout/golden-layout) - A multi window layout manager for webapps
 - [hypercore-protocol/hyperdrive-schemas](https://github.com/hypercore-protocol/hyperdrive-schemas) - Protobuf/gRPC schemas for the Hyperdrive API
 - [hypercore-protocol/hyperdrive-daemon](https://github.com/hypercore-protocol/hyperdrive-daemon) - Hyperdrive, batteries included.
-- [hypercore-protocol/hyperdrive](https://github.com/hypercore-protocol/hyperdrive) - Hyperdrive is a secure, real time distributed file system
+- [holepunchto/hyperdrive](https://github.com/holepunchto/hyperdrive) - Hyperdrive is a secure, real time distributed file system
 - [holepunchto/hypercore](https://github.com/holepunchto/hypercore) - Hypercore is a secure, distributed append-only log.
 - [lukeed/sublet](https://github.com/lukeed/sublet) - Reactive leases for data subscriptions
 - [vadimdemedes/create-pastel-app](https://github.com/vadimdemedes/create-pastel-app) - Generate a starter Pastel app
@@ -666,7 +667,6 @@
 - [stackshareio/awesome-stacks](https://github.com/stackshareio/awesome-stacks) - A curated list of tech stacks for building different applications & features
 - [parcel-bundler/parcel](https://github.com/parcel-bundler/parcel) - The zero configuration build tool for the web. 📦🚀
 - [developit/dlv](https://github.com/developit/dlv) - Safe deep property access in 120 bytes. x = dlv(obj, 'a.b.x')
-- [vadimdemedes/pastel](https://github.com/vadimdemedes/pastel) - 🎨 Next.js-like framework for CLIs made with Ink
 - [DamonOehlman/addressit](https://github.com/DamonOehlman/addressit) - Freeform Street Address Parser
 - [boltpkg/bolt](https://github.com/boltpkg/bolt) - ⚡️ Super-powered JavaScript project management
 - [danilop/ServerlessByDesign](https://github.com/danilop/ServerlessByDesign) - A visual approach to serverless development. Think. Build. Repeat.
@@ -711,7 +711,6 @@
 - [alexanderjarvis/maybe](https://github.com/alexanderjarvis/maybe) - Maybe is a type that wraps optional values
 - [jbuck/npm-readonly-mirror](https://github.com/jbuck/npm-readonly-mirror) - Mirror npm to S3
 - [automerge/automerge-classic](https://github.com/automerge/automerge-classic) - A JSON-like data structure (a CRDT) that can be modified concurrently by different users, and merged again automatically.
-- [bencodezen/vue-enterprise-boilerplate](https://github.com/bencodezen/vue-enterprise-boilerplate) - An ever-evolving, very opinionated architecture and dev environment for new Vue SPA projects using Vue CLI.
 - [anvaka/pm](https://github.com/anvaka/pm) - package managers visualization
 - [transloadit/uppy](https://github.com/transloadit/uppy) - The next open source file uploader for web browsers :dog:
 - [fastify/fastify](https://github.com/fastify/fastify) - Fast and low overhead web framework, for Node.js
@@ -1928,6 +1927,7 @@
 - [nwtgck/gh-card](https://github.com/nwtgck/gh-card) - :octocat: GitHub Repository Card for Any Web Site
 - [saisandeepvaddi/ten-hands](https://github.com/saisandeepvaddi/ten-hands) - ⚡ Simplest way to organize and run command-line tasks
 - [modernserf/zebu](https://github.com/modernserf/zebu) - A compiler for little languages in tagged template strings
+- [vadimdemedes/pastel](https://github.com/vadimdemedes/pastel) - 🎨 Next.js-like framework for CLIs made with Ink
 - [Raathigesh/majestic](https://github.com/Raathigesh/majestic) - ⚡ Zero config GUI for Jest
 - [jamiebuilds/purposefile](https://github.com/jamiebuilds/purposefile) - Make sure every file in your repo is exactly where it should be
 - [sveltejs/sapper](https://github.com/sveltejs/sapper) - The next small thing in web development, powered by Svelte
@@ -2003,6 +2003,7 @@
 - [salomonelli/best-resume-ever](https://github.com/salomonelli/best-resume-ever) - :necktie: :briefcase: Build fast :rocket: and easy multiple beautiful resumes and create your best CV ever! Made with Vue and LESS.
 - [Physiix/topsi-project-manager](https://github.com/Physiix/topsi-project-manager) - A Desktop Kanban board app.
 - [epicmaxco/epic-spinners](https://github.com/epicmaxco/epic-spinners) - Easy to use css spinners collection with Vue.js integration
+- [bencodezen/vue-enterprise-boilerplate](https://github.com/bencodezen/vue-enterprise-boilerplate) - An ever-evolving, very opinionated architecture and dev environment for new Vue SPA projects using Vue CLI.
 - [JosephSmith127/vue-loop](https://github.com/JosephSmith127/vue-loop) - Infinite content loop for Vue
 
 ## WebAssembly 
