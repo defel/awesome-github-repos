@@ -62,6 +62,7 @@
 - [Vim Script](#vim-script)
 - [Vue](#vue)
 - [WebAssembly](#webassembly)
+- [jq](#jq)
 
 ## Assembly 
 
@@ -2021,6 +2022,10 @@
 ## WebAssembly 
 
 - [AssemblyScript/assemblyscript](https://github.com/AssemblyScript/assemblyscript) - A TypeScript-like language for WebAssembly.
+
+## jq 
+
+- [wader/jqjq](https://github.com/wader/jqjq) - jq implementation of jq
 
 
 ## License
