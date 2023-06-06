@@ -221,6 +221,7 @@
 
 ## Common Lisp 
 
+- [atlas-engineer/nyxt](https://github.com/atlas-engineer/nyxt) - Nyxt - the hacker's browser.
 - [jrm-code-project/LISP-Machine](https://github.com/jrm-code-project/LISP-Machine) - Archive of LISP Machine, Inc.
 
 ## D 
