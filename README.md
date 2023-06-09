@@ -765,7 +765,6 @@
 - [zenorocha/clipboard.js](https://github.com/zenorocha/clipboard.js) - :scissors: Modern copy to clipboard. No Flash. Just 3kb gzipped :clipboard:
 - [yaronn/wopr](https://github.com/yaronn/wopr) - A simple markup language for creating rich terminal reports, presentations and infographics
 - [benoitvallon/react-native-nw-react-calculator](https://github.com/benoitvallon/react-native-nw-react-calculator) - Mobile, desktop and website Apps with the same code
-- [d3/d3](https://github.com/d3/d3) - Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada:
 - [brett-lempereur/icra](https://github.com/brett-lempereur/icra) - Giving the home secretary a helping hand.
 - [simov/grant](https://github.com/simov/grant) - OAuth Proxy
 - [mapbox/pixelmatch](https://github.com/mapbox/pixelmatch) - The smallest, simplest and fastest JavaScript pixel-level image comparison library
@@ -1451,7 +1450,7 @@
 - [captn3m0/pystitcher](https://github.com/captn3m0/pystitcher) - pystitcher stitches your PDF files together, generating nice customizable bookmarks for you using a declarative markdown file as input
 - [joostrijneveld/pwdhash-py](https://github.com/joostrijneveld/pwdhash-py) - A Python implementation of PwdHash, accessible from the command-line
 - [pathbird/poetry-kernel](https://github.com/pathbird/poetry-kernel) - Python Jupyter kernel using Poetry for reproducible notebooks
-- [GOATS2K/overpass](https://github.com/GOATS2K/overpass) - A self-hosted streaming platform with Discord authentication, auto-recording and more!
+- [GOATS2K/overpass](https://github.com/GOATS2K/overpass) - A self-hosted live video streaming platform with Discord authentication, auto-recording and more!
 - [erik/squabble](https://github.com/erik/squabble) - An extensible linter for SQL queries and migrations.
 - [aiortc/aiortc](https://github.com/aiortc/aiortc) - WebRTC and ORTC implementation for Python using asyncio
 - [tomas-mazak/cdk-dns](https://github.com/tomas-mazak/cdk-dns) - High level AWS CDK constructs for DNS infrastructure in multi-account setups
@@ -1603,7 +1602,7 @@
 
 ## Rust 
 
-- [charliermarsh/ruff](https://github.com/charliermarsh/ruff) - An extremely fast Python linter, written in Rust.
+- [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter, written in Rust.
 - [eliaperantoni/spaceman](https://github.com/eliaperantoni/spaceman) - A gRPC client from another world
 - [libsql/sqld](https://github.com/libsql/sqld) - sqld is a server mode for libSQL. Access over HTTP and WebSockets from any Edge platform
 - [str4d/age-plugin-yubikey](https://github.com/str4d/age-plugin-yubikey) - YubiKey plugin for age
@@ -1731,6 +1730,7 @@
 - [mozilla/zilla-slab](https://github.com/mozilla/zilla-slab) - Mozilla's Zilla Slab Type Family
 - [k4m4/terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy) - 💥 A curated list of Terminal frameworks, plugins & resources for CLI lovers.
 - [juliangruber/yarn-aliases](https://github.com/juliangruber/yarn-aliases) - Commonly used yarn aliases. Fork for more!
+- [d3/d3](https://github.com/d3/d3) - Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada:
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,100+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [tmux-plugins/tmux-open](https://github.com/tmux-plugins/tmux-open) - Tmux key bindings for quick opening of a highlighted file or url
 - [tmux-plugins/tmux-copycat](https://github.com/tmux-plugins/tmux-copycat) - A plugin that enhances tmux search
@@ -1792,7 +1792,7 @@
 - [Kanaries/graphic-walker](https://github.com/Kanaries/graphic-walker) - An open source alternative to Tableau. Easily embedded as a component in web apps.
 - [pshihn/venn](https://github.com/pshihn/venn) - Declarative Venn Diagrams
 - [aws/aws-prototyping-sdk](https://github.com/aws/aws-prototyping-sdk) - Contains useful CDK and Projen constructs vended in multiple languages
-- [amandaghassaei/gpu-io](https://github.com/amandaghassaei/gpu-io) - A GPU-accelerated computing library for running physics simulations and other GPGPU computations on the web
+- [amandaghassaei/gpu-io](https://github.com/amandaghassaei/gpu-io) - A GPU-accelerated computing library for running physics simulations and other GPGPU computations in a web browser.
 - [michaelcpuckett/activity-kit](https://github.com/michaelcpuckett/activity-kit) - An attempt to build a spec-compliant ActivityPub core library.
 - [tailwindlabs/headlessui](https://github.com/tailwindlabs/headlessui) - Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.
 - [hedgedoc/hedgedoc](https://github.com/hedgedoc/hedgedoc) - HedgeDoc - The best platform to write and share markdown.
