@@ -385,7 +385,7 @@
 - [whyrusleeping/gx](https://github.com/whyrusleeping/gx) - A package management tool
 - [mroth/slacknimate](https://github.com/mroth/slacknimate) - :dancers: Realtime text animation for Slack chatops
 - [hoisie/web](https://github.com/hoisie/web) - The easiest way to create web applications with Go
-- [github/hub](https://github.com/github/hub) - A command-line tool that makes git easier to use with GitHub.
+- [GrantBirki/hub](https://github.com/GrantBirki/hub) - A command-line tool that makes git easier to use with GitHub.
 - [helm/helm-classic](https://github.com/helm/helm-classic) - ⚠️(OBSOLETE) Helm Classic v1
 - [howtowhale/dvm](https://github.com/howtowhale/dvm) - Docker Version Manager
 - [resourced/resourced](https://github.com/resourced/resourced) - A single binary daemon that collects and report your server data with ease.
@@ -1175,6 +1175,7 @@
 
 ## OCaml 
 
+- [melange-re/melange-re.github.io](https://github.com/melange-re/melange-re.github.io) - Documentation site for Melange
 - [ocaml-multicore/eio](https://github.com/ocaml-multicore/eio) - Effects-based direct-style IO for multicore OCaml
 - [returntocorp/semgrep](https://github.com/returntocorp/semgrep) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
 - [savonet/liquidsoap](https://github.com/savonet/liquidsoap) - Audio and video streaming language
