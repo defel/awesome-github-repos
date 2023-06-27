@@ -92,7 +92,7 @@
 - [BarkyTheDog/catclock](https://github.com/BarkyTheDog/catclock) - Kit-Cat xclock
 - [aluntzer/gtknodes](https://github.com/aluntzer/gtknodes) - A GTK-based library to create functional flow graphs with the ability to pass arbitrary data between connected elements.
 - [tizonia/tizonia-openmax-il](https://github.com/tizonia/tizonia-openmax-il) - Command-line cloud music player for Linux with support for Spotify, Google Play Music, YouTube, SoundCloud, TuneIn, iHeartRadio, Plex servers and Chromecast devices.
-- [blblapco/xmcp](https://github.com/blblapco/xmcp) - Universal Color Picker.
+- [glblapco/xmcp](https://github.com/glblapco/xmcp) - Universal Color Picker.
 - [woltapp/blurhash](https://github.com/woltapp/blurhash) - A very compact representation of a placeholder for an image.
 - [MobilityDB/MobilityDB](https://github.com/MobilityDB/MobilityDB) - MobilityDB is a geospatial trajectory data management & analysis platform, built on PostgreSQL and PostGIS.
 - [ImVexed/muon](https://github.com/ImVexed/muon) - GPU based Electron on a diet
