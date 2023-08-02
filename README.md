@@ -234,6 +234,7 @@
 
 ## Dart 
 
+- [immich-app/immich](https://github.com/immich-app/immich) - Self-hosted photo and video backup solution directly from your mobile phone.
 - [maxkrieger/voiceliner](https://github.com/maxkrieger/voiceliner) - Braindump better.
 - [felangel/bloc](https://github.com/felangel/bloc) - A predictable state management library that helps implement the BLoC design pattern
 
@@ -2026,7 +2027,7 @@
 - [Physiix/topsi-project-manager](https://github.com/Physiix/topsi-project-manager) - A Desktop Kanban board app.
 - [epicmaxco/epic-spinners](https://github.com/epicmaxco/epic-spinners) - Easy to use css spinners collection with Vue.js integration
 - [bencodezen/vue-enterprise-boilerplate](https://github.com/bencodezen/vue-enterprise-boilerplate) - An ever-evolving, very opinionated architecture and dev environment for new Vue SPA projects using Vue CLI.
-- [JosephSmith127/vue-loop](https://github.com/JosephSmith127/vue-loop) - Infinite content loop for Vue
+- [jsmmth/vue-loop](https://github.com/jsmmth/vue-loop) - Infinite content loop for Vue
 
 ## WebAssembly 
 
