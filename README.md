@@ -161,7 +161,6 @@
 - [google/mediapipe](https://github.com/google/mediapipe) - Cross-platform, customizable ML solutions for live and streaming media.
 - [martinberlin/Remora](https://github.com/martinberlin/Remora) - Remora udpx listens to UDP short commands to trigger LED Animations. Receives ; commands from ORCΛ
 - [simdjson/simdjson](https://github.com/simdjson/simdjson) - Parsing gigabytes of JSON per second
-- [lk-geimfari/awesomo](https://github.com/lk-geimfari/awesomo) - Cool open source projects. Choose your project and get involved in Open Source development now.
 - [neuro-sys/tumblr-likes-downloader](https://github.com/neuro-sys/tumblr-likes-downloader) - Download Tumblr posts that you liked
 - [NixOS/nix](https://github.com/NixOS/nix) - Nix, the purely functional package manager
 - [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a free analytics DBMS for big data
@@ -234,6 +233,7 @@
 
 ## Dart 
 
+- [immich-app/immich](https://github.com/immich-app/immich) - Self-hosted photo and video backup solution directly from your mobile phone.
 - [maxkrieger/voiceliner](https://github.com/maxkrieger/voiceliner) - Braindump better.
 - [felangel/bloc](https://github.com/felangel/bloc) - A predictable state management library that helps implement the BLoC design pattern
 
@@ -269,6 +269,7 @@
 
 ## Go 
 
+- [segmentio/chamber](https://github.com/segmentio/chamber) - CLI for managing secrets
 - [woodpecker-ci/woodpecker](https://github.com/woodpecker-ci/woodpecker) - Woodpecker is a simple CI engine with great extensibility.
 - [jetpack-io/devbox](https://github.com/jetpack-io/devbox) - Instant, easy, and predictable development environments
 - [VictoriaMetrics/VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) - VictoriaMetrics: fast, cost-effective monitoring solution and time series database
@@ -1433,7 +1434,7 @@
 - [Miksus/rocketry](https://github.com/Miksus/rocketry) - Modern scheduling library for Python
 - [openai/whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision
 - [nat-n/poethepoet](https://github.com/nat-n/poethepoet) - A task runner that works well with poetry.
-- [PyFPDF/fpdf2](https://github.com/PyFPDF/fpdf2) - Simple PDF generation for Python
+- [py-pdf/fpdf2](https://github.com/py-pdf/fpdf2) - Simple PDF generation for Python
 - [markqvist/Reticulum](https://github.com/markqvist/Reticulum) - The cryptography-based networking stack for building unstoppable networks with LoRa, Packet Radio, WiFi and everything in between.
 - [deter0/xborder](https://github.com/deter0/xborder) - Active window border replacement for window managers.
 - [toluaina/pgsync](https://github.com/toluaina/pgsync) - Postgres to Elasticsearch/OpenSearch sync
@@ -1690,6 +1691,7 @@
 ## Scala 
 
 - [ghostdogpr/caliban](https://github.com/ghostdogpr/caliban) - Functional GraphQL library for Scala
+- [lk-geimfari/awesomo](https://github.com/lk-geimfari/awesomo) - Cool open source projects. Choose your project and get involved in Open Source development now.
 - [sangria-graphql/sangria](https://github.com/sangria-graphql/sangria) - Scala GraphQL implementation
 - [zio/zio-quill](https://github.com/zio/zio-quill) - Compile-time Language Integrated Queries for Scala
 - [optics-dev/Monocle](https://github.com/optics-dev/Monocle) - Optics library for Scala
@@ -1697,6 +1699,7 @@
 
 ## Shell 
 
+- [kasukur/auto-scale-ec2-using-sqs](https://github.com/kasukur/auto-scale-ec2-using-sqs) - 
 - [C3S/passtore](https://github.com/C3S/passtore) - Advanced `pass` management for teams
 - [getlago/lago](https://github.com/getlago/lago) - Open Source Metering and Usage Based Billing
 - [MarkCotch/molly-guard](https://github.com/MarkCotch/molly-guard) - Molly-Guard trys to block you from accidentally shutting down or rebooting Linux servers
@@ -1785,7 +1788,6 @@
 ## TypeScript 
 
 - [antfu/eslint-config](https://github.com/antfu/eslint-config) - Anthony's ESLint config presets
-- [immich-app/immich](https://github.com/immich-app/immich) - Self-hosted photo and video backup solution directly from your mobile phone.
 - [payloadcms/payload](https://github.com/payloadcms/payload) - The best way to build a modern backend + admin UI. No black magic, all TypeScript, and fully open-source, Payload is both an app framework and a headless CMS.
 - [makawtharani/openai-whisper-deployment](https://github.com/makawtharani/openai-whisper-deployment) - 
 - [scaffdog/scaffdog](https://github.com/scaffdog/scaffdog) - :dog: scaffdog is Markdown driven scaffolding tool.
