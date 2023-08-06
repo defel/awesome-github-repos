@@ -899,7 +899,7 @@
 - [vigetlabs/blendid](https://github.com/vigetlabs/blendid) - A delicious blend of gulp tasks combined into a configurable asset pipeline and static site builder
 - [bipio-server/bipio](https://github.com/bipio-server/bipio) - The bip.io API Server
 - [levelgraph/levelgraph](https://github.com/levelgraph/levelgraph) - Graph database JS style for Node.js and the Browser. Built upon LevelUp and LevelDB.
-- [mephux/komanda](https://github.com/mephux/komanda) - The IRC Client For Developers
+- [djcas9/komanda](https://github.com/djcas9/komanda) - The IRC Client For Developers
 - [montagejs/frb](https://github.com/montagejs/frb) - Functional Reactive Bindings (frb): A CommonJS package that includes functional and generic building blocks to help incrementally ensure consistent state.
 - [hapijs/hapi](https://github.com/hapijs/hapi) - The Simple, Secure Framework Developers Trust
 - [jaredhanson/node-nks-fs](https://github.com/jaredhanson/node-nks-fs) - Secure key services.
@@ -2013,7 +2013,7 @@
 - [fcpg/vim-fahrenheit](https://github.com/fcpg/vim-fahrenheit) - Dark, warm base16 Vim theme for 256-color terminals
 - [jbranchaud/til](https://github.com/jbranchaud/til) - :memo: Today I Learned
 - [JaycobA/vimfiles](https://github.com/JaycobA/vimfiles) - 
-- [mephux/vimstack](https://github.com/mephux/vimstack) - The vim configurations of a mad man.
+- [djcas9/vimstack](https://github.com/djcas9/vimstack) - The vim configurations of a mad man.
 - [editorconfig/editorconfig-vim](https://github.com/editorconfig/editorconfig-vim) - EditorConfig plugin for Vim
 - [vim-airline/vim-airline](https://github.com/vim-airline/vim-airline) - lean & mean status/tabline for vim that's light as air
 - [FredKSchott/CoVim](https://github.com/FredKSchott/CoVim) - Collaborative Editing for Vim
