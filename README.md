@@ -1808,7 +1808,7 @@
 - [alixaxel/chrome-aws-lambda](https://github.com/alixaxel/chrome-aws-lambda) - Chromium Binary for AWS Lambda and Google Cloud Functions
 - [alma-cdk/cross-region-parameter](https://github.com/alma-cdk/cross-region-parameter) - Store SSM Parameter into another AWS Region with AWS CDK
 - [jensmtg/influx](https://github.com/jensmtg/influx) - An alternative backlinks plugin, which displays relevant and formatted excerpts from notes with linked mentions, based on the position of mentions in the notes' hierarchical structure (bullet level in
-- [Kanaries/graphic-walker](https://github.com/Kanaries/graphic-walker) - An open source alternative to Tableau. Easily embedded as a component in web apps.
+- [Kanaries/graphic-walker](https://github.com/Kanaries/graphic-walker) - An open source alternative to Tableau. Easily embedded in any web apps.
 - [pshihn/venn](https://github.com/pshihn/venn) - Declarative Venn Diagrams
 - [aws/aws-prototyping-sdk](https://github.com/aws/aws-prototyping-sdk) - Contains useful CDK and Projen constructs vended in multiple languages
 - [amandaghassaei/gpu-io](https://github.com/amandaghassaei/gpu-io) - A GPU-accelerated computing library for running physics simulations and other GPGPU computations in a web browser.
