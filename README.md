@@ -168,6 +168,7 @@
 - [OpenGenus/cosmos](https://github.com/OpenGenus/cosmos) - World's largest Contributor driven code dataset | Used in Quark Search Engine, @OpenGenus IQ, OpenGenus Visual Project
 - [nginnever/zogminer](https://github.com/nginnever/zogminer) - an OpenCL Zcash GPU miner
 - [Ankoku/df-webfort](https://github.com/Ankoku/df-webfort) - Web Fortress
+- [facebook/react-native](https://github.com/facebook/react-native) - A framework for building native applications using React
 - [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
 - [google/libaddressinput](https://github.com/google/libaddressinput) - Google’s postal address library, powering Android and Chromium
 - [Yelp/MOE](https://github.com/Yelp/MOE) - A global, black box optimization engine for real world metric optimization.
@@ -270,6 +271,7 @@
 
 ## Go 
 
+- [Velocidex/velociraptor](https://github.com/Velocidex/velociraptor) - Digging Deeper....
 - [segmentio/chamber](https://github.com/segmentio/chamber) - CLI for managing secrets
 - [woodpecker-ci/woodpecker](https://github.com/woodpecker-ci/woodpecker) - Woodpecker is a simple CI engine with great extensibility.
 - [jetpack-io/devbox](https://github.com/jetpack-io/devbox) - Instant, easy, and predictable development environments
@@ -523,7 +525,6 @@
 - [tmobile/pacbot](https://github.com/tmobile/pacbot) - PacBot (Policy as Code Bot)
 - [treasure-data/digdag](https://github.com/treasure-data/digdag) - Workload Automation System
 - [failsafe-lib/failsafe](https://github.com/failsafe-lib/failsafe) - Fault tolerance and resilience patterns for the JVM
-- [facebook/react-native](https://github.com/facebook/react-native) - A framework for building native applications using React
 - [apache/flink](https://github.com/apache/flink) - Apache Flink
 - [HannahMitt/HomeMirror](https://github.com/HannahMitt/HomeMirror) - Android application powering the mirror in my house
 - [blangel/wrk](https://github.com/blangel/wrk) - A command line interface to Trello
