@@ -335,7 +335,7 @@
 - [remotemobprogramming/mob](https://github.com/remotemobprogramming/mob) - Tool for smooth git handover.
 - [maaslalani/confetty](https://github.com/maaslalani/confetty) - Confetti in your TTY
 - [kudrykv/latex-yearly-planner](https://github.com/kudrykv/latex-yearly-planner) - Digital planner for Supernote and ReMarkable // Support Ukraine 🇺🇦 https://savelife.in.ua/en
-- [ddosify/ddosify](https://github.com/ddosify/ddosify) - Comprehensive Performance Testing Platform. Available on CLI, Self-Hosted, and Cloud - https://ddosify.com 🚀
+- [ddosify/ddosify](https://github.com/ddosify/ddosify) - "Canva" of Observability. Available on CLI, Self-Hosted, and Cloud - https://ddosify.com 🚀
 - [temporalio/temporal](https://github.com/temporalio/temporal) - Temporal service
 - [rhysd/actionlint](https://github.com/rhysd/actionlint) - :octocat: Static checker for GitHub Actions workflow files
 - [pyrra-dev/pyrra](https://github.com/pyrra-dev/pyrra) - Making SLOs with Prometheus manageable, accessible, and easy to use for everyone!
@@ -484,7 +484,6 @@
 - [sovereign/sovereign](https://github.com/sovereign/sovereign) - A set of Ansible playbooks to build and maintain your own private cloud: email, calendar, contacts, file sync, IRC bouncer, VPN, and more.
 - [jaredwilli/devtools-cheatsheet](https://github.com/jaredwilli/devtools-cheatsheet) - A cheatsheet for developers using Chrome DevTools
 - [fossar/selfoss](https://github.com/fossar/selfoss) - multipurpose rss reader, live stream, mashup, aggregation web application
-- [tumblr/tumblr.js](https://github.com/tumblr/tumblr.js) - JavaScript client for the Tumblr API
 - [tent/tent.io](https://github.com/tent/tent.io) - The website for Tent — the protocol for evented data storage and decentralized communication
 - [foundation/foundation-sites](https://github.com/foundation/foundation-sites) - The most advanced responsive front-end framework in the world. Quickly create prototypes and production code for sites that work on any kind of device.
 
@@ -1043,6 +1042,7 @@
 - [chriso/redback](https://github.com/chriso/redback) - A high-level Redis library
 - [pconstr/recurrent](https://github.com/pconstr/recurrent) - A redis-backed manager of recurrent jobs, for node.js
 - [tomerdmnt/tag-input](https://github.com/tomerdmnt/tag-input) - Turns a text input into a pretty Evernote like tags input
+- [tumblr/tumblr.js](https://github.com/tumblr/tumblr.js) - JavaScript client for the Tumblr API
 - [nodejitsu/haibu](https://github.com/nodejitsu/haibu) - [Deprecated] a node.js application server - spawn your own node.js clouds, on your own hardware
 - [nodejitsu/require-analyzer](https://github.com/nodejitsu/require-analyzer) - Determine the set of requirements for a given node.js file, directory tree, or module
 - [imakewebthings/waypoints](https://github.com/imakewebthings/waypoints) - Waypoints is a library that makes it easy to execute a function whenever you scroll to an element.
@@ -1219,7 +1219,7 @@
 - [hng/tech-coops](https://github.com/hng/tech-coops) - A list of tech coops and resources concerning tech coops and worker owned cooperatives in general.
 - [djsime1/awesome-flipperzero](https://github.com/djsime1/awesome-flipperzero) - 🐬 A collection of awesome resources for the Flipper Zero device.
 - [mclaeysb/FerrarGIS](https://github.com/mclaeysb/FerrarGIS) - Using QGIS to apply a 1777 style to today's OpenStreetMap data.
-- [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is a blazingly-fast modern Rust based GPU-accelerated terminal built to make you and your team more productive.
+- [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is a modern, Rust-based terminal with AI built in so you and your team can build great software, faster.
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 - [stereobooster/type-o-rama](https://github.com/stereobooster/type-o-rama) - 👾 JS type systems interportability
 - [ArchiveBox/good-karma-kit](https://github.com/ArchiveBox/good-karma-kit) - 😇  A Docker Compose bundle to run on servers with spare CPU, RAM, disk, and bandwidth to help the world. Includes Tor, ArchiveWarrior, BOINC, and more...
