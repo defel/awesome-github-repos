@@ -1403,6 +1403,7 @@
 
 ## Python 
 
+- [aws-samples/aws-media-services-simple-vod-workflow](https://github.com/aws-samples/aws-media-services-simple-vod-workflow) - Lab that covers video conversion workflow for Video On Demand using AWS MediaConvert.
 - [autokey/autokey](https://github.com/autokey/autokey) - AutoKey, a desktop automation utility for Linux and X11.
 - [chrieke/prettymapp](https://github.com/chrieke/prettymapp) - 🖼️ Create beautiful maps from OpenStreetMap data in a streamlit webapp
 - [ZoeDekraker/eddie-smart-video-editor](https://github.com/ZoeDekraker/eddie-smart-video-editor) - Automatically edit your videos based on your voice commands while recording.
