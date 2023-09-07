@@ -998,7 +998,7 @@
 - [tj/punt](https://github.com/tj/punt) - Elegant UDP messaging for nodejs
 - [astro/bitford](https://github.com/astro/bitford) - BitTorrent Client in a Chrome Packaged App
 - [adobe/brackets](https://github.com/adobe/brackets) - An open source code editor for the web, written in JavaScript, HTML and CSS.
-- [CatDadCode/shotgun](https://github.com/CatDadCode/shotgun) - A simple UI agnostic command framework.
+- [catdadcode/shotgun](https://github.com/catdadcode/shotgun) - A simple UI agnostic command framework.
 - [remy/min.js](https://github.com/remy/min.js) - Super minimal selector and event library
 - [4ae9b8/browserhacks](https://github.com/4ae9b8/browserhacks) - An extensive list of CSS/JS browserhacks from all over the interwebs.
 - [jsbin/jsbin](https://github.com/jsbin/jsbin) - Collaborative JavaScript Debugging App
