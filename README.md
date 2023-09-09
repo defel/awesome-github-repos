@@ -170,7 +170,6 @@
 - [OpenGenus/cosmos](https://github.com/OpenGenus/cosmos) - World's largest Contributor driven code dataset | Used in Quark Search Engine, @OpenGenus IQ, OpenGenus Visual Project
 - [nginnever/zogminer](https://github.com/nginnever/zogminer) - an OpenCL Zcash GPU miner
 - [Ankoku/df-webfort](https://github.com/Ankoku/df-webfort) - Web Fortress
-- [facebook/react-native](https://github.com/facebook/react-native) - A framework for building native applications using React
 - [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
 - [google/libaddressinput](https://github.com/google/libaddressinput) - Google’s postal address library, powering Android and Chromium
 - [Yelp/MOE](https://github.com/Yelp/MOE) - A global, black box optimization engine for real world metric optimization.
@@ -526,6 +525,7 @@
 - [tmobile/pacbot](https://github.com/tmobile/pacbot) - PacBot (Policy as Code Bot)
 - [treasure-data/digdag](https://github.com/treasure-data/digdag) - Workload Automation System
 - [failsafe-lib/failsafe](https://github.com/failsafe-lib/failsafe) - Fault tolerance and resilience patterns for the JVM
+- [facebook/react-native](https://github.com/facebook/react-native) - A framework for building native applications using React
 - [apache/flink](https://github.com/apache/flink) - Apache Flink
 - [HannahMitt/HomeMirror](https://github.com/HannahMitt/HomeMirror) - Android application powering the mirror in my house
 - [blangel/wrk](https://github.com/blangel/wrk) - A command line interface to Trello
@@ -623,6 +623,7 @@
 - [shaka-project/shaka-player](https://github.com/shaka-project/shaka-player) - JavaScript player library / DASH & HLS client / MSE-EME player
 - [bcomnes/deploy-to-neocities](https://github.com/bcomnes/deploy-to-neocities) - 🐈 Github Action to deploy a folder to Neocities
 - [ai/size-limit](https://github.com/ai/size-limit) - Calculate the real cost to run your JS app or lib to keep good performance. Show error in pull request if the cost exceeds the limit.
+- [lume/autolayout](https://github.com/lume/autolayout) - Apple's Auto Layout and Visual Format Language for JavaScript (using cassowary constraints)
 - [dequelabs/axe-core](https://github.com/dequelabs/axe-core) - Accessibility engine for automated Web UI testing
 - [voxmedia/github-action-slack-notify-build](https://github.com/voxmedia/github-action-slack-notify-build) - Report GitHub Actions build status on Slack
 - [mafintosh/xache](https://github.com/mafintosh/xache) - Yet another auto expiring, max sizable cache
@@ -726,7 +727,7 @@
 - [transloadit/uppy](https://github.com/transloadit/uppy) - The next open source file uploader for web browsers :dog:
 - [fastify/fastify](https://github.com/fastify/fastify) - Fast and low overhead web framework, for Node.js
 - [TomasHubelbauer/webrtc-data-channel-demo](https://github.com/TomasHubelbauer/webrtc-data-channel-demo) - WebRTC Data Channel demo
-- [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript, fully customizable and developer-first.
+- [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable and developer-first.
 - [haltu/muuri](https://github.com/haltu/muuri) - Infinite responsive, sortable, filterable and draggable layouts
 - [aws-samples/aws-codepipeline-stepfunctions](https://github.com/aws-samples/aws-codepipeline-stepfunctions) - This project shows how to integrate AWS CodePipeline and AWS Step Functions state machines. The integration enables developers to build much simpler CodePipeline actions that perform a single task and
 - [Bogdan-Lyashenko/js-code-to-svg-flowchart](https://github.com/Bogdan-Lyashenko/js-code-to-svg-flowchart) - js2flowchart - a visualization library to convert any JavaScript code into beautiful SVG flowchart. Learn other’s code. Design your code. Refactor code. Document code. Explain code.
@@ -1928,7 +1929,6 @@
 - [growthbook/growthbook](https://github.com/growthbook/growthbook) - Open Source Feature Flagging and A/B Testing Platform
 - [Fr0stbyteR/jspatcher](https://github.com/Fr0stbyteR/jspatcher) - a Visual Programming Language (VPL) in Max/PureData style
 - [vuejs/petite-vue](https://github.com/vuejs/petite-vue) - 6kb subset of Vue optimized for progressive enhancement
-- [lume/autolayout](https://github.com/lume/autolayout) - Apple's Auto Layout and Visual Format Language for JavaScript (using cassowary constraints)
 - [hashicorp/terraform-cdk](https://github.com/hashicorp/terraform-cdk) - Define infrastructure resources using programming constructs and provision them using HashiCorp Terraform
 - [dendronhq/dendron](https://github.com/dendronhq/dendron) - The personal knowledge management (PKM) tool that grows as you do!
 - [zandaqo/structurae](https://github.com/zandaqo/structurae) - Data structures for high-performance JavaScript applications.
