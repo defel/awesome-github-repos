@@ -543,6 +543,7 @@
 ## JavaScript 
 
 - [socketsupply/socket](https://github.com/socketsupply/socket) - Build desktop & mobile apps for any OS using your favorite frontend libraries. Includes local-first and P2P as first class features.
+- [antfu/eslint-config](https://github.com/antfu/eslint-config) - Anthony's ESLint config presets
 - [afk-mario/federike](https://github.com/afk-mario/federike) - Web app to manage your mastodon account
 - [melange-re/melange-re.github.io](https://github.com/melange-re/melange-re.github.io) - Documentation site for Melange
 - [Rich-Harris/degit](https://github.com/Rich-Harris/degit) - Straightforward project scaffolding
@@ -638,7 +639,7 @@
 - [upgundecha/howtheysre](https://github.com/upgundecha/howtheysre) - A curated collection of publicly available resources on how technology and tech-savvy organizations around the world practice Site Reliability Engineering (SRE)
 - [jxom/curji](https://github.com/jxom/curji) - Turn your website's cursor into an emoji 🙊
 - [estevanmaito/windmill-dashboard-react](https://github.com/estevanmaito/windmill-dashboard-react) - ❄ A multi theme, completely accessible, ready for production dashboard.
-- [BrowserBox/BrowserBox](https://github.com/BrowserBox/BrowserBox) - :cyclone: BrowserBox is a top solution in the Zero Trust realm, using Remote Browser Isolation (RBI) and co-browsing to ensure web content never directly interacts with the user's device.
+- [BrowserBox/BrowserBox](https://github.com/BrowserBox/BrowserBox) - :cyclone: BrowserBox is Web application virtualization via zero trust remote browser isolation and secure document gateway technology. Embed secure unrestricted webviews on any device in a regular web
 - [mifi/editly](https://github.com/mifi/editly) - Slick, declarative command line video editing & API
 - [aws/aws-cdk-rfcs](https://github.com/aws/aws-cdk-rfcs) - RFCs for the AWS CDK
 - [flotwig/the-one-cert](https://github.com/flotwig/the-one-cert) - One cert to rule them all: SSL cert that is valid for any and all domains + all levels of subdomains
@@ -1799,7 +1800,6 @@
 
 - [medusajs/medusa](https://github.com/medusajs/medusa) - Building blocks for digital commerce
 - [swimlane/ngx-dnd](https://github.com/swimlane/ngx-dnd) - 🕶  Drag, Drop and Sorting Library for Angular2 and beyond!
-- [antfu/eslint-config](https://github.com/antfu/eslint-config) - Anthony's ESLint config presets
 - [immich-app/immich](https://github.com/immich-app/immich) - Self-hosted photo and video backup solution directly from your mobile phone.
 - [payloadcms/payload](https://github.com/payloadcms/payload) - The best way to build a modern backend + admin UI. No black magic, all TypeScript, and fully open-source, Payload is both an app framework and a headless CMS.
 - [makawtharani/openai-whisper-deployment](https://github.com/makawtharani/openai-whisper-deployment) - 
