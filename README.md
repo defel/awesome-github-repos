@@ -86,6 +86,7 @@
 - [mackron/miniaudio](https://github.com/mackron/miniaudio) - Audio playback and capture library written in C, in a single source file.
 - [google/hiba](https://github.com/google/hiba) - HIBA is a system built on top of regular OpenSSH certificate-based authentication that allows to manage flexible authorization of principals on pools of target hosts without the need to push customize
 - [Streampunk/beamlambda](https://github.com/Streampunk/beamlambda) - Node.js native bindings to FFmpeg as an AWS Lambda layer.
+- [savonet/liquidsoap](https://github.com/savonet/liquidsoap) - Liquidsoap is a statically typed scripting general-purpose language with dedicated operators and backend for all thing media, streaming, file generation, automation, HTTP backend and more.
 - [larsimmisch/pyalsaaudio](https://github.com/larsimmisch/pyalsaaudio) - ALSA wrappers for Python
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
 - [ligurio/unreliablefs](https://github.com/ligurio/unreliablefs) - A FUSE-based fault injection filesystem.
@@ -344,7 +345,7 @@
 - [zettelstore/zettelstore](https://github.com/zettelstore/zettelstore) - This is a mirror of https://zettelstore.de
 - [securitybunker/databunker](https://github.com/securitybunker/databunker) - Secure SDK/vault for personal records/PII built to comply with GDPR
 - [schollz/croc](https://github.com/schollz/croc) - Easily and securely send things from one computer to another :crocodile: :package:
-- [antonmedv/red](https://github.com/antonmedv/red) - Terminal log analysis tools
+- [webpod/red](https://github.com/webpod/red) - Terminal log analysis tools
 - [sorenisanerd/gotty](https://github.com/sorenisanerd/gotty) - Share your terminal as a web application
 - [evilmartians/lefthook](https://github.com/evilmartians/lefthook) - Fast and powerful Git hooks manager for any type of projects.
 - [rh12503/triangula](https://github.com/rh12503/triangula) - Generate high-quality triangulated and polygonal art from images.
@@ -443,6 +444,7 @@
 - [Daiz/frame-accurate-ish](https://github.com/Daiz/frame-accurate-ish) - Research on getting accurate video frame numbers out of HTML5 video element
 - [dddddddddzzzz/OpenHeart](https://github.com/dddddddddzzzz/OpenHeart) - The Open Heart protocol.
 - [mark-when/markwhen](https://github.com/mark-when/markwhen) - Make a cascading timeline from markdown-like text. Supports simple American/European date styles, ISO8601, images, links, locations, and more.
+- [flathunters/flathunter](https://github.com/flathunters/flathunter) - A bot to help people with their rental real-estate search. 🏠🤖
 - [LingDong-/shan-shui-inf](https://github.com/LingDong-/shan-shui-inf) - Procedurally generated Chinese landscape painting.
 - [binford2k/goatops](https://github.com/binford2k/goatops) - This is the source for goatops.com
 - [parkerhendo/figma-interface-language](https://github.com/parkerhendo/figma-interface-language) - A simple DSL for describing interfaces that can be compiled to build a Figma mockup using both existing and new components.
@@ -551,7 +553,7 @@
 - [muxinc/media-chrome](https://github.com/muxinc/media-chrome) - Custom elements (web components) for making audio and video player controls that look great in your website or app.
 - [brunoimbrizi/txt-shuffle](https://github.com/brunoimbrizi/txt-shuffle) - Customisable text shuffling animations.
 - [pulsar-edit/pulsar](https://github.com/pulsar-edit/pulsar) - A Community-led Hyper-Hackable Text Editor
-- [metrico/qryn](https://github.com/metrico/qryn) - qryn is a polyglot, lightweight high-performance observability stack. Ingest and analyze logs, metrics and traces from any agent compatible with Loki, Prometheus, OTLP, Tempo, Elastic, InfluxDB, Opent
+- [metrico/qryn](https://github.com/metrico/qryn) - qryn is an indie polyglot, lightweight high-performance observability stack, designed to ingest and analyze logs, metrics and traces from any agent compatible with Loki, Prometheus, OTLP, Tempo, Elast
 - [alexcasalboni/aws-lambda-power-tuning](https://github.com/alexcasalboni/aws-lambda-power-tuning) - AWS Lambda Power Tuning is an open-source tool that can help you visualize and fine-tune the memory/power configuration of Lambda functions. It runs in your own AWS account - powered by AWS Step Funct
 - [chrisguttandin/timingsrc](https://github.com/chrisguttandin/timingsrc) - A library to synchronize a MediaElement with a TimingObject.
 - [molefrog/wouter](https://github.com/molefrog/wouter) - 🥢 A minimalist-friendly ~1.5KB routing for React and Preact. Nothing else but HOOKS.
@@ -1193,7 +1195,6 @@
 
 - [ocaml-multicore/eio](https://github.com/ocaml-multicore/eio) - Effects-based direct-style IO for multicore OCaml
 - [returntocorp/semgrep](https://github.com/returntocorp/semgrep) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
-- [savonet/liquidsoap](https://github.com/savonet/liquidsoap) - Liquidsoap is a statically typed scripting general-purpose language with dedicated operators and backend for all thing media, streaming, file generation, automation, HTTP backend and more.
 - [reasonml/reason](https://github.com/reasonml/reason) - Simple, fast & type safe code that leverages the JavaScript & OCaml ecosystems
 
 ## Others 
@@ -1451,7 +1452,6 @@
 - [Florents-Tselai/WarcDB](https://github.com/Florents-Tselai/WarcDB) - WarcDB: Web crawl data as SQLite databases.
 - [faif/python-patterns](https://github.com/faif/python-patterns) - A collection of design patterns/idioms in Python
 - [satwikkansal/wtfpython](https://github.com/satwikkansal/wtfpython) - What the f*ck Python? 😱
-- [flathunters/flathunter](https://github.com/flathunters/flathunter) - A bot to help people with their rental real-estate search. 🏠🤖
 - [dry-python/returns](https://github.com/dry-python/returns) - Make your functions return something meaningful, typed, and safe!
 - [bookwyrm-social/bookwyrm](https://github.com/bookwyrm-social/bookwyrm) - Social reading and reviewing, decentralized with ActivityPub
 - [bashrc2/epicyon](https://github.com/bashrc2/epicyon) - ActivityPub server without Javascript, designed for simplicity and accessibility. Includes calendar, news and sharing economy features to empower your federated community.
