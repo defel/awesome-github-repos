@@ -545,7 +545,6 @@
 ## JavaScript 
 
 - [socketsupply/socket](https://github.com/socketsupply/socket) - Build desktop & mobile apps for any OS using your favorite frontend libraries. Includes local-first and P2P as first class features.
-- [antfu/eslint-config](https://github.com/antfu/eslint-config) - Anthony's ESLint config presets
 - [afk-mario/federike](https://github.com/afk-mario/federike) - Web app to manage your mastodon account
 - [melange-re/melange-re.github.io](https://github.com/melange-re/melange-re.github.io) - Documentation site for Melange
 - [Rich-Harris/degit](https://github.com/Rich-Harris/degit) - Straightforward project scaffolding
@@ -1800,6 +1799,7 @@
 
 - [medusajs/medusa](https://github.com/medusajs/medusa) - Building blocks for digital commerce
 - [swimlane/ngx-dnd](https://github.com/swimlane/ngx-dnd) - 🕶  Drag, Drop and Sorting Library for Angular2 and beyond!
+- [antfu/eslint-config](https://github.com/antfu/eslint-config) - Anthony's ESLint config presets
 - [immich-app/immich](https://github.com/immich-app/immich) - Self-hosted photo and video backup solution directly from your mobile phone.
 - [payloadcms/payload](https://github.com/payloadcms/payload) - The best way to build a modern backend + admin UI. No black magic, all TypeScript, and fully open-source, Payload is both an app framework and a headless CMS.
 - [makawtharani/openai-whisper-deployment](https://github.com/makawtharani/openai-whisper-deployment) - 
