@@ -137,7 +137,7 @@
 
 - [AGWA/git-crypt](https://github.com/AGWA/git-crypt) - Transparent file encryption in git
 - [socketsupply/socket](https://github.com/socketsupply/socket) - Build desktop & mobile apps for any OS using your favorite frontend libraries. Includes local-first and P2P as first class features.
-- [unum-cloud/usearch](https://github.com/unum-cloud/usearch) - Fastest Search & Clustering engine × for Vectors & Strings × in C++, C, Python, JavaScript, Rust, Java, Objective-C, Swift, C#, GoLang, Wolfram, and WAI 🔍
+- [unum-cloud/usearch](https://github.com/unum-cloud/usearch) - Fastest Search & Clustering engine × for Vectors & Strings × in C++, C, Python, JavaScript, Rust, Java, Objective-C, Swift, C#, GoLang, and Wolfram 🔍
 - [wwmm/easyeffects](https://github.com/wwmm/easyeffects) - Limiter, compressor, convolver, equalizer and auto volume and many other plugins for PipeWire applications
 - [duckdb/duckdb](https://github.com/duckdb/duckdb) - DuckDB is an in-process SQL OLAP Database Management System
 - [aardappel/treesheets](https://github.com/aardappel/treesheets) - TreeSheets : Free Form Data Organizer (see strlen.com/treesheets)
@@ -1629,7 +1629,7 @@
 - [typst/typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn.
 - [awslabs/mountpoint-s3](https://github.com/awslabs/mountpoint-s3) - A simple, high-throughput file client for mounting an Amazon S3 bucket as a local file system.
 - [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack GUI library for desktop, web, mobile, and more.
-- [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - The distributed streaming database: SQL stream processing with Postgres-like experience 🪄. 10X faster and more cost-efficient than Apache Flink 🚀.
+- [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - The streaming database: SQL stream processing with Postgres-like experience 🪄. 10X more cost-efficient than Apache Flink 🚀.
 - [metalbear-co/mirrord](https://github.com/metalbear-co/mirrord) - Connect your local process and your cloud environment, and run local code in cloud conditions.
 - [aalykiot/dune](https://github.com/aalykiot/dune) - A hobby runtime for JavaScript and TypeScript 🚀
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
