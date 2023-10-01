@@ -130,6 +130,7 @@
 
 ## C# # 
 
+- [wolfgarbe/PruningRadixTrie](https://github.com/wolfgarbe/PruningRadixTrie) - PruningRadixTrie - 1000x faster Radix trie for prefix search & auto-complete
 - [actions/runner](https://github.com/actions/runner) - The Runner for GitHub Actions :rocket:
 - [Relfos/Dither_Machine](https://github.com/Relfos/Dither_Machine) - Pixel dithering tool made with Unity
 
