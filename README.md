@@ -1145,6 +1145,7 @@
 - [adavis/ufo-sightings-api](https://github.com/adavis/ufo-sightings-api) - Sample GraphQL API Using Ktor and KGraphQL
 - [SimonSchubert/Braincup](https://github.com/SimonSchubert/Braincup) - Train your math skills, memory and focus.
 - [nickbutcher/plaid](https://github.com/nickbutcher/plaid) - An Android app which provides design news & inspiration as well as being an example of implementing material design.
+- [lk-geimfari/awesomo](https://github.com/lk-geimfari/awesomo) - Cool open source projects. Choose your project and get involved in Open Source development now.
 - [mixitconf/mixit](https://github.com/mixitconf/mixit) - MiXiT website
 
 ## Less 
@@ -1710,7 +1711,6 @@
 ## Scala 
 
 - [ghostdogpr/caliban](https://github.com/ghostdogpr/caliban) - Functional GraphQL library for Scala
-- [lk-geimfari/awesomo](https://github.com/lk-geimfari/awesomo) - Cool open source projects. Choose your project and get involved in Open Source development now.
 - [sangria-graphql/sangria](https://github.com/sangria-graphql/sangria) - Scala GraphQL implementation
 - [zio/zio-quill](https://github.com/zio/zio-quill) - Compile-time Language Integrated Queries for Scala
 - [optics-dev/Monocle](https://github.com/optics-dev/Monocle) - Optics library for Scala
