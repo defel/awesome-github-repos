@@ -318,7 +318,7 @@
 - [sourcegraph/doctree](https://github.com/sourcegraph/doctree) - First-class library documentation for every language (based on tree-sitter), with symbol search & more. Lightweight single binary, run locally or self-host. Surfaces usage examples via Sourcegraph.
 - [antonmedv/fx](https://github.com/antonmedv/fx) - Terminal JSON viewer & processor
 - [bluenviron/mediamtx](https://github.com/bluenviron/mediamtx) - Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy that allows to read, publish, proxy and record video and audio streams.
-- [dagger/dagger](https://github.com/dagger/dagger) - Dagger is an integrated platform to orchestrate the delivery of applications
+- [dagger/dagger](https://github.com/dagger/dagger) - Application Delivery as Code that Runs Anywhere
 - [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) - The SSH directory ✨
 - [TomWright/dasel](https://github.com/TomWright/dasel) - Select, put and delete data from JSON, TOML, YAML, XML and CSV files with a single tool. Supports conversion between formats and can be used as a Go package.
 - [esm-dev/esm.sh](https://github.com/esm-dev/esm.sh) - A fast, smart, & global CDN for modern(es2015+) web development.
@@ -557,7 +557,7 @@
 - [muxinc/media-chrome](https://github.com/muxinc/media-chrome) - Custom elements (web components) for making audio and video player controls that look great in your website or app.
 - [brunoimbrizi/txt-shuffle](https://github.com/brunoimbrizi/txt-shuffle) - Customisable text shuffling animations.
 - [pulsar-edit/pulsar](https://github.com/pulsar-edit/pulsar) - A Community-led Hyper-Hackable Text Editor
-- [metrico/qryn](https://github.com/metrico/qryn) - All-in-One polyglot, lightweight high-performance Observability stack with ClickHouse storage, designed to ingest and analyze logs, metrics and traces. Drop-in compatible with Loki, Prometheus, Opente
+- [metrico/qryn](https://github.com/metrico/qryn) - Indie Polyglot, All-in-one Observability stack with ClickHouse storage. Drop-in API compatible with Loki, Prometheus, Tempo, Opentelemetry, Elastic, InfluxDB and more! ⭐️ Star to support our work!
 - [alexcasalboni/aws-lambda-power-tuning](https://github.com/alexcasalboni/aws-lambda-power-tuning) - AWS Lambda Power Tuning is an open-source tool that can help you visualize and fine-tune the memory/power configuration of Lambda functions. It runs in your own AWS account - powered by AWS Step Funct
 - [chrisguttandin/timingsrc](https://github.com/chrisguttandin/timingsrc) - A library to synchronize a MediaElement with a TimingObject.
 - [molefrog/wouter](https://github.com/molefrog/wouter) - 🥢 A minimalist-friendly ~1.5KB routing for React and Preact. Nothing else but HOOKS.
@@ -1202,7 +1202,7 @@
 
 ## Others 
 
-- [huggingface/distil-whisper](https://github.com/huggingface/distil-whisper) - 
+- [huggingface/distil-whisper](https://github.com/huggingface/distil-whisper) - Distilled variant of Whisper for speech recognition. 6x faster, 50% smaller, within 1% word error rate.
 - [gonzalo-/hackers](https://github.com/gonzalo-/hackers) - random scenes from the movie hackers
 - [tijn/awesome-password-store](https://github.com/tijn/awesome-password-store) - A collection of awesome pass extensions and interfaces (for zx2c4's pass)
 - [libsql/sqld](https://github.com/libsql/sqld) - LibSQL with extended capabilities like HTTP protocol, replication, and more.
@@ -1628,6 +1628,7 @@
 
 ## Rust 
 
+- [bensadeh/tailspin](https://github.com/bensadeh/tailspin) - 🌀 A log file highlighter
 - [rerun-io/rerun](https://github.com/rerun-io/rerun) - Visualize streams of multimodal data. Fast, easy to use, and simple to integrate.  Built in Rust using egui.
 - [lnx-search/datacake](https://github.com/lnx-search/datacake) - Tooling for creating your own distributed systems.
 - [lnx-search/lnx](https://github.com/lnx-search/lnx) - ⚡ Insanely fast, 🌟 Feature-rich searching. lnx is the adaptable, typo tollerant deployment of the tantivy search engine.
