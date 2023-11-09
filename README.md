@@ -558,7 +558,7 @@
 - [muxinc/media-chrome](https://github.com/muxinc/media-chrome) - Custom elements (web components) for making audio and video player controls that look great in your website or app.
 - [brunoimbrizi/txt-shuffle](https://github.com/brunoimbrizi/txt-shuffle) - Customisable text shuffling animations.
 - [pulsar-edit/pulsar](https://github.com/pulsar-edit/pulsar) - A Community-led Hyper-Hackable Text Editor
-- [metrico/qryn](https://github.com/metrico/qryn) - All-in-one Polyglot Observability stack with ClickHouse storage. Drop-in API compatible with Loki, Prometheus, Tempo, Opentelemetry, Elastic, InfluxDB and more! ⭐️ Star to support ⭐️
+- [metrico/qryn](https://github.com/metrico/qryn) - All-in-one Polyglot Observability stack with ClickHouse storage. Drop-in API compatible with Loki, Prometheus, Tempo, Opentelemetry, Elastic, InfluxDB and more! Wasm powered ⭐️ Star to support ⭐️
 - [alexcasalboni/aws-lambda-power-tuning](https://github.com/alexcasalboni/aws-lambda-power-tuning) - AWS Lambda Power Tuning is an open-source tool that can help you visualize and fine-tune the memory/power configuration of Lambda functions. It runs in your own AWS account - powered by AWS Step Funct
 - [chrisguttandin/timingsrc](https://github.com/chrisguttandin/timingsrc) - A library to synchronize a MediaElement with a TimingObject.
 - [molefrog/wouter](https://github.com/molefrog/wouter) - 🥢 A minimalist-friendly ~1.5KB routing for React and Preact. Nothing else but HOOKS.
@@ -1504,7 +1504,7 @@
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A youtube-dl fork with additional features and fixes
 - [kellyjonbrazil/jc](https://github.com/kellyjonbrazil/jc) - CLI tool and python library that converts the output of popular command-line tools, file-types, and common strings to JSON, YAML, or Dictionaries. This allows piping of output to tools like jq and sim
 - [DonDebonair/slack-machine](https://github.com/DonDebonair/slack-machine) - A simple, yet powerful and extendable Slack bot
-- [bram2w/baserow](https://github.com/bram2w/baserow) - Baserow is an open source no-code database tool and Airtable alternative. This is a mirrored repository, the official one is hosted on https://gitlab.com/bramw/baserow.
+- [bram2w/baserow](https://github.com/bram2w/baserow) - The official repository is hosted on https://gitlab.com/bramw/baserow. Baserow is an open source no-code database tool and Airtable alternative.
 - [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
 - [karlicoss/promnesia](https://github.com/karlicoss/promnesia) - Another piece of your extended mind
 - [0xabu/pdfannots](https://github.com/0xabu/pdfannots) - Extracts and formats text annotations from a PDF file
@@ -1877,7 +1877,7 @@
 - [steven-tey/dub](https://github.com/steven-tey/dub) - An open-source link shortener with built-in analytics + free custom domains.
 - [type-challenges/type-challenges](https://github.com/type-challenges/type-challenges) - Collection of TypeScript type challenges with online judge
 - [windicss/windicss](https://github.com/windicss/windicss) - Next generation utility-first CSS framework.
-- [honojs/hono](https://github.com/honojs/hono) - Lightweight, Ultrafast, Web Standards
+- [honojs/hono](https://github.com/honojs/hono) - Fast, Lightweight, Web-standards
 - [jimmycallin/react-hook-videojs](https://github.com/jimmycallin/react-hook-videojs) - Easy React integration of Video.js using hooks.
 - [cloudscape-design/components](https://github.com/cloudscape-design/components) - React components for Cloudscape Design System
 - [chhoumann/PodNotes](https://github.com/chhoumann/PodNotes) - PodNotes is a plugin for Obsidian that helps the user write notes on podcasts.
