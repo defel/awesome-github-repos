@@ -374,6 +374,7 @@
 - [siderolabs/conform](https://github.com/siderolabs/conform) - Policy enforcement for your pipelines.
 - [blevesearch/bleve](https://github.com/blevesearch/bleve) - A modern text indexing library for go
 - [akarki15/dbdot](https://github.com/akarki15/dbdot) - Generate DOT description for postgres db schema
+- [lk-geimfari/awesomo](https://github.com/lk-geimfari/awesomo) - Cool open source projects. Choose your project and get involved in Open Source development now.
 - [eranyanay/1m-go-websockets](https://github.com/eranyanay/1m-go-websockets) - handling 1M websockets connections in Go
 - [LeanerCloud/AutoSpotting](https://github.com/LeanerCloud/AutoSpotting) - Saves up to 90% of AWS EC2 costs by automating the use of spot instances on existing AutoScaling groups. Installs in minutes using CloudFormation or Terraform. Convenient to deploy at scale using Stac
 - [glassechidna/pstore](https://github.com/glassechidna/pstore) - Environment variable-based AWS Parameter Store command shim
@@ -1147,7 +1148,6 @@
 - [adavis/ufo-sightings-api](https://github.com/adavis/ufo-sightings-api) - Sample GraphQL API Using Ktor and KGraphQL
 - [SimonSchubert/Braincup](https://github.com/SimonSchubert/Braincup) - Train your math skills, memory and focus.
 - [nickbutcher/plaid](https://github.com/nickbutcher/plaid) - An Android app which provides design news & inspiration as well as being an example of implementing material design.
-- [lk-geimfari/awesomo](https://github.com/lk-geimfari/awesomo) - Cool open source projects. Choose your project and get involved in Open Source development now.
 - [mixitconf/mixit](https://github.com/mixitconf/mixit) - MiXiT website
 
 ## Less 
