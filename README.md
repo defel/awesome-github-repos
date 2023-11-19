@@ -246,6 +246,7 @@
 
 ## Elixir 
 
+- [zoonk/uneebee](https://github.com/zoonk/uneebee) - Platform for creating interactive courses.
 - [membraneframework/membrane_core](https://github.com/membraneframework/membrane_core) - The core of the Membrane Framework, advanced multimedia processing framework
 - [Logflare/logflare](https://github.com/Logflare/logflare) - Never get surprised by a logging bill again. Centralized structured logging for Cloudflare, Vercel, Elixir and Javascript.
 - [asciinema/asciinema-server](https://github.com/asciinema/asciinema-server) - Web app for hosting asciicasts
@@ -733,7 +734,6 @@
 - [transloadit/uppy](https://github.com/transloadit/uppy) - The next open source file uploader for web browsers :dog:
 - [fastify/fastify](https://github.com/fastify/fastify) - Fast and low overhead web framework, for Node.js
 - [TomasHubelbauer/webrtc-data-channel-demo](https://github.com/TomasHubelbauer/webrtc-data-channel-demo) - WebRTC Data Channel demo
-- [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable and developer-first.
 - [haltu/muuri](https://github.com/haltu/muuri) - Infinite responsive, sortable, filterable and draggable layouts
 - [aws-samples/aws-codepipeline-stepfunctions](https://github.com/aws-samples/aws-codepipeline-stepfunctions) - This project shows how to integrate AWS CodePipeline and AWS Step Functions state machines. The integration enables developers to build much simpler CodePipeline actions that perform a single task and
 - [Bogdan-Lyashenko/js-code-to-svg-flowchart](https://github.com/Bogdan-Lyashenko/js-code-to-svg-flowchart) - js2flowchart - a visualization library to convert any JavaScript code into beautiful SVG flowchart. Learn other’s code. Design your code. Refactor code. Document code. Explain code.
@@ -1648,7 +1648,7 @@
 - [narrowlink/narrowlink](https://github.com/narrowlink/narrowlink) - A self-hosted solution to enable secure connectivity between devices across restricted networks like NAT or firewalls
 - [enso-org/enso](https://github.com/enso-org/enso) - Hybrid visual and textual functional programming.
 - [pola-rs/polars](https://github.com/pola-rs/polars) - Dataframes powered by a multithreaded, vectorized query engine, written in Rust
-- [openobserve/openobserve](https://github.com/openobserve/openobserve) - 🚀 10x easier, 🚀 140x lower storage cost, 🚀 high performance,  🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces).
+- [openobserve/openobserve](https://github.com/openobserve/openobserve) - 🚀 10x easier, 🚀 140x lower storage cost, 🚀 high performance,  🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces, RUM, Error tracking, Session replay).
 - [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust.
 - [eliaperantoni/spaceman](https://github.com/eliaperantoni/spaceman) - A gRPC client from another world
 - [str4d/age-plugin-yubikey](https://github.com/str4d/age-plugin-yubikey) - YubiKey plugin for age
@@ -2029,6 +2029,7 @@
 - [kusti8/proton-native](https://github.com/kusti8/proton-native) - A React environment for cross platform desktop apps
 - [kamranahmedse/driver.js](https://github.com/kamranahmedse/driver.js) - A light-weight, no-dependency, vanilla JavaScript engine to drive the user's focus across the page
 - [typeorm/typeorm](https://github.com/typeorm/typeorm) - ORM for TypeScript and JavaScript. Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.
+- [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable and developer-first.
 - [alexa/alexa-skills-kit-sdk-for-nodejs](https://github.com/alexa/alexa-skills-kit-sdk-for-nodejs) - The Alexa Skills Kit SDK for Node.js helps you get a skill up and running quickly, letting you focus on skill logic instead of boilerplate code.
 - [michaelgrosner/tribeca](https://github.com/michaelgrosner/tribeca) - A high frequency, market making cryptocurrency trading platform in node.js
 - [mobxjs/mobx](https://github.com/mobxjs/mobx) - Simple, scalable state management.
