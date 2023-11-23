@@ -69,6 +69,7 @@
 
 ## C 
 
+- [ashvardanian/StringZilla](https://github.com/ashvardanian/StringZilla) - Up to 10x faster string search, split, sort, and shuffle for long strings and multi-gigabyte files in Python and C, leveraging SIMD with just a few lines of Arm Neon and x86 AVX2 & AVX-512 intrinsics 
 - [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - Port of Facebook's LLaMA model in C/C++
 - [rvaiya/keyd](https://github.com/rvaiya/keyd) - A key remapping daemon for linux.
 - [rvaiya/warpd](https://github.com/rvaiya/warpd) - A modal keyboard-driven virtual pointer
@@ -163,7 +164,7 @@
 - [IBM/fhe-toolkit-linux](https://github.com/IBM/fhe-toolkit-linux) - IBM Fully Homomorphic Encryption Toolkit For Linux. This toolkit is a Linux based Docker container that demonstrates computing on encrypted data without decrypting it! The toolkit ships with two demos
 - [google/mediapipe](https://github.com/google/mediapipe) - Cross-platform, customizable ML solutions for live and streaming media.
 - [martinberlin/Remora](https://github.com/martinberlin/Remora) - Remora udpx listens to UDP short commands to trigger LED Animations. Receives ; commands from ORCΛ
-- [simdjson/simdjson](https://github.com/simdjson/simdjson) - Parsing gigabytes of JSON per second : used by Facebook/Meta Velox, WatermelonDB, Apache Doris, StarRocks
+- [simdjson/simdjson](https://github.com/simdjson/simdjson) - Parsing gigabytes of JSON per second : used by Facebook/Meta Velox, WatermelonDB, Apache Doris, Milvus, StarRocks
 - [neuro-sys/tumblr-likes-downloader](https://github.com/neuro-sys/tumblr-likes-downloader) - Download Tumblr posts that you liked
 - [NixOS/nix](https://github.com/NixOS/nix) - Nix, the purely functional package manager
 - [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a free analytics DBMS for big data
@@ -722,7 +723,7 @@
 - [shama/testron](https://github.com/shama/testron) - :electric_plug: CI your client side tests with Electron
 - [mafintosh/browser-server](https://github.com/mafintosh/browser-server) - A HTTP "server" in the browser that uses a service worker to allow you to easily send back your own stream of data.
 - [ungoldman/hyperaxe](https://github.com/ungoldman/hyperaxe) - 🪓 An enchanted hyperscript weapon.
-- [maxogden/cat-lobby](https://github.com/maxogden/cat-lobby) - simple http+sse based lobby server with cat themed room names
+- [max-mapper/cat-lobby](https://github.com/max-mapper/cat-lobby) - simple http+sse based lobby server with cat themed room names
 - [mafintosh/pumpify](https://github.com/mafintosh/pumpify) - Combine an array of streams into a single duplex stream using pump and duplexify
 - [klaudiosinani/taskbook](https://github.com/klaudiosinani/taskbook) - Tasks, boards & notes for the command-line habitat
 - [mikerockett/vue-routisan](https://github.com/mikerockett/vue-routisan) - Archived – new package coming soon!
@@ -812,7 +813,7 @@
 - [MostlyAdequate/mostly-adequate-guide](https://github.com/MostlyAdequate/mostly-adequate-guide) - Mostly adequate guide to FP (in javascript)
 - [danilop/LambdAuth](https://github.com/danilop/LambdAuth) - A sample authentication service implemented with a server-less architecture, using AWS Lambda to host and execute the code and Amazon DynamoDB as persistent storage. This provides a cost-efficient sol
 - [akoenig/angular-deckgrid](https://github.com/akoenig/angular-deckgrid) - A lightweight masonry-like grid for AngularJS.
-- [maxogden/javascript-for-cats](https://github.com/maxogden/javascript-for-cats) - an introduction to the javascript programming language. intended audience: cats
+- [max-mapper/javascript-for-cats](https://github.com/max-mapper/javascript-for-cats) - an introduction to the javascript programming language. intended audience: cats
 - [standard/standard](https://github.com/standard/standard) - 🌟 JavaScript Style Guide, with linter & automatic code fixer
 - [estools/escodegen](https://github.com/estools/escodegen) - ECMAScript code generator
 - [shutterstock/node-common-errors](https://github.com/shutterstock/node-common-errors) - Common error classes and utility functions
@@ -1636,6 +1637,7 @@
 
 ## Rust 
 
+- [rwf2/Rocket](https://github.com/rwf2/Rocket) - A web framework for Rust.
 - [CloudCannon/pagefind](https://github.com/CloudCannon/pagefind) - Static low-bandwidth search at scale
 - [bensadeh/tailspin](https://github.com/bensadeh/tailspin) - 🌀 A log file highlighter
 - [rerun-io/rerun](https://github.com/rerun-io/rerun) - Visualize streams of multimodal data. Fast, easy to use, and simple to integrate.  Built in Rust using egui.
