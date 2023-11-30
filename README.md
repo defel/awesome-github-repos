@@ -789,7 +789,7 @@
 - [mapbox/pixelmatch](https://github.com/mapbox/pixelmatch) - The smallest, simplest and fastest JavaScript pixel-level image comparison library
 - [jschr/electron-react-redux-boilerplate](https://github.com/jschr/electron-react-redux-boilerplate) - A minimal boilerplate to get started with Electron, React and Redux.
 - [williamngan/roll](https://github.com/williamngan/roll) - roll and scroll tracking -- a tiny javascript library
-- [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime :sparkles::turtle::rocket::sparkles:
+- [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime ✨🐢🚀✨
 - [avajs/ava](https://github.com/avajs/ava) - Node.js test runner that lets you develop with confidence 🚀
 - [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces.
 - [angular/angular.js](https://github.com/angular/angular.js) - AngularJS - HTML enhanced for web apps!
@@ -1641,6 +1641,7 @@
 
 ## Rust 
 
+- [quickwit-oss/quickwit](https://github.com/quickwit-oss/quickwit) - Sub-second search & analytics engine on cloud storage
 - [rwf2/Rocket](https://github.com/rwf2/Rocket) - A web framework for Rust.
 - [CloudCannon/pagefind](https://github.com/CloudCannon/pagefind) - Static low-bandwidth search at scale
 - [bensadeh/tailspin](https://github.com/bensadeh/tailspin) - 🌀 A log file highlighter
