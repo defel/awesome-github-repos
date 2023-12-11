@@ -279,6 +279,7 @@
 
 ## Go 
 
+- [weaveworks-liquidmetal/flintlock](https://github.com/weaveworks-liquidmetal/flintlock) - Lock, Stock, and Two Smoking MicroVMs. Create and manage the lifecycle of MicroVMs backed by containerd.
 - [securisec/cliam](https://github.com/securisec/cliam) - Cloud agnostic IAM permissions enumerator
 - [davesheldon/nap](https://github.com/davesheldon/nap) - Nap is a command-line tool that utilizes YAML files to test APIs.
 - [turbot/steampipe](https://github.com/turbot/steampipe) - Use SQL to instantly query your cloud services (AWS, Azure, GCP and more). Open source CLI. No DB required.
@@ -1215,6 +1216,7 @@
 
 ## Others 
 
+- [iknowjason/Awesome-CloudSec-Labs](https://github.com/iknowjason/Awesome-CloudSec-Labs) - Awesome free cloud native security learning labs.  Includes CTF, self-hosted workshops, guided vulnerability labs, and research labs.
 - [VulnHub/ctf-writeups](https://github.com/VulnHub/ctf-writeups) - CTF write-ups from the VulnHub CTF Team
 - [pulumiverse/awesome-pulumi](https://github.com/pulumiverse/awesome-pulumi) - Curated list of resources on Pulumi
 - [TaptuIT/awesome-devsecops](https://github.com/TaptuIT/awesome-devsecops) - Curating the best DevSecOps resources and tooling.
@@ -1650,6 +1652,7 @@
 
 ## Rust 
 
+- [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
 - [quickwit-oss/quickwit](https://github.com/quickwit-oss/quickwit) - Sub-second search & analytics engine on cloud storage
 - [rwf2/Rocket](https://github.com/rwf2/Rocket) - A web framework for Rust.
 - [CloudCannon/pagefind](https://github.com/CloudCannon/pagefind) - Static low-bandwidth search at scale
