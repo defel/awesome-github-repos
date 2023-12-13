@@ -282,7 +282,7 @@
 - [weaveworks-liquidmetal/flintlock](https://github.com/weaveworks-liquidmetal/flintlock) - Lock, Stock, and Two Smoking MicroVMs. Create and manage the lifecycle of MicroVMs backed by containerd.
 - [securisec/cliam](https://github.com/securisec/cliam) - Cloud agnostic IAM permissions enumerator
 - [davesheldon/nap](https://github.com/davesheldon/nap) - Nap is a command-line tool that utilizes YAML files to test APIs.
-- [turbot/steampipe](https://github.com/turbot/steampipe) - Use SQL to instantly query your cloud services (AWS, Azure, GCP and more). Open source CLI. No DB required.
+- [turbot/steampipe](https://github.com/turbot/steampipe) - Zero-ETL, infinite possibilities. Live query APIs, code & more with SQL. No DB required.
 - [qonto/prometheus-rds-exporter](https://github.com/qonto/prometheus-rds-exporter) - Prometheus exporter for AWS RDS
 - [antonmedv/walk](https://github.com/antonmedv/walk) - Terminal file manager
 - [Velocidex/velociraptor](https://github.com/Velocidex/velociraptor) - Digging Deeper....
@@ -573,6 +573,7 @@
 - [jdan/magic-hotline](https://github.com/jdan/magic-hotline) - A web server which generates its HTML using ChatGPT, using only the URL
 - [muxinc/media-chrome](https://github.com/muxinc/media-chrome) - Custom elements (web components) for making audio and video player controls that look great in your website or app.
 - [brunoimbrizi/txt-shuffle](https://github.com/brunoimbrizi/txt-shuffle) - Customisable text shuffling animations.
+- [enricoros/big-AGI](https://github.com/enricoros/big-AGI) - 💬 Personal AI application powered by GPT-4 and beyond, with AI personas, AGI functions, text-to-image, voice, response streaming, code highlighting and execution, PDF import, presets for developers, m
 - [pulsar-edit/pulsar](https://github.com/pulsar-edit/pulsar) - A Community-led Hyper-Hackable Text Editor
 - [metrico/qryn](https://github.com/metrico/qryn) - All-in-one Polyglot Observability stack with ClickHouse storage. Lightweight & Drop-in API compatible with Loki, Prometheus, Tempo, Opentelemetry, Elastic, InfluxDB and more! wasm powered ⭐️ Star to s
 - [alexcasalboni/aws-lambda-power-tuning](https://github.com/alexcasalboni/aws-lambda-power-tuning) - AWS Lambda Power Tuning is an open-source tool that can help you visualize and fine-tune the memory/power configuration of Lambda functions. It runs in your own AWS account - powered by AWS Step Funct
@@ -1178,7 +1179,7 @@
 - [leandromoreira/cdn-up-and-running](https://github.com/leandromoreira/cdn-up-and-running) - CDN Up and Running - Building a CDN from Scratch to Learn about CDN, Nginx, Lua, Prometheus, Grafana, Load balancing, and Containers.
 - [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim) - 🌙 LunarVim is an IDE layer for Neovim. Completely free and community driven.
 - [rebelot/kanagawa.nvim](https://github.com/rebelot/kanagawa.nvim) - NeoVim dark colorscheme inspired by the colors of the famous painting by Katsushika Hokusai.
-- [NeogitOrg/neogit](https://github.com/NeogitOrg/neogit) - magit for neovim
+- [NeogitOrg/neogit](https://github.com/NeogitOrg/neogit) - An interactive and powerful Git interface for Neovim, inspired by Magit
 - [koreader/koreader](https://github.com/koreader/koreader) - An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices
 - [Kong/kong](https://github.com/Kong/kong) - 🦍 The Cloud-Native API Gateway
 
@@ -1712,7 +1713,7 @@
 - [Dusk-Labs/dim](https://github.com/Dusk-Labs/dim) - Dim, a media manager fueled by dark forces.
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
 - [jpochyla/psst](https://github.com/jpochyla/psst) - Fast and multi-platform Spotify client with native GUI
-- [soywod/himalaya](https://github.com/soywod/himalaya) - CLI to manage emails.
+- [soywod/himalaya](https://github.com/soywod/himalaya) - CLI to manage emails
 - [zellij-org/zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included
 - [hediet/slideo](https://github.com/hediet/slideo) - This tool uses OpenCV to automatically synchronize slides with videos that show these slides.
 - [trussed-dev/trussed](https://github.com/trussed-dev/trussed) - Modern Cryptographic Firmware
@@ -1870,7 +1871,6 @@
 - [boyney123/eventcatalog](https://github.com/boyney123/eventcatalog) - Discover, Explore and Document your Event Driven Architectures powered by Markdown.
 - [winglang/wing](https://github.com/winglang/wing) - The Wing Programming Language
 - [unjs/magicast](https://github.com/unjs/magicast) - 🧀  Programmatically modify JavaScript and TypeScript source codes with a simplified, elegant and familiar syntax powered by recast and babel.
-- [enricoros/big-AGI](https://github.com/enricoros/big-AGI) - 💬 Personal AI application powered by GPT-4 and beyond, with AI personas, AGI functions, text-to-image, voice, response streaming, code highlighting and execution, PDF import, presets for developers, m
 - [RafalWilinski/edge-graphql-dynamodb-api](https://github.com/RafalWilinski/edge-graphql-dynamodb-api) - Serverless GraphQL API on Edge with Global DynamoDB Tables
 - [motion-canvas/motion-canvas](https://github.com/motion-canvas/motion-canvas) - Visualize Your Ideas With Code
 - [highlight/highlight](https://github.com/highlight/highlight) - highlight.io: The open source, full-stack monitoring platform. Error monitoring, session replay, logging and more.
