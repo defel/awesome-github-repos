@@ -280,6 +280,7 @@
 
 ## Go 
 
+- [boring-registry/boring-registry](https://github.com/boring-registry/boring-registry) - Terraform Provider and Module Registry
 - [chaosblade-io/chaosblade](https://github.com/chaosblade-io/chaosblade) - An easy to use and powerful chaos engineering experiment toolkit.（阿里巴巴开源的一款简单易用、功能强大的混沌实验注入工具）
 - [weaveworks-liquidmetal/flintlock](https://github.com/weaveworks-liquidmetal/flintlock) - Lock, Stock, and Two Smoking MicroVMs. Create and manage the lifecycle of MicroVMs backed by containerd.
 - [securisec/cliam](https://github.com/securisec/cliam) - Cloud agnostic IAM permissions enumerator
@@ -1851,6 +1852,7 @@
 
 ## TypeScript 
 
+- [antfu/shikiji](https://github.com/antfu/shikiji) - An ESM-focused rewrite of shiki, and a little bit more.
 - [slauth-io/slauth-cli](https://github.com/slauth-io/slauth-cli) - CLI that scans directories for Cloud Provider SDK usage generates the IAM Policies/Permissions needed
 - [cap-so/cap](https://github.com/cap-so/cap) - Beautiful, shareable screen recordings. Open-source and privacy-friendly.
 - [cursorless-dev/cursorless](https://github.com/cursorless-dev/cursorless) - Don't let the cursor slow you down
