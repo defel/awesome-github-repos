@@ -131,6 +131,7 @@
 
 ## C# # 
 
+- [tooll3/t3](https://github.com/tooll3/t3) - Tooll 3 is an open source software to create realtime motion graphics.
 - [wolfgarbe/PruningRadixTrie](https://github.com/wolfgarbe/PruningRadixTrie) - PruningRadixTrie - 1000x faster Radix trie for prefix search & auto-complete
 - [actions/runner](https://github.com/actions/runner) - The Runner for GitHub Actions :rocket:
 - [Relfos/Dither_Machine](https://github.com/Relfos/Dither_Machine) - Pixel dithering tool made with Unity
@@ -279,6 +280,8 @@
 
 ## Go 
 
+- [mathaou/termdbms](https://github.com/mathaou/termdbms) - A TUI for viewing and editing database files.
+- [maypok86/otter](https://github.com/maypok86/otter) - Fastest golang in-memory cache library based on S3-FIFO algorithm. many times faster than Ristretto and friends
 - [boring-registry/boring-registry](https://github.com/boring-registry/boring-registry) - Terraform Provider and Module Registry
 - [chaosblade-io/chaosblade](https://github.com/chaosblade-io/chaosblade) - An easy to use and powerful chaos engineering experiment toolkit.（阿里巴巴开源的一款简单易用、功能强大的混沌实验注入工具）
 - [weaveworks-liquidmetal/flintlock](https://github.com/weaveworks-liquidmetal/flintlock) - Lock, Stock, and Two Smoking MicroVMs. Create and manage the lifecycle of MicroVMs backed by containerd.
