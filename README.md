@@ -1440,6 +1440,7 @@
 
 ## Python 
 
+- [cloudevents/spec](https://github.com/cloudevents/spec) - CloudEvents Specification
 - [liquidctl/liquidctl](https://github.com/liquidctl/liquidctl) - Cross-platform CLI and Python drivers for AIO liquid coolers and other devices
 - [Cryptonite-MIT/Write-ups](https://github.com/Cryptonite-MIT/Write-ups) - Cryptonite is the official ethical hacking and cybersecurity team of Manipal Institute of Technology. At Cryptonite, our areas of focus are cryptography, forensics, research, reverse engineering and w
 - [GreyDGL/PentestGPT](https://github.com/GreyDGL/PentestGPT) - A GPT-empowered penetration testing tool
