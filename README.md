@@ -282,6 +282,7 @@
 
 ## Go 
 
+- [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
 - [mathaou/termdbms](https://github.com/mathaou/termdbms) - A TUI for viewing and editing database files.
 - [maypok86/otter](https://github.com/maypok86/otter) - Fastest golang in-memory cache library based on S3-FIFO algorithm. many times faster than Ristretto and friends
 - [boring-registry/boring-registry](https://github.com/boring-registry/boring-registry) - Terraform Provider and Module Registry
@@ -473,6 +474,7 @@
 - [Neufund/ESOP](https://github.com/Neufund/ESOP) - legal and smart contracts framework to implement Employee Stock Options Plan
 - [pballett/whatfreewords](https://github.com/pballett/whatfreewords) - 
 - [andybrewer/mvp](https://github.com/andybrewer/mvp) - MVP.css — Minimalist classless CSS stylesheet for HTML elements
+- [prabhuignoto/react-chrono](https://github.com/prabhuignoto/react-chrono) - 🕑 Modern Timeline Component for React
 - [WebReflection/hyperHTML](https://github.com/WebReflection/hyperHTML) - A Fast & Light Virtual DOM Alternative
 - [cryptoanarchywiki/cryptoanarchywiki.github.io](https://github.com/cryptoanarchywiki/cryptoanarchywiki.github.io) - Encryption, digital money, anonymous networks, digital pseudonyms, zero knowledge, reputations, information markets, black markets, collapse of governments. - Timothy C. May
 - [hundredrabbits/100r.co](https://github.com/hundredrabbits/100r.co) - Official Website
@@ -1693,7 +1695,7 @@
 - [typst/typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn.
 - [awslabs/mountpoint-s3](https://github.com/awslabs/mountpoint-s3) - A simple, high-throughput file client for mounting an Amazon S3 bucket as a local file system.
 - [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack GUI library for desktop, web, mobile, and more.
-- [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - The distributed streaming database engineered to offer the simplest and most cost-efficient way for stream processing and management.
+- [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - The distributed streaming database. Engineered to offer the simplest and most cost-efficient way for stream processing and management.
 - [metalbear-co/mirrord](https://github.com/metalbear-co/mirrord) - Connect your local process and your cloud environment, and run local code in cloud conditions.
 - [aalykiot/dune](https://github.com/aalykiot/dune) - A hobby runtime for JavaScript and TypeScript 🚀
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
@@ -2023,7 +2025,6 @@
 - [pmndrs/valtio](https://github.com/pmndrs/valtio) - 💊 Valtio makes proxy-state simple  for React and Vanilla
 - [johannesjo/super-productivity](https://github.com/johannesjo/super-productivity) - Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, Gitlab, GitHub and Open Project.
 - [seek-oss/treat](https://github.com/seek-oss/treat) - :candy: Themeable, statically extracted CSS‑in‑JS with near‑zero runtime.
-- [prabhuignoto/react-chrono](https://github.com/prabhuignoto/react-chrono) - 🕑 Modern Timeline Component for React
 - [awslabs/diagram-maker](https://github.com/awslabs/diagram-maker) - A library to display an interactive editor for any graph-like data.
 - [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast!
 - [maxchehab/phelia](https://github.com/maxchehab/phelia) - ⚡ A reactive Slack application framework.
