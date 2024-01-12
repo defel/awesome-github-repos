@@ -456,6 +456,7 @@
 
 ## HCL 
 
+- [secdevops-cuse/CyberRange](https://github.com/secdevops-cuse/CyberRange) - The Open-Source AWS Cyber Range
 - [100daysofdevops/100daysofdevops](https://github.com/100daysofdevops/100daysofdevops) - 
 - [davidbernegger/VueVelocidad](https://github.com/davidbernegger/VueVelocidad) - Vue Snippets for fast Development
 - [AwakeningSV/live-infrastructure](https://github.com/AwakeningSV/live-infrastructure) - Live video transcoding infrastructure
@@ -1134,6 +1135,7 @@
 
 ## Jupyter Notebook 
 
+- [The-Art-of-Hacking/h4cker](https://github.com/The-Art-of-Hacking/h4cker) - This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking, bug bounties, digital forensics and incident response (DFIR), artif
 - [thomasfricke/training-kubernetes-security](https://github.com/thomasfricke/training-kubernetes-security) - 
 - [sanchit-gandhi/whisper-jax](https://github.com/sanchit-gandhi/whisper-jax) - JAX implementation of OpenAI's Whisper model for up to 70x speed-up on TPU.
 - [suno-ai/bark](https://github.com/suno-ai/bark) - 🔊 Text-Prompted Generative Audio Model
@@ -1443,6 +1445,7 @@
 
 ## Python 
 
+- [trustedsec/ptf](https://github.com/trustedsec/ptf) - The Penetration Testers Framework (PTF) is a way for modular support for up-to-date tools.
 - [tamilbotnet/qping](https://github.com/tamilbotnet/qping) - qping: qping is simple python tool for finding bunch of live subdomains.Generally subdomain enumeration tools (Eg. Sublister) provide a list that consists of both Live and down subdomains. Hence the u
 - [luong-komorebi/Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) - 🐧 A list of awesome Linux softwares
 - [cloudevents/spec](https://github.com/cloudevents/spec) - CloudEvents Specification
@@ -2078,7 +2081,7 @@
 - [vaneenige/phenomenon](https://github.com/vaneenige/phenomenon) - ⚡️ A fast 2kB low-level WebGL API.
 - [prisma-labs/graphqlgen](https://github.com/prisma-labs/graphqlgen) - ⚙️ Generate type-safe resolvers based upon your GraphQL Schema
 - [mixn/carbon-now-cli](https://github.com/mixn/carbon-now-cli) - 🎨 Beautiful images of your code — from right inside your terminal.
-- [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap) - The headless editor framework for web artisans.
+- [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap) - The headless rich text editor framework for web artisans.
 - [heiseonline/embetty](https://github.com/heiseonline/embetty) - 🐙 Embetty displays remote content like tweets or YouTube videos without compromising your privacy.
 - [alexeyraspopov/dataclass](https://github.com/alexeyraspopov/dataclass) - Data classes for TypeScript & JavaScript
 - [kusti8/proton-native](https://github.com/kusti8/proton-native) - A React environment for cross platform desktop apps
