@@ -283,6 +283,7 @@
 
 ## Go 
 
+- [turbot/flowpipe](https://github.com/turbot/flowpipe) - Flowpipe is a cloud scripting engine. Automation and workflow to connect your clouds to the people, systems and data that matters.
 - [tomnomnom/gron](https://github.com/tomnomnom/gron) - Make JSON greppable!
 - [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
 - [mathaou/termdbms](https://github.com/mathaou/termdbms) - A TUI for viewing and editing database files.
@@ -1152,6 +1153,7 @@
 
 ## Kotlin 
 
+- [awslabs/aws-sdk-kotlin](https://github.com/awslabs/aws-sdk-kotlin) - Multiplatform AWS SDK for Kotlin
 - [square/moshi](https://github.com/square/moshi) - A modern JSON library for Kotlin and Java.
 - [Automattic/pocket-casts-android](https://github.com/Automattic/pocket-casts-android) - Pocket Casts Android 🎧
 - [JetBrains/skiko](https://github.com/JetBrains/skiko) - Kotlin MPP bindings to Skia
@@ -1161,7 +1163,6 @@
 - [darthmachina/obsidian-kotlin-plugin](https://github.com/darthmachina/obsidian-kotlin-plugin) - Base Obsidian plugin written in Kotlin
 - [awslabs/smithy-kotlin](https://github.com/awslabs/smithy-kotlin) - Smithy code generator for Kotlin (in development)
 - [Kotlin/kotlinx-kover](https://github.com/Kotlin/kotlinx-kover) - 
-- [awslabs/aws-sdk-kotlin](https://github.com/awslabs/aws-sdk-kotlin) - Multiplatform AWS SDK for Kotlin
 - [JakeWharton/mosaic](https://github.com/JakeWharton/mosaic) - An experimental tool for building console UI in Kotlin using the Jetpack Compose compiler/runtime
 - [tasks/tasks](https://github.com/tasks/tasks) - Bringing Astrid Tasks back from the dead
 - [ionspin/kotlin-multiplatform-libsodium](https://github.com/ionspin/kotlin-multiplatform-libsodium) - A kotlin multiplatform wrapper for libsodium, using directly built libsodium for jvm and native, and libsodium.js for js targets.
@@ -1877,6 +1878,8 @@
 
 ## TypeScript 
 
+- [code-of-chaos/obsidian-colored_tags_wrangler](https://github.com/code-of-chaos/obsidian-colored_tags_wrangler) - Obsidian Plugin : Assign colors to tags. Has integrations with other plugins, like Kanban.
+- [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, execute as a script, deploy as an app, and version with git.
 - [antfu/shikiji](https://github.com/antfu/shikiji) - A syntax highlighter based on TextMate grammars. ESM rewrite of shiki, with more features and capabilities.
 - [slauth-io/slauth-cli](https://github.com/slauth-io/slauth-cli) - CLI that scans directories for Cloud Provider SDK usage generates the IAM Policies/Permissions needed
 - [cap-so/cap](https://github.com/cap-so/cap) - Beautiful, shareable screen recordings. Open-source and privacy-friendly.
