@@ -389,7 +389,7 @@
 - [hoanhan101/ultimate-go](https://github.com/hoanhan101/ultimate-go) - The Ultimate Go Study Guide
 - [jroimartin/gocui](https://github.com/jroimartin/gocui) - Minimalist Go package aimed at creating Console User Interfaces.
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
-- [flipt-io/flipt](https://github.com/flipt-io/flipt) - Enterprise-ready, GRPC powered, GitOps enabled, CloudNative feature management solution
+- [flipt-io/flipt](https://github.com/flipt-io/flipt) - Enterprise-ready, GitOps enabled, CloudNative feature management solution
 - [nomasters/handshake](https://github.com/nomasters/handshake) - a peculiar chat app for strange times
 - [siderolabs/conform](https://github.com/siderolabs/conform) - Policy enforcement for your pipelines.
 - [blevesearch/bleve](https://github.com/blevesearch/bleve) - A modern text indexing library for go
@@ -572,6 +572,7 @@
 
 ## JavaScript 
 
+- [maptiler/tileserver-gl](https://github.com/maptiler/tileserver-gl) - Vector and raster maps with GL styles. Server side rendering by MapLibre GL Native. Map tile server for MapLibre GL JS, Android, iOS, Leaflet, OpenLayers, GIS via WMTS, etc.
 - [vanila-io/wireflow](https://github.com/vanila-io/wireflow) - Wireflow - user flow chart real-time collaborative tool
 - [kgscialdone/facet](https://github.com/kgscialdone/facet) - Web components made simple and declarative
 - [good-lly/lowstorage](https://github.com/good-lly/lowstorage) - Simple, zero-dependency, object pseudo-database for Cloudflare Workers using R2 bucket. 🧡💾
@@ -586,7 +587,6 @@
 - [jdan/magic-hotline](https://github.com/jdan/magic-hotline) - A web server which generates its HTML using ChatGPT, using only the URL
 - [muxinc/media-chrome](https://github.com/muxinc/media-chrome) - Custom elements (web components) for making audio and video player controls that look great in your website or app.
 - [brunoimbrizi/txt-shuffle](https://github.com/brunoimbrizi/txt-shuffle) - Customisable text shuffling animations.
-- [enricoros/big-AGI](https://github.com/enricoros/big-AGI) - 💬 Personal AI application powered by GPT-4 and beyond, with AI personas, AGI functions, text-to-image, voice, response streaming, code highlighting and execution, PDF import, presets for developers, m
 - [pulsar-edit/pulsar](https://github.com/pulsar-edit/pulsar) - A Community-led Hyper-Hackable Text Editor
 - [metrico/qryn](https://github.com/metrico/qryn) - All-in-one Polyglot Observability stack with ClickHouse storage. Drop-in API compatible with Loki, Prometheus, Tempo, Opentelemetry, Elastic, InfluxDB and more! wasm powered ⭐️ Star to support ⭐️
 - [alexcasalboni/aws-lambda-power-tuning](https://github.com/alexcasalboni/aws-lambda-power-tuning) - AWS Lambda Power Tuning is an open-source tool that can help you visualize and fine-tune the memory/power configuration of Lambda functions. It runs in your own AWS account - powered by AWS Step Funct
@@ -1883,7 +1883,7 @@
 - [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, execute as a script, deploy as an app, and version with git.
 - [antfu/shikiji](https://github.com/antfu/shikiji) - A syntax highlighter based on TextMate grammars. ESM rewrite of shiki, with more features and capabilities.
 - [slauth-io/slauth-cli](https://github.com/slauth-io/slauth-cli) - CLI that scans directories for Cloud Provider SDK usage generates the IAM Policies/Permissions needed
-- [cap-so/cap](https://github.com/cap-so/cap) - Beautiful, shareable screen recordings. Open-source and privacy-friendly.
+- [CapSoftware/cap](https://github.com/CapSoftware/cap) - Beautiful, shareable screen recordings. Open-source and privacy-friendly.
 - [cursorless-dev/cursorless](https://github.com/cursorless-dev/cursorless) - Don't let the cursor slow you down
 - [garnix-io/garn](https://github.com/garnix-io/garn) - garn is a build tool and environment manager that replaces justfiles/makefiles, docker, and the annoying parts of READMEs. The builders lingua franca.
 - [openstatusHQ/openstatus](https://github.com/openstatusHQ/openstatus) - 🏓  The open-source monitoring platform with incident management  🏓
@@ -1906,6 +1906,7 @@
 - [boyney123/eventcatalog](https://github.com/boyney123/eventcatalog) - Discover, Explore and Document your Event Driven Architectures powered by Markdown.
 - [winglang/wing](https://github.com/winglang/wing) - The Wing Programming Language
 - [unjs/magicast](https://github.com/unjs/magicast) - 🧀  Programmatically modify JavaScript and TypeScript source codes with a simplified, elegant and familiar syntax powered by recast and babel.
+- [enricoros/big-AGI](https://github.com/enricoros/big-AGI) - 💬 Personal AI application powered by GPT-4 and beyond, with AI personas, AGI functions, text-to-image, voice, response streaming, code highlighting and execution, PDF import, presets for developers, m
 - [RafalWilinski/edge-graphql-dynamodb-api](https://github.com/RafalWilinski/edge-graphql-dynamodb-api) - Serverless GraphQL API on Edge with Global DynamoDB Tables
 - [motion-canvas/motion-canvas](https://github.com/motion-canvas/motion-canvas) - Visualize Your Ideas With Code
 - [highlight/highlight](https://github.com/highlight/highlight) - highlight.io: The open source, full-stack monitoring platform. Error monitoring, session replay, logging and more.
