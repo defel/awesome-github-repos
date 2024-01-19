@@ -200,7 +200,6 @@
 - [jagregory/abrash-black-book](https://github.com/jagregory/abrash-black-book) - Markdown source for Michael Abrash's Graphics Programming Black Book
 - [NsCDE/NsCDE](https://github.com/NsCDE/NsCDE) - Modern and functional CDE desktop based on FVWM
 - [jaicab/progressiveenhancement](https://github.com/jaicab/progressiveenhancement) - A site for all things progressively enhanced
-- [cncf/landscape](https://github.com/cncf/landscape) - 🌄 The Cloud Native Interactive Landscape filters and sorts hundreds of projects and products, and shows details including GitHub stars, funding or market cap, first and last commits, contributor count
 - [connors/photon](https://github.com/connors/photon) - The fastest way to build beautiful Electron apps using simple HTML and CSS
 - [t32k/stylestats](https://github.com/t32k/stylestats) - StyleStats is a library to collect CSS statistics.
 - [north/north](https://github.com/north/north) - Design and development standards to align and guide your project.
@@ -588,7 +587,7 @@
 - [muxinc/media-chrome](https://github.com/muxinc/media-chrome) - Custom elements (web components) for making audio and video player controls that look great in your website or app.
 - [brunoimbrizi/txt-shuffle](https://github.com/brunoimbrizi/txt-shuffle) - Customisable text shuffling animations.
 - [pulsar-edit/pulsar](https://github.com/pulsar-edit/pulsar) - A Community-led Hyper-Hackable Text Editor
-- [metrico/qryn](https://github.com/metrico/qryn) - All-in-one Polyglot Observability stack with ClickHouse storage. Drop-in API compatible with Loki, Prometheus, Tempo, Opentelemetry, Elastic, InfluxDB and more! wasm powered ⭐️ Star to support ⭐️
+- [metrico/qryn](https://github.com/metrico/qryn) - All-in-one Polyglot Observability stack with OLAP storage. Drop-in API compatible with Loki, Prometheus, Tempo, Pyroscope, Opentelemetry and more! wasm powered ⭐️ Star to support ⭐️
 - [alexcasalboni/aws-lambda-power-tuning](https://github.com/alexcasalboni/aws-lambda-power-tuning) - AWS Lambda Power Tuning is an open-source tool that can help you visualize and fine-tune the memory/power configuration of Lambda functions. It runs in your own AWS account - powered by AWS Step Funct
 - [chrisguttandin/timingsrc](https://github.com/chrisguttandin/timingsrc) - A library to synchronize a MediaElement with a TimingObject.
 - [molefrog/wouter](https://github.com/molefrog/wouter) - 🥢 A minimalist-friendly ~1.5KB routing for React and Preact. Nothing else but HOOKS.
@@ -1326,6 +1325,7 @@
 - [k88hudson/git-flight-rules](https://github.com/k88hudson/git-flight-rules) - Flight rules for git
 - [maguowei/awesome-stars](https://github.com/maguowei/awesome-stars) - My Awesome List
 - [InterviewMap/CS-Interview-Knowledge-Map](https://github.com/InterviewMap/CS-Interview-Knowledge-Map) - Build the best interview map. The current content includes JS, network, browser related, performance optimization, security, framework, Git, data structure, algorithm, etc.
+- [cncf/landscape](https://github.com/cncf/landscape) - 🌄 The Cloud Native Interactive Landscape filters and sorts hundreds of projects and products, and shows details including GitHub stars, funding, first and last commits, contributor counts and headquar
 - [j4p3/strimpack](https://github.com/j4p3/strimpack) - A platform for livestreamers to make a home for their audience.
 - [pzwang/lostweb](https://github.com/pzwang/lostweb) - The Web We Lost, and What Comes Next
 - [ddbeck/readme-checklist](https://github.com/ddbeck/readme-checklist) - A checklist for writing READMEs
@@ -1940,7 +1940,7 @@
 - [sofn-xyz/mailing](https://github.com/sofn-xyz/mailing) - Build, test, send emails with React
 - [maxwellpeterson/kafka-worker](https://github.com/maxwellpeterson/kafka-worker) - Kafka 0.8.0 broker implementation on top of Cloudflare Workers
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open sour
-- [erxes/erxes](https://github.com/erxes/erxes) - The open-source Hubspot alternative enables SaaS providers and digital marketing agencies/developers to create unique experiences for their entire business.
+- [erxes/erxes](https://github.com/erxes/erxes) - Source available experience management infrastructure. Pioneering the future of experiences with XOS (Experience Operating System). Hubspot + Qualitics alternative
 - [dubinc/dub](https://github.com/dubinc/dub) - Open-source link management infrastructure.
 - [type-challenges/type-challenges](https://github.com/type-challenges/type-challenges) - Collection of TypeScript type challenges with online judge
 - [windicss/windicss](https://github.com/windicss/windicss) - Next generation utility-first CSS framework.
@@ -2005,7 +2005,7 @@
 - [cdklabs/aws-delivlib](https://github.com/cdklabs/aws-delivlib) - setup and manage continuous delivery pipelines for code libraries in multiple languages
 - [theatre-js/theatre](https://github.com/theatre-js/theatre) - Motion design editor for the web
 - [seeebiii/projen-test](https://github.com/seeebiii/projen-test) - An example project explaining how to create and publish CDK constructs using projen and jsii. It lets you publish your CDK constructs to npm, Maven, NuGet and PyPi.
-- [projen/projen](https://github.com/projen/projen) - A new generation of project generators
+- [projen/projen](https://github.com/projen/projen) - Rapidly build modern applications with advanced configuration management
 - [jaredpalmer/the-platform](https://github.com/jaredpalmer/the-platform) - Web. Components. 😂
 - [steveruizok/perfect-arrows](https://github.com/steveruizok/perfect-arrows) - Draw perfect arrows between points and shapes.
 - [roshan8/slo-tracker](https://github.com/roshan8/slo-tracker) - A tool to track SLA, SLO and Error budgets
@@ -2079,7 +2079,7 @@
 - [thi-ng/umbrella](https://github.com/thi-ng/umbrella) - ⛱  Broadly scoped ecosystem & mono-repository of 188 TypeScript projects (and 150 examples) for general purpose, functional, data driven development
 - [gajus/slonik](https://github.com/gajus/slonik) - A Node.js PostgreSQL client with runtime and build time type safety, and composable SQL.
 - [Unleash/unleash](https://github.com/Unleash/unleash) - Open-source feature management solution built for developers.
-- [tutao/tutanota](https://github.com/tutao/tutanota) - Tutanota is an email service with a strong focus on security and privacy that lets you encrypt emails, contacts and calendar entries on all your devices.
+- [tutao/tutanota](https://github.com/tutao/tutanota) - Tuta is an email service with a strong focus on security and privacy that lets you encrypt emails, contacts and calendar entries on all your devices.
 - [aws/aws-cdk](https://github.com/aws/aws-cdk) - The AWS Cloud Development Kit is a framework for defining cloud infrastructure in code
 - [spring-media/sticky-observer](https://github.com/spring-media/sticky-observer) - A simple and basic sticky observer (or watcher) on HTMLElement's in a given container
 - [sneljo1/auryo](https://github.com/sneljo1/auryo) - [Discontinued] Auryo - Unofficial Soundcloud Desktop App
