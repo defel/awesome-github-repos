@@ -1677,6 +1677,7 @@
 
 ## Rust 
 
+- [feldera/feldera](https://github.com/feldera/feldera) - Feldera Continuous Analytics Platform
 - [lsd-rs/lsd](https://github.com/lsd-rs/lsd) - The next gen ls command
 - [theryangeary/choose](https://github.com/theryangeary/choose) - A human-friendly and fast alternative to cut and (sometimes) awk
 - [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, and grep output
