@@ -1679,7 +1679,7 @@
 
 ## Rust 
 
-- [loro-dev/loro](https://github.com/loro-dev/loro) - Reimagine state management with CRDTs. Enhance your app with seamless collaboration and effortless time-travel features
+- [loro-dev/loro](https://github.com/loro-dev/loro) - Reimagine state management with CRDTs. Make your app collaborative effortlessly.
 - [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
 - [feldera/feldera](https://github.com/feldera/feldera) - Feldera Continuous Analytics Platform
 - [lsd-rs/lsd](https://github.com/lsd-rs/lsd) - The next gen ls command
@@ -1712,7 +1712,7 @@
 - [typst/typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn.
 - [awslabs/mountpoint-s3](https://github.com/awslabs/mountpoint-s3) - A simple, high-throughput file client for mounting an Amazon S3 bucket as a local file system.
 - [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack GUI library for desktop, web, mobile, and more.
-- [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - The distributed streaming database. Engineered to offer the simplest and most cost-efficient way for stream processing and management.
+- [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - The Postgres for streaming data. Engineered to offer the simplest and most cost-efficient way for event stream processing, analytics, and management.
 - [metalbear-co/mirrord](https://github.com/metalbear-co/mirrord) - Connect your local process and your cloud environment, and run local code in cloud conditions.
 - [aalykiot/dune](https://github.com/aalykiot/dune) - A hobby runtime for JavaScript and TypeScript 🚀
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
@@ -1914,7 +1914,7 @@
 - [enricoros/big-AGI](https://github.com/enricoros/big-AGI) - 💬 Personal AI application powered by GPT-4 and beyond, with AI personas, AGI functions, text-to-image, voice, response streaming, code highlighting and execution, PDF import, presets for developers, m
 - [RafalWilinski/edge-graphql-dynamodb-api](https://github.com/RafalWilinski/edge-graphql-dynamodb-api) - Serverless GraphQL API on Edge with Global DynamoDB Tables
 - [motion-canvas/motion-canvas](https://github.com/motion-canvas/motion-canvas) - Visualize Your Ideas With Code
-- [highlight/highlight](https://github.com/highlight/highlight) - highlight.io: The open source, full-stack monitoring platform. Error monitoring, session replay, logging and more.
+- [highlight/highlight](https://github.com/highlight/highlight) - highlight.io: The open source, full-stack monitoring platform. Error monitoring, session replay, logging, distributed tracing, and more.
 - [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk) - ⛅️ Home to Wrangler, the CLI for Cloudflare Workers®
 - [alixaxel/chrome-aws-lambda](https://github.com/alixaxel/chrome-aws-lambda) - Chromium Binary for AWS Lambda and Google Cloud Functions
 - [alma-cdk/cross-region-parameter](https://github.com/alma-cdk/cross-region-parameter) - Store SSM Parameter into another AWS Region with AWS CDK
@@ -2075,7 +2075,7 @@
 - [Raathigesh/majestic](https://github.com/Raathigesh/majestic) - ⚡ Zero config GUI for Jest
 - [jamiebuilds/purposefile](https://github.com/jamiebuilds/purposefile) - Make sure every file in your repo is exactly where it should be
 - [sveltejs/sapper](https://github.com/sveltejs/sapper) - The next small thing in web development, powered by Svelte
-- [shikijs/shiki](https://github.com/shikijs/shiki) - A beautiful Syntax Highlighter.
+- [shikijs/shiki](https://github.com/shikijs/shiki) - A beautiful yet powerful syntax highlighter
 - [codex-team/editor.js](https://github.com/codex-team/editor.js) - A block-style editor with clean JSON output
 - [chanind/hanzi-writer](https://github.com/chanind/hanzi-writer) - Chinese character stroke order animations and practice quizzes
 - [tomi/fromfrom](https://github.com/tomi/fromfrom) - A JS library written in TS to transform sequences of data from format to another
