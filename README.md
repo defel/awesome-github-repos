@@ -269,7 +269,6 @@
 
 ## Emacs Lisp 
 
-- [ch11ng/exwm](https://github.com/ch11ng/exwm) - Emacs X Window Manager
 - [syl20bnr/spacemacs](https://github.com/syl20bnr/spacemacs) - A community-driven Emacs distribution - The best editor is neither Emacs nor Vim,  it's Emacs *and* Vim!
 
 ## G-code 
@@ -1323,6 +1322,7 @@
 - [mthenw/awesome-layers](https://github.com/mthenw/awesome-layers) - λ A curated list of awesome AWS Lambda Layers. Sponsored by https://cloudash.dev
 - [csabapalfi/awesome-pagespeed-metrics](https://github.com/csabapalfi/awesome-pagespeed-metrics) - ⚡Metrics to help understand page speed and user experience
 - [Mergifyio/mergify](https://github.com/Mergifyio/mergify) - Mergify Community Issue Tracker
+- [ch11ng/exwm](https://github.com/ch11ng/exwm) - Emacs X Window Manager
 - [trimstray/the-practical-linux-hardening-guide](https://github.com/trimstray/the-practical-linux-hardening-guide) - This guide details creating a secure Linux production system. OpenSCAP (C2S/CIS, STIG).
 - [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - A collection of (mostly) technical things every software developer should know about
 - [mtdvio/going-to-production](https://github.com/mtdvio/going-to-production) - A reference checklist for topics which should be covered before going to production.
@@ -1611,7 +1611,7 @@
 - [spotify/luigi](https://github.com/spotify/luigi) - Luigi is a Python module that helps you build complex pipelines of batch jobs. It handles dependency resolution, workflow management, visualization etc. It also comes with Hadoop support built in.
 - [aws-samples/ecs-blue-green-deployment](https://github.com/aws-samples/ecs-blue-green-deployment) - Reference architecture for doing blue green deployments on ECS.
 - [goberoi/cloud_speech_experiments](https://github.com/goberoi/cloud_speech_experiments) - Scripts to experiment with cloud speech vendors like Google Cloud Speech.
-- [prowler-cloud/prowler](https://github.com/prowler-cloud/prowler) - Prowler is an Open Source Security tool for AWS, Azure and GCP to perform Cloud Security best practices assessments, audits, incident response, compliance, continuous monitoring, hardening and forensi
+- [prowler-cloud/prowler](https://github.com/prowler-cloud/prowler) - Prowler is an Open Source Security tool for AWS, Azure, GCP and Kubernetes to do security assessments, audits, incident response, compliance, continuous monitoring, hardening and forensics readiness. 
 - [jarun/buku](https://github.com/jarun/buku) - :bookmark: Personal mini-web in text
 - [awslabs/aws-iam-generator](https://github.com/awslabs/aws-iam-generator) - Generate Multi-Account IAM users/groups/roles/policies from a simple YAML configuration file and Jinja2 templates.
 - [Kwpolska/upass](https://github.com/Kwpolska/upass) - Console UI for pass.
