@@ -415,7 +415,7 @@
 - [StackExchange/dnscontrol](https://github.com/StackExchange/dnscontrol) - Infrastructure as code for DNS!
 - [estesp/bucketbench](https://github.com/estesp/bucketbench) - Go-based framework for running benchmarks against Docker, containerd, runc, or any CRI-compliant runtime
 - [qax-os/goreporter](https://github.com/qax-os/goreporter) - A Golang tool that does static analysis, unit testing, code review and generate code quality report.
-- [gravitational/teleport](https://github.com/gravitational/teleport) - Protect access to all of your infrastructure.
+- [gravitational/teleport](https://github.com/gravitational/teleport) - Protect access to all of your infrastructure
 - [whyrusleeping/gx](https://github.com/whyrusleeping/gx) - A package management tool
 - [mroth/slacknimate](https://github.com/mroth/slacknimate) - :dancers: Realtime text animation for Slack chatops
 - [hoisie/web](https://github.com/hoisie/web) - The easiest way to create web applications with Go
