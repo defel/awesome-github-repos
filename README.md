@@ -1338,7 +1338,6 @@
 - [berzerk0/Probable-Wordlists](https://github.com/berzerk0/Probable-Wordlists) - Version 2 is live! Wordlists sorted by probability originally created for password generation and testing - make sure your passwords aren't popular!
 - [NixOS/rfcs](https://github.com/NixOS/rfcs) - The Nix community RFCs
 - [andrew--r/channels](https://github.com/andrew--r/channels) - 📺 A collection of useful YouTube channels for javascript developers and web designers
-- [androlo/solidity-workshop](https://github.com/androlo/solidity-workshop) - Educational material for Solidity. Complement to solidity.readthedocs.com
 - [cjbarber/ToolsOfTheTrade](https://github.com/cjbarber/ToolsOfTheTrade) - Tools of The Trade, from Hacker News.
 - [redecentralize/alternative-internet](https://github.com/redecentralize/alternative-internet) - A collection of interesting new networks and tech aiming at decentralisation (in some form).
 - [colemancda/PureSwiftList](https://github.com/colemancda/PureSwiftList) - List of Pure Swift projects that are Linux compatible
