@@ -589,7 +589,7 @@
 - [muxinc/media-chrome](https://github.com/muxinc/media-chrome) - Custom elements (web components) for making audio and video player controls that look great in your website or app.
 - [brunoimbrizi/txt-shuffle](https://github.com/brunoimbrizi/txt-shuffle) - Customisable text shuffling animations.
 - [pulsar-edit/pulsar](https://github.com/pulsar-edit/pulsar) - A Community-led Hyper-Hackable Text Editor
-- [metrico/qryn](https://github.com/metrico/qryn) - All-in-one Polyglot Observability stack with OLAP storage. Drop-in LGTM compatible with Loki, Prometheus, Tempo, Pyroscope, Opentelemetry and more! wasm powered ⭐️ Star to Support
+- [metrico/qryn](https://github.com/metrico/qryn) - All-in-one Polyglot Observability. Drop-in LGTM/Splunk/Datadog/Elastic alternative API compatible with Loki, Prometheus, Tempo, Pyroscope, Opentelemetry and more! wasm powered ⭐️ Star to Support
 - [alexcasalboni/aws-lambda-power-tuning](https://github.com/alexcasalboni/aws-lambda-power-tuning) - AWS Lambda Power Tuning is an open-source tool that can help you visualize and fine-tune the memory/power configuration of Lambda functions. It runs in your own AWS account - powered by AWS Step Funct
 - [chrisguttandin/timingsrc](https://github.com/chrisguttandin/timingsrc) - A library to synchronize a MediaElement with a TimingObject.
 - [Sh3b0/realtime-web](https://github.com/Sh3b0/realtime-web) - Comparing WebSocket, WebRTC, and WebTransport under packet loss
@@ -795,7 +795,7 @@
 - [highcharts/highstock-release](https://github.com/highcharts/highstock-release) - Official shim repo for Highstock releases
 - [plotly/plotly.js](https://github.com/plotly/plotly.js) - Open-source JavaScript charting library behind Plotly and Dash
 - [alexanderGugel/ied](https://github.com/alexanderGugel/ied) - :package: Like npm, but faster - an alternative package manager for Node
-- [PatrickJS/MFE-starter](https://github.com/PatrickJS/MFE-starter) - MFE Starter
+- [PatrickJS/PatrickJS-starter](https://github.com/PatrickJS/PatrickJS-starter) - MFE Starter
 - [wardbell/bardjs](https://github.com/wardbell/bardjs) - Spec helpers for testing angular v.1.x apps with Mocha, Jasmine and QUnit
 - [moment/moment](https://github.com/moment/moment) - Parse, validate, manipulate, and display dates in javascript.
 - [brunch/brunch](https://github.com/brunch/brunch) - :fork_and_knife: Web applications made easy. Since 2011.
@@ -1160,7 +1160,7 @@
 - [grpc/grpc-kotlin](https://github.com/grpc/grpc-kotlin) - Kotlin gRPC implementation. HTTP/2 based RPC
 - [Netflix/dgs-framework](https://github.com/Netflix/dgs-framework) - GraphQL for Java with Spring Boot made easy.
 - [darthmachina/obsidian-kotlin-plugin](https://github.com/darthmachina/obsidian-kotlin-plugin) - Base Obsidian plugin written in Kotlin
-- [awslabs/smithy-kotlin](https://github.com/awslabs/smithy-kotlin) - Smithy code generator for Kotlin (in development)
+- [smithy-lang/smithy-kotlin](https://github.com/smithy-lang/smithy-kotlin) - Smithy code generator for Kotlin (in development)
 - [Kotlin/kotlinx-kover](https://github.com/Kotlin/kotlinx-kover) - 
 - [JakeWharton/mosaic](https://github.com/JakeWharton/mosaic) - An experimental tool for building console UI in Kotlin using the Jetpack Compose compiler/runtime
 - [tasks/tasks](https://github.com/tasks/tasks) - Bringing Astrid Tasks back from the dead
@@ -1231,6 +1231,7 @@
 
 ## Others 
 
+- [Cybr-Inc/CloudSec](https://github.com/Cybr-Inc/CloudSec) - Public repository of all things cloud security.
 - [qazbnm456/awesome-web-security](https://github.com/qazbnm456/awesome-web-security) - 🐶 A curated list of Web Security materials and resources.
 - [fabacab/awesome-cybersecurity-blueteam](https://github.com/fabacab/awesome-cybersecurity-blueteam) - :computer:🛡️ A curated collection of awesome resources, tools, and other shiny things for cybersecurity blue teams.
 - [brcyrr/CyberSecurityRoadmapSuggestions](https://github.com/brcyrr/CyberSecurityRoadmapSuggestions) - This repository contains a list of roadmaps I created with my suggestions on LinkedIn and Twitter.🤞🏻😌
@@ -1895,7 +1896,7 @@
 
 ## TypeScript 
 
-- [classvsoftware/under-new-management](https://github.com/classvsoftware/under-new-management) - Detect when your installed Chrome extensions have changed owners.
+- [classvsoftware/under-new-management](https://github.com/classvsoftware/under-new-management) - Detect when your installed extensions have changed owners.
 - [center-for-threat-informed-defense/cti-blueprints](https://github.com/center-for-threat-informed-defense/cti-blueprints) - CTI Blueprints is a free suite of templates and tools that helps Cyber Threat Intelligence analysts create high-quality, actionable reports more consistently and efficiently.
 - [elysiajs/elysia](https://github.com/elysiajs/elysia) - Ergonomic Framework for Humans
 - [code-of-chaos/obsidian-colored_tags_wrangler](https://github.com/code-of-chaos/obsidian-colored_tags_wrangler) - Obsidian Plugin : Assign colors to tags. Has integrations with other plugins, like Kanban.
@@ -1982,7 +1983,7 @@
 - [jonelantha/react-responsive-pagination](https://github.com/jonelantha/react-responsive-pagination) - A React pagination component which intelligently renders to the available width
 - [actualbudget/actual](https://github.com/actualbudget/actual) - A local-first personal finance app
 - [shiftkey/desktop](https://github.com/shiftkey/desktop) - Fork of GitHub Desktop to support various Linux distributions
-- [radix-ui/design-system](https://github.com/radix-ui/design-system) - An extensive design system for building high-quality websites and web apps. Maintained and used by @WorkOS.
+- [radix-ui/design-system](https://github.com/radix-ui/design-system) - Design system that was used by @modulz. It’s now archived and superceded by Radix Themes. (See https://github.com/radix-ui/themes)
 - [adobe/react-spectrum](https://github.com/adobe/react-spectrum) - A collection of libraries and tools that help you build adaptive, accessible, and robust user experiences.
 - [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
 - [react-pdf-viewer/react-pdf-viewer](https://github.com/react-pdf-viewer/react-pdf-viewer) - A React component to view a PDF document
