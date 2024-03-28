@@ -1201,6 +1201,7 @@
 
 ## Makefile 
 
+- [zoph-io/aws-security-survival-kit](https://github.com/zoph-io/aws-security-survival-kit) - Bare minimum AWS Security Alerting and Configuration
 - [TritonDataCenter/pkgsrc-legacy](https://github.com/TritonDataCenter/pkgsrc-legacy) - Automatically updated conversion of the "pkgsrc" module from anoncvs.netbsd.org
 
 ## Markdown 
