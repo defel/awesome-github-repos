@@ -1935,7 +1935,7 @@
 - [boyney123/eventcatalog](https://github.com/boyney123/eventcatalog) - Discover, Explore and Document your Event Driven Architectures powered by Markdown.
 - [winglang/wing](https://github.com/winglang/wing) - A programming language for the cloud ☁️ A unified programming model, combining infrastructure and runtime code into one language ⚡
 - [unjs/magicast](https://github.com/unjs/magicast) - 🧀  Programmatically modify JavaScript and TypeScript source codes with a simplified, elegant and familiar syntax powered by recast and babel.
-- [enricoros/big-AGI](https://github.com/enricoros/big-AGI) - Generative AI suite powered by state-of-the-art LLMs. Bundling AI personas, AGI functions, text-to-image, voice, response streaming, code highlighting and execution, PDF import, presets for developers
+- [enricoros/big-AGI](https://github.com/enricoros/big-AGI) - Generative AI suite powered by state-of-the-art models and providing advanced AI/AGI functions. It features AI personas, AGI functions, multi-model chats, text-to-image, voice, response streaming, cod
 - [RafalWilinski/edge-graphql-dynamodb-api](https://github.com/RafalWilinski/edge-graphql-dynamodb-api) - Serverless GraphQL API on Edge with Global DynamoDB Tables
 - [motion-canvas/motion-canvas](https://github.com/motion-canvas/motion-canvas) - Visualize Your Ideas With Code
 - [highlight/highlight](https://github.com/highlight/highlight) - highlight.io: The open source, full-stack monitoring platform. Error monitoring, session replay, logging, distributed tracing, and more.
@@ -2138,7 +2138,7 @@
 - [socketio/socket.io](https://github.com/socketio/socket.io) - Realtime application framework (Node.JS server)
 - [visgl/react-map-gl](https://github.com/visgl/react-map-gl) - React friendly API wrapper around MapboxGL JS
 - [este/este](https://github.com/este/este) - This repo is suspended.
-- [reduxjs/redux](https://github.com/reduxjs/redux) - Predictable state container for JavaScript apps
+- [reduxjs/redux](https://github.com/reduxjs/redux) - A JS library for predictable global state management
 - [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) - The repository for high quality TypeScript type definitions.
 - [railsware/upterm](https://github.com/railsware/upterm) - A terminal emulator for the 21st century.
 - [jquery/esprima](https://github.com/jquery/esprima) - ECMAScript parsing infrastructure for multipurpose analysis
