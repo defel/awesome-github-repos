@@ -1113,7 +1113,6 @@
 - [josephg/ShareJS](https://github.com/josephg/ShareJS) - Collaborative editing in any app
 - [masylum/dialect-http](https://github.com/masylum/dialect-http) - http client to manage your dialect translations
 - [PaulUithol/Backbone-relational](https://github.com/PaulUithol/Backbone-relational) - Get and set relations (one-to-one, one-to-many, many-to-one) for Backbone models
-- [derbyjs/derby](https://github.com/derbyjs/derby) - MVC framework making it easy to write realtime, collaborative applications that run in both Node.js and browsers
 - [bnoguchi/everyauth](https://github.com/bnoguchi/everyauth) - node.js auth package (password, facebook, & more) for Connect and Express apps
 - [ether/etherpad-lite](https://github.com/ether/etherpad-lite) - Etherpad: A modern really-real-time collaborative document editor.
 - [bnoguchi/mongoose-auth](https://github.com/bnoguchi/mongoose-auth) - User authentication plugin for mongoose nodejs orm
@@ -1599,7 +1598,7 @@
 - [tfeldmann/organize](https://github.com/tfeldmann/organize) - The file management automation tool.
 - [CorentinJ/Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) - Clone a voice in 5 seconds to generate arbitrary speech in real-time
 - [andresriancho/enumerate-iam](https://github.com/andresriancho/enumerate-iam) - Enumerate the permissions associated with AWS credential set
-- [luoliyan/chinese-support-redux](https://github.com/luoliyan/chinese-support-redux) - Anki add-on providing support for Chinese study
+- [jdlorimer/chinese-support-redux](https://github.com/jdlorimer/chinese-support-redux) - Anki add-on providing support for Chinese study
 - [edgedb/edgedb](https://github.com/edgedb/edgedb) - A graph-relational database with declarative schema, built-in migration system, and a next-generation query language
 - [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature-rich, GPU based terminal
 - [lyft/cartography](https://github.com/lyft/cartography) - Cartography is a Python tool that consolidates infrastructure assets and the relationships between them in an intuitive graph view powered by a Neo4j database.
@@ -2162,6 +2161,7 @@
 - [baconjs/bacon.js](https://github.com/baconjs/bacon.js) - Functional reactive programming library for TypeScript and JavaScript
 - [tantaman/strut](https://github.com/tantaman/strut) - Strut - An Impress.js and Bespoke.js Presentation Editor
 - [peers/peerjs](https://github.com/peers/peerjs) - Simple peer-to-peer with WebRTC.
+- [derbyjs/derby](https://github.com/derbyjs/derby) - MVC framework making it easy to write realtime, collaborative applications that run in both Node.js and browsers
 
 ## V 
 
