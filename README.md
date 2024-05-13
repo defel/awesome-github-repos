@@ -329,7 +329,6 @@
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼
 - [OpenSLO/OpenSLO](https://github.com/OpenSLO/OpenSLO) - Open specification for defining and expressing service level objectives (SLO)
 - [litmuschaos/litmus](https://github.com/litmuschaos/litmus) - Litmus helps  SREs and developers practice chaos engineering in a Cloud-native way. Chaos experiments are published at the ChaosHub  (https://hub.litmuschaos.io). Community notes is at https://hackmd.
-- [tellerops/teller](https://github.com/tellerops/teller) - Cloud native secrets management for developers - never leave your command line for secrets.
 - [cshum/imagorvideo](https://github.com/cshum/imagorvideo) - imagor video thumbnail server in Go and ffmpeg C bindings
 - [adevinta/maiao](https://github.com/adevinta/maiao) - Seamless GitHub PR management from the command-line
 - [milvus-io/milvus](https://github.com/milvus-io/milvus) - A cloud-native vector database, storage for next generation AI applications
@@ -581,6 +580,7 @@
 
 ## JavaScript 
 
+- [aegir-assembly/omni-clip](https://github.com/aegir-assembly/omni-clip) - Open source video editing web application
 - [maptiler/tileserver-gl](https://github.com/maptiler/tileserver-gl) - Vector and raster maps with GL styles. Server side rendering by MapLibre GL Native. Map tile server for MapLibre GL JS, Android, iOS, Leaflet, OpenLayers, GIS via WMTS, etc.
 - [vanila-io/wireflow](https://github.com/vanila-io/wireflow) - Wireflow - user flow chart real-time collaborative tool
 - [kgscialdone/facet](https://github.com/kgscialdone/facet) - Web components made simple and declarative
@@ -1750,6 +1750,7 @@
 - [quickwit-oss/tantivy-py](https://github.com/quickwit-oss/tantivy-py) - Python bindings for Tantivy
 - [quickwit-oss/tantivy](https://github.com/quickwit-oss/tantivy) - Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust
 - [erg-lang/erg](https://github.com/erg-lang/erg) - A statically typed language compatible with Python
+- [tellerops/teller](https://github.com/tellerops/teller) - Cloud native secrets management for developers - never leave your command line for secrets.
 - [vercel/turbo](https://github.com/vercel/turbo) - Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo.
 - [rant-lang/rant](https://github.com/rant-lang/rant) - Rant - The templating language for procedural generation.
 - [arxanas/git-branchless](https://github.com/arxanas/git-branchless) - High-velocity, monorepo-scale workflow for Git
