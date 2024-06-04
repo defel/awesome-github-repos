@@ -144,7 +144,7 @@
 - [unum-cloud/usearch](https://github.com/unum-cloud/usearch) - Fast Open-Source Search & Clustering engine × for Vectors & 🔜 Strings × in C++, C, Python, JavaScript, Rust, Java, Objective-C, Swift, C#, GoLang, and Wolfram 🔍
 - [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - LLM inference in C/C++
 - [wwmm/easyeffects](https://github.com/wwmm/easyeffects) - Limiter, compressor, convolver, equalizer and auto volume and many other plugins for PipeWire applications
-- [duckdb/duckdb](https://github.com/duckdb/duckdb) - DuckDB is an in-process SQL OLAP Database Management System
+- [duckdb/duckdb](https://github.com/duckdb/duckdb) - DuckDB is an analytical in-process SQL database management system
 - [aardappel/treesheets](https://github.com/aardappel/treesheets) - TreeSheets : Free Form Data Organizer (see strlen.com/treesheets)
 - [exaloop/codon](https://github.com/exaloop/codon) - A high-performance, zero-overhead, extensible Python compiler using LLVM
 - [capnproto/capnproto](https://github.com/capnproto/capnproto) - Cap'n Proto serialization/RPC system - core tools and C++ library
@@ -249,6 +249,7 @@
 ## Dockerfile 
 
 - [hashbang/book](https://github.com/hashbang/book) - A FOSS hackers guide to the CLI, privacy, security, self hosting, and the internet.
+- [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).
 - [ScottBrenner/aws-cdk-action](https://github.com/ScottBrenner/aws-cdk-action) - GitHub Action for interacting with AWS CDK
 - [commercialhaskell/stackage](https://github.com/commercialhaskell/stackage) - Stable Haskell package sets: vetted consistent packages from Hackage
 
@@ -629,6 +630,7 @@
 - [blahah/yunodb](https://github.com/blahah/yunodb) - A portable, persistent, electron-embeddable fulltext search + document store database for node.js
 - [GoogleChromeLabs/css-paint-polyfill](https://github.com/GoogleChromeLabs/css-paint-polyfill) - CSS Custom Paint / Paint Worklet polyfill with special browser optimizations.
 - [GoogleChromeLabs/buffer-backed-object](https://github.com/GoogleChromeLabs/buffer-backed-object) - Buffer-backed objects in JavaScript.
+- [OpenCTI-Platform/opencti](https://github.com/OpenCTI-Platform/opencti) - Open Cyber Threat Intelligence Platform
 - [bunchtogether/vite-plugin-flow](https://github.com/bunchtogether/vite-plugin-flow) - 
 - [jberg/butterchurn](https://github.com/jberg/butterchurn) - Butterchurn is a WebGL implementation of the Milkdrop Visualizer
 - [ctrlplusb/easy-peasy](https://github.com/ctrlplusb/easy-peasy) - Vegetarian friendly state for React
@@ -1219,7 +1221,6 @@
 - [hercules-ci/flake-parts](https://github.com/hercules-ci/flake-parts) - ❄️ Simplify Nix Flakes with the module system
 - [numtide/flake-utils](https://github.com/numtide/flake-utils) - Pure Nix flake utility functions [maintainer=@zimbatm]
 - [nix-community/poetry2nix](https://github.com/nix-community/poetry2nix) - Convert poetry projects to nix automagically [maintainer=@adisbladis]
-- [NixOS/nix.dev](https://github.com/NixOS/nix.dev) - Official documentation for getting things done with Nix.
 - [ninegua/ic-blackhole](https://github.com/ninegua/ic-blackhole) - Once a canister sets its only controller to a black hole, it becomes immutable and more!
 
 ## Nunjucks 
@@ -1514,6 +1515,7 @@
 - [open-telemetry/opentelemetry-python](https://github.com/open-telemetry/opentelemetry-python) - OpenTelemetry Python API and SDK
 - [google/gin-config](https://github.com/google/gin-config) - Gin provides a lightweight configuration framework for Python
 - [amsehili/auditok](https://github.com/amsehili/auditok) - An audio/acoustic activity detection and audio segmentation tool
+- [NixOS/nix.dev](https://github.com/NixOS/nix.dev) - Official documentation for getting things done with Nix.
 - [cruft/cruft](https://github.com/cruft/cruft) - Allows you to maintain all the necessary cruft for packaging and building projects separate from the code you intentionally write. Built on-top of, and fully compatible with, CookieCutter.
 - [CadQuery/cadquery](https://github.com/CadQuery/cadquery) - A python parametric CAD scripting framework based on OCCT
 - [sdispater/pendulum](https://github.com/sdispater/pendulum) - Python datetimes made easy
@@ -1834,7 +1836,6 @@
 - [xwmx/nb](https://github.com/xwmx/nb) - CLI and local web plain text note‑taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning & syncing, Pandoc conversion, + more, in a single portable script.
 - [raycast/github-actions](https://github.com/raycast/github-actions) - 
 - [selfscrum/wardley-maps-book](https://github.com/selfscrum/wardley-maps-book) - You know Simon Wardley's medium posts on his Wardley Mapping technique? This is an AsciiDoc of them, including the german translation
-- [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).
 - [CyberShadow/aconfmgr](https://github.com/CyberShadow/aconfmgr) - A configuration manager for Arch Linux
 - [aws-samples/amazon-sagemaker-notebook-instance-lifecycle-config-samples](https://github.com/aws-samples/amazon-sagemaker-notebook-instance-lifecycle-config-samples) - A collection of sample scripts to customize Amazon SageMaker Notebook Instances using Lifecycle Configurations
 - [dwmkerr/hacker-laws](https://github.com/dwmkerr/hacker-laws) - 💻📖 Laws, Theories, Principles and Patterns that developers will find useful. #hackerlaws
@@ -2022,7 +2023,6 @@
 - [tajo/ladle](https://github.com/tajo/ladle) - 🥄 Develop, test and document your React story components faster.
 - [muxinc/stream.new](https://github.com/muxinc/stream.new) - The repo for https://stream.new
 - [bugbakery/audapolis](https://github.com/bugbakery/audapolis) - an editor for spoken-word audio with automatic transcription
-- [OpenCTI-Platform/opencti](https://github.com/OpenCTI-Platform/opencti) - Open Cyber Threat Intelligence Platform
 - [coddingtonbear/obsidian-csv-table](https://github.com/coddingtonbear/obsidian-csv-table) - Have a CSV file you want to render some or all of the data from?  This plugin allows you to display that data in your obsidian preview.
 - [kcwinner/cdk-appsync-transformer](https://github.com/kcwinner/cdk-appsync-transformer) - AWS Amplify inspired CDK construct for creating directive based AppSync APIs
 - [soketi/soketi](https://github.com/soketi/soketi) - Next-gen, Pusher-compatible, open-source WebSockets server. Simple, fast, and resilient. 📣
