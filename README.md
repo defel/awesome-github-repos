@@ -219,7 +219,7 @@
 - [penpot/penpot](https://github.com/penpot/penpot) - Penpot: The open-source design tool for design and code collaboration
 - [day8/re-frame](https://github.com/day8/re-frame) - A ClojureScript framework for building user interfaces, leveraging React
 - [jacekschae/learn-re-frame-course-files](https://github.com/jacekschae/learn-re-frame-course-files) - :cinema: Learn re-frame course files for building Cheffy app
-- [replikativ/datahike](https://github.com/replikativ/datahike) - A durable Datalog implementation adaptable for distribution.
+- [replikativ/datahike](https://github.com/replikativ/datahike) - A fast, persistent, distributed & compositional Datalog engine for everyone.
 - [aphyr/postal](https://github.com/aphyr/postal) - Clojure email support
 - [LightTable/LightTable](https://github.com/LightTable/LightTable) - The Light Table IDE ⛺
 - [project-fifo/vmwebadm](https://github.com/project-fifo/vmwebadm) - A frontend for the SmartDC API from joyent that runs on vanilla SmartOS
@@ -485,6 +485,7 @@
 - [LingDong-/shan-shui-inf](https://github.com/LingDong-/shan-shui-inf) - Procedurally generated Chinese landscape painting.
 - [binford2k/goatops](https://github.com/binford2k/goatops) - This is the source for goatops.com
 - [parkerhendo/figma-interface-language](https://github.com/parkerhendo/figma-interface-language) - A simple DSL for describing interfaces that can be compiled to build a Figma mockup using both existing and new components.
+- [bundesAPI/deutschland](https://github.com/bundesAPI/deutschland) - Die wichtigsten APIs Deutschlands in einem Python Paket.
 - [Neufund/ESOP](https://github.com/Neufund/ESOP) - legal and smart contracts framework to implement Employee Stock Options Plan
 - [pballett/whatfreewords](https://github.com/pballett/whatfreewords) - 
 - [andybrewer/mvp](https://github.com/andybrewer/mvp) - MVP.css — Minimalist classless CSS stylesheet for HTML elements
@@ -1563,7 +1564,6 @@
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [MrS0m30n3/youtube-dl-gui](https://github.com/MrS0m30n3/youtube-dl-gui) - A cross platform front-end GUI of the popular youtube-dl written in wxPython.
 - [python-poetry/poetry](https://github.com/python-poetry/poetry) - Python packaging and dependency management made easy
-- [bundesAPI/deutschland](https://github.com/bundesAPI/deutschland) - Die wichtigsten APIs Deutschlands in einem Python Paket.
 - [andersju/zzzfoo](https://github.com/andersju/zzzfoo) - Full-text desktop search with Rofi+Recoll
 - [alt-meta/convmoji](https://github.com/alt-meta/convmoji) - A simple cli tool to commit Conventional Commits
 - [pypa/pip-audit](https://github.com/pypa/pip-audit) - Audits Python environments, requirements files and dependency trees for known security vulnerabilities, and can automatically fix them
