@@ -597,7 +597,7 @@
 - [muxinc/media-chrome](https://github.com/muxinc/media-chrome) - Custom elements (web components) for making audio and video player controls that look great in your website or app.
 - [brunoimbrizi/txt-shuffle](https://github.com/brunoimbrizi/txt-shuffle) - Customisable text shuffling animations.
 - [pulsar-edit/pulsar](https://github.com/pulsar-edit/pulsar) - A Community-led Hyper-Hackable Text Editor
-- [metrico/qryn](https://github.com/metrico/qryn) - Lightweight, Polyglot, Snap-on Observability Stack. Drop-in Compatible with Loki, Prometheus, Tempo, Pyroscope, Opentelemetry and more! Vendor independent LGTM replacement and Splunk/Datadog/Elastic a
+- [metrico/qryn](https://github.com/metrico/qryn) - Polyglot Observability Stack. Lightweight & Drop-in compatible with Loki, Prometheus, Tempo, Pyroscope, Opentelemetry & More. Indie Vendor agnostic LGTM replacement and Splunk/Datadog/Elastic alternat
 - [alexcasalboni/aws-lambda-power-tuning](https://github.com/alexcasalboni/aws-lambda-power-tuning) - AWS Lambda Power Tuning is an open-source tool that can help you visualize and fine-tune the memory/power configuration of Lambda functions. It runs in your own AWS account - powered by AWS Step Funct
 - [chrisguttandin/timingsrc](https://github.com/chrisguttandin/timingsrc) - A library to synchronize a MediaElement with a TimingObject.
 - [Sh3b0/realtime-web](https://github.com/Sh3b0/realtime-web) - Comparing WebSocket, WebRTC, and WebTransport under packet loss
@@ -1916,6 +1916,7 @@
 
 ## TypeScript 
 
+- [redotvideo/revideo](https://github.com/redotvideo/revideo) - Create Videos with Code
 - [cezaraugusto/extension.js](https://github.com/cezaraugusto/extension.js) - 🧩 Plug-and-play, zero-config, cross-browser extension development tool.
 - [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure and prevent secret leaks.
 - [pubkey/rxdb](https://github.com/pubkey/rxdb) - A fast, local first, reactive Database for JavaScript Applications https://rxdb.info/
