@@ -1706,6 +1706,7 @@
 
 ## Rust 
 
+- [shell-pool/shpool](https://github.com/shell-pool/shpool) - Think tmux, then aim... lower
 - [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
 - [parseablehq/parseable](https://github.com/parseablehq/parseable) - Parseable is a log analytics system platform for modern, cloud native workloads
 - [cloudflare/pingora](https://github.com/cloudflare/pingora) - A library for building fast, reliable and evolvable network services.
