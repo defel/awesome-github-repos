@@ -351,7 +351,7 @@
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
 - [wader/ansisvg](https://github.com/wader/ansisvg) - Convert ANSI to SVG
 - [lnenad/newser](https://github.com/lnenad/newser) - Newser is a simple utility to generate a pdf with you favorite news articles
-- [git-town/git-town](https://github.com/git-town/git-town) - Git branch management automation
+- [git-town/git-town](https://github.com/git-town/git-town) - Git made easy for teams
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - The mighty, self-hostable Git server for the command line🍦
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
 - [zorchenhimer/MovieNight](https://github.com/zorchenhimer/MovieNight) - Single instance video streaming server with integrated chat.
