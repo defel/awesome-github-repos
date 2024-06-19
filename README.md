@@ -1919,8 +1919,8 @@
 ## TypeScript 
 
 - [redotvideo/revideo](https://github.com/redotvideo/revideo) - Create Videos with Code
-- [cezaraugusto/extension.js](https://github.com/cezaraugusto/extension.js) - 🧩 Plug-and-play, zero-config, cross-browser extension development tool.
-- [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure and prevent secret leaks.
+- [extension-js/extension.js](https://github.com/extension-js/extension.js) - 🧩 Plug-and-play, zero-config, cross-browser extension development tool.
+- [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure, prevent secret leaks, and manage internal PKI
 - [pubkey/rxdb](https://github.com/pubkey/rxdb) - A fast, local first, reactive Database for JavaScript Applications https://rxdb.info/
 - [classvsoftware/under-new-management](https://github.com/classvsoftware/under-new-management) - Detect when your installed extensions have changed owners.
 - [center-for-threat-informed-defense/cti-blueprints](https://github.com/center-for-threat-informed-defense/cti-blueprints) - CTI Blueprints is a free suite of templates and tools that helps Cyber Threat Intelligence analysts create high-quality, actionable reports more consistently and efficiently.
