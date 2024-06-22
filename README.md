@@ -210,6 +210,7 @@
 - [mozilla/Fira](https://github.com/mozilla/Fira) - Mozilla's new typeface, used in Firefox OS
 - [philipwalton/solved-by-flexbox](https://github.com/philipwalton/solved-by-flexbox) - A showcase of problems once hard or impossible to solve with CSS alone, now made trivially easy with Flexbox.
 - [floriangrundig/grails-angular-phonecat](https://github.com/floriangrundig/grails-angular-phonecat) - 
+- [radiosilence/wire](https://github.com/radiosilence/wire) - [DEFUNCT - do not use, insecure!] Communication for the 21st century activist.
 
 ## CartoCSS 
 
@@ -476,6 +477,7 @@
 - [Cybr-Inc/CloudSec](https://github.com/Cybr-Inc/CloudSec) - Public repository of all things cloud security.
 - [bmarsh9/gapps](https://github.com/bmarsh9/gapps) - Security compliance platform - SOC2, CMMC, ASVS, ISO27001, HIPAA, NIST CSF, NIST 800-53, CSC CIS 18, PCI DSS, SSF tracking. https://gapps.darkbanner.com
 - [shower/shower](https://github.com/shower/shower) - Shower HTML presentation engine
+- [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Open-source developer platform to turn scripts into workflows and UIs. Fastest workflow engine (5x vs Airflow). Open-source alternative to Airplane and Retool.
 - [robinmoisson/staticrypt](https://github.com/robinmoisson/staticrypt) - Password protect a static HTML page, decrypted in-browser in JS with no dependency. No server logic needed.
 - [cipher387/osint_stuff_tool_collection](https://github.com/cipher387/osint_stuff_tool_collection) - A collection of several hundred online tools for OSINT
 - [HoangTuan110/subreply-css](https://github.com/HoangTuan110/subreply-css) - A simple, yet modern and beautiful classless CSS style. Influenced by Subreply (https://subreply.com/about)
@@ -1111,7 +1113,6 @@
 - [flatiron/flatiron](https://github.com/flatiron/flatiron) - framework components for node.js and the browser
 - [WardCunningham/Smallest-Federated-Wiki](https://github.com/WardCunningham/Smallest-Federated-Wiki) - This wiki innovates by: 1. federated sharing, 2. drag refactoring and 3. data visualization.
 - [fasterthanlime/jsmad](https://github.com/fasterthanlime/jsmad) - :saxophone: Javascript MPEG-1 Audio Layer III (mp3) and ID3v2 decoder
-- [radiosilence/wire](https://github.com/radiosilence/wire) - [DEFUNCT - do not use, insecure!] Communication for the 21st century activist.
 - [josephg/ShareJS](https://github.com/josephg/ShareJS) - Collaborative editing in any app
 - [masylum/dialect-http](https://github.com/masylum/dialect-http) - http client to manage your dialect translations
 - [PaulUithol/Backbone-relational](https://github.com/PaulUithol/Backbone-relational) - Get and set relations (one-to-one, one-to-many, many-to-one) for Backbone models
@@ -1900,7 +1901,6 @@
 
 ## Svelte 
 
-- [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Open-source developer platform to turn scripts into workflows and UIs. Fastest workflow engine (5x vs Airflow). Open-source alternative to Airplane and Retool.
 - [Figma-Linux/figma-linux](https://github.com/Figma-Linux/figma-linux) - Figma is the first interface design tool based in the browser, making it easier for teams to create software. Join us in https://t.me/figma_linux
 
 ## Swift 
@@ -2128,7 +2128,7 @@
 - [tomi/fromfrom](https://github.com/tomi/fromfrom) - A JS library written in TS to transform sequences of data from format to another
 - [homerchen19/github-file-icons](https://github.com/homerchen19/github-file-icons) - 🌈 🗂 A browser extension which gives different filetypes different icons to GitHub, GitLab, gitea and gogs.
 - [niieani/hashids.js](https://github.com/niieani/hashids.js) - A small JavaScript library to generate YouTube-like ids from numbers.
-- [thi-ng/umbrella](https://github.com/thi-ng/umbrella) - ⛱  Broadly scoped ecosystem & mono-repository of 192 TypeScript projects (and 160+ examples) for general purpose, functional, data driven development
+- [thi-ng/umbrella](https://github.com/thi-ng/umbrella) - ⛱  Broadly scoped ecosystem & mono-repository of 193 TypeScript projects (and ~170 examples) for general purpose, functional, data driven development
 - [gajus/slonik](https://github.com/gajus/slonik) - A Node.js PostgreSQL client with runtime and build time type safety, and composable SQL.
 - [Unleash/unleash](https://github.com/Unleash/unleash) - Open-source feature management solution built for developers.
 - [tutao/tutanota](https://github.com/tutao/tutanota) - Tuta is an email service with a strong focus on security and privacy that lets you encrypt emails, contacts and calendar entries on all your devices.
