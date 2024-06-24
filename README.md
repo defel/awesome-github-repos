@@ -1155,6 +1155,7 @@
 
 ## Kotlin 
 
+- [Belkaar/ZeroNavBridge](https://github.com/Belkaar/ZeroNavBridge) - A bridge App to send navigation Info to Zero Motorcycle bikes
 - [ilya40umov/observability-deep-dive](https://github.com/ilya40umov/observability-deep-dive) - Exploring observability with Logback, Brave, Otel, Spring Boot, Loki, Tempo etc.
 - [jmfayard/kotlin-cli-starter](https://github.com/jmfayard/kotlin-cli-starter) - Life is too short for Bash programming
 - [ajalt/clikt](https://github.com/ajalt/clikt) - Multiplatform command line interface parsing for Kotlin
