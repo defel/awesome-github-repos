@@ -1993,7 +1993,7 @@
 - [dubinc/dub](https://github.com/dubinc/dub) - Open-source link management infrastructure
 - [type-challenges/type-challenges](https://github.com/type-challenges/type-challenges) - Collection of TypeScript type challenges with online judge
 - [windicss/windicss](https://github.com/windicss/windicss) - Next generation utility-first CSS framework.
-- [honojs/hono](https://github.com/honojs/hono) - Web Framework built on Web Standards
+- [honojs/hono](https://github.com/honojs/hono) - Web framework built on Web Standards
 - [jimmycallin/react-hook-videojs](https://github.com/jimmycallin/react-hook-videojs) - Easy React integration of Video.js using hooks.
 - [cloudscape-design/components](https://github.com/cloudscape-design/components) - React components for Cloudscape Design System
 - [chhoumann/PodNotes](https://github.com/chhoumann/PodNotes) - PodNotes is a plugin for Obsidian that helps the user write notes on podcasts.
