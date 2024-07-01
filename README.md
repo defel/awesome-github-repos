@@ -71,6 +71,7 @@
 
 ## C 
 
+- [Modos-Labs/Glider](https://github.com/Modos-Labs/Glider) - Open-source E-ink monitor. Mirror of https://gitlab.com/zephray/glider
 - [jarusll/keydogger](https://github.com/jarusll/keydogger) - Keydogger is a tiny text expander written in C
 - [koct9i/ioping](https://github.com/koct9i/ioping) - simple disk I/0 latency measuring tool
 - [rvaiya/keyd](https://github.com/rvaiya/keyd) - A key remapping daemon for linux.
@@ -287,6 +288,7 @@
 
 ## Go 
 
+- [darkhz/bluetuith](https://github.com/darkhz/bluetuith) - A TUI bluetooth manager for Linux.
 - [kaytu-io/kaytu](https://github.com/kaytu-io/kaytu) - Kaytu's AI platform boosts cloud efficiency by analyzing historical usage and delivering intelligent recommendations—such as optimizing instance sizes—that maintain reliability. Pay for what you need,
 - [thomiceli/opengist](https://github.com/thomiceli/opengist) - Self-hosted pastebin powered by Git, open-source alternative to Github Gist.
 - [cilium/tetragon](https://github.com/cilium/tetragon) - eBPF-based Security Observability and Runtime Enforcement
@@ -1177,7 +1179,7 @@
 - [eddumelendez/reactor-kotlin-workshop](https://github.com/eddumelendez/reactor-kotlin-workshop) - Hands-On Lab with Reactor and Kotlin
 - [vmadalin/android-modular-architecture](https://github.com/vmadalin/android-modular-architecture) - 📚  Sample Android Components Architecture on a modular word focused on the scalability, testability and maintainability written in Kotlin, following best practices using Jetpack.
 - [pjagielski/punkt](https://github.com/pjagielski/punkt) - Live coding music library/environment for Kotlin
-- [joreilly/PeopleInSpace](https://github.com/joreilly/PeopleInSpace) - Kotlin Multiplatform project with SwiftUI, Jetpack Compose, Compose for Wear, Compose for Desktop, and Compose for Web clients along with Ktor backend.
+- [joreilly/PeopleInSpace](https://github.com/joreilly/PeopleInSpace) - Kotlin Multiplatform sample with SwiftUI, Jetpack Compose, Compose for Wear, Compose for Desktop, and Compose for Web clients along with Ktor backend.
 - [ivan-moto/30-seconds-of-kotlin](https://github.com/ivan-moto/30-seconds-of-kotlin) - Kotlin snippets that you can understand quickly, using only stdlib functionality.
 - [marcoferrer/kroto-plus](https://github.com/marcoferrer/kroto-plus) - gRPC Kotlin Coroutines, Protobuf DSL, Scripting for Protoc
 - [raharrison/kotlin-ktor-exposed-starter](https://github.com/raharrison/kotlin-ktor-exposed-starter) - Starter RESTful service with websocket notifications using Kotlin, Ktor and Exposed with H2, HikariCP and FlyWay
@@ -1226,7 +1228,7 @@
 - [tazjin/nix-1p](https://github.com/tazjin/nix-1p) - A (more or less) one page introduction to Nix, the language.
 - [hercules-ci/flake-parts](https://github.com/hercules-ci/flake-parts) - ❄️ Simplify Nix Flakes with the module system
 - [numtide/flake-utils](https://github.com/numtide/flake-utils) - Pure Nix flake utility functions [maintainer=@zimbatm]
-- [nix-community/poetry2nix](https://github.com/nix-community/poetry2nix) - Convert poetry projects to nix automagically [maintainer=@adisbladis]
+- [nix-community/poetry2nix](https://github.com/nix-community/poetry2nix) - Convert poetry projects to nix automagically [maintainer=@cpcloud]
 - [ninegua/ic-blackhole](https://github.com/ninegua/ic-blackhole) - Once a canister sets its only controller to a black hole, it becomes immutable and more!
 
 ## Nunjucks 
