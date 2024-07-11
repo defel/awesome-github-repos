@@ -606,7 +606,7 @@
 - [jdan/magic-hotline](https://github.com/jdan/magic-hotline) - A web server which generates its HTML using ChatGPT, using only the URL
 - [brunoimbrizi/txt-shuffle](https://github.com/brunoimbrizi/txt-shuffle) - Customisable text shuffling animations.
 - [pulsar-edit/pulsar](https://github.com/pulsar-edit/pulsar) - A Community-led Hyper-Hackable Text Editor
-- [metrico/qryn](https://github.com/metrico/qryn) - Polyglot All-in-One Observability. Drop-in compatible with Loki, Prometheus, Tempo, Pyroscope, Opentelemetry, Datadog & more! WASM powered ⭐️ Star to Support
+- [metrico/qryn](https://github.com/metrico/qryn) - Polyglot All-in-One Observability w/ ClickHouse Storage. Drop-in compatible with Loki, Prometheus, Tempo, Pyroscope, Opentelemetry, Datadog & more! WASM powered ⭐️ Star to Support
 - [alexcasalboni/aws-lambda-power-tuning](https://github.com/alexcasalboni/aws-lambda-power-tuning) - AWS Lambda Power Tuning is an open-source tool that can help you visualize and fine-tune the memory/power configuration of Lambda functions. It runs in your own AWS account - powered by AWS Step Funct
 - [chrisguttandin/timingsrc](https://github.com/chrisguttandin/timingsrc) - A library to synchronize a MediaElement with a TimingObject.
 - [Sh3b0/realtime-web](https://github.com/Sh3b0/realtime-web) - Comparing WebSocket, WebRTC, and WebTransport under packet loss
@@ -1716,6 +1716,7 @@
 
 ## Rust 
 
+- [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 - [shell-pool/shpool](https://github.com/shell-pool/shpool) - Think tmux, then aim... lower
 - [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
 - [parseablehq/parseable](https://github.com/parseablehq/parseable) - Open Source ElasticSearch Alternative. Parseable helps you search and get insights from your logs in the most simple way possible.
