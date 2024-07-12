@@ -384,7 +384,7 @@
 - [zettelstore/zettelstore](https://github.com/zettelstore/zettelstore) - This is a mirror of https://zettelstore.de
 - [securitybunker/databunker](https://github.com/securitybunker/databunker) - Secure SDK/vault for personal records/PII built to comply with GDPR
 - [schollz/croc](https://github.com/schollz/croc) - Easily and securely send things from one computer to another :crocodile: :package:
-- [webpod/red](https://github.com/webpod/red) - Terminal log analysis tools
+- [webpod/red](https://github.com/webpod/red) - Security log analysis tools for server monitoring
 - [sorenisanerd/gotty](https://github.com/sorenisanerd/gotty) - Share your terminal as a web application
 - [evilmartians/lefthook](https://github.com/evilmartians/lefthook) - Fast and powerful Git hooks manager for any type of projects.
 - [rh12503/triangula](https://github.com/rh12503/triangula) - Generate high-quality triangulated and polygonal art from images.
@@ -592,7 +592,6 @@
 
 ## JavaScript 
 
-- [omni-media/omniclip](https://github.com/omni-media/omniclip) - Open source video editing web application
 - [maptiler/tileserver-gl](https://github.com/maptiler/tileserver-gl) - Vector and raster maps with GL styles. Server side rendering by MapLibre GL Native. Map tile server for MapLibre GL JS, Android, iOS, Leaflet, OpenLayers, GIS via WMTS, etc.
 - [vanila-io/wireflow](https://github.com/vanila-io/wireflow) - Wireflow - user flow chart real-time collaborative tool
 - [kgscialdone/facet](https://github.com/kgscialdone/facet) - Web components made simple and declarative
@@ -1471,6 +1470,7 @@
 
 ## Python 
 
+- [darrenburns/posting](https://github.com/darrenburns/posting) - The modern API client that lives in your terminal.
 - [tanelpoder/0xtools](https://github.com/tanelpoder/0xtools) - 0x.Tools: X-Ray vision for Linux systems
 - [MobSF/mobsfscan](https://github.com/MobSF/mobsfscan) - mobsfscan is a static analysis tool that can find insecure code patterns in your Android and iOS source code. Supports Java, Kotlin, Swift, and Objective C Code. mobsfscan uses MobSF static analysis r
 - [welldone-cloud/aws-scps-for-sandbox-and-training-accounts](https://github.com/welldone-cloud/aws-scps-for-sandbox-and-training-accounts) - 
@@ -1716,6 +1716,7 @@
 
 ## Rust 
 
+- [svenstaro/proxyboi](https://github.com/svenstaro/proxyboi) - A super simple reverse proxy with TLS support
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 - [shell-pool/shpool](https://github.com/shell-pool/shpool) - Think tmux, then aim... lower
 - [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
@@ -1930,6 +1931,7 @@
 - [cdklabs/cdk-pipelines-github](https://github.com/cdklabs/cdk-pipelines-github) - 
 - [aws-samples/cloudfront-authorization-at-edge](https://github.com/aws-samples/cloudfront-authorization-at-edge) - Protect downloads of your content hosted on CloudFront with Cognito authentication using cookies and Lambda@Edge
 - [redotvideo/revideo](https://github.com/redotvideo/revideo) - Create Videos with Code
+- [omni-media/omniclip](https://github.com/omni-media/omniclip) - Open source video editing web application
 - [extension-js/extension.js](https://github.com/extension-js/extension.js) - 🧩 Plug-and-play, zero-config, cross-browser extension development tool.
 - [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure, prevent secret leaks, and manage internal PKI
 - [pubkey/rxdb](https://github.com/pubkey/rxdb) - A fast, local first, reactive Database for JavaScript Applications https://rxdb.info/
