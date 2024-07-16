@@ -302,7 +302,7 @@
 - [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
 - [mathaou/termdbms](https://github.com/mathaou/termdbms) - A TUI for viewing and editing database files.
 - [maypok86/otter](https://github.com/maypok86/otter) - A high performance lockless cache for Go.
-- [boring-registry/boring-registry](https://github.com/boring-registry/boring-registry) - Terraform Provider and Module Registry
+- [boring-registry/boring-registry](https://github.com/boring-registry/boring-registry) - A Simple Terraform Provider and Module Registry
 - [chaosblade-io/chaosblade](https://github.com/chaosblade-io/chaosblade) - An easy to use and powerful chaos engineering experiment toolkit.（阿里巴巴开源的一款简单易用、功能强大的混沌实验注入工具）
 - [liquidmetal-dev/flintlock](https://github.com/liquidmetal-dev/flintlock) - Lock, Stock, and Two Smoking MicroVMs. Create and manage the lifecycle of MicroVMs backed by containerd.
 - [securisec/cliam](https://github.com/securisec/cliam) - Cloud agnostic IAM permissions enumerator
