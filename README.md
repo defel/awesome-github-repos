@@ -2101,7 +2101,7 @@
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 - [andymatuschak/orbit](https://github.com/andymatuschak/orbit) - Experimental spaced repetition platform for exploring ideas in memory augmentation and programmable attention
 - [replit/clui](https://github.com/replit/clui) - CLUI is a collection of JavaScript libraries for building command-driven interfaces with context-aware autocomplete.
-- [nickpalenchar/goodtimer](https://github.com/nickpalenchar/goodtimer) - A setTimeout/setInterval for Humans (and so much more)
+- [aeeed99/goodtimer](https://github.com/aeeed99/goodtimer) - A setTimeout/setInterval for Humans (and so much more)
 - [nodegui/svelte-nodegui](https://github.com/nodegui/svelte-nodegui) - Build performant, native and cross-platform desktop applications with native Svelte + powerful CSS-like styling.🚀
 - [windicss/vite-plugin-windicss](https://github.com/windicss/vite-plugin-windicss) - 🍃 Windi CSS for Vite ⚡️
 - [pmndrs/valtio](https://github.com/pmndrs/valtio) - 💊 Valtio makes proxy-state simple  for React and Vanilla
