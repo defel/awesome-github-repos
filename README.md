@@ -551,7 +551,7 @@
 
 ## Janet 
 
-- [ianthehenry/bauble.studio](https://github.com/ianthehenry/bauble.studio) - a playground for making 3D art with lisp and math
+- [ianthehenry/bauble](https://github.com/ianthehenry/bauble) - a playground for making 3D art with lisp and math
 
 ## Java 
 
@@ -609,7 +609,7 @@
 - [jdan/magic-hotline](https://github.com/jdan/magic-hotline) - A web server which generates its HTML using ChatGPT, using only the URL
 - [brunoimbrizi/txt-shuffle](https://github.com/brunoimbrizi/txt-shuffle) - Customisable text shuffling animations.
 - [pulsar-edit/pulsar](https://github.com/pulsar-edit/pulsar) - A Community-led Hyper-Hackable Text Editor
-- [metrico/qryn](https://github.com/metrico/qryn) - All-in-One Polyglot Observability with ClickHouse Storage. Drop-in Grafana Cloud replacement compatible with Loki, Prometheus, Tempo, Pyroscope, Opentelemetry, Datadog & more! WASM powered ⭐️
+- [metrico/qryn](https://github.com/metrico/qryn) - ⭐️ All-in-One Polyglot Observability with OLAP Storage. Drop-in Grafana Cloud replacement compatible with Loki, Prometheus, Tempo, Pyroscope, Opentelemetry, Datadog & Beyond!
 - [alexcasalboni/aws-lambda-power-tuning](https://github.com/alexcasalboni/aws-lambda-power-tuning) - AWS Lambda Power Tuning is an open-source tool that can help you visualize and fine-tune the memory/power configuration of Lambda functions. It runs in your own AWS account - powered by AWS Step Funct
 - [chrisguttandin/timingsrc](https://github.com/chrisguttandin/timingsrc) - A library to synchronize a MediaElement with a TimingObject.
 - [Sh3b0/realtime-web](https://github.com/Sh3b0/realtime-web) - Comparing WebSocket, WebRTC, and WebTransport under packet loss
@@ -1760,7 +1760,7 @@
 - [typst/typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn.
 - [awslabs/mountpoint-s3](https://github.com/awslabs/mountpoint-s3) - A simple, high-throughput file client for mounting an Amazon S3 bucket as a local file system.
 - [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, mobile, and more.
-- [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - Continuous SQL for event streams. Perform streaming analytics, or build event-driven applications, real-time ETL pipelines, and feature stores in minutes. Unified streaming and batch processing. Postg
+- [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - Continuous SQL for event streams, database CDC, and time series. Perform streaming analytics, or build event-driven applications, real-time ETL pipelines, and feature stores in minutes. Unified stream
 - [metalbear-co/mirrord](https://github.com/metalbear-co/mirrord) - Connect your local process and your cloud environment, and run local code in cloud conditions.
 - [aalykiot/dune](https://github.com/aalykiot/dune) - A hobby runtime for JavaScript and TypeScript 🚀
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
