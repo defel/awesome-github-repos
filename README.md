@@ -1771,7 +1771,7 @@
 - [quickwit-oss/tantivy](https://github.com/quickwit-oss/tantivy) - Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust
 - [erg-lang/erg](https://github.com/erg-lang/erg) - A statically typed language compatible with Python
 - [tellerops/teller](https://github.com/tellerops/teller) - Cloud native secrets management for developers - never leave your command line for secrets.
-- [vercel/turbo](https://github.com/vercel/turbo) - Build system optimized for JavaScript and TypeScript, written in Rust
+- [vercel/turborepo](https://github.com/vercel/turborepo) - Build system optimized for JavaScript and TypeScript, written in Rust
 - [rant-lang/rant](https://github.com/rant-lang/rant) - Rant - The templating language for procedural generation.
 - [arxanas/git-branchless](https://github.com/arxanas/git-branchless) - High-velocity, monorepo-scale workflow for Git
 - [tonarino/innernet](https://github.com/tonarino/innernet) - A private network system that uses WireGuard under the hood.
