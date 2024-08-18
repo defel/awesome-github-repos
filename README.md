@@ -1124,7 +1124,6 @@
 - [masylum/dialect-http](https://github.com/masylum/dialect-http) - http client to manage your dialect translations
 - [PaulUithol/Backbone-relational](https://github.com/PaulUithol/Backbone-relational) - Get and set relations (one-to-one, one-to-many, many-to-one) for Backbone models
 - [bnoguchi/everyauth](https://github.com/bnoguchi/everyauth) - node.js auth package (password, facebook, & more) for Connect and Express apps
-- [ether/etherpad-lite](https://github.com/ether/etherpad-lite) - Etherpad: A modern really-real-time collaborative document editor.
 - [bnoguchi/mongoose-auth](https://github.com/bnoguchi/mongoose-auth) - User authentication plugin for mongoose nodejs orm
 - [danlucraft/git.js](https://github.com/danlucraft/git.js) - pure-Javascript Git implementation
 - [request/request](https://github.com/request/request) - 🏊🏾 Simplified HTTP request client.
@@ -1933,6 +1932,7 @@
 
 ## TypeScript 
 
+- [denoland/std](https://github.com/denoland/std) - The Deno Standard Library
 - [8398a7/action-slack](https://github.com/8398a7/action-slack) - Provides the function of slack notification to GitHub Actions.
 - [TrafficGuard/nous](https://github.com/TrafficGuard/nous) - TypeScript AI agent platform with Autonomous agents, Software developer agents, AI code review agents and more
 - [ssoready/ssoready](https://github.com/ssoready/ssoready) - Open-source dev tools for enterprise SSO. Ship SAML support this afternoon.
@@ -2190,6 +2190,7 @@
 - [tantaman/strut](https://github.com/tantaman/strut) - Strut - An Impress.js and Bespoke.js Presentation Editor
 - [peers/peerjs](https://github.com/peers/peerjs) - Simple peer-to-peer with WebRTC.
 - [derbyjs/derby](https://github.com/derbyjs/derby) - MVC framework making it easy to write realtime, collaborative applications that run in both Node.js and browsers
+- [ether/etherpad-lite](https://github.com/ether/etherpad-lite) - Etherpad: A modern really-real-time collaborative document editor.
 
 ## V 
 
