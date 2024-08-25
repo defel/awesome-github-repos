@@ -1232,6 +1232,7 @@
 - [hercules-ci/flake-parts](https://github.com/hercules-ci/flake-parts) - ❄️ Simplify Nix Flakes with the module system
 - [numtide/flake-utils](https://github.com/numtide/flake-utils) - Pure Nix flake utility functions [maintainer=@zimbatm]
 - [nix-community/poetry2nix](https://github.com/nix-community/poetry2nix) - Convert poetry projects to nix automagically [maintainer=@adisbladis,@cpcloud]
+- [NixOS/nix.dev](https://github.com/NixOS/nix.dev) - Official documentation for getting things done with Nix.
 - [ninegua/ic-blackhole](https://github.com/ninegua/ic-blackhole) - Once a canister sets its only controller to a black hole, it becomes immutable and more!
 
 ## Nunjucks 
@@ -1473,6 +1474,7 @@
 
 ## Python 
 
+- [thezakman/CTF-Heaven](https://github.com/thezakman/CTF-Heaven) - 💻 CTF Heaven
 - [Owez/yark](https://github.com/Owez/yark) - YouTube archiving made simple.
 - [darrenburns/posting](https://github.com/darrenburns/posting) - The modern API client that lives in your terminal.
 - [tanelpoder/0xtools](https://github.com/tanelpoder/0xtools) - 0x.Tools: X-Ray vision for Linux systems
@@ -1529,7 +1531,6 @@
 - [open-telemetry/opentelemetry-python](https://github.com/open-telemetry/opentelemetry-python) - OpenTelemetry Python API and SDK
 - [google/gin-config](https://github.com/google/gin-config) - Gin provides a lightweight configuration framework for Python
 - [amsehili/auditok](https://github.com/amsehili/auditok) - An audio/acoustic activity detection and audio segmentation tool
-- [NixOS/nix.dev](https://github.com/NixOS/nix.dev) - Official documentation for getting things done with Nix.
 - [cruft/cruft](https://github.com/cruft/cruft) - Allows you to maintain all the necessary cruft for packaging and building projects separate from the code you intentionally write. Built on-top of, and fully compatible with, CookieCutter.
 - [CadQuery/cadquery](https://github.com/CadQuery/cadquery) - A python parametric CAD scripting framework based on OCCT
 - [sdispater/pendulum](https://github.com/sdispater/pendulum) - Python datetimes made easy
