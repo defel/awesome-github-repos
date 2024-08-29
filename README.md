@@ -913,7 +913,6 @@
 - [shanzi/myicons](https://github.com/shanzi/myicons) - Your flat icons manager and font builder.
 - [observing/tolkien](https://github.com/observing/tolkien) - Passwords are obsolete - Send one time tokens for authentication instead.
 - [juliangruber/capture-screenshot](https://github.com/juliangruber/capture-screenshot) - Capture screenshots in multiple browsers!
-- [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 - [nodemailer/mailparser](https://github.com/nodemailer/mailparser) - Decode mime formatted e-mails
 - [btmills/geopattern](https://github.com/btmills/geopattern) - Generate beautiful SVG patterns
 - [davidsonfellipe/awesome-wpo](https://github.com/davidsonfellipe/awesome-wpo) - :pencil: A curated list of Web Performance Optimization. Everyone can contribute here!
@@ -1042,7 +1041,7 @@
 - [tj/punt](https://github.com/tj/punt) - Elegant UDP messaging for nodejs
 - [astro/bitford](https://github.com/astro/bitford) - BitTorrent Client in a Chrome Packaged App
 - [adobe/brackets](https://github.com/adobe/brackets) - An open source code editor for the web, written in JavaScript, HTML and CSS.
-- [catdadcode/shotgun](https://github.com/catdadcode/shotgun) - A simple UI agnostic command framework.
+- [chevcast/shotgun](https://github.com/chevcast/shotgun) - A simple UI agnostic command framework.
 - [remy/min.js](https://github.com/remy/min.js) - Super minimal selector and event library
 - [4ae9b8/browserhacks](https://github.com/4ae9b8/browserhacks) - An extensive list of CSS/JS browserhacks from all over the interwebs.
 - [jsbin/jsbin](https://github.com/jsbin/jsbin) - Collaborative JavaScript Debugging App
@@ -2062,7 +2061,7 @@
 - [tinyplex/tinybase](https://github.com/tinyplex/tinybase) - The reactive data store for local‑first apps.
 - [jogold/cloudstructs](https://github.com/jogold/cloudstructs) - High-level constructs for AWS CDK
 - [tuzig/terminal7](https://github.com/tuzig/terminal7) - A Next Generation Terminal running over WebRTC
-- [mui/material-ui](https://github.com/mui/material-ui) - Material UI: Ready-to-use foundational React components, free forever. It includes Material UI, which implements Google's Material Design.
+- [mui/material-ui](https://github.com/mui/material-ui) - Material UI: Comprehensive React component library that implements Google's Material Design. Free forever.
 - [iorate/ublacklist](https://github.com/iorate/ublacklist) - Blocks specific sites from appearing in Google search results
 - [cloudcomponents/cdk-constructs](https://github.com/cloudcomponents/cdk-constructs) - A collection of higher-level reusable cdk constructs
 - [code-hike/codehike](https://github.com/code-hike/codehike) - Build rich content websites with Markdown and React
@@ -2185,6 +2184,7 @@
 - [railsware/upterm](https://github.com/railsware/upterm) - A terminal emulator for the 21st century.
 - [jquery/esprima](https://github.com/jquery/esprima) - ECMAScript parsing infrastructure for multipurpose analysis
 - [cyclejs/cyclejs](https://github.com/cyclejs/cyclejs) - A functional and reactive JavaScript framework for predictable code
+- [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 - [cheeriojs/cheerio](https://github.com/cheeriojs/cheerio) - The fast, flexible, and elegant library for parsing and manipulating HTML and XML.
 - [ondras/my-mind](https://github.com/ondras/my-mind) - Online Mindmapping Software
 - [GitbookIO/gitbook](https://github.com/GitbookIO/gitbook) - The open source frontend for GitBook doc sites
