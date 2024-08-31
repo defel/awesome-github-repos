@@ -43,6 +43,7 @@
 - [Others](#others)
 - [PHP](#php)
 - [Perl](#perl)
+- [PowerShell](#powershell)
 - [Pug](#pug)
 - [Puppet](#puppet)
 - [PureScript](#purescript)
@@ -362,7 +363,7 @@
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
 - [wader/ansisvg](https://github.com/wader/ansisvg) - Convert ANSI to SVG
 - [lnenad/newser](https://github.com/lnenad/newser) - Newser is a simple utility to generate a pdf with you favorite news articles
-- [git-town/git-town](https://github.com/git-town/git-town) - Git made easy for teams
+- [git-town/git-town](https://github.com/git-town/git-town) - Git branches made easy
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - The mighty, self-hostable Git server for the command line🍦
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
 - [zorchenhimer/MovieNight](https://github.com/zorchenhimer/MovieNight) - Single instance video streaming server with integrated chat.
@@ -1249,7 +1250,6 @@
 
 ## Others 
 
-- [TonyPhipps/SIEM](https://github.com/TonyPhipps/SIEM) - SIEM Tactics, Techiques, and Procedures
 - [tldrsec/awesome-secure-defaults](https://github.com/tldrsec/awesome-secure-defaults) - Awesome secure by default libraries to help you eliminate bug classes!
 - [hslatman/awesome-threat-intelligence](https://github.com/hslatman/awesome-threat-intelligence) - A curated list of Awesome Threat Intelligence resources
 - [adamshostack/4QuestionFrame](https://github.com/adamshostack/4QuestionFrame) - Shostack's 4 Question Frame for Threat Modeling
@@ -1458,6 +1458,10 @@
 - [jlord/git-it-electron](https://github.com/jlord/git-it-electron) - :computer: :mortar_board: Git-it is a (Mac, Win, Linux) Desktop App for Learning Git and GitHub
 - [dotphiles/dotphiles](https://github.com/dotphiles/dotphiles) - A community driven framework of dotfiles.
 - [PiratenHi/Mitgliederverwaltung](https://github.com/PiratenHi/Mitgliederverwaltung) - Skripte für die Mitgliederverwaltung
+
+## PowerShell 
+
+- [TonyPhipps/SIEM](https://github.com/TonyPhipps/SIEM) - SIEM Tactics, Techiques, and Procedures
 
 ## Pug 
 
@@ -1758,7 +1762,7 @@
 - [typst/typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn.
 - [awslabs/mountpoint-s3](https://github.com/awslabs/mountpoint-s3) - A simple, high-throughput file client for mounting an Amazon S3 bucket as a local file system.
 - [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, mobile, and more.
-- [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - SQL engine for event-driven workloads. Perform streaming analytics, or build event-driven applications, real-time ETL pipelines, and feature stores in minutes. Unified streaming and batch processing. 
+- [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - Best-in-class stream processing, analytics, and management. Perform continuous analytics, or build event-driven applications, real-time ETL pipelines, and feature stores in minutes. Unified streaming 
 - [metalbear-co/mirrord](https://github.com/metalbear-co/mirrord) - Connect your local process and your cloud environment, and run local code in cloud conditions.
 - [aalykiot/dune](https://github.com/aalykiot/dune) - A hobby runtime for JavaScript and TypeScript 🚀
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
