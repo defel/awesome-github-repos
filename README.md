@@ -1249,6 +1249,7 @@
 
 ## Others 
 
+- [vizdom-dev/vizdom](https://github.com/vizdom-dev/vizdom) - A TypeScript library for Vizdom
 - [tldrsec/awesome-secure-defaults](https://github.com/tldrsec/awesome-secure-defaults) - Awesome secure by default libraries to help you eliminate bug classes!
 - [hslatman/awesome-threat-intelligence](https://github.com/hslatman/awesome-threat-intelligence) - A curated list of Awesome Threat Intelligence resources
 - [adamshostack/4QuestionFrame](https://github.com/adamshostack/4QuestionFrame) - Shostack's 4 Question Frame for Threat Modeling
