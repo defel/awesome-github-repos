@@ -40,6 +40,7 @@
 - [Nix](#nix)
 - [Nunjucks](#nunjucks)
 - [OCaml](#ocaml)
+- [Open Policy Agent](#open-policy-agent)
 - [Others](#others)
 - [PHP](#php)
 - [Perl](#perl)
@@ -293,6 +294,7 @@
 
 ## Go 
 
+- [common-fate/granted](https://github.com/common-fate/granted) - The easiest way to access your cloud.
 - [hoophq/hoop](https://github.com/hoophq/hoop) - The only access gateway with data masking
 - [quackduck/devzat](https://github.com/quackduck/devzat) - The devs are over here at devzat, chat over SSH!
 - [strongdm/comply](https://github.com/strongdm/comply) - Compliance automation framework, focused on SOC2
@@ -590,7 +592,7 @@
 - [pockethub/PocketHub](https://github.com/pockethub/PocketHub) - PocketHub Android App
 - [spring-attic/spring-social-samples](https://github.com/spring-attic/spring-social-samples) - Samples of using Spring Social
 - [scribejava/scribejava](https://github.com/scribejava/scribejava) - Simple OAuth library for Java
-- [elastic/elasticsearch](https://github.com/elastic/elasticsearch) - Free and Open, Distributed, RESTful Search Engine
+- [elastic/elasticsearch](https://github.com/elastic/elasticsearch) - Free and Open Source, Distributed, RESTful Search Engine
 - [colder/phantm](https://github.com/colder/phantm) - Static analysis using data-flow and type inference for PHP applications - Implemented in Scala
 - [robertpfeiffer/dbpedia-clustering](https://github.com/robertpfeiffer/dbpedia-clustering) - class project
 
@@ -1247,8 +1249,13 @@
 - [savonet/liquidsoap](https://github.com/savonet/liquidsoap) - Liquidsoap is a statically typed scripting general-purpose language with dedicated operators and backend for all thing media, streaming, file generation, automation, HTTP backend and more.
 - [reasonml/reason](https://github.com/reasonml/reason) - Simple, fast & type safe code that leverages the JavaScript & OCaml ecosystems
 
+## Open Policy Agent 
+
+- [open-policy-agent/gatekeeper-library](https://github.com/open-policy-agent/gatekeeper-library) - 📚 The OPA Gatekeeper policy library
+
 ## Others 
 
+- [Frichetten/aws-api-models](https://github.com/Frichetten/aws-api-models) - A collection of documented and undocumented AWS API models
 - [vizdom-dev/vizdom](https://github.com/vizdom-dev/vizdom) - A TypeScript library for Vizdom
 - [tldrsec/awesome-secure-defaults](https://github.com/tldrsec/awesome-secure-defaults) - Awesome secure by default libraries to help you eliminate bug classes!
 - [hslatman/awesome-threat-intelligence](https://github.com/hslatman/awesome-threat-intelligence) - A curated list of Awesome Threat Intelligence resources
@@ -1477,6 +1484,8 @@
 
 ## Python 
 
+- [duo-labs/parliament](https://github.com/duo-labs/parliament) - AWS IAM linting library
+- [DataDog/undocumented-aws-api-hunter](https://github.com/DataDog/undocumented-aws-api-hunter) - A tool to uncover undocumented APIs from the AWS Console.
 - [thezakman/CTF-Heaven](https://github.com/thezakman/CTF-Heaven) - 💻 CTF Heaven
 - [Owez/yark](https://github.com/Owez/yark) - YouTube archiving made simple.
 - [darrenburns/posting](https://github.com/darrenburns/posting) - The modern API client that lives in your terminal.
@@ -1724,6 +1733,8 @@
 
 ## Rust 
 
+- [phiresky/ripgrep-all](https://github.com/phiresky/ripgrep-all) - rga: ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc.
+- [cedar-policy/cedar](https://github.com/cedar-policy/cedar) - Implementation of the Cedar Policy Language
 - [svenstaro/proxyboi](https://github.com/svenstaro/proxyboi) - A super simple reverse proxy with TLS support
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 - [shell-pool/shpool](https://github.com/shell-pool/shpool) - Think tmux, then aim... lower
@@ -1925,6 +1936,7 @@
 
 ## Swift 
 
+- [singe/tidcli](https://github.com/singe/tidcli) - A simple touchID prompt'er for use in shell scripts.
 - [evanw/thumbhash](https://github.com/evanw/thumbhash) - A very compact representation of an image placeholder
 - [ThasianX/ElegantTimeline-SwiftUI](https://github.com/ThasianX/ElegantTimeline-SwiftUI) - Elegant demonstration of a multi-faceted timeline view with interactions between the calendar, list, and app theme.
 - [Ben-G/Meet](https://github.com/Ben-G/Meet) - [⚠️ DEPRECATED] An iOS Application Built with Swift Flow
@@ -1938,6 +1950,7 @@
 
 ## TypeScript 
 
+- [chrnorm/build-your-own-cloudtrail](https://github.com/chrnorm/build-your-own-cloudtrail) - 
 - [yaakapp/app](https://github.com/yaakapp/app) - The most intuitive desktop API client. Organize and execute REST, GraphQL, and gRPC requests in a simple and intuitive app.
 - [afadil/wealthfolio](https://github.com/afadil/wealthfolio) - A Beautiful Private and Secure Desktop Investment Tracking Application
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
