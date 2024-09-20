@@ -294,6 +294,7 @@
 
 ## Go 
 
+- [redpanda-data/benthos](https://github.com/redpanda-data/benthos) - 
 - [common-fate/granted](https://github.com/common-fate/granted) - The easiest way to access your cloud.
 - [hoophq/hoop](https://github.com/hoophq/hoop) - The only access gateway with data masking
 - [quackduck/devzat](https://github.com/quackduck/devzat) - The devs are over here at devzat, chat over SSH!
@@ -339,7 +340,7 @@
 - [rgburke/grv](https://github.com/rgburke/grv) - GRV is a terminal interface for viewing git repositories
 - [variadico/noti](https://github.com/variadico/noti) - Monitor a process and trigger a notification.
 - [knqyf263/pet](https://github.com/knqyf263/pet) - Simple command-line snippet manager
-- [ory/kratos](https://github.com/ory/kratos) - Next-gen identity server replacing your Auth0, Okta, Firebase with hardened security and PassKeys, SMS, OIDC, Social Sign In, MFA, FIDO, TOTP and OTP, WebAuthn, passwordless and much more. Golang, hea
+- [ory/kratos](https://github.com/ory/kratos) - The most scalable and customizable identity server on the market. Replace your Homegrown, Auth0, Okta, Firebase with better UX and DX. Has all the tablestakes: Passkeys, Social Sign In, Multi-Factor A
 - [bensadeh/circumflex](https://github.com/bensadeh/circumflex) - 🌿 It's Hacker News in your terminal
 - [ema/pets](https://github.com/ema/pets) - A configuration management system for Pets, not Cattle
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼
@@ -1978,7 +1979,7 @@
 - [openstatusHQ/openstatus](https://github.com/openstatusHQ/openstatus) - 🏓  The open-source synthetic monitoring platform  🏓
 - [tinacms/tinacms](https://github.com/tinacms/tinacms) - A fully open-source headless CMS that supports Markdown and Visual Editing
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
-- [scalar/scalar](https://github.com/scalar/scalar) - Beautiful API references from OpenAPI/Swagger files ✨
+- [scalar/scalar](https://github.com/scalar/scalar) - Scalar is an open-source platform with: 🌐 Modern Rest API Client　　　　　　　　📖 Beautiful API References　　　　　　✨ 1st-Class OpenAPI/Swagger Support
 - [novuhq/novu](https://github.com/novuhq/novu) - Open-Source Notification Platform. Embeddable Notification Center, E-mail, Push and Slack Integrations.
 - [tiged/tiged](https://github.com/tiged/tiged) - Community driven fork of degit
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Your backend, minus the hassle.
