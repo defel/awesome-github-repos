@@ -260,6 +260,7 @@
 
 ## Dockerfile 
 
+- [compose-spec/compose-spec](https://github.com/compose-spec/compose-spec) - The Compose specification
 - [hashbang/book](https://github.com/hashbang/book) - A FOSS hackers guide to the CLI, privacy, security, self hosting, and the internet.
 - [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).
 - [ScottBrenner/aws-cdk-action](https://github.com/ScottBrenner/aws-cdk-action) - GitHub Action for interacting with AWS CDK
@@ -604,9 +605,9 @@
 
 ## JavaScript 
 
+- [openai/openai-realtime-api-beta](https://github.com/openai/openai-realtime-api-beta) - Node.js + JavaScript reference client for the Realtime API (beta)
 - [platformatic/platformatic](https://github.com/platformatic/platformatic) - Platformatic Open Source monorepo!
 - [klimeryk/recalendar.js](https://github.com/klimeryk/recalendar.js) - ReCalendar - create your personalized calendar PDF for ReMarkable tablets
-- [omni-media/omniclip](https://github.com/omni-media/omniclip) - Open source video editing web application
 - [maptiler/tileserver-gl](https://github.com/maptiler/tileserver-gl) - Vector and raster maps with GL styles. Server side rendering by MapLibre GL Native. Map tile server for MapLibre GL JS, Android, iOS, Leaflet, OpenLayers, GIS via WMTS, etc.
 - [vanila-io/wireflow](https://github.com/vanila-io/wireflow) - Wireflow - user flow chart real-time collaborative tool
 - [kgscialdone/facet](https://github.com/kgscialdone/facet) - Web components made simple and declarative
@@ -1868,6 +1869,7 @@
 
 ## Shell 
 
+- [omerxx/tmux-sessionx](https://github.com/omerxx/tmux-sessionx) - A Tmux session manager, with preview, fuzzy finding, and MORE
 - [sroberts/awesome-iocs](https://github.com/sroberts/awesome-iocs) - A collection of sources of indicators of compromise.
 - [Security-Onion-Solutions/securityonion](https://github.com/Security-Onion-Solutions/securityonion) - Security Onion is a free and open platform for threat hunting, enterprise security monitoring, and log management. It includes our own interfaces for alerting, dashboards, hunting, PCAP, detections, a
 - [CISOfy/lynis](https://github.com/CISOfy/lynis) - Lynis - Security auditing tool for Linux, macOS, and UNIX-based systems. Assists with compliance testing (HIPAA/ISO27001/PCI DSS) and system hardening. Agentless, and installation optional.
@@ -1976,6 +1978,7 @@
 - [cdklabs/cdk-pipelines-github](https://github.com/cdklabs/cdk-pipelines-github) - 
 - [aws-samples/cloudfront-authorization-at-edge](https://github.com/aws-samples/cloudfront-authorization-at-edge) - Protect downloads of your content hosted on CloudFront with Cognito authentication using cookies and Lambda@Edge
 - [redotvideo/revideo](https://github.com/redotvideo/revideo) - Create Videos with Code
+- [omni-media/omniclip](https://github.com/omni-media/omniclip) - Open source video editing web application
 - [extension-js/extension.js](https://github.com/extension-js/extension.js) - 🧩 The cross-browser extension framework.
 - [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure, prevent secret leaks, and manage internal PKI
 - [pubkey/rxdb](https://github.com/pubkey/rxdb) - A fast, local first, reactive Database for JavaScript Applications https://rxdb.info/
@@ -2094,7 +2097,7 @@
 - [TfTHacker/obsidian42-text-transporter](https://github.com/TfTHacker/obsidian42-text-transporter) - Text Transporter - advanced text management for Obsidian.
 - [tinyplex/tinybase](https://github.com/tinyplex/tinybase) - The reactive data store for local‑first apps.
 - [jogold/cloudstructs](https://github.com/jogold/cloudstructs) - High-level constructs for AWS CDK
-- [tuzig/terminal7](https://github.com/tuzig/terminal7) - A Next Generation Terminal running over WebRTC
+- [tuzig/terminal7](https://github.com/tuzig/terminal7) - A Multi Platform Terminal Emulator & Multiplexer Running over WebRTC with Touch First UI
 - [mui/material-ui](https://github.com/mui/material-ui) - Material UI: Comprehensive React component library that implements Google's Material Design. Free forever.
 - [iorate/ublacklist](https://github.com/iorate/ublacklist) - Blocks specific sites from appearing in Google search results
 - [cloudcomponents/cdk-constructs](https://github.com/cloudcomponents/cdk-constructs) - A collection of higher-level reusable cdk constructs
