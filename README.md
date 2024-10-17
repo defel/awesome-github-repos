@@ -85,7 +85,6 @@
 - [metacall/core](https://github.com/metacall/core) - MetaCall: The ultimate polyglot programming experience.
 - [jonas/tig](https://github.com/jonas/tig) - Text-mode interface for git
 - [reddit/snudown](https://github.com/reddit/snudown) - reddit's markdown renderer. based on sundown.
-- [ggerganov/whisper.cpp](https://github.com/ggerganov/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
 - [ffmpegwasm/ffmpeg.wasm](https://github.com/ffmpegwasm/ffmpeg.wasm) - FFmpeg for browser, powered by WebAssembly
 - [dimitri/pgcopydb](https://github.com/dimitri/pgcopydb) - Copy a Postgres database to a target Postgres server (pg_dump | pg_restore on steroids)
 - [DorianRudolph/pinenotes](https://github.com/DorianRudolph/pinenotes) - Notes about PineNote development
@@ -145,6 +144,7 @@
 
 ## C++ 
 
+- [splitbrain/clipscreen](https://github.com/splitbrain/clipscreen) - Mirror a portion of your screen to a virtual monitor for easier screen sharing.
 - [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) - Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.
 - [fgaz/ladybird](https://github.com/fgaz/ladybird) - Truly independent web browser
 - [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
@@ -161,6 +161,7 @@
 - [capnproto/capnproto](https://github.com/capnproto/capnproto) - Cap'n Proto serialization/RPC system - core tools and C++ library
 - [hoffstadt/DearPyGui](https://github.com/hoffstadt/DearPyGui) - Dear PyGui: A fast and powerful Graphical User Interface Toolkit for Python with minimal dependencies
 - [JetBrains/skiko](https://github.com/JetBrains/skiko) - Kotlin Multiplatform bindings to Skia
+- [ggerganov/whisper.cpp](https://github.com/ggerganov/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
 - [StanfordSNR/gg](https://github.com/StanfordSNR/gg) - The Stanford Builder
 - [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly) - A modern replacement for Redis and Memcached
 - [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf) - Protocol Buffers - Google's data interchange format
@@ -304,7 +305,7 @@
 - [DataDog/grimoire](https://github.com/DataDog/grimoire) - Generate datasets of cloud audit logs for common attacks
 - [redpanda-data/benthos](https://github.com/redpanda-data/benthos) - 
 - [common-fate/granted](https://github.com/common-fate/granted) - The easiest way to access your cloud.
-- [hoophq/hoop](https://github.com/hoophq/hoop) - The only access gateway for databases and servers with zero-config data masking.
+- [hoophq/hoop](https://github.com/hoophq/hoop) - Hoop.dev is an open-source access gateway that provides secure, seamless, and audited access to databases and infrastructure without exposing credentials or sensitive data.
 - [quackduck/devzat](https://github.com/quackduck/devzat) - The devs are over here at devzat, chat over SSH!
 - [strongdm/comply](https://github.com/strongdm/comply) - Compliance automation framework, focused on SOC2
 - [darkhz/bluetuith](https://github.com/darkhz/bluetuith) - A TUI bluetooth manager for Linux.
@@ -1265,6 +1266,7 @@
 
 ## Others 
 
+- [tBaxter/questions-for-employers](https://github.com/tBaxter/questions-for-employers) - A big collection of useful questions to ask potential employers.
 - [Frichetten/aws-api-models](https://github.com/Frichetten/aws-api-models) - A collection of documented and undocumented AWS API models
 - [vizdom-dev/vizdom](https://github.com/vizdom-dev/vizdom) - A TypeScript library for Vizdom
 - [tldrsec/awesome-secure-defaults](https://github.com/tldrsec/awesome-secure-defaults) - Awesome secure by default libraries to help you eliminate bug classes!
@@ -1494,6 +1496,10 @@
 
 ## Python 
 
+- [amoffat/sh](https://github.com/amoffat/sh) - Python process launching
+- [ZacharyZhang-NY/Ollama-Engineer](https://github.com/ZacharyZhang-NY/Ollama-Engineer) - 
+- [vincentkoc/airgapped-offfline-rag](https://github.com/vincentkoc/airgapped-offfline-rag) - Secure, locally-run Retrieval-Augmented Generation system for document-based question-answering, utilizing Llama 3, Mistral, and Gemini models with a user-friendly Streamlit interface.
+- [dacoburn/security-tools](https://github.com/dacoburn/security-tools) - 
 - [j6k4m8/remarkapy](https://github.com/j6k4m8/remarkapy) - 
 - [j6k4m8/goosepaper](https://github.com/j6k4m8/goosepaper) - generate and deliver a daily newspaper to you or your remarkable tablet
 - [rschroll/rmcl](https://github.com/rschroll/rmcl) - reMarkable Cloud Library for Python
@@ -1716,6 +1722,7 @@
 
 ## Ruby 
 
+- [kagisearch/bangs](https://github.com/kagisearch/bangs) - Repository of bangs used by Kagi Search
 - [github-linguist/linguist](https://github.com/github-linguist/linguist) - Language Savant. If your repository's language is being reported incorrectly, send us a pull request!
 - [ankane/pgsync](https://github.com/ankane/pgsync) - Sync data from one Postgres database to another
 - [motor-admin/motor-admin](https://github.com/motor-admin/motor-admin) - Deploy a no-code admin panel for any application in less than a minute. Search, create, update, and delete data entries, create custom actions, and build reports.
@@ -1851,7 +1858,7 @@
 
 ## SCSS 
 
-- [primer/css](https://github.com/primer/css) - The CSS design system that powers GitHub
+- [primer/css](https://github.com/primer/css) - Primer is GitHub's design system. This is the CSS implementation
 - [slatedocs/slate](https://github.com/slatedocs/slate) - Beautiful static documentation for your API
 - [bencodezen/vue-enterprise-boilerplate](https://github.com/bencodezen/vue-enterprise-boilerplate) - An ever-evolving, very opinionated architecture and dev environment for new Vue SPA projects using Vue CLI.
 - [pop-os/gtk-theme](https://github.com/pop-os/gtk-theme) - System76 Pop GTK+ Theme
