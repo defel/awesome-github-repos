@@ -1290,7 +1290,6 @@
 - [libsql/sqld](https://github.com/libsql/sqld) - LibSQL with extended capabilities like HTTP protocol, replication, and more.
 - [chbarts/particle-abcs](https://github.com/chbarts/particle-abcs) - Simple ABC book for particle physics
 - [TfTHacker/DashboardPlusPlus](https://github.com/TfTHacker/DashboardPlusPlus) - Demonstrating the Dashboard++ method of organizing a vault in Obsidian
-- [github/hubot-sans](https://github.com/github/hubot-sans) - Hubot Sans, a variable font from GitHub
 - [xyflow/awesome-node-based-uis](https://github.com/xyflow/awesome-node-based-uis) - A curated list with resources about node-based UIs
 - [ChristianLempa/cheat-sheets](https://github.com/ChristianLempa/cheat-sheets) - This is my personal knowledge-base. Here you'll find code-snippets, technical documentation, and command reference for various tools, and technologies.
 - [tleb/awesome-mastodon](https://github.com/tleb/awesome-mastodon) - Curated list of awesome Mastodon-related stuff!
@@ -1889,6 +1888,7 @@
 - [C3S/passtore](https://github.com/C3S/passtore) - Advanced `pass` management for teams
 - [getlago/lago](https://github.com/getlago/lago) - Open Source Metering and Usage Based Billing API ⭐️ Consumption tracking, Subscription management, Pricing iterations, Payment orchestration & Revenue analytics
 - [MarkCotch/molly-guard](https://github.com/MarkCotch/molly-guard) - Molly-Guard trys to block you from accidentally shutting down or rebooting Linux servers
+- [github/hubot-sans](https://github.com/github/hubot-sans) - Hubot Sans, a variable font from GitHub
 - [xwmx/nb](https://github.com/xwmx/nb) - CLI and local web plain text note‑taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning & syncing, Pandoc conversion, + more, in a single portable script.
 - [raycast/github-actions](https://github.com/raycast/github-actions) - 
 - [selfscrum/wardley-maps-book](https://github.com/selfscrum/wardley-maps-book) - You know Simon Wardley's medium posts on his Wardley Mapping technique? This is an AsciiDoc of them, including the german translation
@@ -2004,7 +2004,7 @@
 - [openstatusHQ/openstatus](https://github.com/openstatusHQ/openstatus) - 🏓  The open-source synthetic monitoring platform  🏓
 - [tinacms/tinacms](https://github.com/tinacms/tinacms) - A fully open-source headless CMS that supports Markdown and Visual Editing
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
-- [scalar/scalar](https://github.com/scalar/scalar) - Scalar is an open-source platform with:　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　🌐 Modern Rest API Client　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　📖 Beautiful API References　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
+- [scalar/scalar](https://github.com/scalar/scalar) - Scalar is an open-source API platform:　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　🌐 Modern Rest API Client　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　📖 Beautiful API References　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
 - [novuhq/novu](https://github.com/novuhq/novu) - Open-Source Notification Platform. Embeddable Notification Center, E-mail, Push and Slack Integrations.
 - [tiged/tiged](https://github.com/tiged/tiged) - Community driven fork of degit
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Your backend, minus the hassle.
