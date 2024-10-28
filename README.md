@@ -193,7 +193,7 @@
 - [google/libaddressinput](https://github.com/google/libaddressinput) - Google’s postal address library, powering Android and Chromium
 - [Yelp/MOE](https://github.com/Yelp/MOE) - A global, black box optimization engine for real world metric optimization.
 - [mapeditor/tiled](https://github.com/mapeditor/tiled) - Flexible level editor
-- [minetest/minetest](https://github.com/minetest/minetest) - Minetest is an open source voxel game-creation platform with easy modding and game creation
+- [minetest/minetest](https://github.com/minetest/minetest) - Luanti (formerly Minetest) is an open source voxel game-creation platform with easy modding and game creation
 - [apiaryio/protagonist](https://github.com/apiaryio/protagonist) - Protagonist is Node.js wrapper for the API Blueprint parser
 - [Evrytania/LTE-Cell-Scanner](https://github.com/Evrytania/LTE-Cell-Scanner) - LTE SDR cell scanner optimized to work with very low performance RF front ends (8bit A/D, 20dB noise figure)
 - [rvagg/archived-node-libssh](https://github.com/rvagg/archived-node-libssh) - A Low-level Node.js binding for libssh
