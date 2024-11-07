@@ -74,7 +74,7 @@
 
 ## C 
 
-- [ravachol/kew](https://github.com/ravachol/kew) - A terminal music player for Linux.
+- [ravachol/kew](https://github.com/ravachol/kew) - A terminal music player.
 - [andmarti1424/sc-im](https://github.com/andmarti1424/sc-im) - sc-im - Spreadsheet Calculator Improvised -- An ncurses spreadsheet program for terminal
 - [Modos-Labs/Glider](https://github.com/Modos-Labs/Glider) - Open-source E-ink monitor. Mirror of https://gitlab.com/zephray/glider
 - [jarusll/keydogger](https://github.com/jarusll/keydogger) - Keydogger is a tiny text expander written in C
