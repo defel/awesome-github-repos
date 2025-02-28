@@ -73,6 +73,7 @@
 
 ## C 
 
+- [kubernetes-sigs/security-profiles-operator](https://github.com/kubernetes-sigs/security-profiles-operator) - The Kubernetes Security Profiles Operator
 - [google/pebble](https://github.com/google/pebble) - This is the latest version of the internal repository from Pebble Technology providing the software to run on Pebble watches. Proprietary source code has been removed from this repository and it will 
 - [lucydsl/liblucy](https://github.com/lucydsl/liblucy) - Core Lucy compiler
 - [splitbrain/clipscreen](https://github.com/splitbrain/clipscreen) - Mirror a portion of your screen to a virtual monitor for easier screen sharing.
@@ -211,7 +212,6 @@
 ## CSS 
 
 - [SamuraiWTF/katana](https://github.com/SamuraiWTF/katana) - SamuraiWTF package management tool and interface.
-- [event-catalog/eventcatalog](https://github.com/event-catalog/eventcatalog) - An open source documentation tool to bring discoverability to your event-driven architectures
 - [lucaorio/obsidian-image-gallery](https://github.com/lucaorio/obsidian-image-gallery) - A zero setup masonry image gallery for Obsidian
 - [csstools/sanitize.css](https://github.com/csstools/sanitize.css) - A best-practices CSS foundation
 - [cat-a-flame/CSSHell](https://github.com/cat-a-flame/CSSHell) - Collection of common CSS mistakes, and how to fix them
@@ -961,7 +961,6 @@
 - [btmills/geopattern](https://github.com/btmills/geopattern) - Generate beautiful SVG patterns
 - [davidsonfellipe/awesome-wpo](https://github.com/davidsonfellipe/awesome-wpo) - :pencil: A curated list of Web Performance Optimization. Everyone can contribute here!
 - [outmoded/bassmaster](https://github.com/outmoded/bassmaster) - Batch request plugin for hapi
-- [sapo/Ink](https://github.com/sapo/Ink) - An HTML5/CSS3 framework used at SAPO for fast and efficient website design and prototyping
 - [thlorenz/proxyquireify](https://github.com/thlorenz/proxyquireify) - browserify &gt;= v2 version of proxyquire. Mocks out browserify's require to allow stubbing out dependencies while testing.
 - [lewster32/phaser-plugin-isometric](https://github.com/lewster32/phaser-plugin-isometric) - Feature-packed axonometric plugin for Phaser 2 which stays true to the Phaser API.
 - [outmoded/poop](https://github.com/outmoded/poop) - hapi plugin for handling uncaught exceptions
@@ -1060,7 +1059,6 @@
 - [pyramation/LaTeX2JS](https://github.com/pyramation/LaTeX2JS) - LaTeX web components
 - [node-formidable/formidable](https://github.com/node-formidable/formidable) - The most used, flexible, fast and streaming parser for multipart form data. Supports uploading to serverless environments, AWS S3, Azure, GCP or the filesystem. Used in production.
 - [alabid/flylatex](https://github.com/alabid/flylatex) - FlyLatex: A Realtime Collaborative Environment (with a concurrent editor) in node-js.
-- [conditionizr/conditionizr](https://github.com/conditionizr/conditionizr) - Conditional JavaScript, CSS, callbacks and classNames for environments.
 - [Reportr/dashboard](https://github.com/Reportr/dashboard) - Your life's personal dashboard.
 - [Unitech/angular-bridge](https://github.com/Unitech/angular-bridge) - Link models easily via a REST interface between Mongoose/Node-Express/Angular.js
 - [videojs/video.js](https://github.com/videojs/video.js) - Video.js - open source HTML5 video player
@@ -1822,7 +1820,7 @@
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 - [shell-pool/shpool](https://github.com/shell-pool/shpool) - Think tmux, then aim... lower
 - [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
-- [parseablehq/parseable](https://github.com/parseablehq/parseable) - Parseable is a disk less, cloud native database for logs, observability, security, and compliance. Parseable is built with focus on simplicity & resource efficiency.
+- [parseablehq/parseable](https://github.com/parseablehq/parseable) - ParseableDB is a disk less, cloud native database for observability and security. Parseable is the Observability platform built with ParseableDB
 - [cloudflare/pingora](https://github.com/cloudflare/pingora) - A library for building fast, reliable and evolvable network services.
 - [loro-dev/loro](https://github.com/loro-dev/loro) - Make your JSON data collaborative and version-controlled with CRDTs
 - [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
@@ -2036,13 +2034,14 @@
 
 ## TypeScript 
 
+- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.
 - [BBazard/obsidian-orgmode-cm6](https://github.com/BBazard/obsidian-orgmode-cm6) - Orgmode plugin for Obsidian
 - [OpenHealthForAll/open-health](https://github.com/OpenHealthForAll/open-health) - OpenHealth, AI Health Assistant | Powered by Your Data
 - [code-forge-temple/circuit-sketcher-obsidian-plugin](https://github.com/code-forge-temple/circuit-sketcher-obsidian-plugin) - A plugin for Obsidian to draw circuits on a canvas.
 - [mathuo/dockview](https://github.com/mathuo/dockview) - Zero dependency Docking Layout Manager. Supports Vanilla TypeScript, React and Vue.
 - [CNTRLAI/Notate](https://github.com/CNTRLAI/Notate) - Notate is a desktop chat application that takes AI conversations to the next level. It combines the simplicity of chat with advanced features like document analysis, vector search, and multi-model AI 
 - [browserbase/stagehand](https://github.com/browserbase/stagehand) - An AI web browsing framework focused on simplicity and extensibility.
-- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Continue is the leading open-source AI code assistant. You can connect any models and any context to build custom autocomplete and chat experiences inside VS Code and JetBrains
+- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Create, share, and use custom AI code assistants with our open-source IDE extensions and hub of models, rules, prompts, docs, and other building blocks
 - [hoarder-app/hoarder](https://github.com/hoarder-app/hoarder) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
 - [mendableai/firecrawl](https://github.com/mendableai/firecrawl) - 🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API.
 - [aws-samples/github-actions-oidc-cdk-construct](https://github.com/aws-samples/github-actions-oidc-cdk-construct) - 
@@ -2095,6 +2094,7 @@
 - [webpro-nl/knip](https://github.com/webpro-nl/knip) - ✂️  Find unused files, dependencies and exports in your JavaScript and TypeScript projects. Knip it before you ship it!
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and cycles the easiest way on the planet.
 - [TfTHacker/obsidian42-strange-new-worlds](https://github.com/TfTHacker/obsidian42-strange-new-worlds) - Revealing the strange new world of connected thoughts in your vault.
+- [event-catalog/eventcatalog](https://github.com/event-catalog/eventcatalog) - An open source documentation tool to bring discoverability to your event-driven architectures
 - [muxinc/media-chrome](https://github.com/muxinc/media-chrome) - Custom elements (web components) for making audio and video player controls that look great in your website or app.
 - [winglang/wing](https://github.com/winglang/wing) - A programming language for the cloud ☁️ A unified programming model, combining infrastructure and runtime code into one language ⚡
 - [unjs/magicast](https://github.com/unjs/magicast) - 🧀  Programmatically modify JavaScript and TypeScript source codes with a simplified, elegant and familiar syntax powered by recast and babel.
