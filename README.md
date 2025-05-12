@@ -339,7 +339,7 @@
 - [DataDog/grimoire](https://github.com/DataDog/grimoire) - Generate datasets of cloud audit logs for common attacks
 - [inngest/inngest](https://github.com/inngest/inngest) - The leading workflow orchestration platform.  Run stateful step functions and AI workflows on serverless, servers, or the edge.
 - [redpanda-data/benthos](https://github.com/redpanda-data/benthos) - 
-- [common-fate/granted](https://github.com/common-fate/granted) - The easiest way to access your cloud.
+- [common-fate/granted](https://github.com/common-fate/granted) - The easiest way to access AWS.
 - [hoophq/hoop](https://github.com/hoophq/hoop) - Hoop.dev is the free, open-source access gateway for databases and servers - the secure alternative to VPNs, credential sharing, and access tickets.
 - [quackduck/devzat](https://github.com/quackduck/devzat) - The devs are over here at devzat, chat over SSH!
 - [strongdm/comply](https://github.com/strongdm/comply) - Compliance automation framework, focused on SOC2
