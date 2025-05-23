@@ -609,6 +609,7 @@
 
 ## Java 
 
+- [Pocket/pocket-android](https://github.com/Pocket/pocket-android) - Pocket Android app
 - [GoogleCloudPlatform/jit-groups](https://github.com/GoogleCloudPlatform/jit-groups) - JIT Groups is an open source application that lets you implement secure, self-service access management for Google Cloud using groups.
 - [cedar-policy/cedar-java](https://github.com/cedar-policy/cedar-java) - Java bindings for the Cedar language
 - [apache/shiro](https://github.com/apache/shiro) - Apache Shiro
@@ -1221,7 +1222,7 @@
 
 ## Kotlin 
 
-- [Trendyol/stove](https://github.com/Trendyol/stove) - Stove: The easiest way of writing e2e/component tests for your JVM back-end API with Kotlin
+- [Trendyol/stove](https://github.com/Trendyol/stove) - Stove: The easiest way of writing e2e/component tests for your JVM back-end app with Kotlin
 - [embrace-io/opentelemetry-kotlin](https://github.com/embrace-io/opentelemetry-kotlin) - An implementation of the OpenTelemetry specification as a Kotlin Multiplatform Library, developed by embrace.io
 - [Belkaar/ZeroNavBridge](https://github.com/Belkaar/ZeroNavBridge) - A bridge App to send navigation Info to Zero Motorcycle bikes
 - [ilya40umov/observability-deep-dive](https://github.com/ilya40umov/observability-deep-dive) - Exploring observability with Logback, Brave, Otel, Spring Boot, Loki, Tempo etc.
