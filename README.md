@@ -44,6 +44,7 @@
 - [Open Policy Agent](#open-policy-agent)
 - [Others](#others)
 - [PHP](#php)
+- [PLpgSQL](#plpgsql)
 - [Perl](#perl)
 - [PowerShell](#powershell)
 - [Pug](#pug)
@@ -668,7 +669,7 @@
 - [kgscialdone/facet](https://github.com/kgscialdone/facet) - Web components made simple and declarative
 - [good-lly/lowstorage](https://github.com/good-lly/lowstorage) - 💾 Simple, lightning fast, object pseudo-database for S3-compatible storages using Msgpack
 - [paulmillr/noble-hashes](https://github.com/paulmillr/noble-hashes) - Audited & minimal JS implementation of hash functions, MACs and KDFs.
-- [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing Api's (lightweight alternative to postman/insomnia)
+- [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)
 - [socketsupply/socket](https://github.com/socketsupply/socket) - A cross-platform runtime for Web developers to build desktop & mobile apps for any OS using any frontend library.
 - [afk-mario/federike](https://github.com/afk-mario/federike) - Web app to manage your mastodon account
 - [melange-re/melange-re.github.io](https://github.com/melange-re/melange-re.github.io) - Documentation site for Melange
@@ -1524,6 +1525,10 @@
 - [Scriptor/pharen](https://github.com/Scriptor/pharen) - Lisp to PHP Compiler
 - [abraham/twitteroauth](https://github.com/abraham/twitteroauth) - The most popular PHP library for use with the Twitter OAuth REST API.
 
+## PLpgSQL 
+
+- [sbdchd/squawk](https://github.com/sbdchd/squawk) - 🐘 Linter for Postgres migrations & SQL
+
 ## Perl 
 
 - [so-fancy/diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) - Good-lookin' diffs. Actually… nah… The best-lookin' diffs. :tada:
@@ -1555,7 +1560,7 @@
 - [lmnr-ai/index](https://github.com/lmnr-ai/index) - The SOTA Open-Source Browser Agent for autonomously performing complex tasks on the web
 - [FogSecurity/yes3-scanner](https://github.com/FogSecurity/yes3-scanner) - YES3 Scanner: S3 Security Scanner for Access and Ransomware Protection
 - [featureform/mcp-engine](https://github.com/featureform/mcp-engine) - MCPEngine is a client, server, and proxy implementation of model context protocol (MCP) specifically oriented towards Enterprise and real-world remote MCP applications.
-- [sanspareilsmyn/parqv](https://github.com/sanspareilsmyn/parqv) - Interactive Python TUI for visualizing and analyzing files with multipe formats
+- [sanspareilsmyn/parqv](https://github.com/sanspareilsmyn/parqv) - Interactive Python TUI for visualizing and analyzing files with multiple formats
 - [mcp-use/mcp-use](https://github.com/mcp-use/mcp-use) - mcp-use is the easiest way to interact with mcp servers with custom agents
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
 - [Commando-X/vuln-bank](https://github.com/Commando-X/vuln-bank) - A deliberately vulnerable banking application designed for practicing secure code reviews and API security testing. Features common vulnerabilities found in real-world applications, making it an ideal
@@ -1845,7 +1850,7 @@
 ## Rust 
 
 - [espanso/espanso](https://github.com/espanso/espanso) - Cross-platform Text Expander written in Rust
-- [rapiz1/rathole](https://github.com/rapiz1/rathole) - A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.
+- [yujqiao/rathole](https://github.com/yujqiao/rathole) - A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.
 - [zizmorcore/zizmor](https://github.com/zizmorcore/zizmor) - Static analysis for GitHub Actions
 - [cocoindex-io/cocoindex](https://github.com/cocoindex-io/cocoindex) - Real-time data transformation framework for AI. Ultra performant, with incremental processing.
 - [mfontanini/presenterm](https://github.com/mfontanini/presenterm) - A markdown terminal slideshow tool
@@ -1925,7 +1930,6 @@
 - [PaulJuliusMartinez/jless](https://github.com/PaulJuliusMartinez/jless) - jless is a command-line JSON viewer designed for reading, exploring, and searching through JSON data.
 - [svix/svix-webhooks](https://github.com/svix/svix-webhooks) - The open source and enterprise-ready webhooks service 🦀
 - [tkellogg/dura](https://github.com/tkellogg/dura) - You shouldn't ever lose your work if you're using Git
-- [sbdchd/squawk](https://github.com/sbdchd/squawk) - 🐘 Linter for Postgres migrations & SQL
 - [rien/reStream](https://github.com/rien/reStream) - Stream your reMarkable screen over SSH.
 - [postcss-rs/postcss-rs](https://github.com/postcss-rs/postcss-rs) - 🚀 Fast and 100% API compatible postcss replacer, built in Rust
 - [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩
