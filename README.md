@@ -2073,7 +2073,6 @@
 
 ## Svelte 
 
-- [arrrrrmin/lanz-mining](https://github.com/arrrrrmin/lanz-mining) - Crawl talkshow guests, descriptions, political party memberships and all other available information from ARD and ZDF public media's web presence. Crawlers and parsers support Markus Lanz, Maischberge
 - [Figma-Linux/figma-linux](https://github.com/Figma-Linux/figma-linux) - Figma is the first interface design tool based in the browser, making it easier for teams to create software. Join us in https://t.me/figma_linux
 
 ## Swift 
