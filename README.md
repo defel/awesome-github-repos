@@ -1612,7 +1612,7 @@
 - [duo-labs/parliament](https://github.com/duo-labs/parliament) - AWS IAM linting library
 - [DataDog/undocumented-aws-api-hunter](https://github.com/DataDog/undocumented-aws-api-hunter) - A tool to uncover undocumented APIs from the AWS Console.
 - [thezakman/CTF-Heaven](https://github.com/thezakman/CTF-Heaven) - 💻 CTF Heaven
-- [Owez/yark](https://github.com/Owez/yark) - YouTube archiving made simple.
+- [Owez/yark](https://github.com/Owez/yark) - OSINT for YouTube made simple.
 - [darrenburns/posting](https://github.com/darrenburns/posting) - The modern API client that lives in your terminal.
 - [MobSF/mobsfscan](https://github.com/MobSF/mobsfscan) - mobsfscan is a static analysis tool that can find insecure code patterns in your Android and iOS source code. Supports Java, Kotlin, Swift, and Objective C Code. mobsfscan uses MobSF static analysis r
 - [welldone-cloud/aws-scps-for-sandbox-and-training-accounts](https://github.com/welldone-cloud/aws-scps-for-sandbox-and-training-accounts) - Collection of example Service Control Policies (SCPs) that are useful for sandbox and training AWS accounts.
