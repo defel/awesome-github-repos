@@ -54,6 +54,7 @@
 - [Python](#python)
 - [QML](#qml)
 - [Rich Text Format](#rich-text-format)
+- [Roc](#roc)
 - [Ruby](#ruby)
 - [Rust](#rust)
 - [SCSS](#scss)
@@ -378,7 +379,7 @@
 - [donuts-are-good/shhhbb](https://github.com/donuts-are-good/shhhbb) - bbs based on SSH
 - [frain-dev/convoy](https://github.com/frain-dev/convoy) - The Cloud Native Webhooks Gateway
 - [ProtonMail/gluon](https://github.com/ProtonMail/gluon) - An IMAP server library written in Go
-- [metrico/gigapipe](https://github.com/metrico/gigapipe) - ⭐️ A Polyglot API for all your Observability needs. Light, Fast, Drop-in Grafana LGTM alternative :rocket: Indie All-in-One Opentelemetry, Loki, Prometheus, Tempo, Pyroscope drop-in replacement :star:
+- [metrico/gigapipe](https://github.com/metrico/gigapipe) - ⭐️ The ultimate Observability Warehouse: Polyglot API for all your Observability needs. Light, Fast, Drop-in Grafana LGTM alternative :rocket: Indie All-in-One Opentelemetry, Loki, Prometheus, Tempo, 
 - [dapr/dapr](https://github.com/dapr/dapr) - Dapr is a portable runtime for building distributed applications across cloud and edge, combining event-driven architecture with workflow orchestration.
 - [alajmo/mani](https://github.com/alajmo/mani) - :robot: CLI tool to help you manage repositories
 - [TykTechnologies/tyk](https://github.com/TykTechnologies/tyk) - Tyk Open Source API Gateway written in Go, supporting REST, GraphQL, TCP and gRPC protocols
@@ -661,6 +662,8 @@
 
 ## JavaScript 
 
+- [DumbWareio/DumbAssets](https://github.com/DumbWareio/DumbAssets) - A Stupid Simple Asset Tracker
+- [Alhadis/Roff.js](https://github.com/Alhadis/Roff.js) - Troff integration with web technologies. Tools and post-processors to generate web-based formats in Roff.
 - [statsd/statsd](https://github.com/statsd/statsd) - Daemon for easy but powerful stats aggregation
 - [egoist/joycon](https://github.com/egoist/joycon) - Find and load config files with joy.
 - [casparwylie/cascii-core](https://github.com/casparwylie/cascii-core) - A web-based ASCII and Unicode diagram builder written in vanilla Javascript
@@ -1580,7 +1583,7 @@
 - [nccgroup/ScoutSuite](https://github.com/nccgroup/ScoutSuite) - Multi-Cloud Security Auditing Tool
 - [pg-spot-ops/pg-spot-operator](https://github.com/pg-spot-ops/pg-spot-operator) - Stateful Postgres on cheap Spot VMs
 - [morphik-org/morphik-core](https://github.com/morphik-org/morphik-core) - Open source multi-modal RAG for building AI apps over private knowledge.
-- [DrewThomasson/ebook2audiobook](https://github.com/DrewThomasson/ebook2audiobook) - Convert ebooks to audiobooks with chapters and metadata using dynamic AI models and voice cloning. Supports 1,107+ languages!
+- [DrewThomasson/ebook2audiobook](https://github.com/DrewThomasson/ebook2audiobook) - Generate audiobooks from e-books, voice cloning & 1107+ languages!
 - [DrewThomasson/VoxNovel](https://github.com/DrewThomasson/VoxNovel) - VoxNovel: generate audiobooks giving each character a different voice actor.
 - [Cinnamon/kotaemon](https://github.com/Cinnamon/kotaemon) - An open-source RAG-based tool for chatting with your documents.
 - [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
@@ -1827,6 +1830,10 @@
 
 - [adamshostack/eop](https://github.com/adamshostack/eop) - The Elevation of Privilege Threat Modeling Game
 
+## Roc 
+
+- [isaacvando/rtl](https://github.com/isaacvando/rtl) - A template language for Roc with compile time validation and tag unions
+
 ## Ruby 
 
 - [sunaku/md2man](https://github.com/sunaku/md2man) - 📚 Converts markdown into UNIX manual pages
@@ -1861,10 +1868,11 @@
 
 ## Rust 
 
+- [asciinema/asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder 📹
 - [microsandbox/microsandbox](https://github.com/microsandbox/microsandbox) - Self-Hosted Plaform for Secure Execution of Untrusted User/AI Code
 - [trailbaseio/trailbase](https://github.com/trailbaseio/trailbase) - A blazingly fast, open-source application server with type-safe APIs, built-in JS/ES6/TS runtime, realtime, auth, and admin UI built on Rust, SQLite & V8.
 - [espanso/espanso](https://github.com/espanso/espanso) - Cross-platform Text Expander written in Rust
-- [yujqiao/rathole](https://github.com/yujqiao/rathole) - A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.
+- [rathole-org/rathole](https://github.com/rathole-org/rathole) - A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.
 - [zizmorcore/zizmor](https://github.com/zizmorcore/zizmor) - Static analysis for GitHub Actions
 - [cocoindex-io/cocoindex](https://github.com/cocoindex-io/cocoindex) - Real-time data transformation framework for AI. Ultra performant, with incremental processing.
 - [mfontanini/presenterm](https://github.com/mfontanini/presenterm) - A markdown terminal slideshow tool
