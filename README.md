@@ -467,7 +467,7 @@
 - [hoanhan101/ultimate-go](https://github.com/hoanhan101/ultimate-go) - The Ultimate Go Study Guide
 - [jroimartin/gocui](https://github.com/jroimartin/gocui) - Minimalist Go package aimed at creating Console User Interfaces.
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
-- [flipt-io/flipt](https://github.com/flipt-io/flipt) - Enterprise-ready, GitOps enabled, CloudNative feature management solution
+- [flipt-io/flipt](https://github.com/flipt-io/flipt) - Enterprise-ready, Git native feature management solution
 - [nomasters/handshake](https://github.com/nomasters/handshake) - a peculiar chat app for strange times
 - [siderolabs/conform](https://github.com/siderolabs/conform) - Policy enforcement for your pipelines.
 - [blevesearch/bleve](https://github.com/blevesearch/bleve) - A modern text/numeric/geo-spatial/vector indexing library for go
@@ -685,7 +685,7 @@
 - [kgscialdone/facet](https://github.com/kgscialdone/facet) - Web components made simple and declarative
 - [good-lly/lowstorage](https://github.com/good-lly/lowstorage) - 💾 Simple, fast, object pseudo-database for S3-compatible storages using JSON or Msgpack
 - [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)
-- [socketsupply/socket](https://github.com/socketsupply/socket) - A cross-platform runtime for Web developers to build desktop & mobile apps for any OS using any frontend library.
+- [socketsupply/socket](https://github.com/socketsupply/socket) - 
 - [afk-mario/federike](https://github.com/afk-mario/federike) - Web app to manage your mastodon account
 - [melange-re/melange-re.github.io](https://github.com/melange-re/melange-re.github.io) - Documentation site for Melange
 - [Rich-Harris/degit](https://github.com/Rich-Harris/degit) - Straightforward project scaffolding
@@ -2017,6 +2017,7 @@
 
 ## Shell 
 
+- [damajor/BALD](https://github.com/damajor/BALD) - Brand new Audible Library Downloader
 - [filiparag/wikiman](https://github.com/filiparag/wikiman) - Wikiman is a universal offline documentation search engine for manual pages, tldr-pages, ArchWiki, Gentoo Wiki, DevDocs, and FreeBSD documentation
 - [fnr1r/ventoy-cpio](https://github.com/fnr1r/ventoy-cpio) - An alternate ramdisk for Ventoy
 - [waj/shell-secrets](https://github.com/waj/shell-secrets) - Encrypted environment variables
@@ -2133,7 +2134,7 @@
 - [mathuo/dockview](https://github.com/mathuo/dockview) - Zero dependency Docking Layout Manager. Supports Vanilla TypeScript, React and Vue.
 - [Hairetsucodes/Notate](https://github.com/Hairetsucodes/Notate) - Notate is a desktop chat application that takes AI conversations to the next level. It combines the simplicity of chat with advanced features like document analysis, vector search, and multi-model AI 
 - [browserbase/stagehand](https://github.com/browserbase/stagehand) - The AI Browser Automation Framework
-- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Create, share, and use custom AI code assistants with our open-source IDE extensions and hub of models, rules, prompts, docs, and other building blocks
+- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Create, share, and use custom AI code assistants with our open-source IDE extensions and hub of rules, tools, and models
 - [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
 - [mendableai/firecrawl](https://github.com/mendableai/firecrawl) - 🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API.
 - [aws-samples/github-actions-oidc-cdk-construct](https://github.com/aws-samples/github-actions-oidc-cdk-construct) - 
@@ -2432,7 +2433,6 @@
 - [fcpg/vim-fahrenheit](https://github.com/fcpg/vim-fahrenheit) - Dark, warm base16 Vim theme for 256-color terminals
 - [jbranchaud/til](https://github.com/jbranchaud/til) - :memo: Today I Learned
 - [JaycobA/vimfiles](https://github.com/JaycobA/vimfiles) - 
-- [djcas9/vimstack](https://github.com/djcas9/vimstack) - The vim configurations of a mad man.
 - [editorconfig/editorconfig-vim](https://github.com/editorconfig/editorconfig-vim) - EditorConfig plugin for Vim
 - [vim-airline/vim-airline](https://github.com/vim-airline/vim-airline) - lean & mean status/tabline for vim that's light as air
 - [FredKSchott/CoVim](https://github.com/FredKSchott/CoVim) - Collaborative Editing for Vim
