@@ -243,6 +243,7 @@
 - [mozilla/Fira](https://github.com/mozilla/Fira) - Mozilla's new typeface, used in Firefox OS
 - [philipwalton/solved-by-flexbox](https://github.com/philipwalton/solved-by-flexbox) - A showcase of problems once hard or impossible to solve with CSS alone, now made trivially easy with Flexbox.
 - [floriangrundig/grails-angular-phonecat](https://github.com/floriangrundig/grails-angular-phonecat) - 
+- [radiosilence/wire](https://github.com/radiosilence/wire) - [DEFUNCT - do not use, insecure!] Communication for the 21st century activist.
 
 ## CartoCSS 
 
@@ -1826,7 +1827,6 @@
 - [treeio/treeio](https://github.com/treeio/treeio) - Tree.io
 - [ckan/ckan](https://github.com/ckan/ckan) - CKAN is an open-source DMS (data management system) for powering data hubs and data portals. CKAN makes it easy to publish, share and use data. It powers catalog.data.gov, open.canada.ca/data, data.hu
 - [mothran/bunny](https://github.com/mothran/bunny) - Bunny is a wireless. meshing, darknet that uses 802.11 to hide its communications
-- [radiosilence/wire](https://github.com/radiosilence/wire) - [DEFUNCT - do not use, insecure!] Communication for the 21st century activist.
 - [scy/levitation](https://github.com/scy/levitation) - Tools to convert Wikipedia dumps into Git repositories.
 - [robm/uzbl](https://github.com/robm/uzbl) - A browser that adheres to the unix philosophy.
 
