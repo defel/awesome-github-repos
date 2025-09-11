@@ -359,7 +359,7 @@
 - [inngest/inngest](https://github.com/inngest/inngest) - The leading workflow orchestration platform.  Run stateful step functions and AI workflows on serverless, servers, or the edge.
 - [redpanda-data/benthos](https://github.com/redpanda-data/benthos) - 
 - [fwdcloudsec/granted](https://github.com/fwdcloudsec/granted) - The easiest way to access AWS.
-- [hoophq/hoop](https://github.com/hoophq/hoop) - Hoop.dev is the free, open-source access gateway for databases and servers - the secure alternative to VPNs, credential sharing, and access tickets.
+- [hoophq/hoop](https://github.com/hoophq/hoop) - The only access proxy that blocks dangerous linux commands and scrubs sensitive database outputs
 - [quackduck/devzat](https://github.com/quackduck/devzat) - The devs are over here at devzat, chat over SSH!
 - [strongdm/comply](https://github.com/strongdm/comply) - Compliance automation framework, focused on SOC2
 - [bluetuith-org/bluetuith](https://github.com/bluetuith-org/bluetuith) - A TUI bluetooth manager for Linux.
@@ -541,7 +541,6 @@
 ## HCL 
 
 - [secdevops-cuse/CyberRange](https://github.com/secdevops-cuse/CyberRange) - The Open-Source AWS Cyber Range
-- [AndrewGuenther/fck-nat](https://github.com/AndrewGuenther/fck-nat) - Feasible cost konfigurable NAT: An AWS NAT Instance AMI
 - [100daysofdevops/100daysofdevops](https://github.com/100daysofdevops/100daysofdevops) - 
 - [davidbernegger/VueVelocidad](https://github.com/davidbernegger/VueVelocidad) - Vue Snippets for fast Development
 - [AwakeningSV/live-infrastructure](https://github.com/AwakeningSV/live-infrastructure) - Live video transcoding infrastructure
@@ -1536,6 +1535,7 @@
 
 ## PHP 
 
+- [Z-Hub/Z-Push](https://github.com/Z-Hub/Z-Push) - Home of Z-Push
 - [isohuntto/openbay](https://github.com/isohuntto/openbay) - 
 - [wallabag/wallabag](https://github.com/wallabag/wallabag) - wallabag is a self hostable application for saving web pages: Save and classify articles. Read them later. Freely.
 - [zutrinken/Scapegoat](https://github.com/zutrinken/Scapegoat) - Wordpress Theme for Berlin Pirate Party 🚧 Unmaintained
@@ -1613,7 +1613,7 @@
 - [Cinnamon/kotaemon](https://github.com/Cinnamon/kotaemon) - An open-source RAG-based tool for chatting with your documents.
 - [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
 - [comet-ml/opik](https://github.com/comet-ml/opik) - Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, automated evaluations, and production-ready dashboards.
-- [agno-agi/agno](https://github.com/agno-agi/agno) - Open-source framework for building multi-agent systems with memory, knowledge and reasoning.
+- [agno-agi/agno](https://github.com/agno-agi/agno) - High-performance runtime for multi-agent systems. Build, run and manage secure multi-agent systems in your cloud.
 - [docling-project/docling](https://github.com/docling-project/docling) - Get your documents ready for gen AI
 - [hydrusnetwork/hydrus](https://github.com/hydrusnetwork/hydrus) - A personal booru-style media tagger that can import files and tags from your hard drive and popular websites. Content can be shared with other users via user-run servers.
 - [shade40/celx](https://github.com/shade40/celx) - A modern terminal UI framework powered by hypermedia served over HTTP.
@@ -1898,7 +1898,7 @@
 - [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite) - An open source graphics editor for 2025: comprehensive 2D content creation tool suite for graphic design, digital art, and interactive real-time motion graphics — featuring node-based procedural editi
 - [asciinema/asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder 📹
 - [microsandbox/microsandbox](https://github.com/microsandbox/microsandbox) - Self-hosted plaform for secure execution of untrusted user/AI code
-- [trailbaseio/trailbase](https://github.com/trailbaseio/trailbase) - A blazingly fast, open-source application server with type-safe APIs, built-in JS/ES6/TS runtime, realtime, auth, and admin UI built on Rust, SQLite & V8.
+- [trailbaseio/trailbase](https://github.com/trailbaseio/trailbase) - A blazingly fast, open-source application server with type-safe APIs, built-in JS/ES6/TS runtime, realtime, auth, and admin UI built on Rust, SQLite & WASM.
 - [espanso/espanso](https://github.com/espanso/espanso) - A Privacy-first, Cross-platform Text Expander written in Rust
 - [rathole-org/rathole](https://github.com/rathole-org/rathole) - A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.
 - [zizmorcore/zizmor](https://github.com/zizmorcore/zizmor) - Static analysis for GitHub Actions
@@ -1941,7 +1941,7 @@
 - [getzola/zola](https://github.com/getzola/zola) - A fast static site generator in a single binary with everything built-in. https://www.getzola.org
 - [haileys/bark](https://github.com/haileys/bark) - live sync audio streaming for local networks
 - [narrowlink/narrowlink](https://github.com/narrowlink/narrowlink) - A self-hosted solution to enable secure connectivity between devices across restricted networks like NAT or firewalls
-- [pola-rs/polars](https://github.com/pola-rs/polars) - Dataframes powered by a multithreaded, vectorized query engine, written in Rust
+- [pola-rs/polars](https://github.com/pola-rs/polars) - Extremely fast Query Engine for DataFrames, written in Rust
 - [openobserve/openobserve](https://github.com/openobserve/openobserve) - 🚀 10x easier, 🚀 140x lower storage cost, 🚀 high performance,  🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces, RUM, Error tracking, Session replay).
 - [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust.
 - [eliaperantoni/spaceman](https://github.com/eliaperantoni/spaceman) - A gRPC client from another world
@@ -2048,6 +2048,7 @@
 - [MegaManSec/SSH-Snake](https://github.com/MegaManSec/SSH-Snake) - SSH-Snake is a self-propagating, self-replicating, file-less script that automates the post-exploitation task of SSH private key and host discovery.
 - [SamuraiWTF/samuraiwtf](https://github.com/SamuraiWTF/samuraiwtf) - The main SamuraiWTF collaborative distro repo.
 - [hastinbe/i3blocks-battery-plus](https://github.com/hastinbe/i3blocks-battery-plus) - An enhanced battery status indicator for i3blocks
+- [AndrewGuenther/fck-nat](https://github.com/AndrewGuenther/fck-nat) - Feasible cost konfigurable NAT: An AWS NAT Instance AMI
 - [jameysharp/dokku-builder-nix](https://github.com/jameysharp/dokku-builder-nix) - Dokku plugin to build images using Nix
 - [kasukur/auto-scale-ec2-using-sqs](https://github.com/kasukur/auto-scale-ec2-using-sqs) - 
 - [C3S/passtore](https://github.com/C3S/passtore) - Advanced `pass` management for teams
@@ -2117,7 +2118,7 @@
 
 ## Svelte 
 
-- [arrrrrmin/wiki-history-viewer](https://github.com/arrrrrmin/wiki-history-viewer) - A simple web visualization tool to create diagrams to show wikipedia page revision histories.
+- [arrrrrmin/wiki-history-viewer](https://github.com/arrrrrmin/wiki-history-viewer) - (WIP) A simple web visualization tool to create diagrams to show wikipedia page revision histories.
 - [arrrrrmin/lanz-mining](https://github.com/arrrrrmin/lanz-mining) - A data project to explore media participation in German talk shows of the public broadcasting media.
 - [Figma-Linux/figma-linux](https://github.com/Figma-Linux/figma-linux) - Figma is the first interface design tool based in the browser, making it easier for teams to create software. Join us in https://t.me/figma_linux
 
@@ -2139,6 +2140,7 @@
 
 ## TypeScript 
 
+- [mmulet/term.everything](https://github.com/mmulet/term.everything) - Run any GUI app in the terminal❗
 - [MrLesk/Backlog.md](https://github.com/MrLesk/Backlog.md) - Backlog.md - A tool for managing project collaboration between humans and AI Agents in a git ecosystem
 - [epicenter-os/epicenter](https://github.com/epicenter-os/epicenter) - Press shortcut → speak → get text. Free and open source. More local-first apps soon ❤️
 - [qvanphong/calibre-opds-obsidian](https://github.com/qvanphong/calibre-opds-obsidian) - A plugin that integrate calibre-web into Obsidian
