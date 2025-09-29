@@ -7,6 +7,7 @@
 
 - [ActionScript](#actionscript)
 - [Assembly](#assembly)
+- [Astro](#astro)
 - [Bikeshed](#bikeshed)
 - [C](#c)
 - [C#](#c#)
@@ -25,6 +26,7 @@
 - [G-code](#g-code)
 - [GDScript](#gdscript)
 - [Gherkin](#gherkin)
+- [Gleam](#gleam)
 - [Go](#go)
 - [HCL](#hcl)
 - [HTML](#html)
@@ -81,6 +83,10 @@
 ## Assembly 
 
 - [DoctorWkt/pdp7-unix](https://github.com/DoctorWkt/pdp7-unix) - A project to resurrect Unix on the PDP-7 from a scan of the original assembly code
+
+## Astro 
+
+- [mishamyrt/Lilex](https://github.com/mishamyrt/Lilex) - 🤘Open source programming font
 
 ## Bikeshed 
 
@@ -171,6 +177,7 @@
 - [vicinaehq/vicinae](https://github.com/vicinaehq/vicinae) - A focused launcher for your desktop — native, fast, extensible
 - [systemed/tilemaker](https://github.com/systemed/tilemaker) - Make OpenStreetMap vector tiles without the stack
 - [ashtf8/PocketMage_PDA](https://github.com/ashtf8/PocketMage_PDA) - An E-Ink PDA device using the ESP32 S3.
+- [browseros-ai/BrowserOS](https://github.com/browseros-ai/BrowserOS) - BrowserOS is an open-source agentic web browser.
 - [man-group/ArcticDB](https://github.com/man-group/ArcticDB) - ArcticDB is a high performance, serverless DataFrame database built for the Python Data Science ecosystem.
 - [zen-browser/desktop](https://github.com/zen-browser/desktop) - Welcome to a calmer internet
 - [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) - Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.
@@ -331,8 +338,13 @@
 
 - [git-town/git-town](https://github.com/git-town/git-town) - Git branches made easy
 
+## Gleam 
+
+- [giacomocavalieri/birdie](https://github.com/giacomocavalieri/birdie) - 🐦‍⬛ Snapshot testing in Gleam
+
 ## Go 
 
+- [lima-vm/lima](https://github.com/lima-vm/lima) - Linux virtual machines, with a focus on running containers
 - [control-theory/gonzo](https://github.com/control-theory/gonzo) - Gonzo! The Go based TUI log analysis tool
 - [plutov/oq](https://github.com/plutov/oq) - Terminal OpenAPI Spec viewer
 - [google/mangle](https://github.com/google/mangle) - 
@@ -1596,6 +1608,7 @@
 
 ## Python 
 
+- [ufal/SimulStreaming](https://github.com/ufal/SimulStreaming) - 
 - [lotus-data/lotus](https://github.com/lotus-data/lotus) - Use LOTUS to process all of your datasets with LLMs and embeddings. Enjoy up to 1000x speedups with fast, accurate query processing, that's as simple as writing Pandas code
 - [anishathalye/semlib](https://github.com/anishathalye/semlib) - Build data processing and data analysis pipelines that leverage the power of LLMs 🧠
 - [ArchiveTeam/ArchiveBot](https://github.com/ArchiveTeam/ArchiveBot) - ArchiveBot, an IRC bot for archiving websites
@@ -1975,6 +1988,7 @@
 - [quickwit-oss/tantivy-py](https://github.com/quickwit-oss/tantivy-py) - Python bindings for Tantivy
 - [quickwit-oss/tantivy](https://github.com/quickwit-oss/tantivy) - Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust
 - [erg-lang/erg](https://github.com/erg-lang/erg) - A statically typed language compatible with Python
+- [thx/resvg-js](https://github.com/thx/resvg-js) - A high-performance SVG renderer and toolkit, powered by Rust based resvg and napi-rs.
 - [tellerops/teller](https://github.com/tellerops/teller) - Cloud native secrets management for developers - never leave your command line for secrets.
 - [vercel/turborepo](https://github.com/vercel/turborepo) - Build system optimized for JavaScript and TypeScript, written in Rust
 - [rant-lang/rant](https://github.com/rant-lang/rant) - Rant - The templating language for procedural generation.
@@ -2155,6 +2169,8 @@
 
 ## TypeScript 
 
+- [cjpais/Handy](https://github.com/cjpais/Handy) - A free, open source, and extensible speech-to-text application that works completely offline.
+- [rocicorp/mono](https://github.com/rocicorp/mono) - 99% of Queries in Zero Milliseconds
 - [mmulet/term.everything](https://github.com/mmulet/term.everything) - Run any GUI app in the terminal❗
 - [MrLesk/Backlog.md](https://github.com/MrLesk/Backlog.md) - Backlog.md - A tool for managing project collaboration between humans and AI Agents in a git ecosystem
 - [epicenter-md/epicenter](https://github.com/epicenter-md/epicenter) - Press shortcut → speak → get text. Free and open source. More local-first apps soon ❤️
@@ -2164,7 +2180,6 @@
 - [automerge/automerge-repo](https://github.com/automerge/automerge-repo) - 
 - [karlsander/vscode-error-lens](https://github.com/karlsander/vscode-error-lens) - Visual Studio Code extension which enhances the display of errors and warnings.
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
-- [browseros-ai/BrowserOS](https://github.com/browseros-ai/BrowserOS) - BrowserOS is an open-source agentic web browser.
 - [cooklang/cooklang-obsidian](https://github.com/cooklang/cooklang-obsidian) - Edit and display Cooklang recipes in Obsidian
 - [StevenStavrakis/obsidian-mcp](https://github.com/StevenStavrakis/obsidian-mcp) - A simple MCP server for Obsidian
 - [kahole/edamagit](https://github.com/kahole/edamagit) - Magit for VSCode
@@ -2259,7 +2274,6 @@
 - [components-ai/css.gui](https://github.com/components-ai/css.gui) - Visual development environment for CSS
 - [markdoc/markdoc](https://github.com/markdoc/markdoc) - A powerful, flexible, Markdown-based authoring framework.
 - [motiondivision/motionone](https://github.com/motiondivision/motionone) - 
-- [thx/resvg-js](https://github.com/thx/resvg-js) - A high-performance SVG renderer and toolkit, powered by Rust based resvg and napi-rs.
 - [seek-oss/capsize](https://github.com/seek-oss/capsize) - Flipping how we define typography in CSS.
 - [adifyr/obsidian-chat-view](https://github.com/adifyr/obsidian-chat-view) - An elegant chat view for Obsidian pages.
 - [meld-cp/obsidian-calc](https://github.com/meld-cp/obsidian-calc) - 
