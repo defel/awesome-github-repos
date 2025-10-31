@@ -344,6 +344,7 @@
 
 ## Go 
 
+- [go-to-k/cls3](https://github.com/go-to-k/cls3) - The CLI tool "cls3" is to CLear S3 Buckets. It empties (so deletes all objects and versions/delete-markers in) S3 Buckets or deletes the buckets themselves.
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A rich terminal UI for GitHub that doesn't break your flow.
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫
 - [falling-sky/fsbuilder](https://github.com/falling-sky/fsbuilder) - falling-sky processor that reads templates and translations, outputs compiled publishable content
@@ -1611,7 +1612,7 @@
 ## Python 
 
 - [invariantlabs-ai/mcp-scan](https://github.com/invariantlabs-ai/mcp-scan) - Constrain, log and scan your MCP connections for security vulnerabilities.
-- [FarisZR/knocker](https://github.com/FarisZR/knocker) - Knocker, a knock based access control system for your homelab
+- [FarisZR/knocker](https://github.com/FarisZR/knocker) - Knocker, a knock based access control service for your homelab
 - [ufal/SimulStreaming](https://github.com/ufal/SimulStreaming) - 
 - [lotus-data/lotus](https://github.com/lotus-data/lotus) - Use LOTUS to process all of your datasets with LLMs and embeddings. Enjoy up to 1000x speedups with fast, accurate query processing, that's as simple as writing Pandas code
 - [anishathalye/semlib](https://github.com/anishathalye/semlib) - Build data processing and data analysis pipelines that leverage the power of LLMs 🧠
