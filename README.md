@@ -1926,6 +1926,7 @@
 
 ## Rust 
 
+- [typst/hayagriva](https://github.com/typst/hayagriva) - Rusty bibliography management.
 - [stalwartlabs/stalwart](https://github.com/stalwartlabs/stalwart) - All-in-one Mail & Collaboration server. Secure, scalable and fluent in every protocol (IMAP, JMAP, SMTP, CalDAV, CardDAV, WebDAV).
 - [samcday/phrog](https://github.com/samcday/phrog) - 🐸 Mobile device greeter
 - [kazetaos/kazeta](https://github.com/kazetaos/kazeta) - Retro 90s style gaming operating system
