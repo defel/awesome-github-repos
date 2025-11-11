@@ -344,6 +344,7 @@
 
 ## Go 
 
+- [abiosoft/colima](https://github.com/abiosoft/colima) - Container runtimes on macOS (and Linux) with minimal setup
 - [go-to-k/cls3](https://github.com/go-to-k/cls3) - The CLI tool "cls3" is to CLear S3 Buckets. It empties (so deletes all objects and versions/delete-markers in) S3 Buckets or deletes the buckets themselves.
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A rich terminal UI for GitHub that doesn't break your flow.
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫
@@ -1503,7 +1504,6 @@
 - [clef/handbook](https://github.com/clef/handbook) - An employee handbook built for inclusion
 - [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A book series (2 published editions) on the JS language.
 - [AllThingsSmitty/jquery-tips-everyone-should-know](https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know) - A collection of tips to help up your jQuery game 🎮
-- [neutraltone/awesome-stock-resources](https://github.com/neutraltone/awesome-stock-resources) - :city_sunrise: A collection of links for free stock photography, video and Illustration websites
 - [sindresorhus/awesome-electron](https://github.com/sindresorhus/awesome-electron) - Useful resources for creating apps with Electron
 - [marmelab/awesome-rest](https://github.com/marmelab/awesome-rest) - A collaborative list of great resources about RESTful API architecture, development, test, and performance
 - [burningtree/awesome-json](https://github.com/burningtree/awesome-json) - A curated list of awesome JSON libraries and resources.
@@ -1611,10 +1611,12 @@
 
 ## Python 
 
+- [Karib0u/kernagent](https://github.com/Karib0u/kernagent) - AI-powered reverse-engineering copilot
+- [discocrayon/Headroom](https://github.com/discocrayon/Headroom) - Bring down the ceiling on your AWS environment! :tada:
 - [invariantlabs-ai/mcp-scan](https://github.com/invariantlabs-ai/mcp-scan) - Constrain, log and scan your MCP connections for security vulnerabilities.
 - [FarisZR/knocker](https://github.com/FarisZR/knocker) - Knocker, a knock based access control service for your homelab
 - [ufal/SimulStreaming](https://github.com/ufal/SimulStreaming) - 
-- [lotus-data/lotus](https://github.com/lotus-data/lotus) - Use LOTUS to process all of your datasets with LLMs and embeddings. Enjoy up to 1000x speedups with fast, accurate query processing, that's as simple as writing Pandas code
+- [lotus-data/lotus](https://github.com/lotus-data/lotus) - AI-Powered Data Processing: Use LOTUS to process all of your datasets with LLMs and embeddings. Enjoy up to 1000x speedups with fast, accurate query processing, that's as simple as writing Pandas code
 - [anishathalye/semlib](https://github.com/anishathalye/semlib) - Build data processing and data analysis pipelines that leverage the power of LLMs 🧠
 - [ArchiveTeam/ArchiveBot](https://github.com/ArchiveTeam/ArchiveBot) - ArchiveBot, an IRC bot for archiving websites
 - [datalab-to/marker](https://github.com/datalab-to/marker) - Convert PDF to markdown + JSON quickly with high accuracy
@@ -1905,6 +1907,7 @@
 - [mlandauer/cuttlefish](https://github.com/mlandauer/cuttlefish) - Transactional email server with a lovely web interface
 - [mame/quine-relay](https://github.com/mame/quine-relay) - An uroboros program with 100+ programming languages
 - [flyerhzm/chinese_pinyin](https://github.com/flyerhzm/chinese_pinyin) - translate chinese hanzi to pinyin
+- [neutraltone/awesome-stock-resources](https://github.com/neutraltone/awesome-stock-resources) - :city_sunrise: A collection of links for free stock photography, video and Illustration websites
 - [kilimchoi/engineering-blogs](https://github.com/kilimchoi/engineering-blogs) - A curated list of engineering blogs
 - [bayandin/awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) - A curated list of awesome awesomeness
 - [RichardLitt/awesome-conferences](https://github.com/RichardLitt/awesome-conferences) - :ticket: A list of awesome conferences
