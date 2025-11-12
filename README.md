@@ -67,6 +67,7 @@
 - [Svelte](#svelte)
 - [Swift](#swift)
 - [TeX](#tex)
+- [Text](#text)
 - [TypeScript](#typescript)
 - [V](#v)
 - [Vala](#vala)
@@ -344,6 +345,7 @@
 
 ## Go 
 
+- [tailscale/tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA.
 - [abiosoft/colima](https://github.com/abiosoft/colima) - Container runtimes on macOS (and Linux) with minimal setup
 - [go-to-k/cls3](https://github.com/go-to-k/cls3) - The CLI tool "cls3" is to CLear S3 Buckets. It empties (so deletes all objects and versions/delete-markers in) S3 Buckets or deletes the buckets themselves.
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A rich terminal UI for GitHub that doesn't break your flow.
@@ -352,6 +354,7 @@
 - [lima-vm/lima](https://github.com/lima-vm/lima) - Linux virtual machines, with a focus on running containers
 - [control-theory/gonzo](https://github.com/control-theory/gonzo) - Gonzo! The Go based TUI log analysis tool
 - [plutov/oq](https://github.com/plutov/oq) - Terminal OpenAPI Spec viewer
+- [mmulet/term.everything](https://github.com/mmulet/term.everything) - Run any GUI app in the terminal❗
 - [google/mangle](https://github.com/google/mangle) - 
 - [bored-engineer/bf-lookup](https://github.com/bored-engineer/bf-lookup) - The Golang Bitfl1p lookup tool for Project Bitfl1p
 - [derekg/ts-ssh](https://github.com/derekg/ts-ssh) - Go-based SSH and SCP client with userspace Tailscale connectivity. Secure shell access and file transfers over Tailnet without requiring a full Tailscale daemon.
@@ -2178,12 +2181,15 @@
 - [21-lessons/21-lessons-book-de](https://github.com/21-lessons/21-lessons-book-de) - 21 Lektionen - Ein Buch über eine Bitcoin-Reise, geschrieben von einem Bitcoiner
 - [cryptoparty/handouts](https://github.com/cryptoparty/handouts) - a collection of handouts and, where possible, their source files to help others make new cryptoparty handouts
 
+## Text 
+
+- [thaliaarchi/unix-news](https://github.com/thaliaarchi/unix-news) - Transcriptions of UNIX News, the first UNIX newsletter, from 1975 to 1977
+
 ## TypeScript 
 
 - [glide-browser/glide](https://github.com/glide-browser/glide) - An extensible and keyboard-focused web browser
 - [cjpais/Handy](https://github.com/cjpais/Handy) - A free, open source, and extensible speech-to-text application that works completely offline.
 - [rocicorp/mono](https://github.com/rocicorp/mono) - 99% of Queries in Zero Milliseconds
-- [mmulet/term.everything](https://github.com/mmulet/term.everything) - Run any GUI app in the terminal❗
 - [MrLesk/Backlog.md](https://github.com/MrLesk/Backlog.md) - Backlog.md - A tool for managing project collaboration between humans and AI Agents in a git ecosystem
 - [EpicenterHQ/epicenter](https://github.com/EpicenterHQ/epicenter) - Press shortcut → speak → get text. Free and open source. More local-first apps soon ❤️
 - [qvanphong/calibre-opds-obsidian](https://github.com/qvanphong/calibre-opds-obsidian) - A plugin that integrate calibre-web into Obsidian
@@ -2252,7 +2258,7 @@
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification Inbox infrastructure. E-mail, SMS, Push and Slack Integrations.
 - [tiged/tiged](https://github.com/tiged/tiged) - Community driven fork of degit
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - The developers' cloud
 - [projectstorm/react-diagrams](https://github.com/projectstorm/react-diagrams) - a super simple, no-nonsense diagramming library written in react that just works
 - [medusajs/medusa](https://github.com/medusajs/medusa) - The world's most flexible commerce platform.
 - [swimlane/ngx-dnd](https://github.com/swimlane/ngx-dnd) - 🕶  Drag, Drop and Sorting Library for Angular2 and beyond!
