@@ -1934,6 +1934,7 @@
 
 ## Rust 
 
+- [cocogitto/cocogitto](https://github.com/cocogitto/cocogitto) - The Conventional Commits toolbox
 - [typst/hayagriva](https://github.com/typst/hayagriva) - Rusty bibliography management.
 - [stalwartlabs/stalwart](https://github.com/stalwartlabs/stalwart) - All-in-one Mail & Collaboration server. Secure, scalable and fluent in every protocol (IMAP, JMAP, SMTP, CalDAV, CardDAV, WebDAV).
 - [samcday/phrog](https://github.com/samcday/phrog) - 🐸 Mobile device greeter
@@ -2185,7 +2186,7 @@
 
 ## Text 
 
-- [thaliaarchi/unix-news](https://github.com/thaliaarchi/unix-news) - Transcriptions of UNIX News, the first UNIX newsletter, from 1975 to 1977
+- [thaliaarchi/unix-history](https://github.com/thaliaarchi/unix-history) - Documents related to early UNIX history before V7, including UNIX News and early licensees
 
 ## TypeScript 
 
