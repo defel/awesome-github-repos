@@ -1793,7 +1793,7 @@
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
 - [kellyjonbrazil/jc](https://github.com/kellyjonbrazil/jc) - CLI tool and python library that converts the output of popular command-line tools, file-types, and common strings to JSON, YAML, or Dictionaries. This allows piping of output to tools like jq and sim
 - [DonDebonair/slack-machine](https://github.com/DonDebonair/slack-machine) - A simple, yet powerful and extendable Slack bot
-- [baserow/baserow](https://github.com/baserow/baserow) - Open-source no-code platform and the best alternative to Airtable. Build databases, applications, automations, and dashboards — all in one secure, self-hostable environment. Empower your team to creat
+- [baserow/baserow](https://github.com/baserow/baserow) - Build databases, automations, apps & agents with AI — no code.  Open source platform available on cloud and self-hosted. GDPR, HIPAA, SOC 2 compliant. Best Airtable alternative.
 - [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
 - [karlicoss/promnesia](https://github.com/karlicoss/promnesia) - Another piece of your extended mind
 - [0xabu/pdfannots](https://github.com/0xabu/pdfannots) - Extracts and formats text annotations from a PDF file
