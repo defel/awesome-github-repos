@@ -1267,6 +1267,7 @@
 
 ## Kotlin 
 
+- [kavishdevar/librepods](https://github.com/kavishdevar/librepods) - AirPods liberated from Apple's ecosystem.
 - [square/leakcanary](https://github.com/square/leakcanary) - A memory leak detection library for Android.
 - [carlrobertoh/ProxyAI](https://github.com/carlrobertoh/ProxyAI) - The leading open-source AI copilot for JetBrains. Connect to any model in any environment, and customize your coding experience in any way you like.
 - [iamgio/quarkdown](https://github.com/iamgio/quarkdown) - 🪐 Markdown with superpowers — from ideas to papers, presentations and books.
@@ -1614,6 +1615,7 @@
 
 ## Python 
 
+- [jayin92/Skyfall-GS](https://github.com/jayin92/Skyfall-GS) - Skyfall-GS: Synthesizing Immersive 3D Urban Scenes from Satellite Imagery
 - [blechschmidt/fakeroute](https://github.com/blechschmidt/fakeroute) - IPv4 and IPv6 traceroute fake hop generator through IP spoofing
 - [Karib0u/kernagent](https://github.com/Karib0u/kernagent) - Headless AI agent for deterministic reverse engineering.
 - [discocrayon/Headroom](https://github.com/discocrayon/Headroom) - Bring down the ceiling on your AWS environment! :tada:
