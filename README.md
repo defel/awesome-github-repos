@@ -39,6 +39,7 @@
 - [Less](#less)
 - [LiveScript](#livescript)
 - [Lua](#lua)
+- [MDX](#mdx)
 - [Makefile](#makefile)
 - [Markdown](#markdown)
 - [Meson](#meson)
@@ -168,7 +169,7 @@
 
 - [p-org/P](https://github.com/p-org/P) - The P programming language.
 - [peass-ng/PEASS-ng](https://github.com/peass-ng/PEASS-ng) - PEASS - Privilege Escalation Awesome Scripts SUITE (with colors)
-- [tixl3d/tixl](https://github.com/tixl3d/tixl) - Tooll 3 is an open source software to create realtime motion graphics.
+- [tixl3d/tixl](https://github.com/tixl3d/tixl) - TiXL is an open source software to create realtime motion graphics.
 - [wolfgarbe/PruningRadixTrie](https://github.com/wolfgarbe/PruningRadixTrie) - PruningRadixTrie - 1000x faster Radix trie for prefix search & auto-complete
 - [actions/runner](https://github.com/actions/runner) - The Runner for GitHub Actions :rocket:
 - [Relfos/Dither_Machine](https://github.com/Relfos/Dither_Machine) - Pixel dithering tool made with Unity
@@ -572,7 +573,6 @@
 
 ## HTML 
 
-- [Automattic/harper](https://github.com/Automattic/harper) - Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
 - [alufers/mitmproxy2swagger](https://github.com/alufers/mitmproxy2swagger) - Automagically reverse-engineer REST APIs via capturing traffic
 - [salaboy/platforms-on-k8s](https://github.com/salaboy/platforms-on-k8s) - Platform Engineering on Kubernetes :: Book Examples
 - [Cybr-Inc/CloudSec](https://github.com/Cybr-Inc/CloudSec) - Public repository of all things cloud security.
@@ -1013,6 +1013,7 @@
 - [stackvana/hook.io](https://github.com/stackvana/hook.io) - Open-Source Microservice Hosting Platform
 - [annojs/inject](https://github.com/annojs/inject) - Injects dependencies to JavaScript modules and packages (MIT)
 - [hapijs/bell](https://github.com/hapijs/bell) - Third-party login plugin for hapi
+- [bradfrost/atomic-design](https://github.com/bradfrost/atomic-design) - The repository for the Atomic Design book
 - [abeisgoat/FiltrES.js](https://github.com/abeisgoat/FiltrES.js) - A simple, safe, ElasticSearch Query compiler
 - [LinkedInAttic/sepia](https://github.com/LinkedInAttic/sepia) - Sepia is a VCR-like module for node.js that records HTTP interactions, then plays them back exactly like the first time they were invoked
 - [charted-co/charted](https://github.com/charted-co/charted) - A charting tool that produces automatic, shareable charts from any data file
@@ -1320,6 +1321,10 @@
 - [koreader/koreader](https://github.com/koreader/koreader) - An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices
 - [Kong/kong](https://github.com/Kong/kong) - 🦍 The Cloud-Native Gateway for APIs & AI
 
+## MDX 
+
+- [BinSquare/ERA](https://github.com/BinSquare/ERA) - Open source local sandboxing for running AI generated code.
+
 ## Makefile 
 
 - [zoph-io/aws-security-survival-kit](https://github.com/zoph-io/aws-security-survival-kit) - Bare minimum AWS Security Alerting and Secure by default Configuration
@@ -1367,6 +1372,7 @@
 
 ## Others 
 
+- [jacobdjwilson/awesome-annual-security-reports](https://github.com/jacobdjwilson/awesome-annual-security-reports) - A curated list of annual cyber security reports
 - [addyosmani/gemini-cli-tips](https://github.com/addyosmani/gemini-cli-tips) - Gemini CLI Tips and Tricks
 - [fuhrmanator/gof-plantuml](https://github.com/fuhrmanator/gof-plantuml) - 
 - [precize/Agentic-AI-Top10-Vulnerability](https://github.com/precize/Agentic-AI-Top10-Vulnerability) - Top 10 for Agentic AI (AI Agent Security) serves as the core for OWASP and CSA Red teaming work
@@ -1955,6 +1961,7 @@
 - [zizmorcore/zizmor](https://github.com/zizmorcore/zizmor) - Static analysis for GitHub Actions
 - [cocoindex-io/cocoindex](https://github.com/cocoindex-io/cocoindex) - Data transformation framework for AI. Ultra performant, with incremental processing.  🌟 Star if you like it!
 - [mfontanini/presenterm](https://github.com/mfontanini/presenterm) - A markdown terminal slideshow tool
+- [Automattic/harper](https://github.com/Automattic/harper) - Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
 - [honeycombio/gritql](https://github.com/honeycombio/gritql) - GritQL is a query language for searching, linting, and modifying code.
 - [PRQL/prql](https://github.com/PRQL/prql) - PRQL is a modern language for transforming data — a simple, powerful, pipelined SQL replacement
 - [resola-ai/rust-aws-tui](https://github.com/resola-ai/rust-aws-tui) - 
@@ -2069,7 +2076,6 @@
 - [bencodezen/vue-enterprise-boilerplate](https://github.com/bencodezen/vue-enterprise-boilerplate) - An ever-evolving, very opinionated architecture and dev environment for new Vue SPA projects using Vue CLI.
 - [pop-os/gtk-theme](https://github.com/pop-os/gtk-theme) - System76 Pop GTK+ Theme
 - [flov/Hitchlog](https://github.com/flov/Hitchlog) - A Social Network For Hitchhikers
-- [bradfrost/atomic-design](https://github.com/bradfrost/atomic-design) - The repository for the Atomic Design book
 - [mdo/code-guide](https://github.com/mdo/code-guide) - Standards for developing consistent, flexible, and sustainable HTML and CSS.
 
 ## Scala 
