@@ -261,7 +261,7 @@
 
 ## CartoCSS 
 
-- [gravitystorm/openstreetmap-carto](https://github.com/gravitystorm/openstreetmap-carto) - A general-purpose OpenStreetMap mapnik style, in CartoCSS
+- [openstreetmap-carto/openstreetmap-carto](https://github.com/openstreetmap-carto/openstreetmap-carto) - A general-purpose OpenStreetMap mapnik style, in CartoCSS
 
 ## Clojure 
 
@@ -696,6 +696,7 @@
 
 ## JavaScript 
 
+- [pelias/api](https://github.com/pelias/api) - HTTP API for Pelias Geocoder
 - [falling-sky/source](https://github.com/falling-sky/source) - Main source for falling-sky.  Mostly  HTML, JavaScript.
 - [SillyTavern/SillyTavern](https://github.com/SillyTavern/SillyTavern) - LLM Frontend for Power Users.
 - [74656c/fart.js](https://github.com/74656c/fart.js) - Fart library
@@ -2181,6 +2182,7 @@
 
 ## Swift 
 
+- [Fabric-Project/Fabric](https://github.com/Fabric-Project/Fabric) - Node Creative Coding / 3D / Image Processing tool inspired by Quartz Composer
 - [Jaennaet/pISSStream](https://github.com/Jaennaet/pISSStream) - App that shows how full the International Space Station's urine tank is in real time, available for macOS (menu bar), iOS, watchOS and visionOS
 - [singe/tidcli](https://github.com/singe/tidcli) - A simple touchID prompt'er for use in shell scripts.
 - [evanw/thumbhash](https://github.com/evanw/thumbhash) - A very compact representation of an image placeholder
