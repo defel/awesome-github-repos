@@ -390,7 +390,7 @@
 - [hoophq/hoop](https://github.com/hoophq/hoop) - The only access proxy that blocks dangerous linux commands and scrubs sensitive database outputs
 - [quackduck/devzat](https://github.com/quackduck/devzat) - The devs are over here at devzat, chat over SSH!
 - [strongdm/comply](https://github.com/strongdm/comply) - Compliance automation framework, focused on SOC2
-- [bluetuith-org/bluetuith](https://github.com/bluetuith-org/bluetuith) - A TUI bluetooth manager for Linux.
+- [bluetuith-org/bluetuith](https://github.com/bluetuith-org/bluetuith) - A cross-platform TUI bluetooth manager.
 - [thomiceli/opengist](https://github.com/thomiceli/opengist) - Self-hosted pastebin powered by Git, open-source alternative to Github Gist.
 - [projectdiscovery/cvemap](https://github.com/projectdiscovery/cvemap) - Modern CLI for exploring vulnerability data with powerful search, filtering, and analysis capabilities.
 - [turbot/flowpipe](https://github.com/turbot/flowpipe) - Flowpipe is a cloud scripting engine. Automation and workflow to connect your clouds to the people, systems and data that matters.
@@ -1623,6 +1623,7 @@
 
 ## Python 
 
+- [oraios/serena](https://github.com/oraios/serena) - A powerful coding agent toolkit providing semantic retrieval and editing capabilities (MCP server & other integrations)
 - [Ben-Edwards44/PyBonsai](https://github.com/Ben-Edwards44/PyBonsai) - Generate procedural ASCII art trees in the terminal.
 - [jayin92/Skyfall-GS](https://github.com/jayin92/Skyfall-GS) - Skyfall-GS: Synthesizing Immersive 3D Urban Scenes from Satellite Imagery
 - [blechschmidt/fakeroute](https://github.com/blechschmidt/fakeroute) - IPv4 and IPv6 traceroute fake hop generator through IP spoofing
