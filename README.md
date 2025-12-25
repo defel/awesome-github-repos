@@ -96,6 +96,7 @@
 
 ## C 
 
+- [bellard/mquickjs](https://github.com/bellard/mquickjs) - Public repository of the Micro QuickJS Javascript Engine
 - [scallyw4g/bonsai](https://github.com/scallyw4g/bonsai) - The procedural generation voxel engine
 - [saitoha/xserver-SIXEL](https://github.com/saitoha/xserver-SIXEL) - A X server implementation for SIXEL-featured terminals, based on @pelya's Xsdl kdrive server(https://github.com/pelya/xserver-xsdl)
 - [kristapsdz/lowdown](https://github.com/kristapsdz/lowdown) - simple markdown translator
@@ -657,6 +658,7 @@
 - [cedar-policy/cedar-java](https://github.com/cedar-policy/cedar-java) - Java bindings for the Cedar language
 - [apache/shiro](https://github.com/apache/shiro) - Apache Shiro
 - [youngmonkeys/ezyfox-server](https://github.com/youngmonkeys/ezyfox-server) - A socket server (include SSL) supports realtime application, realtime game, MMORPG, messaging, chat and streaming data with TCP, UDP and Websocket
+- [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 - [enso-org/enso](https://github.com/enso-org/enso) - Enso Analytics is a self-service data prep and analysis platform designed for data teams.
 - [onthegomap/planetiler](https://github.com/onthegomap/planetiler) - Flexible tool to build planet-scale vector tilesets from OpenStreetMap data fast
 - [SimonHalvdansson/Harmonic-HN](https://github.com/SimonHalvdansson/Harmonic-HN) - Modern Android client for Hacker News
@@ -1958,6 +1960,7 @@
 
 ## Rust 
 
+- [scanopy/scanopy](https://github.com/scanopy/scanopy) - Clean network diagrams. One-time setup, zero upkeep.
 - [linebender/vello](https://github.com/linebender/vello) - A GPU compute-centric 2D renderer.
 - [0ximu/mu](https://github.com/0ximu/mu) - 
 - [cocogitto/cocogitto](https://github.com/cocogitto/cocogitto) - The Conventional Commits toolbox
@@ -2221,6 +2224,7 @@
 
 ## TypeScript 
 
+- [Pantheon-Security/notebooklm-mcp-secure](https://github.com/Pantheon-Security/notebooklm-mcp-secure) - Secure NotebookLM MCP Server - Query Google NotebookLM from Claude/AI agents with 14 security hardening layers
 - [glide-browser/glide](https://github.com/glide-browser/glide) - An extensible and keyboard-focused web browser
 - [cjpais/Handy](https://github.com/cjpais/Handy) - A free, open source, and extensible speech-to-text application that works completely offline.
 - [rocicorp/mono](https://github.com/rocicorp/mono) - 99% of Queries in Zero Milliseconds
@@ -2280,7 +2284,6 @@
 - [center-for-threat-informed-defense/cti-blueprints](https://github.com/center-for-threat-informed-defense/cti-blueprints) - CTI Blueprints is a free suite of templates and tools that helps Cyber Threat Intelligence analysts create high-quality, actionable reports more consistently and efficiently.
 - [elysiajs/elysia](https://github.com/elysiajs/elysia) - Ergonomic Framework for Humans
 - [code-of-chaos/obsidian-colored_tags_wrangler](https://github.com/code-of-chaos/obsidian-colored_tags_wrangler) - Obsidian Plugin : Assign colors to tags. Has integrations with other plugins, like Kanban.
-- [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 - [antfu/shikiji](https://github.com/antfu/shikiji) - A syntax highlighter based on TextMate grammars. ESM rewrite of shiki, with more features and capabilities.
 - [slauth-io/slauth-cli](https://github.com/slauth-io/slauth-cli) - CLI that scans directories for Cloud Provider SDK usage generates the IAM Policies/Permissions needed
 - [CapSoftware/Cap](https://github.com/CapSoftware/Cap) - Open source Loom alternative. Beautiful, shareable screen recordings.
