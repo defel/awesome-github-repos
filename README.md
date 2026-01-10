@@ -31,6 +31,7 @@
 - [HCL](#hcl)
 - [HTML](#html)
 - [Haskell](#haskell)
+- [JSON](#json)
 - [Janet](#janet)
 - [Java](#java)
 - [JavaScript](#javascript)
@@ -648,12 +649,17 @@
 - [snapframework/snap](https://github.com/snapframework/snap) - Top-level package for the official Snap Framework libraries, includes the snaplets API as well as infrastructure for sessions, auth, and templates.
 - [basvandijk/aws](https://github.com/basvandijk/aws) - Amazon Web Services for Haskell
 
+## JSON 
+
+- [Fyrd/caniuse](https://github.com/Fyrd/caniuse) - Raw browser/feature support data from caniuse.com
+
 ## Janet 
 
 - [ianthehenry/bauble](https://github.com/ianthehenry/bauble) - a playground for making 3D art with lisp and math
 
 ## Java 
 
+- [booklore-app/booklore](https://github.com/booklore-app/booklore) - BookLore: A self-hosted, multi-user digital library with smart shelves, auto metadata, Kobo & KOReader sync, BookDrop imports, OPDS support, and a built-in reader for EPUB, PDF, and comics.
 - [find-sec-bugs/find-sec-bugs](https://github.com/find-sec-bugs/find-sec-bugs) - The SpotBugs plugin for security audits of Java web applications and Android applications. (Also work with Kotlin, Groovy and Scala projects)
 - [GumTreeDiff/gumtree](https://github.com/GumTreeDiff/gumtree) - An awesome code differencing tool
 - [confluence-publisher/confluence-publisher](https://github.com/confluence-publisher/confluence-publisher) - Maven plugin and Docker image to convert AsciiDoc and publish it to Confluence
@@ -1073,7 +1079,6 @@
 - [primus/primus](https://github.com/primus/primus) - :zap: Primus, the creator god of the transformers & an abstraction layer for real-time to prevent module lock-in.
 - [svg/svgo](https://github.com/svg/svgo) - ⚙️ Node.js tool for optimizing SVG files
 - [browserify/browserify-handbook](https://github.com/browserify/browserify-handbook) - how to build modular applications with browserify
-- [Fyrd/caniuse](https://github.com/Fyrd/caniuse) - Raw browser/feature support data from caniuse.com
 - [ldapjs/node-ldapjs](https://github.com/ldapjs/node-ldapjs) - LDAP Client and Server API for node.js
 - [conveyal/transitive.js](https://github.com/conveyal/transitive.js) - Transit data visualization
 - [themadcreator/seen](https://github.com/themadcreator/seen) - Render 3D scenes into SVG or HTML5 Canvas.
