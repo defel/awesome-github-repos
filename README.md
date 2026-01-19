@@ -1647,6 +1647,7 @@
 
 ## Python 
 
+- [DenizParlak/heimdall](https://github.com/DenizParlak/heimdall) - AWS Attack Path Scanner - Discover privilege escalation paths across 10+ AWS services
 - [NanoNets/docstrange](https://github.com/NanoNets/docstrange) - Extract and convert data from any document, images, pdfs, word doc, ppt or URL into multiple formats (Markdown, JSON, CSV, HTML) with intelligent structured data extraction and advanced OCR.
 - [gibbok/typescript-book](https://github.com/gibbok/typescript-book) - The Concise TypeScript Book: A Concise Guide to Effective Development in TypeScript. Free and Open Source.
 - [stanfordnlp/dspy](https://github.com/stanfordnlp/dspy) - DSPy: The framework for programming—not prompting—language models
@@ -1664,7 +1665,7 @@
 - [jayin92/Skyfall-GS](https://github.com/jayin92/Skyfall-GS) - Skyfall-GS: Synthesizing Immersive 3D Urban Scenes from Satellite Imagery
 - [blechschmidt/fakeroute](https://github.com/blechschmidt/fakeroute) - IPv4 and IPv6 traceroute fake hop generator through IP spoofing
 - [Karib0u/kernagent](https://github.com/Karib0u/kernagent) - Headless AI agent for deterministic reverse engineering.
-- [discocrayon/Headroom](https://github.com/discocrayon/Headroom) - Bring down the ceiling on your AWS environment! :tada:
+- [discocrayon/Headroom](https://github.com/discocrayon/Headroom) - Secure AWS by auto-generating SCPs and RCPs :tada:
 - [invariantlabs-ai/mcp-scan](https://github.com/invariantlabs-ai/mcp-scan) - Constrain, log and scan your MCP connections for security vulnerabilities.
 - [FarisZR/knocker](https://github.com/FarisZR/knocker) - Knocker, a knock based access control service for your homelab
 - [ufal/SimulStreaming](https://github.com/ufal/SimulStreaming) - 
@@ -1997,7 +1998,7 @@
 - [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite) - Open source comprehensive 2D content creation tool suite for graphic design, digital art, and interactive real-time motion graphics — featuring node-based procedural editing
 - [asciinema/asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder, streamer and player 📹
 - [zerocore-ai/microsandbox](https://github.com/zerocore-ai/microsandbox) - opensource self-hosted sandboxes for ai agents
-- [trailbaseio/trailbase](https://github.com/trailbaseio/trailbase) - A blazingly fast, open-source application server with type-safe APIs, built-in WebAssembly runtime, realtime, auth, and admin UI built on Rust, SQLite & Wasmtime.
+- [trailbaseio/trailbase](https://github.com/trailbaseio/trailbase) - An open, sub-millisecond, single-executable Firebase alternative with type-safe APIs, built-in WebAssembly runtime, realtime subscriptions, auth, and admin UI built on Rust, SQLite & Wasmtime.
 - [espanso/espanso](https://github.com/espanso/espanso) - A Privacy-first, Cross-platform Text Expander written in Rust
 - [rathole-org/rathole](https://github.com/rathole-org/rathole) - A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.
 - [zizmorcore/zizmor](https://github.com/zizmorcore/zizmor) - Static analysis for GitHub Actions
