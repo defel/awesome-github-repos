@@ -1319,7 +1319,7 @@
 - [marcoferrer/kroto-plus](https://github.com/marcoferrer/kroto-plus) - gRPC Kotlin Coroutines, Protobuf DSL, Scripting for Protoc
 - [raharrison/kotlin-ktor-exposed-starter](https://github.com/raharrison/kotlin-ktor-exposed-starter) - Starter RESTful service with websocket notifications using Kotlin, Ktor and Exposed with H2, HikariCP and FlyWay
 - [adavis/ufo-sightings-api](https://github.com/adavis/ufo-sightings-api) - Sample GraphQL API Using Ktor and KGraphQL
-- [SimonSchubert/Braincup](https://github.com/SimonSchubert/Braincup) - Train your math skills, memory and focus.
+- [SimonSchubert/Braincup](https://github.com/SimonSchubert/Braincup) - Memory, focus & math trainer
 - [nickbutcher/plaid](https://github.com/nickbutcher/plaid) - An Android app which provides design news & inspiration as well as being an example of implementing material design.
 - [mixitconf/mixit](https://github.com/mixitconf/mixit) - MiXiT website
 
@@ -2074,7 +2074,7 @@
 - [izderadicka/audioserve](https://github.com/izderadicka/audioserve) - Simple personal server to serve audiofiles files from folders.  Intended primarily for audio books, but anything with decent folder structure will do.
 - [headwaymaps/headway](https://github.com/headwaymaps/headway) - Self-hostable maps stack, powered by OpenStreetMap.
 - [zoeyfyi/Boop-GTK](https://github.com/zoeyfyi/Boop-GTK) - Port of @IvanMathy's Boop to GTK, a scriptable scratchpad for developers.
-- [LemmyNet/lemmy](https://github.com/LemmyNet/lemmy) - 🐀 A link aggregator and forum for the fediverse
+- [LemmyNet/lemmy](https://github.com/LemmyNet/lemmy) - 🐀 A decentralised discussion platform for communities.
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [zesterer/chumsky](https://github.com/zesterer/chumsky) - Write expressive, high-performance parsers with ease.
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
@@ -2282,7 +2282,7 @@
 - [Hairetsu/Notate](https://github.com/Hairetsu/Notate) - Notate is a desktop chat application that takes AI conversations to the next level. It combines the simplicity of chat with advanced features like document analysis, vector search, and multi-model AI 
 - [browserbase/stagehand](https://github.com/browserbase/stagehand) - The AI Browser Automation Framework
 - [janwilmake/agent-pod](https://github.com/janwilmake/agent-pod) - Attempt to create an Open Source Privacy Focused Rewind.ai Alternative that is a POD (Personal Online Datastore)
-- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Ship faster with Continuous AI. Open-source CLI that can be used in TUI mode as a coding agent or Headless mode to run background agents
+- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Ship faster with Continuous AI. Open-source CLI that can be used in Headless mode to run async cloud agents or TUI mode as an in sync coding agent
 - [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
 - [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data
 - [aws-samples/github-actions-oidc-cdk-construct](https://github.com/aws-samples/github-actions-oidc-cdk-construct) - 
