@@ -246,7 +246,6 @@
 ## CSS 
 
 - [troxler/awesome-css-frameworks](https://github.com/troxler/awesome-css-frameworks) - List of awesome CSS frameworks in 2025
-- [SamuraiWTF/katana](https://github.com/SamuraiWTF/katana) - SamuraiWTF package management tool and interface.
 - [lucaorio/obsidian-image-gallery](https://github.com/lucaorio/obsidian-image-gallery) - A zero setup masonry image gallery for Obsidian
 - [csstools/sanitize.css](https://github.com/csstools/sanitize.css) - A best-practices CSS foundation
 - [cat-a-flame/CSSHell](https://github.com/cat-a-flame/CSSHell) - Collection of common CSS mistakes, and how to fix them
@@ -663,6 +662,7 @@
 
 ## Java 
 
+- [mc1arke/sonarqube-community-branch-plugin](https://github.com/mc1arke/sonarqube-community-branch-plugin) - A plugin that allows branch analysis and pull request decoration in the Community version of Sonarqube
 - [booklore-app/booklore](https://github.com/booklore-app/booklore) - BookLore: A self-hosted, multi-user digital library with smart shelves, auto metadata, Kobo & KOReader sync, BookDrop imports, OPDS support, and a built-in reader for EPUB, PDF, and comics.
 - [find-sec-bugs/find-sec-bugs](https://github.com/find-sec-bugs/find-sec-bugs) - The SpotBugs plugin for security audits of Java web applications and Android applications. (Also work with Kotlin, Groovy and Scala projects)
 - [GumTreeDiff/gumtree](https://github.com/GumTreeDiff/gumtree) - An awesome code differencing tool
@@ -714,7 +714,7 @@
 
 - [galaxykate/tracery](https://github.com/galaxykate/tracery) - Tracery: a story-grammar generation library for javascript
 - [topojson/topojson](https://github.com/topojson/topojson) - An extension of GeoJSON that encodes topology! 🌐
-- [fcavallarin/wirebrowser](https://github.com/fcavallarin/wirebrowser) - 
+- [fcavallarin/wirebrowser](https://github.com/fcavallarin/wirebrowser) - Wirebrowser is an advanced debugging and inspection tool built on the Chrome DevTools Protocol, unifying network interception, API replay, automation, and deep runtime/memory analysis in a single work
 - [pelias/api](https://github.com/pelias/api) - HTTP API for Pelias Geocoder
 - [falling-sky/source](https://github.com/falling-sky/source) - Main source for falling-sky.  Mostly  HTML, JavaScript.
 - [SillyTavern/SillyTavern](https://github.com/SillyTavern/SillyTavern) - LLM Frontend for Power Users.
@@ -2249,6 +2249,9 @@
 
 ## TypeScript 
 
+- [infely/react-curse](https://github.com/infely/react-curse) - Fastest terminal UI for react (TUI, CLI, curses-like)
+- [stan-smith/FossFLOW](https://github.com/stan-smith/FossFLOW) - Make beautiful isometric infrastructure diagrams
+- [charkoal-ai/docs](https://github.com/charkoal-ai/docs) - Public Charkoal documentation
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and r
 - [y-lohse/inkjs](https://github.com/y-lohse/inkjs) - A javascript port of inkle's ink scripting language.
 - [badlogic/gmcli](https://github.com/badlogic/gmcli) - Minimal Gmail CLI
@@ -2316,6 +2319,7 @@
 - [code-of-chaos/obsidian-colored_tags_wrangler](https://github.com/code-of-chaos/obsidian-colored_tags_wrangler) - Obsidian Plugin : Assign colors to tags. Has integrations with other plugins, like Kanban.
 - [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 - [antfu/shikiji](https://github.com/antfu/shikiji) - A syntax highlighter based on TextMate grammars. ESM rewrite of shiki, with more features and capabilities.
+- [SamuraiWTF/katana](https://github.com/SamuraiWTF/katana) - SamuraiWTF package management tool and interface.
 - [slauth-io/slauth-cli](https://github.com/slauth-io/slauth-cli) - CLI that scans directories for Cloud Provider SDK usage generates the IAM Policies/Permissions needed
 - [CapSoftware/Cap](https://github.com/CapSoftware/Cap) - Open source Loom alternative. Beautiful, shareable screen recordings.
 - [paulmillr/noble-hashes](https://github.com/paulmillr/noble-hashes) - Audited & minimal JS implementation of hash functions, MACs and KDFs.
@@ -2588,6 +2592,7 @@
 
 ## Vue 
 
+- [unovue/reka-ui](https://github.com/unovue/reka-ui) - An open-source UI component library for building high-quality, accessible design systems and web apps for Vue. Previously Radix Vue
 - [kinopio-club/kinopio-client](https://github.com/kinopio-club/kinopio-client) - Kinopio is a creative thinking tool
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
 - [AutomaApp/automa](https://github.com/AutomaApp/automa) - A browser extension for automating your browser by connecting blocks
