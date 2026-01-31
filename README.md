@@ -400,7 +400,7 @@
 - [inngest/inngest](https://github.com/inngest/inngest) - The leading workflow orchestration platform.  Run stateful step functions and AI workflows on serverless, servers, or the edge.
 - [redpanda-data/benthos](https://github.com/redpanda-data/benthos) - 
 - [fwdcloudsec/granted](https://github.com/fwdcloudsec/granted) - The easiest way to access AWS.
-- [hoophq/hoop](https://github.com/hoophq/hoop) - The only access proxy that blocks dangerous linux commands and scrubs sensitive database outputs
+- [hoophq/hoop](https://github.com/hoophq/hoop) - Automated Access and Data Protection
 - [quackduck/devzat](https://github.com/quackduck/devzat) - The devs are over here at devzat, chat over SSH!
 - [strongdm/comply](https://github.com/strongdm/comply) - Compliance automation framework, focused on SOC2
 - [bluetuith-org/bluetuith](https://github.com/bluetuith-org/bluetuith) - A cross-platform TUI bluetooth manager.
@@ -669,6 +669,7 @@
 
 ## Java 
 
+- [grobidOrg/grobid](https://github.com/grobidOrg/grobid) - A machine learning software for extracting information from scholarly documents
 - [mc1arke/sonarqube-community-branch-plugin](https://github.com/mc1arke/sonarqube-community-branch-plugin) - A plugin that allows branch analysis and pull request decoration in the Community version of Sonarqube
 - [booklore-app/booklore](https://github.com/booklore-app/booklore) - BookLore: A self-hosted, multi-user digital library with smart shelves, auto metadata, Kobo & KOReader sync, BookDrop imports, OPDS support, and a built-in reader for EPUB, PDF, and comics.
 - [find-sec-bugs/find-sec-bugs](https://github.com/find-sec-bugs/find-sec-bugs) - The SpotBugs plugin for security audits of Java web applications and Android applications. (Also work with Kotlin, Groovy and Scala projects)
@@ -2266,7 +2267,7 @@
 - [awslabs/fullstack-solution-template-for-agentcore](https://github.com/awslabs/fullstack-solution-template-for-agentcore) - Flexible Fullstack solution template for production-ready deployments of any use case on Amazon Bedrock AgentCore.
 - [antfu/skills](https://github.com/antfu/skills) - Anthony Fu's curated collection of agent skills.
 - [khoj-ai/openpaper](https://github.com/khoj-ai/openpaper) - Open Paper is a workbench for managing your research library. Read, annotate, and understand your papers all in one place. Use an AI assistant to conduct your literature review.
-- [moltbot/moltbot](https://github.com/moltbot/moltbot) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
+- [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
 - [electric-sql/pglite](https://github.com/electric-sql/pglite) - Embeddable Postgres with real-time, reactive bindings.
 - [infely/react-curse](https://github.com/infely/react-curse) - Fastest terminal UI for react (TUI, CLI, curses-like)
 - [stan-smith/FossFLOW](https://github.com/stan-smith/FossFLOW) - Make beautiful isometric infrastructure diagrams
