@@ -588,6 +588,7 @@
 
 ## HTML 
 
+- [wiz-sec-public/SITF](https://github.com/wiz-sec-public/SITF) - A comprehensive framework for analyzing and defending against attacks targeting Software Development Life Cycle Infrastructure.
 - [Pankajtanwarbanna/stfu](https://github.com/Pankajtanwarbanna/stfu) - stfu
 - [Phaeilo/emergent-order](https://github.com/Phaeilo/emergent-order) - A 1x1x1m cube with 1200 addressable LEDs
 - [MaxRobinsonTheGreat/hyperdimensions](https://github.com/MaxRobinsonTheGreat/hyperdimensions) - webtoy to visualize high-dimensional functions
@@ -2267,7 +2268,6 @@
 - [awslabs/fullstack-solution-template-for-agentcore](https://github.com/awslabs/fullstack-solution-template-for-agentcore) - Flexible Fullstack solution template for production-ready deployments of any use case on Amazon Bedrock AgentCore.
 - [antfu/skills](https://github.com/antfu/skills) - Anthony Fu's curated collection of agent skills.
 - [khoj-ai/openpaper](https://github.com/khoj-ai/openpaper) - Open Paper is a workbench for managing your research library. Read, annotate, and understand your papers all in one place. Use an AI assistant to conduct your literature review.
-- [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
 - [electric-sql/pglite](https://github.com/electric-sql/pglite) - Embeddable Postgres with real-time, reactive bindings.
 - [infely/react-curse](https://github.com/infely/react-curse) - Fastest terminal UI for react (TUI, CLI, curses-like)
 - [stan-smith/FossFLOW](https://github.com/stan-smith/FossFLOW) - Make beautiful isometric infrastructure diagrams
