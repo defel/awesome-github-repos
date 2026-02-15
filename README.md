@@ -356,8 +356,6 @@
 
 ## Go 
 
-- [praetorian-inc/julius](https://github.com/praetorian-inc/julius) - Simple LLM service identification - translate IP:Port to Ollama, vLLM, LiteLLM, or 30+ other AI services in seconds
-- [praetorian-inc/augustus](https://github.com/praetorian-inc/augustus) - LLM security testing framework for detecting prompt injection, jailbreaks, and adversarial attacks — 190+ probes, 28 providers, single Go binary
 - [jingkaihe/matchlock](https://github.com/jingkaihe/matchlock) - Matchlock secures AI agent workloads with a Linux-based sandbox.
 - [budimanjojo/talhelper](https://github.com/budimanjojo/talhelper) - A tool to help creating Talos kubernetes cluster
 - [stryan/materia](https://github.com/stryan/materia) - GitOps tool for deploying Quadlets
@@ -2272,6 +2270,7 @@
 
 ## TypeScript 
 
+- [gruberb/workledger](https://github.com/gruberb/workledger) - Your local first engineering notebook
 - [TypeCellOS/BlockNote](https://github.com/TypeCellOS/BlockNote) - A React Rich Text Editor that's block-based (Notion style) and extensible. Built on top of Prosemirror and Tiptap.
 - [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat) - Open-source AI coworker, with memory
 - [mrmrs/line-art](https://github.com/mrmrs/line-art) - svg web app for pen plotters
@@ -2428,7 +2427,7 @@
 - [cloudscape-design/components](https://github.com/cloudscape-design/components) - React components for Cloudscape Design System
 - [chhoumann/PodNotes](https://github.com/chhoumann/PodNotes) - PodNotes is a plugin for Obsidian that helps the user write notes on podcasts.
 - [jon-heard/obsidian-inline-scripts](https://github.com/jon-heard/obsidian-inline-scripts) - Obsidian plugin: Type text shortcuts that expand into javascript generated text.
-- [clauderic/dnd-kit](https://github.com/clauderic/dnd-kit) - The modern, lightweight, performant, accessible and extensible drag & drop toolkit for React.
+- [clauderic/dnd-kit](https://github.com/clauderic/dnd-kit) - The modern toolkit for building drag and drop interfaces
 - [codemix/deprank](https://github.com/codemix/deprank) - Use PageRank to find the most important files in your codebase.
 - [vitest-dev/vitest](https://github.com/vitest-dev/vitest) - Next generation testing framework powered by Vite.
 - [googleapis/release-please](https://github.com/googleapis/release-please) - generate release PRs based on the conventionalcommits.org spec
@@ -2648,6 +2647,7 @@
 
 ## Zig 
 
+- [meszmate/zigzag](https://github.com/meszmate/zigzag) - A delightful TUI framework for Zig
 - [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
 - [riverwm/river](https://github.com/riverwm/river) - [mirror] A non-monolithic Wayland compositor
 
