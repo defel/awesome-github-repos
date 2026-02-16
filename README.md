@@ -1664,6 +1664,7 @@
 
 ## Python 
 
+- [llmsresearch/paperbanana](https://github.com/llmsresearch/paperbanana) - Open source implementation and extension of Google Research’s PaperBanana for automated academic figures, diagrams, and research visuals, expanded to new domains like slide generation.
 - [resilientworkflowsentinel/resilient-workflow-sentinel](https://github.com/resilientworkflowsentinel/resilient-workflow-sentinel) - Local, offline 7B LLM task orchestrator — analyzes urgency, debates assignment, balances load. Runs on RTX 3080/4090. Chaos mode included.
 - [awslabs/graphrag-toolkit](https://github.com/awslabs/graphrag-toolkit) - Python toolkit for building graph-enhanced GenAI applications
 - [FuzzingLabs/mcp-security-hub](https://github.com/FuzzingLabs/mcp-security-hub) - A growing collection of MCP servers bringing offensive security tools to AI assistants. Nmap, Ghidra, Nuclei, SQLMap, Hashcat and more.
