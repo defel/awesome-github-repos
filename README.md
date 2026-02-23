@@ -181,6 +181,7 @@
 
 ## C++ 
 
+- [lynx-family/lynx](https://github.com/lynx-family/lynx) - Empower the Web community and invite more to build across platforms.
 - [bjesus/levin](https://github.com/bjesus/levin) - The easiest way to spread human knowledge
 - [dbzero-software/dbzero](https://github.com/dbzero-software/dbzero) - DISTIC (Durable, Infinite, Shared, Transactional, Isolated, Composable) storage system for Python 3.x offering flexibility of a memory with durability of a database.
 - [mkiol/dsnote](https://github.com/mkiol/dsnote) - Speech Note Linux app. Note taking, reading and translating with offline Speech to Text, Text to Speech and Machine translation.
@@ -1975,6 +1976,7 @@
 
 ## Ruby 
 
+- [usetrmnl/trmnlp](https://github.com/usetrmnl/trmnlp) - a local dev server for building TRMNL plugins
 - [sunaku/md2man](https://github.com/sunaku/md2man) - 📚 Converts markdown into UNIX manual pages
 - [kagisearch/bangs](https://github.com/kagisearch/bangs) - Repository of bangs used by Kagi Search
 - [github-linguist/linguist](https://github.com/github-linguist/linguist) - Language Savant. If your repository's language is being reported incorrectly, send us a pull request!
@@ -2164,6 +2166,7 @@
 
 ## Shell 
 
+- [rafaelromao/keyboards](https://github.com/rafaelromao/keyboards) - A split keyboard layout, optimized for Portuguese, English, working with numbers and software programming with VIM plugins.
 - [TheNoeTrevino/claude-hooks](https://github.com/TheNoeTrevino/claude-hooks) - Tiny scripts to enhance the claude code experience
 - [fabioluciano/tmux-powerkit](https://github.com/fabioluciano/tmux-powerkit) - The Ultimate tmux Status Bar Framework
 - [rails-lambda/tailscale-extension](https://github.com/rails-lambda/tailscale-extension) - Tailscale Lambda Extension for Containers
@@ -2276,6 +2279,7 @@
 
 ## TypeScript 
 
+- [fedify-dev/fedify](https://github.com/fedify-dev/fedify) - ActivityPub server framework in TypeScript
 - [gruberb/workledger](https://github.com/gruberb/workledger) - Your local first engineering notebook
 - [TypeCellOS/BlockNote](https://github.com/TypeCellOS/BlockNote) - A React Rich Text Editor that's block-based (Notion style) and extensible. Built on top of Prosemirror and Tiptap.
 - [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat) - Open-source AI coworker, with memory
