@@ -249,6 +249,7 @@
 
 ## CSS 
 
+- [andmoredev/agentcore-starter](https://github.com/andmoredev/agentcore-starter) - 
 - [troxler/awesome-css-frameworks](https://github.com/troxler/awesome-css-frameworks) - List of awesome CSS frameworks in 2026
 - [lucaorio/obsidian-image-gallery](https://github.com/lucaorio/obsidian-image-gallery) - A zero setup masonry image gallery for Obsidian
 - [csstools/sanitize.css](https://github.com/csstools/sanitize.css) - A best-practices CSS foundation
@@ -357,6 +358,7 @@
 
 ## Go 
 
+- [abhinav/git-spice](https://github.com/abhinav/git-spice) - Manage stacked Git branches
 - [cpcloud/micasa](https://github.com/cpcloud/micasa) - A modal TUI for tracking home projects, maintenance schedules, appliances, and vendor quotes.
 - [clastix/kamaji](https://github.com/clastix/kamaji) - Kamaji is the Hosted Control Plane Manager for Kubernetes.
 - [jingkaihe/matchlock](https://github.com/jingkaihe/matchlock) - Matchlock secures AI agent workloads with a Linux-based sandbox.
@@ -678,7 +680,7 @@
 
 ## Java 
 
-- [bethington/ghidra-mcp](https://github.com/bethington/ghidra-mcp) - Production-grade Ghidra MCP Server — 132 endpoints, cross-binary documentation transfer, batch analysis, headless mode, and Docker deployment for AI-powered reverse engineering
+- [bethington/ghidra-mcp](https://github.com/bethington/ghidra-mcp) - Production-grade Ghidra MCP Server — 179 MCP tools, 147 GUI + 172 headless endpoints, Ghidra Server integration, cross-binary documentation transfer, batch operations, AI documentation workflows, and 
 - [grobidOrg/grobid](https://github.com/grobidOrg/grobid) - A machine learning software for extracting information from scholarly documents
 - [mc1arke/sonarqube-community-branch-plugin](https://github.com/mc1arke/sonarqube-community-branch-plugin) - A plugin that allows branch analysis and pull request decoration in the Community version of Sonarqube
 - [booklore-app/booklore](https://github.com/booklore-app/booklore) - BookLore: A self-hosted, multi-user digital library with smart shelves, auto metadata, Kobo & KOReader sync, BookDrop imports, OPDS support, and a built-in reader for EPUB, PDF, and comics.
@@ -1669,6 +1671,7 @@
 
 ## Python 
 
+- [guillevc/yubal](https://github.com/guillevc/yubal) - Self-hosted YouTube Music downloader with automatic metadata tagging and playlist sync
 - [llmsresearch/paperbanana](https://github.com/llmsresearch/paperbanana) - Open source implementation and extension of Google Research’s PaperBanana for automated academic figures, diagrams, and research visuals, expanded to new domains like slide generation.
 - [resilientworkflowsentinel/resilient-workflow-sentinel](https://github.com/resilientworkflowsentinel/resilient-workflow-sentinel) - Local, offline 7B LLM task orchestrator — analyzes urgency, debates assignment, balances load. Runs on RTX 3080/4090. Chaos mode included.
 - [awslabs/graphrag-toolkit](https://github.com/awslabs/graphrag-toolkit) - Python toolkit for building graph-enhanced GenAI applications
@@ -2308,7 +2311,7 @@
 - [glide-browser/glide](https://github.com/glide-browser/glide) - An extensible and keyboard-focused web browser
 - [rocicorp/mono](https://github.com/rocicorp/mono) - 99% of Queries in Zero Milliseconds
 - [MrLesk/Backlog.md](https://github.com/MrLesk/Backlog.md) - Backlog.md - A tool for managing project collaboration between humans and AI Agents in a git ecosystem
-- [EpicenterHQ/epicenter](https://github.com/EpicenterHQ/epicenter) - Press shortcut → speak → get text. Free and open source. More local-first apps soon ❤️
+- [EpicenterHQ/epicenter](https://github.com/EpicenterHQ/epicenter) - Open-source, local-first apps that share a single folder of plain text and SQLite.
 - [qvanphong/calibre-opds-obsidian](https://github.com/qvanphong/calibre-opds-obsidian) - A plugin that integrate calibre-web into Obsidian
 - [mnaoumov/obsidian-codescript-toolkit](https://github.com/mnaoumov/obsidian-codescript-toolkit) - Plugin for Obsidian that allows to do a lot of things with JavaScript/TypeScript scripts from inside the Obsidian itself
 - [google-github-actions/run-gemini-cli](https://github.com/google-github-actions/run-gemini-cli) - A GitHub Action invoking the Gemini CLI.
