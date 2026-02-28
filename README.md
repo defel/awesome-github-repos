@@ -276,7 +276,7 @@
 - [penpot/penpot](https://github.com/penpot/penpot) - Penpot: The open-source design tool for design and code collaboration
 - [day8/re-frame](https://github.com/day8/re-frame) - A ClojureScript framework for building user interfaces, leveraging React
 - [jacekschae/learn-re-frame-course-files](https://github.com/jacekschae/learn-re-frame-course-files) - :cinema: Learn re-frame course files for building Cheffy app
-- [replikativ/datahike](https://github.com/replikativ/datahike) - Fast, versioned, distributed Datalog engine for everyone.
+- [replikativ/datahike](https://github.com/replikativ/datahike) - Versioned, fast, distributed Datalog engine for everyone.
 - [aphyr/postal](https://github.com/aphyr/postal) - Clojure email support
 - [LightTable/LightTable](https://github.com/LightTable/LightTable) - The Light Table IDE ⛺
 - [project-fifo/vmwebadm](https://github.com/project-fifo/vmwebadm) - A frontend for the SmartDC API from joyent that runs on vanilla SmartOS
@@ -1729,7 +1729,7 @@
 - [Cinnamon/kotaemon](https://github.com/Cinnamon/kotaemon) - An open-source RAG-based tool for chatting with your documents.
 - [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
 - [comet-ml/opik](https://github.com/comet-ml/opik) - Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, automated evaluations, and production-ready dashboards.
-- [agno-agi/agno](https://github.com/agno-agi/agno) - The programming language for agentic software. Build, run, and manage multi-agent systems at scale.
+- [agno-agi/agno](https://github.com/agno-agi/agno) - Build, run, manage agentic software at scale.
 - [docling-project/docling](https://github.com/docling-project/docling) - Get your documents ready for gen AI
 - [hydrusnetwork/hydrus](https://github.com/hydrusnetwork/hydrus) - A personal booru-style media tagger that can import files and tags from your hard drive and popular websites. Content can be shared with other users via user-run servers.
 - [shade40/celx](https://github.com/shade40/celx) - A modern terminal UI framework powered by hypermedia served over HTTP.
@@ -2015,7 +2015,7 @@
 
 - [oxc-project/oxc](https://github.com/oxc-project/oxc) - ⚓ A collection of high-performance JavaScript tools.
 - [synth-laboratories/Horizons](https://github.com/synth-laboratories/Horizons) - Open Source Agent Execution
-- [alecthomas/t](https://github.com/alecthomas/t) - `t` is a concise language for manipulating text, replacing common usage patterns of Unix utilities like grep, sed, cut, awk, sort, and uniq.
+- [alecthomas/t](https://github.com/alecthomas/t) - `t` (T-for-text) is a concise language for manipulating text, replacing common usage patterns of Unix utilities like grep, sed, cut, awk, sort, and uniq.
 - [tansu-io/tansu](https://github.com/tansu-io/tansu) - Apache Kafka® compatible broker with S3, PostgreSQL, SQLite, Apache Iceberg and Delta Lake
 - [s2-streamstore/s2](https://github.com/s2-streamstore/s2) - Durable Streams API
 - [awslabs/iam-policy-autopilot](https://github.com/awslabs/iam-policy-autopilot) - IAM Policy Autopilot is an open source static code analysis tool that helps you quickly create baseline AWS IAM policies that you can refine as your application evolves. This tool is available as a co
@@ -2661,6 +2661,7 @@
 
 ## Zig 
 
+- [nullclaw/nullclaw](https://github.com/nullclaw/nullclaw) - Fastest, smallest, and fully autonomous AI assistant infrastructure written in Zig
 - [meszmate/zigzag](https://github.com/meszmate/zigzag) - A delightful TUI framework for Zig
 - [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
 - [riverwm/river](https://github.com/riverwm/river) - [mirror] A non-monolithic Wayland compositor
