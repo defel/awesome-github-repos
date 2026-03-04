@@ -1678,7 +1678,7 @@
 
 ## Python 
 
-- [guillevc/yubal](https://github.com/guillevc/yubal) - Self-hosted YouTube Music downloader with automatic metadata tagging and playlist sync
+- [guillevc/yubal](https://github.com/guillevc/yubal) - Self-hosted YouTube Music downloader. Tags, organizes, and keeps playlists in sync.
 - [llmsresearch/paperbanana](https://github.com/llmsresearch/paperbanana) - Open source implementation and extension of Google Research’s PaperBanana for automated academic figures, diagrams, and research visuals, expanded to new domains like slide generation.
 - [resilientworkflowsentinel/resilient-workflow-sentinel](https://github.com/resilientworkflowsentinel/resilient-workflow-sentinel) - Local, offline 7B LLM task orchestrator — analyzes urgency, debates assignment, balances load. Runs on RTX 3080/4090. Chaos mode included.
 - [awslabs/graphrag-toolkit](https://github.com/awslabs/graphrag-toolkit) - Python toolkit for building graph-enhanced GenAI applications
@@ -2289,6 +2289,7 @@
 
 ## TypeScript 
 
+- [DataAnts-AI/CutScript](https://github.com/DataAnts-AI/CutScript) - Open-source AI-powered text-based video editor. Edit video by editing text.
 - [comarkdown/comark](https://github.com/comarkdown/comark) - A high-performance markdown parser and renderer with Vue & React components support.
 - [stackables/bridge](https://github.com/stackables/bridge) - Declarative dataflow for GraphQL
 - [antfu/visual-json](https://github.com/antfu/visual-json) - The Visual JSON Editor. Schema-aware, embeddable, extensible.
