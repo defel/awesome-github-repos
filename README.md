@@ -1447,7 +1447,6 @@
 - [tBaxter/questions-for-employers](https://github.com/tBaxter/questions-for-employers) - A big collection of useful questions to ask potential employers.
 - [Frichetten/aws-api-models](https://github.com/Frichetten/aws-api-models) - A collection of documented and undocumented AWS API models
 - [vizdom-dev/vizdom](https://github.com/vizdom-dev/vizdom) - A diagrams-as-code library for TypeScript with zero dependencies
-- [TonyPhipps/SIEM](https://github.com/TonyPhipps/SIEM) - SIEM Tactics, Techiques, and Procedures
 - [tldrsec/awesome-secure-defaults](https://github.com/tldrsec/awesome-secure-defaults) - Awesome secure by default libraries to help you eliminate bug classes!
 - [hslatman/awesome-threat-intelligence](https://github.com/hslatman/awesome-threat-intelligence) - A curated list of Awesome Threat Intelligence resources
 - [adamshostack/4QuestionFrame](https://github.com/adamshostack/4QuestionFrame) - Shostack's 4 Question Frame for Threat Modeling
@@ -1664,6 +1663,7 @@
 ## PowerShell 
 
 - [OTRF/Security-Datasets](https://github.com/OTRF/Security-Datasets) - Re-play Security Events
+- [TonyPhipps/SIEM](https://github.com/TonyPhipps/SIEM) - SIEM Tactics, Techiques, and Procedures
 
 ## Pug 
 
