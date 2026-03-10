@@ -816,7 +816,6 @@
 - [miroslavpejic85/mirotalk](https://github.com/miroslavpejic85/mirotalk) - 🚀 WebRTC - P2P - Simple, Secure, Fast Real-Time Video Conferences Up to 8k and 60fps, compatible with all browsers and platforms.
 - [miroslavpejic85/mirotalksfu](https://github.com/miroslavpejic85/mirotalksfu) - 🏆 WebRTC - SFU - Simple, Secure, Scalable Real-Time Video Conferences Up to 8k, compatible with all browsers and platforms.
 - [tailwindlabs/tailwindcss-aspect-ratio](https://github.com/tailwindlabs/tailwindcss-aspect-ratio) - 
-- [mui/material-ui](https://github.com/mui/material-ui) - Material UI: Comprehensive React component library that implements Google's Material Design. Free forever.
 - [premasagar/pablo](https://github.com/premasagar/pablo) - Pablo is a lightweight, expressive JavaScript SVG library. Pablo creates interactive drawings with SVG (Scalable Vector Graphics), giving access to all of SVG's granularity and power.
 - [prose/gatekeeper](https://github.com/prose/gatekeeper) - Enables client-side applications to dance OAuth with GitHub.
 - [zachleat/glyphhanger](https://github.com/zachleat/glyphhanger) - Your web font utility belt. It can subset web fonts. It can find unicode-ranges for you automatically. It makes julienne fries.
@@ -1679,6 +1678,8 @@
 
 ## Python 
 
+- [kiwiz/gkeepapi](https://github.com/kiwiz/gkeepapi) - An unofficial client for the Google Keep API.
+- [teng-lin/notebooklm-py](https://github.com/teng-lin/notebooklm-py) - Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic access to NotebookLM's features—including capabilities the web UI doesn't expose—via Python, CLI, and AI agents like Cl
 - [mem0ai/mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents
 - [guillevc/yubal](https://github.com/guillevc/yubal) - Self-hosted YouTube Music downloader. Tags, organizes, and keeps playlists in sync.
 - [llmsresearch/paperbanana](https://github.com/llmsresearch/paperbanana) - Open source implementation and extension of Google Research’s PaperBanana for automated academic figures, diagrams, and research visuals, expanded to new domains like slide generation.
@@ -2053,7 +2054,6 @@
 - [Automattic/harper](https://github.com/Automattic/harper) - Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
 - [biomejs/gritql](https://github.com/biomejs/gritql) - GritQL is a query language for searching, linting, and modifying code.
 - [PRQL/prql](https://github.com/PRQL/prql) - PRQL is a modern language for transforming data — a simple, powerful, pipelined SQL replacement
-- [resola-ai/rust-aws-tui](https://github.com/resola-ai/rust-aws-tui) - 
 - [niri-wm/niri](https://github.com/niri-wm/niri) - A scrollable-tiling Wayland compositor.
 - [phiresky/ripgrep-all](https://github.com/phiresky/ripgrep-all) - rga: ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc.
 - [cedar-policy/cedar](https://github.com/cedar-policy/cedar) - Implementation of the Cedar Policy Language
@@ -2081,7 +2081,7 @@
 - [lnx-search/datacake](https://github.com/lnx-search/datacake) - Tooling for creating your own distributed systems.
 - [lnx-search/lnx](https://github.com/lnx-search/lnx) - A flexible, performant and reliable search database without the AI bullshit.
 - [prefix-dev/rip](https://github.com/prefix-dev/rip) - Solve and install Python packages quickly with rip (pip in Rust)
-- [prefix-dev/pixi](https://github.com/prefix-dev/pixi) - Package management made easy
+- [prefix-dev/pixi](https://github.com/prefix-dev/pixi) - Powerful system-level package manager for Linux, macOS and Windows written in Rust – building on top of the Conda ecosystem.
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [kata-containers/kata-containers](https://github.com/kata-containers/kata-containers) - Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload
 - [michidk/vscli](https://github.com/michidk/vscli) - A CLI/TUI that simplifies launching VSCode projects, with a focus on dev containers
@@ -2294,6 +2294,7 @@
 
 ## TypeScript 
 
+- [dmno-dev/varlock](https://github.com/dmno-dev/varlock) - .env files built for sharing powered by @env-spec decorator comments
 - [DataAnts-AI/CutScript](https://github.com/DataAnts-AI/CutScript) - Open-source AI-powered text-based video editor. Edit video by editing text.
 - [comarkdown/comark](https://github.com/comarkdown/comark) - A high-performance markdown parser and renderer with Vue & React components support.
 - [stackables/bridge](https://github.com/stackables/bridge) - Declarative dataflow for GraphQL
@@ -2493,6 +2494,7 @@
 - [tinyplex/tinybase](https://github.com/tinyplex/tinybase) - A reactive data store & sync engine.
 - [jogold/cloudstructs](https://github.com/jogold/cloudstructs) - High-level constructs for AWS CDK
 - [tuzig/terminal7](https://github.com/tuzig/terminal7) - A Multi Platform Terminal Emulator & Multiplexer Running over WebRTC with Touch First UI
+- [mui/material-ui](https://github.com/mui/material-ui) - Material UI: Comprehensive React component library that implements Google's Material Design. Free forever.
 - [iorate/ublacklist](https://github.com/iorate/ublacklist) - Blocks specific sites from appearing in Google search results
 - [cloudcomponents/cdk-constructs](https://github.com/cloudcomponents/cdk-constructs) - A collection of higher-level reusable cdk constructs
 - [code-hike/codehike](https://github.com/code-hike/codehike) - Build rich content websites with Markdown and React
@@ -2603,7 +2605,7 @@
 - [kusti8/proton-native](https://github.com/kusti8/proton-native) - A React environment for cross platform desktop apps
 - [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
 - [kamranahmedse/driver.js](https://github.com/kamranahmedse/driver.js) - A lightweight, dependency-free JavaScript library for guiding user focus across the page.
-- [typeorm/typeorm](https://github.com/typeorm/typeorm) - ORM for TypeScript and JavaScript. Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.
+- [typeorm/typeorm](https://github.com/typeorm/typeorm) - TypeScript & JavaScript ORM for Node.js — supports PostgreSQL, MySQL, MariaDB, SQLite, SQL Server, Oracle, and more.
 - [transloadit/uppy](https://github.com/transloadit/uppy) - The next open source file uploader for web browsers :dog:
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first.
 - [alexa/alexa-skills-kit-sdk-for-nodejs](https://github.com/alexa/alexa-skills-kit-sdk-for-nodejs) - The Alexa Skills Kit SDK for Node.js helps you get a skill up and running quickly, letting you focus on skill logic instead of boilerplate code.
