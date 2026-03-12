@@ -397,7 +397,6 @@
 - [towardsthecloud/aws-toolbox](https://github.com/towardsthecloud/aws-toolbox) - Blazing fast aws cli tool that helps you automate routine tasks on AWS Cloud.
 - [Tanq16/backhub](https://github.com/Tanq16/backhub) - Backhub helps maintain backups of multiple GitHub repos as full local mirrors.
 - [iann0036/iamlive](https://github.com/iann0036/iamlive) - Generate an IAM policy from AWS, Azure, or Google Cloud (GCP) calls using client-side monitoring (CSM) or embedded proxy
-- [bullfrogsec/bullfrog](https://github.com/bullfrogsec/bullfrog) - Simple plug-and-play Github Action to block unauthorized outbound traffic (egress) in your Github workflows
 - [bruin-data/bruin](https://github.com/bruin-data/bruin) - Build data pipelines with SQL and Python, ingest data from different sources, add quality checks, and build end-to-end flows.
 - [xataio/pgroll](https://github.com/xataio/pgroll) - PostgreSQL zero-downtime migrations made easy
 - [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind) - Kubernetes IN Docker - local clusters for testing Kubernetes
@@ -613,7 +612,6 @@
 - [Cybr-Inc/CloudSec](https://github.com/Cybr-Inc/CloudSec) - Public repository of all things cloud security.
 - [bmarsh9/gapps](https://github.com/bmarsh9/gapps) - Security compliance platform - SOC2, CMMC, ASVS, ISO27001, HIPAA, NIST CSF, NIST 800-53, CSC CIS 18, PCI DSS, SSF tracking
 - [luong-komorebi/Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) - 🐧 A list of awesome Linux softwares
-- [shower/shower](https://github.com/shower/shower) - Shower HTML presentation engine
 - [carbon-design-system/carbon-charts](https://github.com/carbon-design-system/carbon-charts) - :bar_chart: :chart_with_upwards_trend:⠀Robust dataviz framework implemented using D3 & typescript
 - [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Open-source developer platform to power your entire infra and turn scripts into webhooks, workflows and UIs. Fastest workflow engine (13x vs Airflow). Open-source alternative to Retool and Temporal.
 - [wwmm/easyeffects](https://github.com/wwmm/easyeffects) - Limiter, compressor, convolver, equalizer and auto volume and many other plugins for PipeWire applications
@@ -738,6 +736,7 @@
 
 ## JavaScript 
 
+- [andrewyng/context-hub](https://github.com/andrewyng/context-hub) - 
 - [jakubkozera/openapi-ui](https://github.com/jakubkozera/openapi-ui) - A modern, feature-rich OpenAPI/Swagger documentation and testing interface with advanced functionality for API development and testing. Provides interactive API documentation, code generation, collect
 - [galaxykate/tracery](https://github.com/galaxykate/tracery) - Tracery: a story-grammar generation library for javascript
 - [gibbok/typescript-book](https://github.com/gibbok/typescript-book) - The Concise TypeScript Book: A Concise Guide to Effective Development in TypeScript. Free and Open Source.
@@ -767,6 +766,7 @@
 - [maptiler/tileserver-gl](https://github.com/maptiler/tileserver-gl) - Vector and raster maps with GL styles. Server side rendering by MapLibre GL Native. Map tile server for MapLibre GL JS, Android, iOS, Leaflet, OpenLayers, GIS via WMTS, etc.
 - [vanila-io/wireflow](https://github.com/vanila-io/wireflow) - Wireflow - user flow chart real-time collaborative tool
 - [kgscialdone/facet](https://github.com/kgscialdone/facet) - Web components made simple and declarative
+- [shower/shower](https://github.com/shower/shower) - Shower HTML presentation engine
 - [good-lly/lowstorage](https://github.com/good-lly/lowstorage) - 💾 Simple, fast, object pseudo-database for S3-compatible storages using JSON or Msgpack
 - [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)
 - [heapwolf/socket](https://github.com/heapwolf/socket) - 
@@ -816,6 +816,7 @@
 - [miroslavpejic85/mirotalk](https://github.com/miroslavpejic85/mirotalk) - 🚀 WebRTC - P2P - Simple, Secure, Fast Real-Time Video Conferences Up to 8k and 60fps, compatible with all browsers and platforms.
 - [miroslavpejic85/mirotalksfu](https://github.com/miroslavpejic85/mirotalksfu) - 🏆 WebRTC - SFU - Simple, Secure, Scalable Real-Time Video Conferences Up to 8k, compatible with all browsers and platforms.
 - [tailwindlabs/tailwindcss-aspect-ratio](https://github.com/tailwindlabs/tailwindcss-aspect-ratio) - 
+- [mui/material-ui](https://github.com/mui/material-ui) - Material UI: Comprehensive React component library that implements Google's Material Design. Free forever.
 - [premasagar/pablo](https://github.com/premasagar/pablo) - Pablo is a lightweight, expressive JavaScript SVG library. Pablo creates interactive drawings with SVG (Scalable Vector Graphics), giving access to all of SVG's granularity and power.
 - [prose/gatekeeper](https://github.com/prose/gatekeeper) - Enables client-side applications to dance OAuth with GitHub.
 - [zachleat/glyphhanger](https://github.com/zachleat/glyphhanger) - Your web font utility belt. It can subset web fonts. It can find unicode-ranges for you automatically. It makes julienne fries.
@@ -1677,6 +1678,7 @@
 
 ## Python 
 
+- [karpathy/autoresearch](https://github.com/karpathy/autoresearch) - AI agents running research on single-GPU nanochat training automatically
 - [alibaba/OpenSandbox](https://github.com/alibaba/OpenSandbox) - OpenSandbox is a general-purpose sandbox platform for AI applications, offering multi-language SDKs, unified sandbox APIs, and Docker/Kubernetes runtimes for scenarios like Coding Agents, GUI Agents, 
 - [NickTikhonov/shuo](https://github.com/NickTikhonov/shuo) - sub-500ms latency phone agent orchestration
 - [kiwiz/gkeepapi](https://github.com/kiwiz/gkeepapi) - An unofficial client for the Google Keep API.
@@ -2045,7 +2047,7 @@
 - [BoundaryML/baml](https://github.com/BoundaryML/baml) - The AI framework that adds the engineering to prompt engineering (Python/TS/Ruby/Java/C#/Rust/Go compatible)
 - [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite) - Open source comprehensive 2D content creation tool suite for graphic design, digital art, and interactive real-time motion graphics — featuring node-based procedural editing
 - [asciinema/asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder, streamer and player 📹
-- [zerocore-ai/microsandbox](https://github.com/zerocore-ai/microsandbox) - opensource self-hosted sandboxes for ai agents
+- [zerocore-ai/microsandbox](https://github.com/zerocore-ai/microsandbox) - opensource local-first sandboxes for ai agents
 - [trailbaseio/trailbase](https://github.com/trailbaseio/trailbase) - An open, sub-millisecond, single-executable Firebase alternative with type-safe APIs, built-in WebAssembly runtime, realtime subscriptions, auth, and admin UI built on Rust, SQLite & Wasmtime.
 - [espanso/espanso](https://github.com/espanso/espanso) - A Privacy-first, Cross-platform Text Expander written in Rust
 - [rathole-org/rathole](https://github.com/rathole-org/rathole) - A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.
@@ -2308,7 +2310,7 @@
 - [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat) - Open-source AI coworker, with memory
 - [mrmrs/line-art](https://github.com/mrmrs/line-art) - svg web app for pen plotters
 - [different-ai/openwork](https://github.com/different-ai/openwork) - An open-source alternative to Claude Cowork built for teams, powered by opencode
-- [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) - Shannon Lite is a fully autonomous AI pentester for web apps and APIs. 96.15% (100/104 exploits) on a hint-free, source-aware variant of the XBOW benchmark.
+- [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) - Shannon Lite is an autonomous, white-box AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before
 - [MedGm/Ollie](https://github.com/MedGm/Ollie) - A fast, Linux‑native desktop GUI for Ollama. Built with Tauri 2 (Rust) and React + TypeScript.
 - [earendil-works/gondolin](https://github.com/earendil-works/gondolin) - Experimental Linux microvm setup with a TypeScript Control Plane as Agent Sandbox
 - [badlogic/pi-mono](https://github.com/badlogic/pi-mono) - AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods
@@ -2357,6 +2359,7 @@
 - [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
 - [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data
 - [aws-samples/github-actions-oidc-cdk-construct](https://github.com/aws-samples/github-actions-oidc-cdk-construct) - 
+- [bullfrogsec/bullfrog](https://github.com/bullfrogsec/bullfrog) - Simple plug-and-play Github Action to block unauthorized outbound traffic (egress) in your Github workflows
 - [heyform/heyform](https://github.com/heyform/heyform) - Open-Source Form Builder
 - [Surfer-Org/Protocol](https://github.com/Surfer-Org/Protocol) - Open-source framework for exporting your personal data.
 - [javierarce/arena-manager](https://github.com/javierarce/arena-manager) - Publish content from Obsidian to Arena and the other way around.
@@ -2496,7 +2499,6 @@
 - [tinyplex/tinybase](https://github.com/tinyplex/tinybase) - A reactive data store & sync engine.
 - [jogold/cloudstructs](https://github.com/jogold/cloudstructs) - High-level constructs for AWS CDK
 - [tuzig/terminal7](https://github.com/tuzig/terminal7) - A Multi Platform Terminal Emulator & Multiplexer Running over WebRTC with Touch First UI
-- [mui/material-ui](https://github.com/mui/material-ui) - Material UI: Comprehensive React component library that implements Google's Material Design. Free forever.
 - [iorate/ublacklist](https://github.com/iorate/ublacklist) - Blocks specific sites from appearing in Google search results
 - [cloudcomponents/cdk-constructs](https://github.com/cloudcomponents/cdk-constructs) - A collection of higher-level reusable cdk constructs
 - [code-hike/codehike](https://github.com/code-hike/codehike) - Build rich content websites with Markdown and React
