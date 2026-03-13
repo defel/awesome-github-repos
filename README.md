@@ -900,7 +900,6 @@
 - [wesbos/awesome-uses](https://github.com/wesbos/awesome-uses) - A list of /uses pages detailing developer setups, gear, software and configs.
 - [taskworld/test-bed](https://github.com/taskworld/test-bed) - :factory: Development test runner for webpack to improve TDD experience. Runs only specs affected by code change. Serve test files from memory. For large project with hundreds of test files.
 - [ovity/octotree](https://github.com/ovity/octotree) - GitHub on steroids
-- [release-drafter/release-drafter](https://github.com/release-drafter/release-drafter) - Drafts your next release notes as pull requests are merged into master.
 - [FredKSchott/snowpack](https://github.com/FredKSchott/snowpack) - ESM-powered frontend build tool. Instant, lightweight, unbundled development. ✌️
 - [lukeed/polkadot](https://github.com/lukeed/polkadot) - The tiny HTTP server that gets out of your way!     ・
 - [kentaro-m/task-complete-checker](https://github.com/kentaro-m/task-complete-checker) - :white_check_mark: A Probot app that checks if all tasks are completed in the pull requests.
@@ -1678,6 +1677,7 @@
 
 ## Python 
 
+- [oOo0oOo/lean-lsp-mcp](https://github.com/oOo0oOo/lean-lsp-mcp) - Lean Theorem Prover MCP
 - [karpathy/autoresearch](https://github.com/karpathy/autoresearch) - AI agents running research on single-GPU nanochat training automatically
 - [alibaba/OpenSandbox](https://github.com/alibaba/OpenSandbox) - OpenSandbox is a general-purpose sandbox platform for AI applications, offering multi-language SDKs, unified sandbox APIs, and Docker/Kubernetes runtimes for scenarios like Coding Agents, GUI Agents, 
 - [NickTikhonov/shuo](https://github.com/NickTikhonov/shuo) - sub-500ms latency phone agent orchestration
@@ -1720,7 +1720,7 @@
 - [open-energy-transition/Awesome-Electrical-Grid-Mapping](https://github.com/open-energy-transition/Awesome-Electrical-Grid-Mapping) - A curated list of global electrical grid maps, datasets and resources.
 - [DataDog/guarddog](https://github.com/DataDog/guarddog) - :snake: :mag: GuardDog is a CLI tool to Identify malicious PyPI and npm packages
 - [opengeospatial/geoparquet](https://github.com/opengeospatial/geoparquet) - Specification for storing geospatial vector data (point, line, polygon) in Parquet
-- [developmentseed/lonboard](https://github.com/developmentseed/lonboard) - A Python library for fast, interactive geospatial data visualization in Jupyter.
+- [developmentseed/lonboard](https://github.com/developmentseed/lonboard) - Fast, interactive geospatial data visualization in Jupyter.
 - [freeipa/freeipa](https://github.com/freeipa/freeipa) - Mirror of FreeIPA, an integrated security information management solution
 - [OWASP/pytm](https://github.com/OWASP/pytm) - A Pythonic framework for threat modeling
 - [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
@@ -2088,7 +2088,7 @@
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [kata-containers/kata-containers](https://github.com/kata-containers/kata-containers) - Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload
 - [michidk/vscli](https://github.com/michidk/vscli) - A CLI/TUI that simplifies launching VSCode projects, with a focus on dev containers
-- [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
+- [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Making your shell magical
 - [getzola/zola](https://github.com/getzola/zola) - A fast static site generator in a single binary with everything built-in. https://www.getzola.org
 - [haileys/bark](https://github.com/haileys/bark) - live sync audio streaming for local networks
 - [narrowlink/narrowlink](https://github.com/narrowlink/narrowlink) - A self-hosted solution to enable secure connectivity between devices across restricted networks like NAT or firewalls
@@ -2592,6 +2592,7 @@
 - [chanind/hanzi-writer](https://github.com/chanind/hanzi-writer) - Chinese character stroke order animations and practice quizzes
 - [tomi/fromfrom](https://github.com/tomi/fromfrom) - A JS library written in TS to transform sequences of data from format to another
 - [homerchen19/github-file-icons](https://github.com/homerchen19/github-file-icons) - 🌈 🗂 A browser extension which gives different filetypes different icons to GitHub, GitLab, gitea and gogs.
+- [release-drafter/release-drafter](https://github.com/release-drafter/release-drafter) - Drafts your next release notes as pull requests are merged into master.
 - [niieani/hashids.js](https://github.com/niieani/hashids.js) - A small JavaScript library to generate YouTube-like ids from numbers.
 - [thi-ng/umbrella](https://github.com/thi-ng/umbrella) - ⛱  Broadly scoped ecosystem & mono-repository of 214 TypeScript projects (and ~185 examples) for general purpose, functional, data driven development
 - [gajus/slonik](https://github.com/gajus/slonik) - A Node.js PostgreSQL client with runtime and build time type safety, and composable SQL.
