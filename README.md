@@ -691,8 +691,8 @@
 
 ## Java 
 
-- [hectorvent/floci](https://github.com/hectorvent/floci) - Light, fluffy, and always free - AWS Local Emulator
-- [bethington/ghidra-mcp](https://github.com/bethington/ghidra-mcp) - Production-grade Ghidra MCP Server — 179 MCP tools, 147 GUI + 172 headless endpoints, Ghidra Server integration, cross-binary documentation transfer, batch operations, AI documentation workflows, and 
+- [floci-io/floci](https://github.com/floci-io/floci) - Light, fluffy, and always free - AWS Local Emulator
+- [bethington/ghidra-mcp](https://github.com/bethington/ghidra-mcp) - Ghidra MCP Server — 194 MCP tools for AI-powered reverse engineering. GUI plugin + headless server, lazy tool loading, convention enforcement, batch operations, Ghidra Server integration, and Docker d
 - [grobidOrg/grobid](https://github.com/grobidOrg/grobid) - A machine learning software for extracting information from scholarly documents
 - [mc1arke/sonarqube-community-branch-plugin](https://github.com/mc1arke/sonarqube-community-branch-plugin) - A plugin that allows branch analysis and pull request decoration in the Community version of Sonarqube
 - [find-sec-bugs/find-sec-bugs](https://github.com/find-sec-bugs/find-sec-bugs) - The SpotBugs plugin for security audits of Java web applications and Android applications. (Also work with Kotlin, Groovy and Scala projects)
@@ -2317,9 +2317,9 @@
 
 - [nicobailon/pi-messenger](https://github.com/nicobailon/pi-messenger) - Multi-agent communication extension for pi coding agent
 - [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) - Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.
-- [chenglou/pretext](https://github.com/chenglou/pretext) - 
+- [chenglou/pretext](https://github.com/chenglou/pretext) - Fast, accurate & comprehensive text measurement & layout
 - [emdash-cms/emdash](https://github.com/emdash-cms/emdash) - EmDash is a full-stack TypeScript CMS based on Astro; the spiritual successor to WordPress
-- [MikeNotThePope/substrateui](https://github.com/MikeNotThePope/substrateui) - A neobrutalist React component library built on Radix UI primitives, CSS custom properties, and Tailwind CSS v4.
+- [MikeNotThePope/a8f3k2x9q7](https://github.com/MikeNotThePope/a8f3k2x9q7) - A neobrutalist React component library built on Radix UI primitives, CSS custom properties, and Tailwind CSS v4.
 - [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) - Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.
 - [flowing-abyss/obsidian-hybrid-search](https://github.com/flowing-abyss/obsidian-hybrid-search) - Hybrid search over your Obsidian vault – CLI and MCP server
 - [TfTHacker/group-enhancer-for-bases](https://github.com/TfTHacker/group-enhancer-for-bases) - Enhances the base functionality of bases group features
