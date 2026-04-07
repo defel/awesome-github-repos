@@ -367,6 +367,7 @@
 
 ## Go 
 
+- [anzellai/sky](https://github.com/anzellai/sky) - Sky — an Elm-inspired language that compiles to Go. Hindley-Milner types, server-driven UI (Sky.Live), single binary output.
 - [junevm/splathash](https://github.com/junevm/splathash) - compress any image to 16 bytes and reconstruct a blurry preview. Like blurhash and thumbhash, but smaller.
 - [nalgeon/codapi](https://github.com/nalgeon/codapi) - Interactive code examples
 - [usescrolls/scribe](https://github.com/usescrolls/scribe) - Scribe lets you install AI coding skills once and automatically distributes them to all your coding agents
@@ -1056,7 +1057,6 @@
 - [plouc/mozaik](https://github.com/plouc/mozaik) - Mozaïk is a tool based on nodejs / react / redux / nivo / d3 to easily craft beautiful dashboards
 - [wekan/wekan](https://github.com/wekan/wekan) - The Open Source kanban, built with Meteor. GitHub issues/PRs are only for FLOSS Developers, not for support, support is at https://wekan.fi/commercial-support/ . New English strings for new features a
 - [cainus/percolator](https://github.com/cainus/percolator) - Percolator is a framework for quickly and easily building quality HTTP APIs in Node.js
-- [DamageLabs/kandan](https://github.com/DamageLabs/kandan) - Kandan is an Open Source Alternative to HipChat
 - [mikeal/sequest](https://github.com/mikeal/sequest) - Simplified API for SSH and SFTP similar to request.
 - [mikeric/rivets](https://github.com/mikeric/rivets) - A lightweight data binding library.
 - [gorescript/gorescript](https://github.com/gorescript/gorescript) - Retro first-person shooter, written in JavaScript using three.js.
@@ -2662,6 +2662,7 @@
 - [jquery/esprima](https://github.com/jquery/esprima) - ECMAScript parsing infrastructure for multipurpose analysis
 - [cyclejs/cyclejs](https://github.com/cyclejs/cyclejs) - A functional and reactive JavaScript framework for predictable code
 - [paulmillr/chokidar](https://github.com/paulmillr/chokidar) - Minimal and efficient cross-platform file watching library
+- [DamageLabs/kandan](https://github.com/DamageLabs/kandan) - Kandan is an Open Source Alternative to HipChat
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 - [cheeriojs/cheerio](https://github.com/cheeriojs/cheerio) - The fast, flexible, and elegant library for parsing and manipulating HTML and XML.
 - [OptimalBits/redbird](https://github.com/OptimalBits/redbird) - A modern reverse proxy for node
