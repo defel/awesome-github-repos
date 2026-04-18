@@ -367,7 +367,7 @@
 
 ## Go 
 
-- [robinovitch61/lore](https://github.com/robinovitch61/lore) - A less-like terminal pager, based on https://github.com/robinovitch61/viewport
+- [robinovitch61/lore](https://github.com/robinovitch61/lore) - less-like terminal pager based on robinovitch61/viewport
 - [olastor/age-plugin-sss](https://github.com/olastor/age-plugin-sss) - Age plugin to split keys and wrap them with different recipients using Shamir's Secret Sharing.
 - [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: File Management Platform / Universal Data Access Layer (without FUSE)
 - [olastor/age-plugin-fido2-hmac](https://github.com/olastor/age-plugin-fido2-hmac) - Age plugin to encrypt files with fido2 tokens using the hmac-secret extension and non-discoverable credentials.
@@ -2694,7 +2694,7 @@
 - [dagrejs/dagre](https://github.com/dagrejs/dagre) - Directed graph layout for JavaScript
 - [peers/peerjs](https://github.com/peers/peerjs) - Simple peer-to-peer with WebRTC.
 - [derbyjs/derby](https://github.com/derbyjs/derby) - MVC framework making it easy to write realtime, collaborative applications that run in both Node.js and browsers
-- [ether/etherpad-lite](https://github.com/ether/etherpad-lite) - Etherpad: A modern really-real-time collaborative document editor.
+- [ether/etherpad](https://github.com/ether/etherpad) - Etherpad: A modern really-real-time collaborative document editor.
 
 ## V 
 
