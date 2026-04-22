@@ -1086,7 +1086,6 @@
 - [juliangruber/capture-screenshot](https://github.com/juliangruber/capture-screenshot) - Capture screenshots in multiple browsers!
 - [nodemailer/mailparser](https://github.com/nodemailer/mailparser) - Decode mime formatted e-mails
 - [btmills/geopattern](https://github.com/btmills/geopattern) - Generate beautiful SVG patterns
-- [davidsonfellipe/awesome-wpo](https://github.com/davidsonfellipe/awesome-wpo) - :pencil: A curated list of Web Performance Optimization. Everyone can contribute here!
 - [outmoded/bassmaster](https://github.com/outmoded/bassmaster) - Batch request plugin for hapi
 - [thlorenz/proxyquireify](https://github.com/thlorenz/proxyquireify) - browserify &gt;= v2 version of proxyquire. Mocks out browserify's require to allow stubbing out dependencies while testing.
 - [lewster32/phaser-plugin-isometric](https://github.com/lewster32/phaser-plugin-isometric) - Feature-packed axonometric plugin for Phaser 2 which stays true to the Phaser API.
@@ -1614,6 +1613,7 @@
 - [komejo/front-end-developer-employer-questions](https://github.com/komejo/front-end-developer-employer-questions) - A list of questions you can ask potential employers, when interviewing for a front-end development position.
 - [shadowhand/git-encrypt](https://github.com/shadowhand/git-encrypt) - Transparent Git Encryption
 - [gocardless/http-api-design](https://github.com/gocardless/http-api-design) - HTTP Design Guidelines
+- [davidsonfellipe/awesome-wpo](https://github.com/davidsonfellipe/awesome-wpo) - :pencil: A curated list of Web Performance Optimization. Everyone can contribute here!
 - [a8m/golang-cheat-sheet](https://github.com/a8m/golang-cheat-sheet) - An overview of Go syntax and features.
 - [juliangruber/live-coding](https://github.com/juliangruber/live-coding) - How to give good live coding talks
 - [AllThingsSmitty/must-watch-css](https://github.com/AllThingsSmitty/must-watch-css) - 🔥 CSS talks you have to see ⚡️ covering CSS Grid, flexbox, custom variables, performance, frameworks, Sass, tools, and more! 🚀
