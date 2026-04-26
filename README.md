@@ -367,6 +367,8 @@
 
 ## Go 
 
+- [boostsecurityio/poutine](https://github.com/boostsecurityio/poutine) - poutine, a supply chain vulnerability scanner for build pipelines
+- [boostsecurityio/smokedmeat](https://github.com/boostsecurityio/smokedmeat) - A CI/CD Red Team Framework for demonstrating Build Pipeline security risks.
 - [robinovitch61/lore](https://github.com/robinovitch61/lore) - less-like terminal pager based on robinovitch61/viewport
 - [olastor/age-plugin-sss](https://github.com/olastor/age-plugin-sss) - Age plugin to split keys and wrap them with different recipients using Shamir's Secret Sharing.
 - [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: File Management Platform / Universal Data Access Layer (without FUSE)
