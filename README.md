@@ -466,7 +466,7 @@
 - [redpanda-data/connect](https://github.com/redpanda-data/connect) - Fancy stream processing made operationally mundane
 - [mrusme/journalist](https://github.com/mrusme/journalist) - Journalist. An RSS aggregator.
 - [rgburke/grv](https://github.com/rgburke/grv) - GRV is a terminal interface for viewing git repositories
-- [variadico/noti](https://github.com/variadico/noti) - Monitor a process and trigger a notification.
+- [variadico/noti](https://github.com/variadico/noti) - Moved to Codeberg
 - [knqyf263/pet](https://github.com/knqyf263/pet) - Simple command-line snippet manager
 - [ory/kratos](https://github.com/ory/kratos) - Headless cloud-native authentication and identity management written in Go. Scales to a billion+ users. Replace Homegrown, Auth0, Okta, Firebase with better UX and DX. Passkeys, Social Sign In, OIDC, 
 - [bensadeh/circumflex](https://github.com/bensadeh/circumflex) - 🌿 It's Hacker News in your terminal
@@ -563,7 +563,7 @@
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Release engineering, simplified
 - [go-piv/go-ykpiv](https://github.com/go-piv/go-ykpiv) - Golang interface to manage Yubikeys, including a crypto.Signer & crypto.Decrypter interface
 - [cartazio/rclone](https://github.com/cartazio/rclone) - "rsync for cloud storage" - Google Drive, Amazon Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Cloudfiles, Google Cloud Storage, Yandex Files
-- [itstoragesvc/dnscontrol](https://github.com/itstoragesvc/dnscontrol) - Infrastructure as code for DNS!
+- [DNSControl/dnscontrol](https://github.com/DNSControl/dnscontrol) - Infrastructure as code for DNS!
 - [estesp/bucketbench](https://github.com/estesp/bucketbench) - Go-based framework for running benchmarks against Docker, containerd, runc, or any CRI-compliant runtime
 - [qax-os/goreporter](https://github.com/qax-os/goreporter) - A Golang tool that does static analysis, unit testing, code review and generate code quality report.
 - [gravitational/teleport](https://github.com/gravitational/teleport) - The easiest, and most secure way to access and protect all of your infrastructure.
@@ -1643,6 +1643,7 @@
 
 ## PHP 
 
+- [PLOT4ai/plot4ai-library](https://github.com/PLOT4ai/plot4ai-library) - Practical Library Of Threats 4 Artificial Intelligence
 - [Z-Hub/Z-Push](https://github.com/Z-Hub/Z-Push) - Home of Z-Push
 - [isohuntto/openbay](https://github.com/isohuntto/openbay) - 
 - [wallabag/wallabag](https://github.com/wallabag/wallabag) - wallabag is a self hostable application for saving web pages: Save and classify articles. Read them later. Freely.
@@ -1694,7 +1695,8 @@
 
 ## Python 
 
-- [safishamsi/graphify](https://github.com/safishamsi/graphify) - AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, GitHub Copilot CLI, OpenClaw, Factory Droid, Trae, Google Antigravity). Turn any folder of code, docs, papers, images, or v
+- [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
+- [safishamsi/graphify](https://github.com/safishamsi/graphify) - AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable
 - [C2SP/C2SP](https://github.com/C2SP/C2SP) - Community Cryptography Specification Project
 - [aelaguiz/doctrine](https://github.com/aelaguiz/doctrine) - Code-like DSL and compiler for agent workflows that compile to portable AGENTS.md instructions.
 - [Q00/ouroboros](https://github.com/Q00/ouroboros) - Agent OS: Stop prompting. Start specifying.
@@ -2213,7 +2215,7 @@
 ## Shell 
 
 - [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) - A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, a
-- [aaddrick/claude-desktop-debian](https://github.com/aaddrick/claude-desktop-debian) - Claude Desktop for Debian-based Linux distributions
+- [aaddrick/claude-desktop-debian](https://github.com/aaddrick/claude-desktop-debian) - Claude Desktop for Linux
 - [keith/git-pile](https://github.com/keith/git-pile) - Stacked diff support for GitHub workflows
 - [rafaelromao/keyboards](https://github.com/rafaelromao/keyboards) - A split keyboard layout, optimized for Portuguese, English, working with numbers and software programming with VIM plugins.
 - [TheNoeTrevino/claude-hooks](https://github.com/TheNoeTrevino/claude-hooks) - Tiny scripts to enhance the claude code experience
@@ -2364,7 +2366,7 @@
 - [TypeCellOS/BlockNote](https://github.com/TypeCellOS/BlockNote) - A React Rich Text Editor that's block-based (Notion style) and extensible. Built on top of Prosemirror and Tiptap.
 - [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat) - Open-source AI coworker, with memory
 - [mrmrs/line-art](https://github.com/mrmrs/line-art) - svg web app for pen plotters
-- [different-ai/openwork](https://github.com/different-ai/openwork) - An open-source alternative to Claude Cowork built for teams, powered by opencode
+- [different-ai/openwork](https://github.com/different-ai/openwork) - An open-source alternative to Claude Cowork (powered by opencode)
 - [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) - Shannon Lite is an autonomous, white-box AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before
 - [MedGm/Ollie](https://github.com/MedGm/Ollie) - A fast, Linux‑native desktop GUI for Ollama. Built with Tauri 2 (Rust) and React + TypeScript.
 - [earendil-works/gondolin](https://github.com/earendil-works/gondolin) - Experimental Linux microvm setup with a TypeScript Control Plane as Agent Sandbox
