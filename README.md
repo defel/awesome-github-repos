@@ -101,6 +101,7 @@
 
 ## C 
 
+- [antirez/ds4](https://github.com/antirez/ds4) - DeepSeek 4 Flash local inference engine for Metal and CUDA
 - [V4bel/dirtyfrag](https://github.com/V4bel/dirtyfrag) - 
 - [netblue30/firejail](https://github.com/netblue30/firejail) - Linux namespaces and seccomp-bpf sandbox
 - [containers/bubblewrap](https://github.com/containers/bubblewrap) - Low-level unprivileged sandboxing tool used by Flatpak and similar projects
@@ -623,7 +624,6 @@
 ## HTML 
 
 - [dair-ai/dair-academy-plugins](https://github.com/dair-ai/dair-academy-plugins) - DAIR.AI Academy Plugins
-- [safishamsi/graphify](https://github.com/safishamsi/graphify) - AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable
 - [wiz-sec-public/SITF](https://github.com/wiz-sec-public/SITF) - A comprehensive framework for analyzing and defending against attacks targeting Software Development Life Cycle Infrastructure.
 - [Pankajtanwarbanna/stfu](https://github.com/Pankajtanwarbanna/stfu) - stfu
 - [Phaeilo/emergent-order](https://github.com/Phaeilo/emergent-order) - A 1x1x1m cube with 1200 addressable LEDs
@@ -1704,6 +1704,7 @@
 
 - [kernalix7/winpodx](https://github.com/kernalix7/winpodx) - Windows pod system for Linux
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
+- [safishamsi/graphify](https://github.com/safishamsi/graphify) - AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable
 - [C2SP/C2SP](https://github.com/C2SP/C2SP) - Community Cryptography Specification Project
 - [aelaguiz/doctrine](https://github.com/aelaguiz/doctrine) - Code-like DSL and compiler for agent workflows that compile to portable AGENTS.md instructions.
 - [Q00/ouroboros](https://github.com/Q00/ouroboros) - Agent OS: Stop prompting. Start specifying.
@@ -2221,6 +2222,7 @@
 
 ## Shell 
 
+- [dtnewman/burn-baby-burn](https://github.com/dtnewman/burn-baby-burn) - Be the most productive engineer on your team 🚀🚀🚀
 - [0xNyk/council-of-high-intelligence](https://github.com/0xNyk/council-of-high-intelligence) - 18 AI personas deliberate your hardest decisions across multiple LLM providers. Aristotle, Feynman, Kahneman, Torvalds & more — structured multi-round deliberation with genuine model diversity. One co
 - [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) - A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, a
 - [keith/git-pile](https://github.com/keith/git-pile) - Stacked diff support for GitHub workflows
