@@ -2759,6 +2759,7 @@
 
 ## Zig 
 
+- [xit-vcs/haxy](https://github.com/xit-vcs/haxy) - a git forge from the future-past
 - [aaddrick/selkie](https://github.com/aaddrick/selkie) - A Zig-based markdown viewer with GFM support, native Mermaid chart rendering, and theming
 - [nullclaw/nullclaw](https://github.com/nullclaw/nullclaw) - Fastest, smallest, and fully autonomous AI assistant infrastructure written in Zig
 - [meszmate/zigzag](https://github.com/meszmate/zigzag) - A delightful TUI framework for Zig
