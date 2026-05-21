@@ -605,7 +605,7 @@
 - [azer/mao](https://github.com/azer/mao) - Pragmatic BDD Testing Framework For Go
 - [nsqio/nsq](https://github.com/nsqio/nsq) - A realtime distributed messaging platform
 - [cayleygraph/cayley](https://github.com/cayleygraph/cayley) - An open-source graph database
-- [gogs/gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service
+- [gogs/gogs](https://github.com/gogs/gogs) - The painless way to host your own Git service
 - [rafikk/halfshell](https://github.com/rafikk/halfshell) - A proxy server for processing images on the fly.
 - [pksunkara/alpaca](https://github.com/pksunkara/alpaca) - Given a web API, Generate client libraries in node, php, python, ruby
 - [chmllr/notehub](https://github.com/chmllr/notehub) - A pastebin for markdown pages.
@@ -996,7 +996,7 @@
 - [highcharts/highstock-release](https://github.com/highcharts/highstock-release) - Official shim repo for Highstock releases
 - [plotly/plotly.js](https://github.com/plotly/plotly.js) - Open-source JavaScript charting library behind Plotly and Dash
 - [alexanderGugel/ied](https://github.com/alexanderGugel/ied) - :package: Like npm, but faster - an alternative package manager for Node
-- [PatrickJS/PatrickJS-starter](https://github.com/PatrickJS/PatrickJS-starter) - MFE Starter
+- [PatrickJS/angular-webpack-starter](https://github.com/PatrickJS/angular-webpack-starter) - Angular Webpack Starter
 - [wardbell/bardjs](https://github.com/wardbell/bardjs) - Spec helpers for testing angular v.1.x apps with Mocha, Jasmine and QUnit
 - [moment/moment](https://github.com/moment/moment) - Parse, validate, manipulate, and display dates in javascript.
 - [brunch/brunch](https://github.com/brunch/brunch) - 🍴 Web applications made easy. Since 2011.
@@ -1728,7 +1728,7 @@
 - [trailofbits/skills](https://github.com/trailofbits/skills) - Trail of Bits Claude Code skills for security research, vulnerability detection, and audit workflows
 - [DenizParlak/heimdall](https://github.com/DenizParlak/heimdall) - AWS Attack Path Scanner - Discover privilege escalation paths across 10+ AWS services
 - [stanfordnlp/dspy](https://github.com/stanfordnlp/dspy) - DSPy: The framework for programming—not prompting—language models
-- [kalil0321/reverse-api-engineer](https://github.com/kalil0321/reverse-api-engineer) - Claude engineer that captures traffic, writes documentation and automatically generates API clients. Reverse engineer APIs!
+- [kalil0321/reverse-api-engineer](https://github.com/kalil0321/reverse-api-engineer) - The agent that turns websites into APIs!
 - [FoundationAgents/OpenManus](https://github.com/FoundationAgents/OpenManus) - No fortress, purely open ground.  OpenManus is Coming.
 - [FoundationAgents/MetaGPT](https://github.com/FoundationAgents/MetaGPT) - 🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming
 - [PyDMD/PyDMD](https://github.com/PyDMD/PyDMD) - Python Dynamic Mode Decomposition
