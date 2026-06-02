@@ -46,6 +46,7 @@
 - [Makefile](#makefile)
 - [Markdown](#markdown)
 - [Meson](#meson)
+- [Nim](#nim)
 - [Nix](#nix)
 - [Nunjucks](#nunjucks)
 - [OCaml](#ocaml)
@@ -817,6 +818,7 @@
 - [ableplayer/ableplayer](https://github.com/ableplayer/ableplayer) - fully accessible cross-browser HTML5 media player.
 - [nenadmarkus/picojs](https://github.com/nenadmarkus/picojs) - A face detection library in 200 lines of JavaScript
 - [depcheck/depcheck](https://github.com/depcheck/depcheck) - Check your npm module for unused dependencies
+- [jeffbarr/gridfinity-catalog](https://github.com/jeffbarr/gridfinity-catalog) - Catalog of Gridfinity Designs and Other Resources
 - [designsystemsinternational/mechanic](https://github.com/designsystemsinternational/mechanic) - Mechanic is a framework to build assets built on web code.
 - [naptha/tesseract.js](https://github.com/naptha/tesseract.js) - Pure Javascript OCR for more than 100 Languages 📖🎉🖥
 - [garysieling/transcript-alignment](https://github.com/garysieling/transcript-alignment) - Map closed captions to transcripts with Smith-Waterman alignment
@@ -1412,6 +1414,10 @@
 
 - [frida/frida](https://github.com/frida/frida) - Clone this repo to build Frida
 
+## Nim 
+
+- [nim-lang/nimble](https://github.com/nim-lang/nimble) - Package manager for the Nim programming language.
+
 ## Nix 
 
 - [divnix/std](https://github.com/divnix/std) - A DevOps framework for the SDLC with the power of Nix and Flakes. Good for keeping deadlines!
@@ -1499,7 +1505,6 @@
 - [webtiming/sequencer](https://github.com/webtiming/sequencer) - A generic JavaScript Sequencer for precisely timed presentation of timed data, using HTMLTimingObject/SharedMotion as timing source.
 - [evilmartians/mono](https://github.com/evilmartians/mono) - Free and open-source monospaced font from Evil Martians
 - [zalando/tech-radar](https://github.com/zalando/tech-radar) - Visualizing our technology choices
-- [jeffbarr/gridfinity-catalog](https://github.com/jeffbarr/gridfinity-catalog) - Catalog of Gridfinity Designs and Other Resources
 - [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
 - [HackerNews/API](https://github.com/HackerNews/API) - Documentation and Samples for the Official HN API
 - [swyxio/spark-joy](https://github.com/swyxio/spark-joy) - ✨😂 2000+ ways to add design flair, user delight, and whimsy to your product.
@@ -2089,7 +2094,7 @@
 - [BoundaryML/baml](https://github.com/BoundaryML/baml) - The AI framework that adds the engineering to prompt engineering (Python/TS/Ruby/Java/C#/Rust/Go compatible)
 - [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite) - Community-built comprehensive 2D content creation appplication for graphic design, digital art, and interactive real-time motion graphics powered by a node-based procedural graphics engine
 - [asciinema/asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder, streamer and player 📹
-- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 secure, local and programmable sandboxes for AI agents
+- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 local-first and microVM-backed programmable sandboxes for AI agents
 - [trailbaseio/trailbase](https://github.com/trailbaseio/trailbase) - An open, sub-millisecond, single-executable Firebase alternative with type-safe APIs, built-in WebAssembly runtime, realtime subscriptions, auth, and admin UI built on Rust, SQLite & Wasmtime.
 - [espanso/espanso](https://github.com/espanso/espanso) - A Privacy-first, Cross-platform Text Expander written in Rust
 - [rathole-org/rathole](https://github.com/rathole-org/rathole) - A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.
@@ -2466,7 +2471,7 @@
 - [openstatusHQ/openstatus](https://github.com/openstatusHQ/openstatus) - 🫖 Status page with uptime monitoring & API monitoring as code   🫖
 - [tinacms/tinacms](https://github.com/tinacms/tinacms) - A fully open-source headless CMS that supports Markdown and Visual Editing
 - [scalar/scalar](https://github.com/scalar/scalar) - Scalar is an open-source API platform:　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　🌐 Modern REST API Client　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　📖 Beautiful API References　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
-- [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification infrastructure. In-app Inbox component, E-mail, SMS, Push and Slack Integrations.
+- [novuhq/novu](https://github.com/novuhq/novu) - The open-source communication infrastructure for agents and products
 - [tiged/tiged](https://github.com/tiged/tiged) - Community driven fork of degit
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more
 - [projectstorm/react-diagrams](https://github.com/projectstorm/react-diagrams) - a super simple, no-nonsense diagramming library written in react that just works
@@ -2764,7 +2769,7 @@
 - [xit-vcs/haxy](https://github.com/xit-vcs/haxy) - a git forge from the future-past
 - [aaddrick/selkie](https://github.com/aaddrick/selkie) - A Zig-based markdown viewer with GFM support, native Mermaid chart rendering, and theming
 - [nullclaw/nullclaw](https://github.com/nullclaw/nullclaw) - Fastest, smallest, and fully autonomous AI assistant infrastructure written in Zig
-- [meszmate/zigzag](https://github.com/meszmate/zigzag) - A delightful TUI framework for Zig
+- [meszmate/zigzag](https://github.com/meszmate/zigzag) - The biggest TUI framework for Zig
 - [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
 - [riverwm/river](https://github.com/riverwm/river) - [mirror] A non-monolithic Wayland compositor
 
