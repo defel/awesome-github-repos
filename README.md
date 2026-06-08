@@ -1454,6 +1454,7 @@
 
 ## Others 
 
+- [jasonswett/llm-skills](https://github.com/jasonswett/llm-skills) - Shared skills for AI coding assistants (Claude Code, Codex, etc.)
 - [planetis-m/skills](https://github.com/planetis-m/skills) - Empirically verified Nim coding skills.
 - [isene/chasm](https://github.com/isene/chasm) - CHasm — CHange to ASM. Pure x86_64 assembly Linux tools (bare, show, glass, tile).
 - [Keychron/Keychron-Keyboards-Hardware-Design](https://github.com/Keychron/Keychron-Keyboards-Hardware-Design) - Industrial design files for Keychron keyboards and mice. 100+ models with CAD assets in STEP, DXF, DWG, and PDF. Source-available, with commercial use allowed for original compatible accessories withi
