@@ -2086,7 +2086,6 @@
 - [Raudbjorn/llmrmd](https://github.com/Raudbjorn/llmrmd) - llmermaid: Mermaid diagram indexer with Structural RAG for LLM-assisted planning
 - [googleworkspace/cli](https://github.com/googleworkspace/cli) - Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.
 - [oxc-project/oxc](https://github.com/oxc-project/oxc) - ⚓ A collection of high-performance JavaScript tools.
-- [synth-laboratories/Horizons](https://github.com/synth-laboratories/Horizons) - Open Source Agent Execution
 - [alecthomas/t](https://github.com/alecthomas/t) - `t` (T-for-text) is a concise language for manipulating text, replacing common usage patterns of Unix utilities like grep, sed, cut, awk, sort, and uniq.
 - [tansu-io/tansu](https://github.com/tansu-io/tansu) - Apache Kafka® compatible broker with S3, PostgreSQL, SQLite, Apache Iceberg and Delta Lake
 - [s2-streamstore/s2](https://github.com/s2-streamstore/s2) - Durable Streams API
