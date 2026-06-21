@@ -90,6 +90,7 @@
 
 ## Assembly 
 
+- [isene/spot](https://github.com/isene/spot) - Presenter spotlight overlay for Linux — pure x86_64 assembly, ~14 KB. Click-through, screen-share-safe, follows the pointer via SHAPE.
 - [isene/tile](https://github.com/isene/tile) - Pure-asm tiling window manager (CHasm suite). x86_64 Linux, no libc, X11 wire protocol, single static binary.
 - [DoctorWkt/pdp7-unix](https://github.com/DoctorWkt/pdp7-unix) - A project to resurrect Unix on the PDP-7 from a scan of the original assembly code
 
@@ -1231,7 +1232,7 @@
 - [tj/punt](https://github.com/tj/punt) - Elegant UDP messaging for nodejs
 - [astro/bitford](https://github.com/astro/bitford) - BitTorrent Client in a Chrome Packaged App
 - [adobe/brackets](https://github.com/adobe/brackets) - An open source code editor for the web, written in JavaScript, HTML and CSS.
-- [BeekeeperAlex/shotgun](https://github.com/BeekeeperAlex/shotgun) - A simple UI agnostic command framework.
+- [AlexAllocated/shotgun](https://github.com/AlexAllocated/shotgun) - A simple UI agnostic command framework.
 - [remy/min.js](https://github.com/remy/min.js) - Super minimal selector and event library
 - [4ae9b8/browserhacks](https://github.com/4ae9b8/browserhacks) - An extensive list of CSS/JS browserhacks from all over the interwebs.
 - [jsbin/jsbin](https://github.com/jsbin/jsbin) - Collaborative JavaScript Debugging App
@@ -1767,7 +1768,7 @@
 - [Vasallo94/ObsidianRAG](https://github.com/Vasallo94/ObsidianRAG) - Ask questions about your Obsidian notes using local AI. Privacy-first RAG with Ollama, LM Studio, or any OpenAI-compatible server. Obsidian plugin + Docker + PyPI.
 - [oraios/serena](https://github.com/oraios/serena) - A powerful MCP toolkit for coding, providing semantic retrieval and editing capabilities  - the IDE for your agent
 - [Ben-Edwards44/PyBonsai](https://github.com/Ben-Edwards44/PyBonsai) - Generate procedural ASCII art trees in the terminal.
-- [jayin92/Skyfall-GS](https://github.com/jayin92/Skyfall-GS) - Skyfall-GS: Synthesizing Immersive 3D Urban Scenes from Satellite Imagery
+- [jayin92/Skyfall-GS](https://github.com/jayin92/Skyfall-GS) - [ECCV 2026] Skyfall-GS: Synthesizing Immersive 3D Urban Scenes from Satellite Imagery
 - [blechschmidt/fakeroute](https://github.com/blechschmidt/fakeroute) - IPv4 and IPv6 traceroute fake hop generator through IP spoofing
 - [Karib0u/kernagent](https://github.com/Karib0u/kernagent) - Headless AI agent for deterministic reverse engineering.
 - [discocrayon/Headroom](https://github.com/discocrayon/Headroom) - Secure AWS by auto-generating SCPs and RCPs :tada:
@@ -1793,7 +1794,6 @@
 - [FogSecurity/yes3-scanner](https://github.com/FogSecurity/yes3-scanner) - YES3 Scanner: S3 Security Scanner for Access and Ransomware Protection
 - [featureform/enrichmcp](https://github.com/featureform/enrichmcp) - EnrichMCP is a python framework for building data driven MCP servers
 - [sanspareilsmyn/parqv](https://github.com/sanspareilsmyn/parqv) - Interactive Python TUI for visualizing and analyzing files with multiple formats
-- [cocoindex-io/cocoindex](https://github.com/cocoindex-io/cocoindex) - Incremental engine for long horizon agents 🌟 Star if you like it!
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
 - [camel-ai/oasis](https://github.com/camel-ai/oasis) - 🏝️ OASIS: Open Agent Social Interaction Simulations with One Million Agents.
 - [salesforce/policy_sentry](https://github.com/salesforce/policy_sentry) - IAM Least Privilege Policy Generator
@@ -2122,6 +2122,7 @@
 - [espanso/espanso](https://github.com/espanso/espanso) - A Privacy-first, Cross-platform Text Expander written in Rust
 - [rathole-org/rathole](https://github.com/rathole-org/rathole) - A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.
 - [zizmorcore/zizmor](https://github.com/zizmorcore/zizmor) - Static analysis for GitHub Actions
+- [cocoindex-io/cocoindex](https://github.com/cocoindex-io/cocoindex) - Incremental engine for long horizon agents 🌟 Star if you like it!
 - [mfontanini/presenterm](https://github.com/mfontanini/presenterm) - A markdown terminal slideshow tool
 - [Automattic/harper](https://github.com/Automattic/harper) - Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
 - [biomejs/gritql](https://github.com/biomejs/gritql) - GritQL is a query language for searching, linting, and modifying code.
