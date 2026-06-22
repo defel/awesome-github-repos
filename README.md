@@ -90,6 +90,7 @@
 
 ## Assembly 
 
+- [isene/frame](https://github.com/isene/frame) - Pure-asm X11 display server for the CHasm desktop. No libc, no Mesa, no Xlib — just NASM, syscalls, and the X11 wire protocol.
 - [isene/spot](https://github.com/isene/spot) - Presenter spotlight overlay for Linux — pure x86_64 assembly, ~14 KB. Click-through, screen-share-safe, follows the pointer via SHAPE.
 - [isene/tile](https://github.com/isene/tile) - Pure-asm tiling window manager (CHasm suite). x86_64 Linux, no libc, X11 wire protocol, single static binary.
 - [DoctorWkt/pdp7-unix](https://github.com/DoctorWkt/pdp7-unix) - A project to resurrect Unix on the PDP-7 from a scan of the original assembly code
@@ -2117,7 +2118,7 @@
 - [BoundaryML/baml](https://github.com/BoundaryML/baml) - The AI framework that adds the engineering to prompt engineering (Python/TS/Ruby/Java/C#/Rust/Go compatible)
 - [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite) - Community-built comprehensive 2D content creation appplication for graphic design, digital art, and interactive real-time motion graphics powered by a node-based procedural graphics engine
 - [asciinema/asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder, streamer and player 📹
-- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 easy and fast microVMs for running untrusted workloads
+- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 easy, fast and local-first microVM runtime
 - [trailbaseio/trailbase](https://github.com/trailbaseio/trailbase) - An open, sub-millisecond, single-executable Firebase alternative with type-safe APIs, built-in WebAssembly runtime, realtime subscriptions, auth, and admin UI built on Rust, SQLite & Wasmtime.
 - [espanso/espanso](https://github.com/espanso/espanso) - A Privacy-first, Cross-platform Text Expander written in Rust
 - [rathole-org/rathole](https://github.com/rathole-org/rathole) - A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.
