@@ -735,6 +735,7 @@
 - [cedar-policy/cedar-java](https://github.com/cedar-policy/cedar-java) - Java bindings for the Cedar language
 - [apache/shiro](https://github.com/apache/shiro) - Apache Shiro is a powerful and easy-to-use Java security framework that performs authentication, authorization, cryptography, and session management
 - [youngmonkeys/ezyfox-server](https://github.com/youngmonkeys/ezyfox-server) - A socket server (include SSL) supports realtime application, realtime game, MMORPG, messaging, chat and streaming data with TCP, UDP and Websocket
+- [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 - [enso-org/enso](https://github.com/enso-org/enso) - Enso Analytics is a self-service data prep and analysis platform designed for data teams.
 - [onthegomap/planetiler](https://github.com/onthegomap/planetiler) - Flexible tool to build planet-scale vector tilesets from OpenStreetMap data fast
 - [SimonHalvdansson/Harmonic-HN](https://github.com/SimonHalvdansson/Harmonic-HN) - Modern Android client for Hacker News
@@ -1498,6 +1499,7 @@
 - [hslatman/awesome-threat-intelligence](https://github.com/hslatman/awesome-threat-intelligence) - A curated list of Awesome Threat Intelligence resources
 - [adamshostack/4QuestionFrame](https://github.com/adamshostack/4QuestionFrame) - Shostack's 4 Question Frame for Threat Modeling
 - [fabacab/awesome-cybersecurity-blueteam](https://github.com/fabacab/awesome-cybersecurity-blueteam) - :computer:🛡️ A curated collection of awesome resources, tools, and other shiny things for cybersecurity blue teams.
+- [daytonaio/daytona](https://github.com/daytonaio/daytona) - Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code
 - [brcyrr/CyberSecurityRoadmapSuggestions](https://github.com/brcyrr/CyberSecurityRoadmapSuggestions) - This repository contains a list of roadmaps I created with my suggestions on LinkedIn and Twitter.🤞🏻😌
 - [c3e/grundgesetz](https://github.com/c3e/grundgesetz) - Grundgesetz für die Bundesrepublik Deutschland
 - [palantir/alerting-detection-strategy-framework](https://github.com/palantir/alerting-detection-strategy-framework) - A framework for developing alerting and detection strategies for incident response.
@@ -1724,6 +1726,7 @@
 
 ## Python 
 
+- [has2k1/plotnine](https://github.com/has2k1/plotnine) - A Grammar of Graphics for Python
 - [withmartian/code-review-benchmark](https://github.com/withmartian/code-review-benchmark) - 
 - [harbor-framework/harbor](https://github.com/harbor-framework/harbor) - Harbor is a framework for running agent evaluations and creating and using RL environments.
 - [anthropics/defending-code-reference-harness](https://github.com/anthropics/defending-code-reference-harness) - Skills for threat modeling, scanning, triage, patching, plus an autonomous scanning harness you can /customize
@@ -2117,7 +2120,7 @@
 - [BoundaryML/baml](https://github.com/BoundaryML/baml) - The AI framework that adds the engineering to prompt engineering (Python/TS/Ruby/Java/C#/Rust/Go compatible)
 - [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite) - Community-built comprehensive 2D content creation appplication for graphic design, digital art, and interactive real-time motion graphics powered by a node-based procedural graphics engine
 - [asciinema/asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder, streamer and player 📹
-- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 easy, fast, local-first microVM runtime
+- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 easy, fast and local-first microVM runtime
 - [trailbaseio/trailbase](https://github.com/trailbaseio/trailbase) - An open, sub-millisecond, single-executable Firebase alternative with type-safe APIs, built-in WebAssembly runtime, realtime subscriptions, auth, and admin UI built on Rust, SQLite & Wasmtime.
 - [espanso/espanso](https://github.com/espanso/espanso) - A Privacy-first, Cross-platform Text Expander written in Rust
 - [rathole-org/rathole](https://github.com/rathole-org/rathole) - A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.
@@ -2483,12 +2486,10 @@
 - [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets, certificates, and privileged access management.
 - [github-aws-runners/terraform-aws-github-runner](https://github.com/github-aws-runners/terraform-aws-github-runner) - Terraform module for scalable GitHub action runners on AWS
 - [pubkey/rxdb](https://github.com/pubkey/rxdb) - The local-first database that runs on every JS runtime and replicates with your existing backend - no vendor, no lock-in - https://rxdb.info/
-- [daytonaio/daytona](https://github.com/daytonaio/daytona) - Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code
 - [classvsoftware/under-new-management](https://github.com/classvsoftware/under-new-management) - Detect when your installed extensions have changed owners.
 - [center-for-threat-informed-defense/cti-blueprints](https://github.com/center-for-threat-informed-defense/cti-blueprints) - CTI Blueprints is a free suite of templates and tools that helps Cyber Threat Intelligence analysts create high-quality, actionable reports more consistently and efficiently.
 - [elysiajs/elysia](https://github.com/elysiajs/elysia) - Ergonomic Framework for Humans
 - [code-of-chaos/ColoredTagsWrangler.obmd](https://github.com/code-of-chaos/ColoredTagsWrangler.obmd) - Obsidian Plugin : Assign colors to tags. Has integrations with other plugins, like Kanban.
-- [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 - [antfu/shikiji](https://github.com/antfu/shikiji) - A syntax highlighter based on TextMate grammars. ESM rewrite of shiki, with more features and capabilities.
 - [SamuraiWTF/katana](https://github.com/SamuraiWTF/katana) - SamuraiWTF package management tool and interface.
 - [slauth-io/slauth-cli](https://github.com/slauth-io/slauth-cli) - CLI that scans directories for Cloud Provider SDK usage generates the IAM Policies/Permissions needed
