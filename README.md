@@ -197,6 +197,7 @@
 
 ## C++ 
 
+- [BohemiaInteractive/CWR](https://github.com/BohemiaInteractive/CWR) - Arma: Cold War Assault Remastered Source Code Repository.
 - [staniks/worship-mirror](https://github.com/staniks/worship-mirror) - 3D first person shooter game.
 - [felt/tippecanoe](https://github.com/felt/tippecanoe) - Build vector tilesets from large collections of GeoJSON features.
 - [CITGuru/openduck](https://github.com/CITGuru/openduck) - Distributed DuckDB - dual execution and differential storage
@@ -419,6 +420,7 @@
 - [plutov/oq](https://github.com/plutov/oq) - Terminal OpenAPI Spec viewer
 - [mmulet/term.everything](https://github.com/mmulet/term.everything) - Run any GUI app in the terminal❗
 - [google/mangle](https://github.com/google/mangle) - 
+- [89luca89/distrobox](https://github.com/89luca89/distrobox) - Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at
 - [bored-engineer/bf-lookup](https://github.com/bored-engineer/bf-lookup) - The Golang Bitfl1p lookup tool for Project Bitfl1p
 - [derekg/ts-ssh](https://github.com/derekg/ts-ssh) - Go-based SSH and SCP client with userspace Tailscale connectivity. Secure shell access and file transfers over Tailnet without requiring a full Tailscale daemon.
 - [opencode-ai/opencode](https://github.com/opencode-ai/opencode) - A powerful AI coding agent. Built for the terminal.
@@ -2269,7 +2271,6 @@
 - [TheNoeTrevino/claude-hooks](https://github.com/TheNoeTrevino/claude-hooks) - Tiny scripts to enhance the claude code experience
 - [fabioluciano/tmux-powerkit](https://github.com/fabioluciano/tmux-powerkit) - The Ultimate tmux Status Bar Framework
 - [rails-lambda/tailscale-extension](https://github.com/rails-lambda/tailscale-extension) - Tailscale Lambda Extension for Containers
-- [89luca89/distrobox](https://github.com/89luca89/distrobox) - Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at
 - [caido/caido](https://github.com/caido/caido) - 🚀 Caido releases, wiki and roadmap
 - [damajor/BALD](https://github.com/damajor/BALD) - Brand new Audible Library Downloader
 - [filiparag/wikiman](https://github.com/filiparag/wikiman) - Wikiman is a universal offline documentation search engine for manual pages, tldr-pages, ArchWiki, Gentoo Wiki, DevDocs, and FreeBSD documentation
