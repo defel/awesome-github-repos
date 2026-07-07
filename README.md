@@ -638,6 +638,7 @@
 
 ## HTML 
 
+- [OWASP/www-project-agentic-skills-top-10](https://github.com/OWASP/www-project-agentic-skills-top-10) - OWASP Foundation web repository
 - [dair-ai/dair-academy-plugins](https://github.com/dair-ai/dair-academy-plugins) - DAIR.AI Academy Plugins
 - [wiz-sec-public/SITF](https://github.com/wiz-sec-public/SITF) - A comprehensive framework for analyzing and defending against attacks targeting Software Development Life Cycle Infrastructure.
 - [Pankajtanwarbanna/stfu](https://github.com/Pankajtanwarbanna/stfu) - stfu
@@ -798,6 +799,7 @@
 - [74656c/fart.js](https://github.com/74656c/fart.js) - Fart library
 - [evanwashere/mitata](https://github.com/evanwashere/mitata) - benchmark tooling that loves you ❤️
 - [renzorlive/vimmaster](https://github.com/renzorlive/vimmaster) - VIM Master: in-browser game that teaches core Vim motions and editing commands through short, focused levels.
+- [open-energy-transition/Awesome-Electrical-Grid-Mapping](https://github.com/open-energy-transition/Awesome-Electrical-Grid-Mapping) - A curated dataset of global electrical grid maps, datasets and resources.
 - [panphora/hyperclay-local](https://github.com/panphora/hyperclay-local) - A desktop app for running HTML apps locally
 - [DumbWareio/DumbAssets](https://github.com/DumbWareio/DumbAssets) - A Stupid Simple Asset Tracker
 - [Alhadis/Roff.js](https://github.com/Alhadis/Roff.js) - Troff integration with web technologies. Tools and post-processors to generate web-based formats in Roff.
@@ -1790,7 +1792,6 @@
 - [pinry/pinry](https://github.com/pinry/pinry) - Pinry, a tiling image board system for people who want to save, tag, and share images, videos and webpages in an easy to skim through format. It's open-source and self-hosted.
 - [9001/copyparty](https://github.com/9001/copyparty) - Portable file server with accelerated resumable uploads, dedup, WebDAV, SFTP, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file
 - [RijinRaju/octanedb](https://github.com/RijinRaju/octanedb) - A high-performance, lightweight vector database library built in Python, designed to be faster than existing solutions like Pinecone, ChromaDB, and Qdrant
-- [open-energy-transition/Awesome-Electrical-Grid-Mapping](https://github.com/open-energy-transition/Awesome-Electrical-Grid-Mapping) - A curated list of global electrical grid maps, datasets and resources.
 - [DataDog/guarddog](https://github.com/DataDog/guarddog) - :snake: :mag: GuardDog is a CLI tool to Identify malicious PyPI and npm packages
 - [opengeospatial/geoparquet](https://github.com/opengeospatial/geoparquet) - Specification for storing geospatial vector data (point, line, polygon) in Parquet
 - [developmentseed/lonboard](https://github.com/developmentseed/lonboard) - Fast, interactive geospatial data visualization in Jupyter.
