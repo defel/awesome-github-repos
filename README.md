@@ -381,6 +381,7 @@
 
 ## Go 
 
+- [chattocorp/chatto](https://github.com/chattocorp/chatto) - A really good chat application that you can self-host.
 - [anchore/grype](https://github.com/anchore/grype) - A vulnerability scanner for container images and filesystems
 - [ossf/malicious-packages](https://github.com/ossf/malicious-packages) - A repository of reports of malicious packages identified in Open Source package repositories, consumable via the Open Source Vulnerability (OSV) format.
 - [Paca-AI/paca](https://github.com/Paca-AI/paca) - AI-native, free, open-source alternative to Jira, Trello, ClickUp & Monday. Built for Scrum teams where humans and AI agents collaborate as equals — on the same board, the same sprints, the same goals
@@ -393,7 +394,7 @@
 - [boostsecurityio/smokedmeat](https://github.com/boostsecurityio/smokedmeat) - A CI/CD Red Team Framework for demonstrating Build Pipeline security risks.
 - [robinovitch61/lore](https://github.com/robinovitch61/lore) - less-like terminal pager based on robinovitch61/viewport
 - [olastor/age-plugin-sss](https://github.com/olastor/age-plugin-sss) - Age plugin to split keys and wrap them with different recipients using Shamir's Secret Sharing.
-- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: File Management Platform / Universal Data Access Layer (without FUSE)
+- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: Universal File Storage Client
 - [olastor/age-plugin-fido2-hmac](https://github.com/olastor/age-plugin-fido2-hmac) - Age plugin to encrypt files with fido2 tokens using the hmac-secret extension and non-discoverable credentials.
 - [anzellai/sky](https://github.com/anzellai/sky) - Sky — an Elm-inspired language that compiles to Go. Hindley-Milner types, server-driven UI (Sky.Live), single binary output.
 - [junevm/splathash](https://github.com/junevm/splathash) - 16 bytes fixed size image placeholder, an alternative to blurhash and thumbhash
@@ -1732,6 +1733,7 @@
 
 ## Python 
 
+- [maziyarpanahi/openmed](https://github.com/maziyarpanahi/openmed) - Local-first healthcare AI: clinical NER & HIPAA PII de-identification that runs 100% on-device. 1,000+ medical models, 12 languages, Apple MLX + Python, no cloud, no patient data leaving your network.
 - [bikini/exploitarium](https://github.com/bikini/exploitarium) - A single archive of public exploit PoCs and vulnerability research writeups. At the time I post these, none have been reported. Feel free to report them yourself and take credit for the CVE if handed 
 - [has2k1/plotnine](https://github.com/has2k1/plotnine) - A Grammar of Graphics for Python
 - [withmartian/code-review-benchmark](https://github.com/withmartian/code-review-benchmark) - 
@@ -2116,7 +2118,7 @@
 - [pvolok/dekit](https://github.com/pvolok/dekit) - Run multiple commands in parallel
 - [scanopy/scanopy](https://github.com/scanopy/scanopy) - Network diagrams that update themselves
 - [linebender/vello](https://github.com/linebender/vello) - A GPU compute-centric 2D renderer.
-- [0ximu/mu](https://github.com/0ximu/mu) - 
+- [0ximu/mu](https://github.com/0ximu/mu) - MCP server that gives AI assistants deep codebase understanding. Semantic graph, BM25 search, impact analysis, code review.
 - [cocogitto/cocogitto](https://github.com/cocogitto/cocogitto) - The Conventional Commits toolbox
 - [typst/hayagriva](https://github.com/typst/hayagriva) - Rusty bibliography management.
 - [stalwartlabs/stalwart](https://github.com/stalwartlabs/stalwart) - All-in-one Mail & Collaboration server. Secure, scalable and fluent in every protocol (IMAP, JMAP, SMTP, CalDAV, CardDAV, WebDAV).
