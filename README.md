@@ -789,7 +789,7 @@
 - [pbakaus/impeccable](https://github.com/pbakaus/impeccable) - The design language that makes your AI harness better at design.
 - [andrewyng/context-hub](https://github.com/andrewyng/context-hub) - 
 - [jakubkozera/openapi-ui](https://github.com/jakubkozera/openapi-ui) - A modern, feature-rich OpenAPI/Swagger documentation and testing interface with advanced functionality for API development and testing. Provides interactive API documentation, code generation, collect
-- [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. 
+- [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT GPT-5.6, Codex GPT-5.6, GPT-5.5. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI -
 - [galaxykate/tracery](https://github.com/galaxykate/tracery) - Tracery: a story-grammar generation library for javascript
 - [gibbok/typescript-book](https://github.com/gibbok/typescript-book) - The Concise TypeScript Book: A Concise Guide to Effective Development in TypeScript. Free and Open Source.
 - [topojson/topojson](https://github.com/topojson/topojson) - An extension of GeoJSON that encodes topology! 🌐
@@ -2387,7 +2387,7 @@
 ## TypeScript 
 
 - [antvis/Infographic](https://github.com/antvis/Infographic) - 🦋 An Infographic Generation and Rendering Framework, bring words to life with AI!
-- [0xroylee/getsuperpower](https://github.com/0xroylee/getsuperpower) - GetSuperpower packages a whole AI-agent workflow as one callable skill.
+- [0xroylee/Omniskills](https://github.com/0xroylee/Omniskills) - GetSuperpower packages a whole AI-agent workflow as one callable skill.
 - [orchidfiles/git-malware-finder](https://github.com/orchidfiles/git-malware-finder) - A script that searches GitHub repositories distributing malware.
 - [redwoodjs/machinen.dev](https://github.com/redwoodjs/machinen.dev) - Pause, resume, fork Linux VMs across hosts
 - [webadderallorg/Recordly](https://github.com/webadderallorg/Recordly) - Create polished demo videos without editing skills. Mac/Windows/Linux
