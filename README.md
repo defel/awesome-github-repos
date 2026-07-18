@@ -794,7 +794,6 @@
 - [jakubkozera/openapi-ui](https://github.com/jakubkozera/openapi-ui) - A modern, feature-rich OpenAPI/Swagger documentation and testing interface with advanced functionality for API development and testing. Provides interactive API documentation, code generation, collect
 - [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT GPT-5.6, Codex GPT-5.6, GPT-5.5. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI -
 - [galaxykate/tracery](https://github.com/galaxykate/tracery) - Tracery: a story-grammar generation library for javascript
-- [gibbok/typescript-book](https://github.com/gibbok/typescript-book) - The Concise TypeScript Book: A Concise Guide to Effective Development in TypeScript. Free and Open Source.
 - [topojson/topojson](https://github.com/topojson/topojson) - An extension of GeoJSON that encodes topology! 🌐
 - [fcavallarin/wirebrowser](https://github.com/fcavallarin/wirebrowser) - Wirebrowser is a CDP-based runtime instrumentation platform for the browser. Think Frida, but for JavaScript running in Chrome — without monkeypatching.
 - [pelias/api](https://github.com/pelias/api) - HTTP API for Pelias Geocoder
@@ -1606,7 +1605,6 @@
 - [InterviewMap/CS-Interview-Knowledge-Map](https://github.com/InterviewMap/CS-Interview-Knowledge-Map) - Build the best interview map. The current content includes JS, network, browser related, performance optimization, security, framework, Git, data structure, algorithm, etc.
 - [cncf/landscape](https://github.com/cncf/landscape) - 🌄 The Cloud Native Interactive Landscape filters and sorts hundreds of projects and products, and shows details including GitHub stars, funding, first and last commits, contributor counts and headquar
 - [j4p3/strimpack](https://github.com/j4p3/strimpack) - A platform for livestreamers to make a home for their audience.
-- [slatedocs/slate](https://github.com/slatedocs/slate) - Beautiful static documentation for your API
 - [pzwang/lostweb](https://github.com/pzwang/lostweb) - The Web We Lost, and What Comes Next
 - [ddbeck/readme-checklist](https://github.com/ddbeck/readme-checklist) - A checklist for writing READMEs
 - [w3c-webmob/payments-use-cases](https://github.com/w3c-webmob/payments-use-cases) - Payments: Use Cases for payments on the web on mobile
@@ -1771,6 +1769,7 @@
 - [FuzzingLabs/mcp-security-hub](https://github.com/FuzzingLabs/mcp-security-hub) - A growing collection of MCP servers bringing offensive security tools to AI assistants. Nmap, Ghidra, Nuclei, SQLMap, Hashcat and more.
 - [trailofbits/skills](https://github.com/trailofbits/skills) - Trail of Bits Claude Code skills for security research, vulnerability detection, and audit workflows
 - [DenizParlak/heimdall](https://github.com/DenizParlak/heimdall) - AWS Attack Path Scanner - Discover privilege escalation paths across 10+ AWS services
+- [gibbok/typescript-book](https://github.com/gibbok/typescript-book) - The Concise TypeScript Book: A Concise Guide to Effective Development in TypeScript. Free and Open Source.
 - [stanfordnlp/dspy](https://github.com/stanfordnlp/dspy) - DSPy: The framework for programming—not prompting—language models
 - [kalil0321/reverse-api-engineer](https://github.com/kalil0321/reverse-api-engineer) - The agent that turns websites into APIs!
 - [FoundationAgents/OpenManus](https://github.com/FoundationAgents/OpenManus) - No fortress, purely open ground.  OpenManus is Coming.
@@ -2272,7 +2271,6 @@
 - [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
 - [Sessa93/remote-df](https://github.com/Sessa93/remote-df) - Run a remote Dwarf Fortress instance and connect to it using your browser!
 - [dtnewman/burn-baby-burn](https://github.com/dtnewman/burn-baby-burn) - Be the most productive engineer on your team 🚀🚀🚀
-- [0xNyk/council-of-high-intelligence](https://github.com/0xNyk/council-of-high-intelligence) - Structured multi-perspective deliberation for hard decisions. Run full councils, focused triads, or duo debates across Claude Code, Codex, Gemini CLI, and OpenCode.
 - [isene/chasm](https://github.com/isene/chasm) - CHasm — CHange to ASM. Pure x86_64 assembly Linux tools (bare, show, glass, tile).
 - [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) - A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, a
 - [keith/git-pile](https://github.com/keith/git-pile) - Stacked diff support for GitHub workflows
