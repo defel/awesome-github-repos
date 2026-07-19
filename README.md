@@ -2271,6 +2271,7 @@
 - [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
 - [Sessa93/remote-df](https://github.com/Sessa93/remote-df) - Run a remote Dwarf Fortress instance and connect to it using your browser!
 - [dtnewman/burn-baby-burn](https://github.com/dtnewman/burn-baby-burn) - Be the most productive engineer on your team 🚀🚀🚀
+- [0xNyk/council-of-high-intelligence](https://github.com/0xNyk/council-of-high-intelligence) - Structured multi-perspective deliberation for hard decisions. Run full councils, focused triads, or duo debates across Claude Code, Codex, Gemini CLI, and OpenCode.
 - [isene/chasm](https://github.com/isene/chasm) - CHasm — CHange to ASM. Pure x86_64 assembly Linux tools (bare, show, glass, tile).
 - [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) - A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, a
 - [keith/git-pile](https://github.com/keith/git-pile) - Stacked diff support for GitHub workflows
