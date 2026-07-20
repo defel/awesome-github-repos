@@ -197,6 +197,7 @@
 
 ## C++ 
 
+- [handy-computer/transcribe.cpp](https://github.com/handy-computer/transcribe.cpp) - ggml speech-to-text inference for 16+ model families
 - [BohemiaInteractive/CWR](https://github.com/BohemiaInteractive/CWR) - Arma: Cold War Assault Remastered Source Code Repository.
 - [staniks/worship-mirror](https://github.com/staniks/worship-mirror) - 3D first person shooter game.
 - [felt/tippecanoe](https://github.com/felt/tippecanoe) - Build vector tilesets from large collections of GeoJSON features.
@@ -1014,7 +1015,7 @@
 - [rsmbl/Resemble.js](https://github.com/rsmbl/Resemble.js) - Image analysis and comparison
 - [neilff/ng-redux-http-middleware](https://github.com/neilff/ng-redux-http-middleware) - $http middleware example for ngRedux
 - [rafaelrinaldi/hn-cli](https://github.com/rafaelrinaldi/hn-cli) - :newspaper: CLI to browse Hacker News
-- [semantic-release/semantic-release](https://github.com/semantic-release/semantic-release) - :package::rocket: Fully automated version management and package publishing
+- [semantic-release/semantic-release](https://github.com/semantic-release/semantic-release) - 📦🚀 Fully automated version management and package publishing
 - [bartonhammond/snowflake](https://github.com/bartonhammond/snowflake) - :snowflake: A React-Native Android iOS Starter App/ BoilerPlate / Example with Redux, RN Router,  & Jest with the Snowflake Hapi Server running locally or on RedHat OpenShift for the backend, or a Par
 - [kefirjs/kefir](https://github.com/kefirjs/kefir) - A Reactive Programming library for JavaScript
 - [elm-community/elm-webpack-starter](https://github.com/elm-community/elm-webpack-starter) - Boilerplate for developing Elm apps on Webpack
@@ -1733,6 +1734,8 @@
 
 ## Python 
 
+- [yexela/csess](https://github.com/yexela/csess) - Searchable, portable store for your Claude Code sessions — full-text search, AI titles, tags, fuzzy find, and resume any session in any folder.
+- [loopgain-ai/loopgain](https://github.com/loopgain-ai/loopgain) - An open-source cost controller for AI agent loops — stops a loop when it's actually converged and rolls back before it degrades, instead of running to a fixed max_iterations cap. Real-time loop-gain (
 - [sajjadium/ctf-archives](https://github.com/sajjadium/ctf-archives) - CTF Archives: Collection of CTF Challenges.
 - [61418/elhaz](https://github.com/61418/elhaz) - A local daemon-backed AWS temporary credential broker, exposed over a Unix socket and controlled via CLI.
 - [maziyarpanahi/openmed](https://github.com/maziyarpanahi/openmed) - Local-first healthcare AI: clinical NER & HIPAA PII de-identification that runs 100% on-device. 1,000+ medical models, 12 languages, Apple MLX + Python, no cloud, no patient data leaving your network.
@@ -2388,6 +2391,8 @@
 
 ## TypeScript 
 
+- [oxnw/agentrail](https://github.com/oxnw/agentrail) - 
+- [vercel-labs/deepsec](https://github.com/vercel-labs/deepsec) - Deepsec is a security harness for finding vulnerabilities in your codebase powered by coding agents
 - [toeverything/blocksuite](https://github.com/toeverything/blocksuite) - 🧩 Content editing tech stack for the web - BlockSuite is a toolkit for building editors and collaborative applications.
 - [tldraw/tldraw](https://github.com/tldraw/tldraw) - Build infinite canvas apps in React with the tldraw SDK. World's best, top-most agent recommended #1 five star SDK.
 - [antvis/Infographic](https://github.com/antvis/Infographic) - 🦋 An Infographic Generation and Rendering Framework, bring words to life with AI!
