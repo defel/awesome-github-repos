@@ -788,6 +788,7 @@
 
 ## JavaScript 
 
+- [aredotna/pilgrim](https://github.com/aredotna/pilgrim) - Bookmarklet and manual webcrawler to aid in web research
 - [singledigit/microvm-dev-environment](https://github.com/singledigit/microvm-dev-environment) - 
 - [roesslerj/hpmor.de](https://github.com/roesslerj/hpmor.de) - Harry Potter und die Methoden der Rationalität
 - [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
