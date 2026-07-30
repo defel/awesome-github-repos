@@ -38,7 +38,6 @@
 - [Janet](#janet)
 - [Java](#java)
 - [JavaScript](#javascript)
-- [Jinja](#jinja)
 - [Jupyter Notebook](#jupyter-notebook)
 - [Kotlin](#kotlin)
 - [Less](#less)
@@ -1165,7 +1164,7 @@
 - [SpiderStrategies/node-tweet-stream](https://github.com/SpiderStrategies/node-tweet-stream) - Node twitter module to hook into the public filter streaming, seamlessly updating the tracking keywords.
 - [mafintosh/peerflix](https://github.com/mafintosh/peerflix) - Streaming torrent client for node.js
 - [primus/primus](https://github.com/primus/primus) - :zap: Primus, the creator god of the transformers & an abstraction layer for real-time to prevent module lock-in.
-- [svg/svgo](https://github.com/svg/svgo) - ⚙️ Node.js tool for optimizing SVG files
+- [svg/svgo](https://github.com/svg/svgo) - SVG Optimizer for Node.js and CLI. ⚙️
 - [browserify/browserify-handbook](https://github.com/browserify/browserify-handbook) - how to build modular applications with browserify
 - [ldapjs/node-ldapjs](https://github.com/ldapjs/node-ldapjs) - LDAP Client and Server API for node.js
 - [conveyal/transitive.js](https://github.com/conveyal/transitive.js) - Transit data visualization
@@ -1347,10 +1346,6 @@
 - [jsdom/jsdom](https://github.com/jsdom/jsdom) - A JavaScript implementation of various web standards, for use with Node.js
 - [danwrong/restler](https://github.com/danwrong/restler) - REST client library for node.js
 - [faye/faye](https://github.com/faye/faye) - Simple pub/sub messaging for the web
-
-## Jinja 
-
-- [plexavo/Plexavo](https://github.com/plexavo/Plexavo) - AWS focused cloud security misconfiguration scanner
 
 ## Jupyter Notebook 
 
@@ -1747,9 +1742,11 @@
 
 ## Python 
 
+- [aws-bench/aws-bench](https://github.com/aws-bench/aws-bench) - aws-bench measures how well AI agents and model combinations perform on real AWS work — diagnosing misconfigurations, provisioning infrastructure, and operating live cloud environments.
 - [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) - A skill for your coding agent to stop it from burying the answer. ADHD-friendly output.
 - [AlmanacCode/Yoke](https://github.com/AlmanacCode/Yoke) - A provider-neutral Python SDK for building agent systems on Claude Code and Codex.
 - [capitalone/VulnHunter](https://github.com/capitalone/VulnHunter) - Agentic AI security tool that applies proactive, attacker-first analysis directly to source code.
+- [plexavo/Plexavo](https://github.com/plexavo/Plexavo) - AWS focused cloud security misconfiguration scanner
 - [toborrm9/malicious_extension_sentry](https://github.com/toborrm9/malicious_extension_sentry) - Malicious Extension Database
 - [yexela/csess](https://github.com/yexela/csess) - Searchable, portable store for your Claude Code sessions — full-text search, AI titles, tags, fuzzy find, and resume any session in any folder.
 - [loopgain-ai/loopgain](https://github.com/loopgain-ai/loopgain) - An open-source cost controller for AI agent loops — stops a loop when it's actually converged and rolls back before it degrades, instead of running to a fixed max_iterations cap. Real-time loop-gain (
@@ -1779,6 +1776,7 @@
 - [NickTikhonov/shuo](https://github.com/NickTikhonov/shuo) - sub-500ms latency phone agent orchestration
 - [kiwiz/gkeepapi](https://github.com/kiwiz/gkeepapi) - An unofficial client for the Google Keep API.
 - [teng-lin/notebooklm-py](https://github.com/teng-lin/notebooklm-py) - Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic access to NotebookLM's features—including capabilities the web UI doesn't expose—via Python, CLI, and AI agents like Cl
+- [mem0ai/mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents
 - [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) - AI Observability & Evaluation
 - [guillevc/yubal](https://github.com/guillevc/yubal) - Self-hosted YouTube Music downloader. Tags, organizes, and keeps playlists in sync.
 - [llmsresearch/paperbanana](https://github.com/llmsresearch/paperbanana) - Open source implementation and extension of Google Research’s PaperBanana for automated academic figures, diagrams, and research visuals, expanded to new domains like slide generation.
@@ -2121,6 +2119,7 @@
 
 ## Rust 
 
+- [isene/starmap](https://github.com/isene/starmap) - The naked-eye sky in braille: 9,096 stars with distances, constellation figures, two projections, and an interactive star picker (Fe2O3 suite)
 - [mpiorowski/late-sh](https://github.com/mpiorowski/late-sh) - A cozy terminal clubhouse for developers. Lofi beats, casual games, chat, and tech news, all via SSH.
 - [MaximeRivest/riddle](https://github.com/MaximeRivest/riddle) - The diary of Tom Riddle for the reMarkable Paper Pro — write with your pen, the page drinks your ink and answers in a flowing hand
 - [tensorzero/tensorzero](https://github.com/tensorzero/tensorzero) - TensorZero is an open-source LLMOps platform that unifies an LLM gateway, observability, evaluation, optimization, and experimentation.
@@ -2409,6 +2408,8 @@
 
 ## TypeScript 
 
+- [pixel-point/toolcraft](https://github.com/pixel-point/toolcraft) - A starter kit and UI library for building custom design apps with AI.
+- [datajournal-org/eclipse-2026](https://github.com/datajournal-org/eclipse-2026) - 
 - [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: prototypes, landing pages, dashboards, slides, images & video — real files, HTM
 - [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) - Write HTML. Render video. Built for agents.
 - [AlmanacCode/codealmanac](https://github.com/AlmanacCode/codealmanac) - A codebase wiki for AI coding agents. Captures what the code can't say: decisions, flows, invariants, gotchas.
@@ -2433,7 +2434,7 @@
 - [chenglou/pretext](https://github.com/chenglou/pretext) - Fast, accurate & comprehensive text measurement & layout
 - [emdash-cms/emdash](https://github.com/emdash-cms/emdash) - EmDash is a full-stack TypeScript CMS based on Astro; the spiritual successor to WordPress
 - [MikeNotThePope/a8f3k2x9q7](https://github.com/MikeNotThePope/a8f3k2x9q7) - A neobrutalist React component library built on Radix UI primitives, CSS custom properties, and Tailwind CSS v4.
-- [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) - Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.
+- [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) - Project NOMAD is an offline-first knowledge and education server. Wikipedia, thousands of books, courses, maps, and optional local AI, all running on hardware you own with no internet required.
 - [flowing-abyss/obsidian-hybrid-search](https://github.com/flowing-abyss/obsidian-hybrid-search) - Hybrid search over your Obsidian vault – CLI and MCP server
 - [TfTHacker/group-enhancer-for-bases](https://github.com/TfTHacker/group-enhancer-for-bases) - Enhances the base functionality of bases group features
 - [NeoVertex1/nuggets](https://github.com/NeoVertex1/nuggets) - First AI assistant with holographic memory
@@ -2445,7 +2446,6 @@
 - [TfTHacker/timeline-for-bases](https://github.com/TfTHacker/timeline-for-bases) - Timeline view for Bases in Obsidain
 - [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) - Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click
 - [dmno-dev/varlock](https://github.com/dmno-dev/varlock) - AI-safe .env files: Schemas for agents, Secrets for humans.
-- [mem0ai/mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents
 - [DataAnts-AI/CutScript](https://github.com/DataAnts-AI/CutScript) - Open-source AI-powered text-based video editor. Edit video by editing text.
 - [comarkdown/comark](https://github.com/comarkdown/comark) - A high-performance Markdown parser and renderer for Angular, React, Svelte, Vue, HTML and ANSI.
 - [stackables/bridge](https://github.com/stackables/bridge) - Declarative dataflow for GraphQL
@@ -2457,7 +2457,7 @@
 - [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat) - Open-source AI coworker, with memory
 - [mrmrs/line-art](https://github.com/mrmrs/line-art) - svg web app for pen plotters
 - [different-ai/openwork](https://github.com/different-ai/openwork) - The open-source alternative to Claude Cowork (powered by opencode)
-- [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) - Shannon is an autonomous, white-box AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before they
+- [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) - Shannon is an AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before they reach production.
 - [MedGm/Ollie](https://github.com/MedGm/Ollie) - A fast, Linux‑native desktop GUI for Ollama. Built with Tauri 2 (Rust) and React + TypeScript.
 - [earendil-works/gondolin](https://github.com/earendil-works/gondolin) - Experimental Linux microvm setup with a TypeScript Control Plane as Agent Sandbox
 - [earendil-works/pi](https://github.com/earendil-works/pi) - AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
