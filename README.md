@@ -543,7 +543,7 @@
 - [pyrra-dev/pyrra](https://github.com/pyrra-dev/pyrra) - Making SLOs with Prometheus manageable, accessible, and easy to use for everyone!
 - [ergochat/ergo](https://github.com/ergochat/ergo) - A modern IRC server (daemon/ircd) written in Go.
 - [FiloSottile/age](https://github.com/FiloSottile/age) - A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.
-- [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser) - 📂 Web File Browser
+- [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser) - File Browser provides a file managing interface within a specified directory and it can be used to upload, delete, preview and edit your files.
 - [johnkerl/miller](https://github.com/johnkerl/miller) - Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON
 - [grafana-cold-storage/agent](https://github.com/grafana-cold-storage/agent) - Vendor-neutral programmable observability pipelines.
 - [t73fde/zettelstore](https://github.com/t73fde/zettelstore) - Digital zettelkasten; mirror of https://zettelstore.de
@@ -789,6 +789,7 @@
 
 ## JavaScript 
 
+- [mokshablr/gander](https://github.com/mokshablr/gander) - Take a gander at any file. Offline, zero-permission Android viewer for PDF, Word, Excel, PowerPoint, photos, video, audio, Markdown and code.
 - [aredotna/pilgrim](https://github.com/aredotna/pilgrim) - Bookmarklet and manual webcrawler to aid in web research
 - [singledigit/microvm-dev-environment](https://github.com/singledigit/microvm-dev-environment) - 
 - [roesslerj/hpmor.de](https://github.com/roesslerj/hpmor.de) - Harry Potter und die Methoden der Rationalität
@@ -1741,7 +1742,7 @@
 ## Python 
 
 - [aws-bench/aws-bench](https://github.com/aws-bench/aws-bench) - aws-bench measures how well AI agents and model combinations perform on real AWS work — diagnosing misconfigurations, provisioning infrastructure, and operating live cloud environments.
-- [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) - A skill for your coding agent to stop it from burying the answer. ADHD-friendly output.
+- [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) - A skill to stop your coding agent from burying the answer. ADHD-friendly output.
 - [AlmanacCode/Yoke](https://github.com/AlmanacCode/Yoke) - A provider-neutral Python SDK for building agent systems on Claude Code and Codex.
 - [capitalone/VulnHunter](https://github.com/capitalone/VulnHunter) - Agentic AI security tool that applies proactive, attacker-first analysis directly to source code.
 - [plexavo/Plexavo](https://github.com/plexavo/Plexavo) - AWS focused cloud security misconfiguration scanner
@@ -2407,6 +2408,7 @@
 
 ## TypeScript 
 
+- [yc-software/qm](https://github.com/yc-software/qm) - Multiplayer agent harness for work
 - [pixel-point/toolcraft](https://github.com/pixel-point/toolcraft) - A starter kit and UI library for building custom design apps with AI.
 - [datajournal-org/eclipse-2026](https://github.com/datajournal-org/eclipse-2026) - 
 - [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: prototypes, landing pages, dashboards, slides, images & video — real files, HTM
