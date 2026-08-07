@@ -592,7 +592,7 @@
 - [jpbruinsslot/slack-term](https://github.com/jpbruinsslot/slack-term) - Slack client for your terminal
 - [getsops/sops](https://github.com/getsops/sops) - Simple and flexible tool for managing secrets
 - [influxdata/telegraf](https://github.com/influxdata/telegraf) - Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.
-- [asciimoo/wuzz](https://github.com/asciimoo/wuzz) - Interactive cli tool for HTTP inspection -  9CognyciQwKpcXqoiPx8nu7hU1JL8Tu2oZdKKS8Ppump
+- [asciimoo/wuzz](https://github.com/asciimoo/wuzz) - Interactive cli tool for HTTP inspection
 - [rebuy-de/aws-nuke](https://github.com/rebuy-de/aws-nuke) - Nuke a whole AWS account and delete all its resources.
 - [ericfreese/rat](https://github.com/ericfreese/rat) - Compose shell commands to build interactive terminal applications
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Release engineering, simplified
@@ -1859,9 +1859,7 @@
 - [lm-sys/RouteLLM](https://github.com/lm-sys/RouteLLM) - A framework for serving and evaluating LLM routers - save LLM costs without compromising quality
 - [Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern) - Automate browser based workflows with AI
 - [PyCQA/bandit](https://github.com/PyCQA/bandit) - Bandit is a tool designed to find common security issues in Python code.
-- [anthropics/claude-quickstarts](https://github.com/anthropics/claude-quickstarts) - A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API
 - [amoffat/sh](https://github.com/amoffat/sh) - Python process launching
-- [ZacharyZhang-NY/Ollama-Engineer](https://github.com/ZacharyZhang-NY/Ollama-Engineer) - 
 - [vincentkoc/airgapped-offfline-rag](https://github.com/vincentkoc/airgapped-offfline-rag) - Secure, locally-run Retrieval-Augmented Generation system for document-based question-answering, utilizing Llama 3, Mistral, and Gemini models with a user-friendly Streamlit interface.
 - [SocketDev/security-wrapper](https://github.com/SocketDev/security-wrapper) - 
 - [j6k4m8/remarkapy](https://github.com/j6k4m8/remarkapy) - 
@@ -2420,6 +2418,7 @@
 
 ## TypeScript 
 
+- [PrimeIntellect-ai/prime-agent](https://github.com/PrimeIntellect-ai/prime-agent) - A self-improving RLM agent for coding workflows and long-running autonomous tasks.
 - [cloudflare/cloudflare-os](https://github.com/cloudflare/cloudflare-os) - Agent workspace built on Cloudflare Workers for creating documents, building apps, and running agents with your company’s context and systems.
 - [MrLesk/Groma.md](https://github.com/MrLesk/Groma.md) - Local-first architectural blueprints for humans and AI agents
 - [pengelbrecht/ticks](https://github.com/pengelbrecht/ticks) - 
@@ -2456,7 +2455,7 @@
 - [emdash-cms/emdash](https://github.com/emdash-cms/emdash) - EmDash is a full-stack TypeScript CMS based on Astro; the spiritual successor to WordPress
 - [MikeNotThePope/a8f3k2x9q7](https://github.com/MikeNotThePope/a8f3k2x9q7) - A neobrutalist React component library built on Radix UI primitives, CSS custom properties, and Tailwind CSS v4.
 - [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) - Project NOMAD is an offline-first knowledge and education server. Wikipedia, thousands of books, courses, maps, and optional local AI, all running on hardware you own with no internet required.
-- [flowing-abyss/obsidian-hybrid-search](https://github.com/flowing-abyss/obsidian-hybrid-search) - Hybrid search over your Obsidian vault – CLI and MCP server
+- [flowing-abyss/obsidian-hybrid-search](https://github.com/flowing-abyss/obsidian-hybrid-search) - Hybrid search for Obsidian vaults via plugin, CLI, and MCP server
 - [TfTHacker/group-enhancer-for-bases](https://github.com/TfTHacker/group-enhancer-for-bases) - Enhances the base functionality of bases group features
 - [NeoVertex1/nuggets](https://github.com/NeoVertex1/nuggets) - First AI assistant with holographic memory
 - [formation-res/querylight-ts](https://github.com/formation-res/querylight-ts) - Search library for static websites. Bm25, faceting, Sparse & dense vector search, reciprocal rank fusion for hybrid search. Perfect for small sites and blogs.
@@ -2533,6 +2532,7 @@
 - [javierarce/arena-manager](https://github.com/javierarce/arena-manager) - Publish content from Obsidian to Are.na and the other way around.
 - [step-security/harden-runner](https://github.com/step-security/harden-runner) - Harden-Runner is a CI/CD security agent that works like an EDR for GitHub Actions runners. It monitors network egress, file integrity, and process activity on those runners, detecting threats in real-
 - [sanity-io/sanity](https://github.com/sanity-io/sanity) - Sanity Studio – Rapidly configure content workspaces powered by structured content
+- [anthropics/claude-quickstarts](https://github.com/anthropics/claude-quickstarts) - A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API
 - [chrnorm/build-your-own-cloudtrail](https://github.com/chrnorm/build-your-own-cloudtrail) - 
 - [mountain-loop/yaak](https://github.com/mountain-loop/yaak) - The most intuitive desktop API client. Organize and execute REST, GraphQL, WebSockets, Server Sent Events, and gRPC 🦬
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
