@@ -793,7 +793,6 @@
 
 ## JavaScript 
 
-- [0xwilliamortiz/claude-red](https://github.com/0xwilliamortiz/claude-red) - claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a spec
 - [paperjs/paper.js](https://github.com/paperjs/paper.js) - The Swiss Army Knife of Vector Graphics Scripting – Scriptographer ported to JavaScript and the browser, using HTML5 Canvas. Created by @lehni & @puckey
 - [ondras/rot.js](https://github.com/ondras/rot.js) - ROguelike Toolkit in JavaScript. Cool dungeon-related stuff, interactive manual, documentation, tests!
 - [mokshablr/gander](https://github.com/mokshablr/gander) - Take a gander at any file. Offline, zero-permission Android viewer for PDF, Word, Excel, PowerPoint, photos, video, audio, Markdown and code.
@@ -2127,6 +2126,7 @@
 
 ## Rust 
 
+- [herdrdev/herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on
 - [firecrawl/pdf-inspector](https://github.com/firecrawl/pdf-inspector) - Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.
 - [isene/starmap](https://github.com/isene/starmap) - The naked-eye sky in braille: 9,096 stars with distances, constellation figures, two projections, and an interactive star picker (Fe2O3 suite)
 - [mpiorowski/late-sh](https://github.com/mpiorowski/late-sh) - A cozy terminal clubhouse for developers. Lofi beats, casual games, chat, and tech news, all via SSH.
@@ -2418,6 +2418,8 @@
 
 ## TypeScript 
 
+- [mantinedev/mantine](https://github.com/mantinedev/mantine) - A fully featured React components library
+- [callumalpass/mdbase](https://github.com/callumalpass/mdbase) - TypeScript implementation of the mdbase specification
 - [PrimeIntellect-ai/prime-agent](https://github.com/PrimeIntellect-ai/prime-agent) - A self-improving RLM agent for coding workflows and long-running autonomous tasks.
 - [cloudflare/cloudflare-os](https://github.com/cloudflare/cloudflare-os) - Agent workspace built on Cloudflare Workers for creating documents, building apps, and running agents with your company’s context and systems.
 - [MrLesk/Groma.md](https://github.com/MrLesk/Groma.md) - Local-first architectural blueprints for humans and AI agents
