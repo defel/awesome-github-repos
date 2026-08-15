@@ -384,8 +384,10 @@
 
 ## Go 
 
+- [cynative/cynative](https://github.com/cynative/cynative) - Build your own security agents. Open-source framework for agents with live, read-only access to your infrastructure, with no path to widen it. Reasons across AWS, GCP, Azure, Kubernetes, GitHub and Gi
 - [joerdav/xc](https://github.com/joerdav/xc) - Markdown defined task runner.
 - [signalnine/bd](https://github.com/signalnine/bd) - Dependency-aware issue tracker for AI agents built on Dolt version-controlled SQL, a stripped-down fork of beads
+- [pengelbrecht/ticks](https://github.com/pengelbrecht/ticks) - 
 - [gastownhall/beads](https://github.com/gastownhall/beads) - Beads - A memory upgrade for your coding agent
 - [Untrivial-ai/agent-orchestrator](https://github.com/Untrivial-ai/agent-orchestrator) - Agent IDE that enables you to manage fleets of coding agents. It comes with an agentic orchestrator that plans tasks, spawns agents, and autonomously handles CI fixes, merge conflicts, and code review
 - [anchore/syft](https://github.com/anchore/syft) - CLI tool and library for generating a Software Bill of Materials from container images and filesystems
@@ -1490,6 +1492,7 @@
 
 ## Others 
 
+- [ErikMcClure/bad-licenses](https://github.com/ErikMcClure/bad-licenses) - A compendium of absurd "open-source" licenses.
 - [johnmccabe/mitmweb-docker](https://github.com/johnmccabe/mitmweb-docker) - Docker image for the mitmproxy web interface mitmweb
 - [elder-plinius/CL4R1T4S](https://github.com/elder-plinius/CL4R1T4S) - LEAKED SYSTEM PROMPTS FOR CHATGPT, CLAUDE, GEMINI, GROK, PERPLEXITY, CURSOR, LOVABLE, REPLIT, AND MORE! - AI SYSTEMS TRANSPARENCY FOR ALL! 👐
 - [jasonswett/llm-skills](https://github.com/jasonswett/llm-skills) - Shared skills for AI coding assistants (Claude Code, Codex, etc.)
@@ -1750,6 +1753,7 @@
 
 ## Python 
 
+- [dmellok/tesserae](https://github.com/dmellok/tesserae) - E-ink dashboard companion. Compose dashboards in a browser, render server-side, and push to e-ink panels over REST or MQTT.
 - [henriquebastos/beans](https://github.com/henriquebastos/beans) - Graph-based issue tracker for AI agent coordination
 - [uber/ADR](https://github.com/uber/ADR) - ADR secures enterprise AI agents through observability, security benchmarking, and threat detection. Deployed at Uber.
 - [aws-bench/aws-bench](https://github.com/aws-bench/aws-bench) - aws-bench measures how well AI agents and model combinations perform on real AWS work — diagnosing misconfigurations, provisioning infrastructure, and operating live cloud environments.
@@ -1777,7 +1781,7 @@
 - [aelaguiz/doctrine](https://github.com/aelaguiz/doctrine) - Code-like DSL and compiler for agent workflows that compile to portable AGENTS.md instructions.
 - [Q00/ouroboros](https://github.com/Q00/ouroboros) - Agent OS: the agent gets smarter on its own. We just hold the line: the grading command and expected result never make it into the success contract we hand it. Interview-gated, staged evaluation, budg
 - [av/harbor](https://github.com/av/harbor) - Stop configuring your AI stack. Start using it. One command brings a complete pre-wired LLM stack with hundreds of services to explore.
-- [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) - An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms
+- [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) - An AI skill that provides design intelligence for building professional UI/UX across multiple platforms.
 - [p-e-w/heretic](https://github.com/p-e-w/heretic) - Fully automatic censorship removal for language models
 - [volcengine/OpenViking](https://github.com/volcengine/OpenViking) - Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.
 - [oOo0oOo/lean-lsp-mcp](https://github.com/oOo0oOo/lean-lsp-mcp) - Lean Theorem Prover MCP
@@ -1852,7 +1856,7 @@
 - [shade40/Celadon](https://github.com/shade40/Celadon) - A modern TUI library taking the right lessons from the web.
 - [shade40/Slate](https://github.com/shade40/Slate) - A powerful terminal management library.
 - [yadm-dev/yadm](https://github.com/yadm-dev/yadm) - Yet Another Dotfiles Manager
-- [pydantic/pydantic-ai](https://github.com/pydantic/pydantic-ai) - AI Agent Framework, the Pydantic way
+- [pydantic/pydantic-ai](https://github.com/pydantic/pydantic-ai) - How Python does AI: agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end.
 - [welldone-cloud/aws-lint-iam-policies](https://github.com/welldone-cloud/aws-lint-iam-policies) - Runs IAM policy linting and security checks against either a single AWS account or multiple member accounts of an AWS Organization.
 - [circlemind-ai/fast-graphrag](https://github.com/circlemind-ai/fast-graphrag) - RAG that intelligently adapts to your use case, data, and queries
 - [OTRF/ThreatHunter-Playbook](https://github.com/OTRF/ThreatHunter-Playbook) - A community-driven, open-source project to share detection logic, adversary tradecraft and resources to make detection development more efficient.
@@ -1938,7 +1942,7 @@
 - [py-pdf/fpdf2](https://github.com/py-pdf/fpdf2) - Simple PDF generation for Python
 - [markqvist/Reticulum](https://github.com/markqvist/Reticulum) - The cryptography-based networking stack for building unstoppable networks with LoRa, Packet Radio, WiFi and everything in between.
 - [deter0/xborder](https://github.com/deter0/xborder) - Active window border replacement for window managers.
-- [toluaina/pgsync](https://github.com/toluaina/pgsync) - Postgres to Elasticsearch/OpenSearch sync
+- [toluaina/pgsync](https://github.com/toluaina/pgsync) - Postgres, MySQL, or MariaDB  to Elasticsearch/OpenSearch sync
 - [kizniche/Mycodo](https://github.com/kizniche/Mycodo) - An environmental monitoring and regulation system
 - [jaredtrog/cfplot](https://github.com/jaredtrog/cfplot) - A simple tool to generate waterfall graphs of CloudFormation Templates
 - [andreheuer/grocy-create-product](https://github.com/andreheuer/grocy-create-product) - 
@@ -2128,6 +2132,8 @@
 
 ## Rust 
 
+- [Cateds/opencode-stats](https://github.com/Cateds/opencode-stats) - A terminal dashboard for tracking your OpenCode usage statistics - tokens, costs, models, and activity heatmap.
+- [ad-si/Woxi](https://github.com/ad-si/Woxi) - Wolfram Language / Mathematica reimplementation in Rust (Wolfram oxidized)
 - [denoland/celld](https://github.com/denoland/celld) - self-hosted, distributed Durable Objects
 - [nolabs-ai/nono](https://github.com/nolabs-ai/nono) - Sandbox any AI agent in seconds - zero setup, zero latency.
 - [herdrdev/herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on
@@ -2422,6 +2428,9 @@
 
 ## TypeScript 
 
+- [dmmulroy/anti-slop](https://github.com/dmmulroy/anti-slop) - Opinionated Oxlint rules for rejecting low-evidence TypeScript and JavaScript patterns
+- [kepano/obsidian-dataview](https://github.com/kepano/obsidian-dataview) - A data index and query language over Markdown files, for https://obsidian.md/.
+- [inkeep/open-knowledge](https://github.com/inkeep/open-knowledge) - Beautiful, AI-native markdown IDE and LLM wiki
 - [ouijit/ouijit](https://github.com/ouijit/ouijit) - Git worktree-based task manager with integrated terminals for CLI coding agents
 - [stablyai/orca](https://github.com/stablyai/orca) - Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS.
 - [getpaseo/paseo](https://github.com/getpaseo/paseo) - Orchestrate multiple coding agents from desktop and mobile
@@ -2431,13 +2440,12 @@
 - [PrimeIntellect-ai/prime-agent](https://github.com/PrimeIntellect-ai/prime-agent) - A self-improving RLM agent for coding workflows and long-running autonomous tasks.
 - [cloudflare/cloudflare-os](https://github.com/cloudflare/cloudflare-os) - Agent workspace built on Cloudflare Workers for creating documents, building apps, and running agents with your company’s context and systems.
 - [MrLesk/Groma.md](https://github.com/MrLesk/Groma.md) - Local-first architectural blueprints for humans and AI agents
-- [pengelbrecht/ticks](https://github.com/pengelbrecht/ticks) - 
 - [obsfx/trekker](https://github.com/obsfx/trekker) - Simple opinionated issue tracker for AI Agents
 - [ruvnet/ruflo](https://github.com/ruvnet/ruflo) - 🌊 The original agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, R
 - [octanejs/octane](https://github.com/octanejs/octane) - React’s programming model, compiled. The successor to Inferno.
 - [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, me
 - [jacomyal/sigma.js](https://github.com/jacomyal/sigma.js) - A JavaScript library aimed at visualizing graphs of thousands of nodes and edges
-- [yc-software/qm](https://github.com/yc-software/qm) - Multiplayer agent harness for work
+- [yc-software/qm](https://github.com/yc-software/qm) - Multiplayer agent harness for work.
 - [pixel-point/toolcraft](https://github.com/pixel-point/toolcraft) - A starter kit and UI library for building custom design apps with AI.
 - [datajournal-org/eclipse-2026](https://github.com/datajournal-org/eclipse-2026) - 
 - [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: prototypes, landing pages, dashboards, slides, images & video — real files, HTM
@@ -2456,7 +2464,7 @@
 - [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers
 - [davebcn87/pi-autoresearch](https://github.com/davebcn87/pi-autoresearch) - Autonomous experiment loop extension for pi
 - [OpenRouterLabs/spawn](https://github.com/OpenRouterLabs/spawn) - Spawn any agent, on any cloud
-- [anomalyco/opentui](https://github.com/anomalyco/opentui) - OpenTUI is a library for building terminal user interfaces (TUIs)
+- [anomalyco/opentui](https://github.com/anomalyco/opentui) - OpenTUI is a library to build terminal user interfaces (TUI)
 - [jlevy/tbd](https://github.com/jlevy/tbd) - Beads, planning, and knowledge injection for AI coding agents
 - [pierrecomputer/pierre](https://github.com/pierrecomputer/pierre) - pierre’s open source code
 - [nicobailon/pi-messenger](https://github.com/nicobailon/pi-messenger) - Multi-agent communication extension for pi coding agent
