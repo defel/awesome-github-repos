@@ -214,7 +214,7 @@
 - [jank-lang/jank](https://github.com/jank-lang/jank) - jank is the native Clojure dialect with seamless C++ interop.
 - [vicinaehq/vicinae](https://github.com/vicinaehq/vicinae) - A focused launcher for your desktop - native, fast, extensible
 - [systemed/tilemaker](https://github.com/systemed/tilemaker) - Make OpenStreetMap vector tiles without the stack
-- [TailsmanDesign/PocketMage_PDA](https://github.com/TailsmanDesign/PocketMage_PDA) - An E-Ink PDA device using the ESP32 S3.
+- [TalismanDesign/PocketMage_PDA](https://github.com/TalismanDesign/PocketMage_PDA) - An E-Ink PDA device using the ESP32 S3.
 - [man-group/ArcticDB](https://github.com/man-group/ArcticDB) - ArcticDB is a high performance, serverless DataFrame database built for the Python Data Science ecosystem.
 - [zen-browser/desktop](https://github.com/zen-browser/desktop) - Welcome to a calmer internet
 - [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) - Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.
