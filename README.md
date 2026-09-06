@@ -387,9 +387,10 @@
 
 ## Go 
 
+- [basecamp/hey-cli](https://github.com/basecamp/hey-cli) - HEY CLI and Agent Skills
 - [gocolly/colly](https://github.com/gocolly/colly) - Elegant Scraper and Crawler Framework for Golang
 - [ffuf/pencode](https://github.com/ffuf/pencode) - Complex payload encoder
-- [cynative/cynative](https://github.com/cynative/cynative) - Build your own security agents. Open-source framework for agents with live, read-only access to your infrastructure, with no path to widen it. Reasons across AWS, GCP, Azure, Kubernetes, GitHub and Gi
+- [cynative/cynative](https://github.com/cynative/cynative) - Open-source framework for security agents with live, read-only access to your infrastructure. Audit AWS, GCP, Azure, Kubernetes, GitHub and GitLab as one system for privilege escalation, public exposu
 - [joerdav/xc](https://github.com/joerdav/xc) - Markdown defined task runner.
 - [signalnine/bd](https://github.com/signalnine/bd) - Dependency-aware issue tracker for AI agents built on Dolt version-controlled SQL, a stripped-down fork of beads
 - [pengelbrecht/ticks](https://github.com/pengelbrecht/ticks) - 
@@ -803,6 +804,7 @@
 
 ## JavaScript 
 
+- [davatron5000/microlighter](https://github.com/davatron5000/microlighter) - A zero-dep syntax highlighter that uses the CSS Highlights API
 - [arrrrrmin/arrrrrmin.dev](https://github.com/arrrrrmin/arrrrrmin.dev) - Code for a blog-ish learning journey project on datavis, charting and data in general.
 - [paperjs/paper.js](https://github.com/paperjs/paper.js) - The Swiss Army Knife of Vector Graphics Scripting – Scriptographer ported to JavaScript and the browser, using HTML5 Canvas. Created by @lehni & @puckey
 - [ondras/rot.js](https://github.com/ondras/rot.js) - ROguelike Toolkit in JavaScript. Cool dungeon-related stuff, interactive manual, documentation, tests!
@@ -910,6 +912,7 @@
 - [thesephist/monocle](https://github.com/thesephist/monocle) - Universal personal search engine, powered by a full text search algorithm written in pure Ink, indexing Linus's blogs and private note archives, contacts, tweets, and over a decade of journals.
 - [stilliard/github-task-list-completed](https://github.com/stilliard/github-task-list-completed) - GitHub - Task list completed PR check
 - [sveltejs/svelte](https://github.com/sveltejs/svelte) - web development for the rest of us
+- [architecture-decision-record/architecture-decision-record](https://github.com/architecture-decision-record/architecture-decision-record) - Architecture decision record (ADR) examples for software planning, IT leadership, and template documentation
 - [imba/imba](https://github.com/imba/imba) - 🐤 The friendly full-stack language
 - [mafintosh/queue-tick](https://github.com/mafintosh/queue-tick) - Next tick shim that prefers process.nextTick over queueMicrotask for compat
 - [conventional-changelog/standard-version](https://github.com/conventional-changelog/standard-version) - :trophy: Automate versioning and CHANGELOG generation, with semver.org and conventionalcommits.org
@@ -1260,7 +1263,7 @@
 - [xmppjs/xmpp.js](https://github.com/xmppjs/xmpp.js) - XMPP for JavaScript
 - [mtttmpl/speak-js](https://github.com/mtttmpl/speak-js) - Text-to-Speech in JavaScript
 - [remy/polyfills](https://github.com/remy/polyfills) - Collection of polyfills that I've written
-- [Unitech/pm2](https://github.com/Unitech/pm2) - Node.js/Bun Production Process Manager with a built-in Load Balancer.
+- [Unitech/pm2](https://github.com/Unitech/pm2) - Node.js/Typescript/Bun Production Process Manager with a built-in Load Balancer.
 - [svgdotjs/svg.js](https://github.com/svgdotjs/svg.js) - The lightweight library for manipulating and animating SVG
 - [tj/punt](https://github.com/tj/punt) - Elegant UDP messaging for nodejs
 - [astro/bitford](https://github.com/astro/bitford) - BitTorrent Client in a Chrome Packaged App
@@ -1590,7 +1593,6 @@
 - [hantuzun/awesome-clojurescript](https://github.com/hantuzun/awesome-clojurescript) - A community driven list of ClojureScript frameworks, libraries and wrappers.
 - [johnkerl/miller](https://github.com/johnkerl/miller) - Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON
 - [mswjs/examples](https://github.com/mswjs/examples) - Mock Service Worker usage examples.
-- [architecture-decision-record/architecture-decision-record](https://github.com/architecture-decision-record/architecture-decision-record) - Architecture decision record (ADR) examples for software planning, IT leadership, and template documentation
 - [prathyvsh/pl-catalog](https://github.com/prathyvsh/pl-catalog) - A catalog of programming languages
 - [kuchin/awesome-cto](https://github.com/kuchin/awesome-cto) - A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups
 - [joshbuchea/HEAD](https://github.com/joshbuchea/HEAD) - A simple guide to HTML &lt;head&gt; elements
@@ -1660,7 +1662,7 @@
 - [dictcp/awesome-git](https://github.com/dictcp/awesome-git) - A curated list of amazingly awesome Git tools, resources and shiny things
 - [gocardless/angularjs-style-guide](https://github.com/gocardless/angularjs-style-guide) - AngularJS style guide used at GoCardless
 - [sindresorhus/amas](https://github.com/sindresorhus/amas) - Awesome & Marvelous Amas
-- [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - :zap: Delightful Node.js packages and resources [BECAUSE OF TOO MUCH SPAM AND LOW-QUALITY SUBMISSIONS, SUBMISSIONS ARE PAUSED UNTIL JULY]
+- [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - :zap: Delightful Node.js packages and resources [BECAUSE OF TOO MUCH SPAM AND LOW-QUALITY SUBMISSIONS, SUBMISSIONS ARE PAUSED TEMPORARILY]
 - [wsargent/docker-cheat-sheet](https://github.com/wsargent/docker-cheat-sheet) - Docker Cheat Sheet
 - [timoxley/best-practices](https://github.com/timoxley/best-practices) - Tidbits of developer best practices from around the web
 - [yoshuawuyts/knowledge](https://github.com/yoshuawuyts/knowledge) - notes on things
@@ -1791,7 +1793,7 @@
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
 - [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) - Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, e
 - [aelaguiz/doctrine](https://github.com/aelaguiz/doctrine) - Code-like DSL and compiler for agent workflows that compile to portable AGENTS.md instructions.
-- [Q00/ouroboros](https://github.com/Q00/ouroboros) - Agent OS: the agent gets smarter on its own. We just hold the line: the grading command and expected result never make it into the success contract we hand it. Interview-gated, staged evaluation, budg
+- [Q00/ouroboros](https://github.com/Q00/ouroboros) - Agent OS: the agent gets smarter on its own. We just hold the line: Interview-gated, staged evaluation, budgeted evolution loop. MCP server, 14 runtimes: Claude Code, Codex CLI, Gemini CLI, OpenCode, 
 - [av/harbor](https://github.com/av/harbor) - Stop configuring your AI stack. Start using it. One command brings a complete pre-wired LLM stack with hundreds of services to explore.
 - [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) - An AI skill that provides design intelligence for building professional UI/UX across multiple platforms.
 - [p-e-w/heretic](https://github.com/p-e-w/heretic) - Fully automatic censorship removal for language models
@@ -2449,7 +2451,7 @@
 - [kepano/obsidian-dataview](https://github.com/kepano/obsidian-dataview) - A data index and query language over Markdown files, for https://obsidian.md/.
 - [inkeep/open-knowledge](https://github.com/inkeep/open-knowledge) - Beautiful, AI-native markdown IDE and LLM wiki
 - [ouijit/ouijit](https://github.com/ouijit/ouijit) - Git worktree-based task manager with integrated terminals for CLI coding agents
-- [stablyai/orca](https://github.com/stablyai/orca) - Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS.
+- [stablyai/orca](https://github.com/stablyai/orca) - Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.
 - [getpaseo/paseo](https://github.com/getpaseo/paseo) - Orchestrate multiple coding agents from desktop and mobile
 - [openchamber/openchamber](https://github.com/openchamber/openchamber) - Agentic Development Environment based on OpenCode AI agent
 - [mantinedev/mantine](https://github.com/mantinedev/mantine) - A fully featured React components library
