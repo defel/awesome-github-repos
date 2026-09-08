@@ -819,7 +819,7 @@
 - [pbakaus/impeccable](https://github.com/pbakaus/impeccable) - The design language that makes your AI harness better at design.
 - [andrewyng/context-hub](https://github.com/andrewyng/context-hub) - 
 - [jakubkozera/openapi-ui](https://github.com/jakubkozera/openapi-ui) - A modern, feature-rich OpenAPI/Swagger documentation and testing interface with advanced functionality for API development and testing. Provides interactive API documentation, code generation, collect
-- [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Extracted system prompts from Anthropic - Claude Fable 5, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-5.6-Sol, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, 
+- [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Extracted system prompts from Anthropic - Claude Fable 5.1, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Grok B
 - [galaxykate/tracery](https://github.com/galaxykate/tracery) - Tracery: a story-grammar generation library for javascript
 - [topojson/topojson](https://github.com/topojson/topojson) - An extension of GeoJSON that encodes topology! 🌐
 - [fcavallarin/wirebrowser](https://github.com/fcavallarin/wirebrowser) - Wirebrowser is a CDP-based runtime instrumentation platform for the browser. Think Frida, but for JavaScript running in Chrome — without monkeypatching.
@@ -1522,7 +1522,6 @@
 - [vulncheck-oss/0day.today.archive](https://github.com/vulncheck-oss/0day.today.archive) - An archive of 0day.today exploits
 - [githubnext/awesome-continuous-ai](https://github.com/githubnext/awesome-continuous-ai) - An awesome list of Continuous AI Actions and Frameworks
 - [vidanov/video](https://github.com/vidanov/video) - Test videofiles, links and other random infos about the modern video production
-- [drduh/macOS-Security-and-Privacy-Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide) - Community guide to securing and improving privacy on macOS.
 - [CloudPouch/CloudPouch.dev](https://github.com/CloudPouch/CloudPouch.dev) - See. Understand. Reduce AWS costs. Control and optimize your AWS billing with an intuitive desktop application.  Cost-effective solution includes multiple AWS accounts, regardless of a bill size.
 - [Puliczek/awesome-mcp-security](https://github.com/Puliczek/awesome-mcp-security) - 🔥🔒 Awesome MCP (Model Context Protocol) Security 🖥️
 - [wiz-sec/open-cvdb](https://github.com/wiz-sec/open-cvdb) - An open project to list all publicly known cloud vulnerabilities and CSP security issues
@@ -1829,7 +1828,7 @@
 - [jayin92/Skyfall-GS](https://github.com/jayin92/Skyfall-GS) - [ECCV 2026] Skyfall-GS: Synthesizing Immersive 3D Urban Scenes from Satellite Imagery
 - [blechschmidt/fakeroute](https://github.com/blechschmidt/fakeroute) - IPv4 and IPv6 traceroute fake hop generator through IP spoofing
 - [Karib0u/kernagent](https://github.com/Karib0u/kernagent) - Headless AI agent for deterministic reverse engineering.
-- [discocrayon/Headroom](https://github.com/discocrayon/Headroom) - Secure AWS by auto-generating SCPs and RCPs :tada:
+- [discocrayon/Headroom](https://github.com/discocrayon/Headroom) - Scan an AWS Organization and generate Terraform for the SCPs and RCPs your accounts already comply with, placed at the highest safe level.
 - [snyk/agent-scan](https://github.com/snyk/agent-scan) - Security scanner for AI agents, MCP servers and agent skills.
 - [FarisZR/knocker](https://github.com/FarisZR/knocker) - Knocker, a knock based access control service for your homelab
 - [ufal/SimulStreaming](https://github.com/ufal/SimulStreaming) - 
@@ -2184,7 +2183,7 @@
 - [BoundaryML/baml](https://github.com/BoundaryML/baml) - The programming language for agents
 - [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite) - Community-built comprehensive 2D content creation appplication for graphic design, digital art, and interactive real-time motion graphics powered by a node-based procedural graphics engine
 - [asciinema/asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder, streamer and player 📹
-- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 easy fast local-first microVM runtime and library
+- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 Easy fast local-first microVM runtime and library
 - [trailbaseio/trailbase](https://github.com/trailbaseio/trailbase) - An open, sub-millisecond, single-executable Firebase alternative with type-safe APIs, built-in WebAssembly runtime, realtime subscriptions, auth, MCP and admin UI built on Rust, SQLite (PG) & Wasmtime
 - [espanso/espanso](https://github.com/espanso/espanso) - A Privacy-first, Cross-platform Text Expander written in Rust
 - [rathole-org/rathole](https://github.com/rathole-org/rathole) - A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.
@@ -2340,6 +2339,7 @@
 - [damajor/BALD](https://github.com/damajor/BALD) - Brand new Audible Library Downloader
 - [filiparag/wikiman](https://github.com/filiparag/wikiman) - Wikiman is a universal offline documentation search engine for manual pages, tldr-pages, ArchWiki, Gentoo Wiki, DevDocs, and FreeBSD documentation
 - [fnr1r/ventoy-cpio](https://github.com/fnr1r/ventoy-cpio) - An alternate ramdisk for Ventoy
+- [drduh/macOS-Security-and-Privacy-Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide) - Community guide to securing and improving privacy on macOS.
 - [waj/shell-secrets](https://github.com/waj/shell-secrets) - Encrypted environment variables
 - [omerxx/tmux-sessionx](https://github.com/omerxx/tmux-sessionx) - A Tmux session manager, with preview, fuzzy finding, and MORE
 - [sroberts/awesome-iocs](https://github.com/sroberts/awesome-iocs) - A collection of sources of indicators of compromise.
@@ -2458,7 +2458,7 @@
 - [callumalpass/mdbase](https://github.com/callumalpass/mdbase) - TypeScript implementation of the mdbase specification
 - [PrimeIntellect-ai/prime-agent](https://github.com/PrimeIntellect-ai/prime-agent) - A self-improving RLM agent for coding workflows and long-running autonomous tasks.
 - [cloudflare/cloudflare-os](https://github.com/cloudflare/cloudflare-os) - Agent workspace built on Cloudflare Workers for creating documents, building apps, and running agents with your company’s context and systems.
-- [MrLesk/Groma.md](https://github.com/MrLesk/Groma.md) - Local-first architectural blueprints for humans and AI agents
+- [MrLesk/Groma.md](https://github.com/MrLesk/Groma.md) - Your architecture as OKF Markdown in Git, and one C4 map you can walk. Scanned from source, curated by you and your agents.
 - [obsfx/trekker](https://github.com/obsfx/trekker) - Simple opinionated issue tracker for AI Agents
 - [ruvnet/ruflo](https://github.com/ruvnet/ruflo) - 🌊 The original agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, R
 - [octanejs/octane](https://github.com/octanejs/octane) - React’s programming model, compiled. The successor to Inferno.
@@ -2608,7 +2608,7 @@
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 - [payloadcms/payload](https://github.com/payloadcms/payload) - Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building 
 - [makawtharani/openai-whisper-deployment](https://github.com/makawtharani/openai-whisper-deployment) - 
-- [openobserve/openobserve](https://github.com/openobserve/openobserve) - Open source observability platform for logs, metrics, traces, frontend monitoring, pipelines and LLM observability. A sophisticated, simple and highly performant alternative to Datadog, Splunk, and El
+- [openobserve/openobserve](https://github.com/openobserve/openobserve) - Open source observability platform for logs, metrics, traces, RUM, Session replay, pipelines, SLO and LLM observability. A sophisticated, simple and highly performant alternative to Datadog, Splunk, a
 - [scaffdog/scaffdog](https://github.com/scaffdog/scaffdog) - :dog: scaffdog is Markdown driven scaffolding tool.
 - [Rich-Harris/degit](https://github.com/Rich-Harris/degit) - Straightforward project scaffolding
 - [webpro-nl/knip](https://github.com/webpro-nl/knip) - ✂️  Find unused files, dependencies and exports in your JavaScript and TypeScript projects. Knip it before you ship it!
