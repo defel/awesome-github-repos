@@ -390,12 +390,12 @@
 - [basecamp/hey-cli](https://github.com/basecamp/hey-cli) - HEY CLI and Agent Skills
 - [gocolly/colly](https://github.com/gocolly/colly) - Elegant Scraper and Crawler Framework for Golang
 - [ffuf/pencode](https://github.com/ffuf/pencode) - Complex payload encoder
-- [cynative/cynative](https://github.com/cynative/cynative) - Open-source framework for security agents with live, read-only access to your infrastructure. Audit AWS, GCP, Azure, Kubernetes, GitHub and GitLab as one system for privilege escalation, public exposu
+- [cynative/cynative](https://github.com/cynative/cynative) - Open-source security agents for cloud, code and runtime. 45 built-in agents audit AWS, GCP, Azure, Kubernetes, GitHub and GitLab for privilege escalation, public exposure, supply chain and more, or bu
 - [joerdav/xc](https://github.com/joerdav/xc) - Markdown defined task runner.
 - [signalnine/bd](https://github.com/signalnine/bd) - Dependency-aware issue tracker for AI agents built on Dolt version-controlled SQL, a stripped-down fork of beads
 - [pengelbrecht/ticks](https://github.com/pengelbrecht/ticks) - 
 - [gastownhall/beads](https://github.com/gastownhall/beads) - Beads - A memory upgrade for your coding agent
-- [Untrivial-ai/agent-orchestrator](https://github.com/Untrivial-ai/agent-orchestrator) - Agent IDE that enables you to manage fleets of coding agents. It comes with an agentic orchestrator that plans tasks, spawns agents, and autonomously handles CI fixes, merge conflicts, and code review
+- [Untrivial-ai/agent-orchestrator](https://github.com/Untrivial-ai/agent-orchestrator) - Run and supervise teams of coding agents from planning to merge. Any harness (Claude code, codex, +25 more). Desktop, web, mobile, and cloud agents.
 - [anchore/syft](https://github.com/anchore/syft) - CLI tool and library for generating a Software Bill of Materials from container images and filesystems
 - [vale-cli/vale](https://github.com/vale-cli/vale) - :pencil: A markup-aware linter for prose built with speed and extensibility in mind.
 - [DataDog/datadog-saist](https://github.com/DataDog/datadog-saist) - AI-native SAST
@@ -418,7 +418,6 @@
 - [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: Universal File Storage Client
 - [olastor/age-plugin-fido2-hmac](https://github.com/olastor/age-plugin-fido2-hmac) - Age plugin to encrypt files with fido2 tokens using the hmac-secret extension and non-discoverable credentials.
 - [anzellai/sky](https://github.com/anzellai/sky) - Sky — an Elm-inspired language that compiles to Go. Hindley-Milner types, server-driven UI (Sky.Live), single binary output.
-- [opensandbox-group/OpenSandbox](https://github.com/opensandbox-group/OpenSandbox) - Secure, Fast, and Extensible Sandbox runtime for AI agents.
 - [junevm/splathash](https://github.com/junevm/splathash) - 16 bytes fixed size image placeholder, an alternative to blurhash and thumbhash
 - [nalgeon/codapi](https://github.com/nalgeon/codapi) - Interactive code examples
 - [usescrolls/scribe](https://github.com/usescrolls/scribe) - Scribe lets you install AI coding skills once and automatically distributes them to all your coding agents
@@ -558,6 +557,7 @@
 - [ergochat/ergo](https://github.com/ergochat/ergo) - A modern IRC server (daemon/ircd) written in Go.
 - [FiloSottile/age](https://github.com/FiloSottile/age) - A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.
 - [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser) - File Browser provides a file managing interface within a specified directory and it can be used to upload, delete, preview and edit your files.
+- [johnkerl/miller](https://github.com/johnkerl/miller) - Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON
 - [grafana-cold-storage/agent](https://github.com/grafana-cold-storage/agent) - Vendor-neutral programmable observability pipelines.
 - [t73fde/zettelstore](https://github.com/t73fde/zettelstore) - Digital zettelkasten; mirror of https://zettelstore.de
 - [securitybunker/databunker](https://github.com/securitybunker/databunker) - Secure Vault for Customer PII/PHI/PCI/KYC Records
@@ -804,6 +804,7 @@
 
 ## JavaScript 
 
+- [automerge/automerge](https://github.com/automerge/automerge) - A JSON-like data structure (a CRDT) that can be modified concurrently by different users, and merged again automatically.
 - [davatron5000/microlighter](https://github.com/davatron5000/microlighter) - A zero-dep syntax highlighter that uses the CSS Highlights API
 - [arrrrrmin/arrrrrmin.dev](https://github.com/arrrrrmin/arrrrrmin.dev) - Code for a blog-ish learning journey project on datavis, charting and data in general.
 - [paperjs/paper.js](https://github.com/paperjs/paper.js) - The Swiss Army Knife of Vector Graphics Scripting – Scriptographer ported to JavaScript and the browser, using HTML5 Canvas. Created by @lehni & @puckey
@@ -1590,7 +1591,6 @@
 - [ProductHired/open-product-management](https://github.com/ProductHired/open-product-management) - A curated list of product management advice for technical people.
 - [mithi/react-philosophies](https://github.com/mithi/react-philosophies) - 🧘  Things I think about when I write React code 🧘
 - [hantuzun/awesome-clojurescript](https://github.com/hantuzun/awesome-clojurescript) - A community driven list of ClojureScript frameworks, libraries and wrappers.
-- [johnkerl/miller](https://github.com/johnkerl/miller) - Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON
 - [mswjs/examples](https://github.com/mswjs/examples) - Mock Service Worker usage examples.
 - [prathyvsh/pl-catalog](https://github.com/prathyvsh/pl-catalog) - A catalog of programming languages
 - [kuchin/awesome-cto](https://github.com/kuchin/awesome-cto) - A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups
@@ -1799,6 +1799,7 @@
 - [volcengine/OpenViking](https://github.com/volcengine/OpenViking) - Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.
 - [oOo0oOo/lean-lsp-mcp](https://github.com/oOo0oOo/lean-lsp-mcp) - Lean Theorem Prover MCP
 - [karpathy/autoresearch](https://github.com/karpathy/autoresearch) - AI agents running research on single-GPU nanochat training automatically
+- [opensandbox-group/OpenSandbox](https://github.com/opensandbox-group/OpenSandbox) - Secure, Fast, and Extensible Sandbox runtime for AI agents.
 - [NickTikhonov/shuo](https://github.com/NickTikhonov/shuo) - sub-500ms latency phone agent orchestration
 - [kiwiz/gkeepapi](https://github.com/kiwiz/gkeepapi) - An unofficial client for the Google Keep API.
 - [teng-lin/notebooklm-py](https://github.com/teng-lin/notebooklm-py) - Unofficial Python API and agentic skill for Google Gemini Notebook. Full programmatic access to NotebookLM's features—including capabilities the web UI doesn't expose—via Python, CLI, and AI agents li
@@ -1821,7 +1822,7 @@
 - [DataDog/pathfinding.cloud](https://github.com/DataDog/pathfinding.cloud) - An AWS IAM Privilege Escalation Path Library
 - [astral-sh/ty](https://github.com/astral-sh/ty) - An extremely fast Python type checker and language server, written in Rust.
 - [shobrook/termite](https://github.com/shobrook/termite) - Generative UI in your terminal
-- [browser-use/browser-use](https://github.com/browser-use/browser-use) - 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
+- [browser-use/browser-use](https://github.com/browser-use/browser-use) - Agents that use the browser.
 - [Vasallo94/ObsidianRAG](https://github.com/Vasallo94/ObsidianRAG) - Ask questions about your Obsidian notes using local AI. Privacy-first RAG with Ollama, LM Studio, or any OpenAI-compatible server. Obsidian plugin + Docker + PyPI.
 - [oraios/serena](https://github.com/oraios/serena) - A powerful MCP toolkit for coding, providing semantic retrieval and editing capabilities  - the IDE for your agent
 - [Ben-Edwards44/PyBonsai](https://github.com/Ben-Edwards44/PyBonsai) - Generate procedural ASCII art trees in the terminal.
@@ -2330,6 +2331,7 @@
 - [0xNyk/council-of-high-intelligence](https://github.com/0xNyk/council-of-high-intelligence) - Structured multi-perspective deliberation for hard decisions. Run full councils, focused triads, or duo debates across Claude Code, Codex, Gemini CLI, and OpenCode.
 - [isene/chasm](https://github.com/isene/chasm) - CHasm — CHange to ASM. Pure x86_64 assembly Linux tools (bare, show, glass, tile).
 - [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) - A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, a
+- [aaddrick/claude-desktop-debian](https://github.com/aaddrick/claude-desktop-debian) - Claude Desktop for Linux
 - [keith/git-pile](https://github.com/keith/git-pile) - Stacked diff support for GitHub workflows
 - [rafaelromao/keyboards](https://github.com/rafaelromao/keyboards) - A split keyboard layout, optimized for Portuguese, English, working with numbers and software programming with VIM plugins.
 - [TheNoeTrevino/claude-hooks](https://github.com/TheNoeTrevino/claude-hooks) - Tiny scripts to enhance the claude code experience
@@ -2445,6 +2447,9 @@
 
 ## TypeScript 
 
+- [ToposInstitute/CatColab](https://github.com/ToposInstitute/CatColab) - A collaborative environment for formal, interoperable, conceptual modeling
+- [inkandswitch/onomancy-demo](https://github.com/inkandswitch/onomancy-demo) - A demo for the Onomancy protocol
+- [inkandswitch/patchwork-system](https://github.com/inkandswitch/patchwork-system) - Patchwork system
 - [kavinsood/yaos](https://github.com/kavinsood/yaos) - A zero-terminal, real-time sync engine powered by your own Cloudflare Worker.
 - [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) - Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, DeepSeek, and more. Simple declarative configs with command line 
 - [dmmulroy/anti-slop](https://github.com/dmmulroy/anti-slop) - Opinionated Oxlint rules for rejecting low-evidence TypeScript and JavaScript patterns
@@ -2496,7 +2501,6 @@
 - [NeoVertex1/nuggets](https://github.com/NeoVertex1/nuggets) - First AI assistant with holographic memory
 - [formation-res/querylight-ts](https://github.com/formation-res/querylight-ts) - Search library for static websites. Bm25, faceting, Sparse & dense vector search, reciprocal rank fusion for hybrid search. Perfect for small sites and blogs.
 - [vercel/ai-elements](https://github.com/vercel/ai-elements) - AI Elements is a component library and custom registry built on top of shadcn/ui to help you build AI-native applications faster.
-- [aaddrick/claude-desktop-debian](https://github.com/aaddrick/claude-desktop-debian) - Claude Desktop for Linux
 - [paperclipai/paperclip](https://github.com/paperclipai/paperclip) - The open-source app everyone uses to manage agents at work
 - [kepano/defuddle](https://github.com/kepano/defuddle) - Get the main content of any page as Markdown.
 - [TfTHacker/timeline-for-bases](https://github.com/TfTHacker/timeline-for-bases) - Timeline view for Bases in Obsidain
