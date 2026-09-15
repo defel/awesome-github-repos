@@ -388,6 +388,7 @@
 
 ## Go 
 
+- [padovanl/portop](https://github.com/padovanl/portop) - 🔌 What's really using your ports? htop-style TUI, one keypress to kill it.
 - [basecamp/hey-cli](https://github.com/basecamp/hey-cli) - HEY CLI and Agent Skills
 - [gocolly/colly](https://github.com/gocolly/colly) - Elegant Scraper and Crawler Framework for Golang
 - [ffuf/pencode](https://github.com/ffuf/pencode) - Complex payload encoder
@@ -1817,7 +1818,7 @@
 - [khoj-ai/openpaper](https://github.com/khoj-ai/openpaper) - Open Paper is a workbench for managing your research library. Read, annotate, and understand your papers all in one place. Use an AI assistant to conduct your literature review.
 - [DenizParlak/heimdall](https://github.com/DenizParlak/heimdall) - AWS Attack Path Scanner - Discover privilege escalation paths across 10+ AWS services
 - [stanfordnlp/dspy](https://github.com/stanfordnlp/dspy) - DSPy: The framework for programming—not prompting—language models
-- [nottelabs/reverse-api-engineer](https://github.com/nottelabs/reverse-api-engineer) - The agent that turns websites into APIs!
+- [kalil0321/reverse-api-engineer](https://github.com/kalil0321/reverse-api-engineer) - The agent that turns websites into APIs!
 - [FoundationAgents/OpenManus](https://github.com/FoundationAgents/OpenManus) - No fortress, purely open ground.  OpenManus is Coming.
 - [FoundationAgents/MetaGPT](https://github.com/FoundationAgents/MetaGPT) - 🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming
 - [PyDMD/PyDMD](https://github.com/PyDMD/PyDMD) - Python Dynamic Mode Decomposition
