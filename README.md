@@ -1766,6 +1766,7 @@
 
 ## Python 
 
+- [arnegiacomo/fugleramme](https://github.com/arnegiacomo/fugleramme) - E-ink bird frame for Raspberry Pi - real-time bird detection by audio, fully local AI, rendered as real, hand-cut 1800s bird illustrations.
 - [Tracer-Cloud/opensre](https://github.com/Tracer-Cloud/opensre) - Build your own AI SRE agents. The open source toolkit for the AI era.
 - [street1983nk/infranode](https://github.com/street1983nk/infranode) - InfraNode - free, key-less open-data REST API + MCP server for 84 German cities
 - [max-mal/aa_local_db](https://github.com/max-mal/aa_local_db) - Annas archive local db and torrent downloader
@@ -1860,7 +1861,7 @@
 - [salesforce/policy_sentry](https://github.com/salesforce/policy_sentry) - IAM Least Privilege Policy Generator
 - [nccgroup/ScoutSuite](https://github.com/nccgroup/ScoutSuite) - Multi-Cloud Security Auditing Tool
 - [pg-spot-ops/pg-spot-operator](https://github.com/pg-spot-ops/pg-spot-operator) - Stateful Postgres on cheap Spot VMs
-- [morphik-org/morphik-core](https://github.com/morphik-org/morphik-core) - Open-source multimodal retrieval engine (Morphik Core). By Morphik — AI back office for skilled nursing & senior living (morphik.ai).
+- [morphik-org/morphik-core](https://github.com/morphik-org/morphik-core) - Open-source multimodal retrieval engine (Morphik Core)
 - [DrewThomasson/ebook2audiobook](https://github.com/DrewThomasson/ebook2audiobook) - Generate audiobooks from e-books, voice cloning & 1158+ languages!
 - [DrewThomasson/VoxNovel](https://github.com/DrewThomasson/VoxNovel) - VoxNovel: generate audiobooks giving each character a different voice actor.
 - [Cinnamon/kotaemon](https://github.com/Cinnamon/kotaemon) - An open-source RAG-based tool for chatting with your documents.
@@ -2566,10 +2567,10 @@
 - [code-forge-temple/circuit-sketcher-obsidian-plugin](https://github.com/code-forge-temple/circuit-sketcher-obsidian-plugin) - A plugin for Obsidian to draw circuits on a canvas.
 - [dockview/dockview](https://github.com/dockview/dockview) - Zero dependency docking layout manager supporting tabs, groups, grids and splitviews. Supports React, Vue, Angular, and vanilla TypeScript.
 - [Hairetsu/Notate](https://github.com/Hairetsu/Notate) - Notate is a desktop chat application that takes AI conversations to the next level. It combines the simplicity of chat with advanced features like document analysis, vector search, and multi-model AI 
-- [browserbase/stagehand](https://github.com/browserbase/stagehand) - The SDK For Browser Agents
+- [browserbase/stagehand](https://github.com/browserbase/stagehand) - The SDK for browser agents. Interact, search, extract, and fetch any site reliably across the web
 - [continuedev/continue](https://github.com/continuedev/continue) - open-source coding agent
 - [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
-- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - The context API to search, scrape, and interact with the web at scale. 🔥
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - The web data API to search, scrape, and interact at scale. 🔥
 - [aws-samples/github-actions-oidc-cdk-construct](https://github.com/aws-samples/github-actions-oidc-cdk-construct) - 
 - [bullfrogsec/bullfrog](https://github.com/bullfrogsec/bullfrog) - Simple plug-and-play Github Action to block unauthorized outbound traffic (egress) in your Github workflows
 - [heyform/heyform](https://github.com/heyform/heyform) - Open-Source Form Builder
