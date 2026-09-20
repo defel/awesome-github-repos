@@ -129,7 +129,7 @@
 - [ravachol/kew](https://github.com/ravachol/kew) - Music for the Shell. kew is a fast, immersive music player that allows you to listen to music privately.
 - [andmarti1424/sc-im](https://github.com/andmarti1424/sc-im) - sc-im - Spreadsheet Calculator Improvised -- An ncurses spreadsheet program for terminal
 - [Modos-Labs/Glider](https://github.com/Modos-Labs/Glider) - Open-source E-ink monitor. Mirror of https://gitlab.com/zephray/glider
-- [jarusll/keydogger](https://github.com/jarusll/keydogger) - Keydogger is a tiny text expander written in C
+- [ysuraj1999/keydogger](https://github.com/ysuraj1999/keydogger) - Keydogger is a tiny text expander written in C
 - [cilium/tetragon](https://github.com/cilium/tetragon) - eBPF-based Security Observability and Runtime Enforcement
 - [koct9i/ioping](https://github.com/koct9i/ioping) - simple disk I/0 latency measuring tool
 - [ashvardanian/StringZilla](https://github.com/ashvardanian/StringZilla) - Up to 100x faster strings for C, C++, CUDA, Python, Rust, Swift, JS, & Go, leveraging NEON, AVX2, AVX-512, SVE, GPGPU, & SWAR to accelerate search, hashing, sorting, edit distances, sketches, and memo
@@ -388,6 +388,7 @@
 
 ## Go 
 
+- [unstablebuild/rune](https://github.com/unstablebuild/rune) - the development environment for pros
 - [padovanl/portop](https://github.com/padovanl/portop) - 🔌 What's really using your ports? htop-style TUI, one keypress to kill it.
 - [basecamp/hey-cli](https://github.com/basecamp/hey-cli) - HEY CLI and Agent Skills
 - [gocolly/colly](https://github.com/gocolly/colly) - Elegant Scraper and Crawler Framework for Golang
@@ -648,6 +649,7 @@
 - [pksunkara/alpaca](https://github.com/pksunkara/alpaca) - Given a web API, Generate client libraries in node, php, python, ruby
 - [chmllr/notehub](https://github.com/chmllr/notehub) - A pastebin for markdown pages.
 - [indyjo/bitwrk](https://github.com/indyjo/bitwrk) - Bitcoin-fueled Peer-to-Peer Blender Rendering (and more)
+- [dokku/dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
 - [bradfitz/webfist](https://github.com/bradfitz/webfist) - WebFist implements WebFinger delegation for providers who don't support WebFinger natively.
 
 ## HCL 
@@ -686,6 +688,7 @@
 - [mark-when/markwhen](https://github.com/mark-when/markwhen) - Make a cascading timeline from markdown-like text. Supports simple American/European date styles, ISO8601, images, links, locations, and more.
 - [flathunters/flathunter](https://github.com/flathunters/flathunter) - A bot to help people with their rental real-estate search. 🏠🤖
 - [LingDong-/shan-shui-inf](https://github.com/LingDong-/shan-shui-inf) - Procedurally generated Chinese landscape painting.
+- [ArchiveBox/good-karma-kit](https://github.com/ArchiveBox/good-karma-kit) - 😇  A Docker Compose bundle to run on servers with spare CPU, RAM, disk, and bandwidth to help the world. Includes Tor, ArchiveWarrior, BOINC, and more...
 - [binford2k/goatops](https://github.com/binford2k/goatops) - This is the source for goatops.com
 - [dwmkerr/hacker-laws](https://github.com/dwmkerr/hacker-laws) - 🧠 Laws, Theories, Principles and Patterns for developers and technologists.
 - [parkerhendo/figma-interface-language](https://github.com/parkerhendo/figma-interface-language) - A simple DSL for describing interfaces that can be compiled to build a Figma mockup using both existing and new components.
@@ -1483,6 +1486,7 @@
 - [hercules-ci/flake-parts](https://github.com/hercules-ci/flake-parts) - ❄️ Simplify Nix Flakes with the module system
 - [numtide/flake-utils](https://github.com/numtide/flake-utils) - Pure Nix flake utility functions [maintainer=@zimbatm]
 - [nix-community/poetry2nix](https://github.com/nix-community/poetry2nix) - Convert poetry projects to nix automagically [maintainer=]
+- [NixOS/nix.dev](https://github.com/NixOS/nix.dev) - Official documentation for getting things done with Nix.
 - [ninegua/ic-blackhole](https://github.com/ninegua/ic-blackhole) - Once a canister sets its only controller to a black hole, it becomes immutable and more!
 
 ## Nunjucks 
@@ -1576,7 +1580,6 @@
 - [mclaeysb/FerrarGIS](https://github.com/mclaeysb/FerrarGIS) - Using QGIS to apply a 1777 style to today's OpenStreetMap data.
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 - [stereobooster/type-o-rama](https://github.com/stereobooster/type-o-rama) - 👾 JS type systems interportability
-- [ArchiveBox/good-karma-kit](https://github.com/ArchiveBox/good-karma-kit) - 😇  A Docker Compose bundle to run on servers with spare CPU, RAM, disk, and bandwidth to help the world. Includes Tor, ArchiveWarrior, BOINC, and more...
 - [rothgar/awesome-tuis](https://github.com/rothgar/awesome-tuis) - List of projects that provide terminal user interfaces
 - [Ph055a/OSINT_Collection](https://github.com/Ph055a/OSINT_Collection) - Maintained collection of OSINT related resources. (All Free & Actionable)
 - [tehtbl/awesome-note-taking](https://github.com/tehtbl/awesome-note-taking) - A curated list of 100+ awesome note-taking apps, PKM tools & knowledge management software — open source and proprietary. Updated regularly.
@@ -2152,6 +2155,7 @@
 
 ## Rust 
 
+- [tower-lsp-community/tower-lsp-server](https://github.com/tower-lsp-community/tower-lsp-server) - Language Server Protocol implementation for Rust based on Tower
 - [isene/moon](https://github.com/isene/moon) - The Moon as it looks tonight, in the terminal (Fe2O3 suite)
 - [Cateds/opencode-stats](https://github.com/Cateds/opencode-stats) - A terminal dashboard for tracking your OpenCode usage statistics - tokens, costs, models, and activity heatmap.
 - [ad-si/Woxi](https://github.com/ad-si/Woxi) - Wolfram Language / Mathematica reimplementation in Rust (Wolfram oxidized)
@@ -2420,7 +2424,6 @@
 - [Project-DogeOS/DogeOS](https://github.com/Project-DogeOS/DogeOS) - DogeOS is SmartOS + FIFO
 - [huyng/bashmarks](https://github.com/huyng/bashmarks) - Directory bookmarks for the shell
 - [ANXS/the-ansibles](https://github.com/ANXS/the-ansibles) - One of the most extensive sets of ansible roles/examples, including a vagrant testbox and a setup to quickly run your full-featured and secured personal cloudbox.
-- [dokku/dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
 - [sstephenson/bats](https://github.com/sstephenson/bats) - Bash Automated Testing System
 - [wanelo/manta-backup](https://github.com/wanelo/manta-backup) - Put things in Joyent's Manta object store.  Now with remote checksums!
 - [maltejk/uberspace-scripts](https://github.com/maltejk/uberspace-scripts) - 
@@ -2521,7 +2524,7 @@
 - [fedify-dev/fedify](https://github.com/fedify-dev/fedify) - ActivityPub server framework in TypeScript
 - [gruberb/workledger](https://github.com/gruberb/workledger) - Your local first engineering notebook
 - [TypeCellOS/BlockNote](https://github.com/TypeCellOS/BlockNote) - A React Rich Text Editor that's block-based (Notion style) and extensible. Built on top of Prosemirror and Tiptap.
-- [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat) - The multiplayer personal assistant for work
+- [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat) - AI coworker with memory and collaboration
 - [mrmrs/line-art](https://github.com/mrmrs/line-art) - svg web app for pen plotters
 - [different-ai/openwork](https://github.com/different-ai/openwork) - The open-source alternative to Claude Cowork (powered by opencode)
 - [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) - Shannon is an AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before they reach production.
@@ -2661,7 +2664,6 @@
 - [Redocly/redoc](https://github.com/Redocly/redoc) - 📘  OpenAPI/Swagger-generated API Reference Documentation
 - [liamcain/obsidian-creases](https://github.com/liamcain/obsidian-creases) - 👕 Tools for effectively folding markdown sections in Obsidian
 - [tremorlabs/tremor-npm](https://github.com/tremorlabs/tremor-npm) - React components to build charts and dashboards
-- [NixOS/nix.dev](https://github.com/NixOS/nix.dev) - Official documentation for getting things done with Nix.
 - [sofn-xyz/mailing](https://github.com/sofn-xyz/mailing) - Build, test, send emails with React
 - [maxwellpeterson/kafka-worker](https://github.com/maxwellpeterson/kafka-worker) - Kafka 0.8.0 broker implementation on top of Cloudflare Workers
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source, OpenTelemetry-native observability platform for your team and their AI agents. Get logs, metrics, and traces in one tool with features like APM, distributed tracing, log mana
@@ -2759,7 +2761,7 @@
 - [reg-viz/reg-suit](https://github.com/reg-viz/reg-suit) - :recycle: Visual Regression Testing tool
 - [cassiozen/useStateMachine](https://github.com/cassiozen/useStateMachine) - The &lt;1 kb state machine hook for React
 - [projectwallace/wallace-cli](https://github.com/projectwallace/wallace-cli) - Pretty CSS analytics on the CLI
-- [mswjs/msw](https://github.com/mswjs/msw) - Industry standard API mocking for JavaScript.
+- [mswjs/msw](https://github.com/mswjs/msw) - The industry standard for API mocking in JavaScript.
 - [nilbuild/developer-roadmap](https://github.com/nilbuild/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 - [andymatuschak/orbit](https://github.com/andymatuschak/orbit) - Experimental spaced repetition platform for exploring ideas in memory augmentation and programmable attention
 - [replit/clui](https://github.com/replit/clui) - CLUI is a collection of JavaScript libraries for building command-driven interfaces with context-aware autocomplete.
