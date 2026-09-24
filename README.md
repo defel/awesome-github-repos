@@ -769,6 +769,7 @@
 - [cedar-policy/cedar-java](https://github.com/cedar-policy/cedar-java) - Java bindings for the Cedar language
 - [apache/shiro](https://github.com/apache/shiro) - Apache Shiro is a powerful and easy-to-use Java security framework that performs authentication, authorization, cryptography, and session management
 - [youngmonkeys/ezyfox-server](https://github.com/youngmonkeys/ezyfox-server) - A socket server (include SSL) supports realtime application, realtime game, MMORPG, messaging, chat and streaming data with TCP, UDP and Websocket
+- [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 - [enso-org/enso](https://github.com/enso-org/enso) - Enso Analytics is a self-service data prep and analysis platform designed for data teams.
 - [onthegomap/planetiler](https://github.com/onthegomap/planetiler) - Flexible tool to build planet-scale vector tilesets from OpenStreetMap data fast
 - [vespa-engine/vespa](https://github.com/vespa-engine/vespa) - The AI search platform
@@ -1458,7 +1459,6 @@
 ## Makefile 
 
 - [zoph-io/aws-security-survival-kit](https://github.com/zoph-io/aws-security-survival-kit) - Bare minimum AWS Security Alerting and Secure by default Configuration
-- [OpenSLO/OpenSLO](https://github.com/OpenSLO/OpenSLO) - Open specification for defining and expressing service level objectives (SLO)
 - [TritonDataCenter/pkgsrc-legacy](https://github.com/TritonDataCenter/pkgsrc-legacy) - Automatically updated conversion of the "pkgsrc" module from anoncvs.netbsd.org
 
 ## Markdown 
@@ -1770,7 +1770,7 @@
 
 ## Python 
 
-- [arnegiacomo/fugleramme](https://github.com/arnegiacomo/fugleramme) - E-ink bird frame for Raspberry Pi - real-time bird detection by audio, fully local AI, rendered as real, hand-cut 1800s bird illustrations.
+- [arnegiacomo/fugleramme](https://github.com/arnegiacomo/fugleramme) - Bird frame for Raspberry Pi - real-time bird detection by audio, fully local AI, rendered as real, hand-cut 1800s bird illustrations. On an e-ink panel, a TV, or any screen.
 - [Tracer-Cloud/opensre](https://github.com/Tracer-Cloud/opensre) - Build your own AI SRE agents. The open source toolkit for the AI era.
 - [street1983nk/infranode](https://github.com/street1983nk/infranode) - InfraNode - free, key-less open-data REST API + MCP server for 84 German cities
 - [max-mal/aa_local_db](https://github.com/max-mal/aa_local_db) - Annas archive local db and torrent downloader
@@ -1951,6 +1951,7 @@
 - [freedomofpress/dangerzone](https://github.com/freedomofpress/dangerzone) - Take potentially dangerous PDFs, office documents, or images and convert them to safe PDFs
 - [python-poetry/cleo](https://github.com/python-poetry/cleo) - Cleo allows you to create beautiful and testable command-line interfaces.
 - [pypyr/pypyr](https://github.com/pypyr/pypyr) - pypyr task-runner cli & api for automation pipelines. Automate anything by combining commands, different scripts in different languages & applications into one pipeline process.
+- [OpenSLO/OpenSLO](https://github.com/OpenSLO/OpenSLO) - Open specification for defining and expressing service level objectives (SLO)
 - [Textualize/textual](https://github.com/Textualize/textual) - The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.
 - [open-telemetry/opentelemetry-python](https://github.com/open-telemetry/opentelemetry-python) - OpenTelemetry Python API and SDK
 - [google/gin-config](https://github.com/google/gin-config) - Gin provides a lightweight configuration framework for Python
@@ -2478,7 +2479,7 @@
 - [obsfx/trekker](https://github.com/obsfx/trekker) - Simple opinionated issue tracker for AI Agents
 - [ruvnet/ruflo](https://github.com/ruvnet/ruflo) - 🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federa
 - [octanejs/octane](https://github.com/octanejs/octane) - React’s programming model, compiled. The successor to Inferno.
-- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, me
+- [LibreChat-AI/LibreChat](https://github.com/LibreChat-AI/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, me
 - [jacomyal/sigma.js](https://github.com/jacomyal/sigma.js) - A JavaScript library aimed at visualizing graphs of thousands of nodes and edges
 - [yc-software/qm](https://github.com/yc-software/qm) - Multiplayer agent harness for work.
 - [pixel-point/toolcraft](https://github.com/pixel-point/toolcraft) - Build your own design apps with AI.
@@ -2604,7 +2605,6 @@
 - [center-for-threat-informed-defense/cti-blueprints](https://github.com/center-for-threat-informed-defense/cti-blueprints) - CTI Blueprints is a free suite of templates and tools that helps Cyber Threat Intelligence analysts create high-quality, actionable reports more consistently and efficiently.
 - [elysiajs/elysia](https://github.com/elysiajs/elysia) - Ergonomic Framework for Humans
 - [code-of-chaos/ColoredTagsWrangler.obmd](https://github.com/code-of-chaos/ColoredTagsWrangler.obmd) - Obsidian Plugin : Assign colors to tags. Has integrations with other plugins, like Kanban.
-- [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 - [antfu/shikiji](https://github.com/antfu/shikiji) - A syntax highlighter based on TextMate grammars. ESM rewrite of shiki, with more features and capabilities.
 - [SamuraiWTF/katana](https://github.com/SamuraiWTF/katana) - SamuraiWTF package management tool and interface.
 - [slauth-io/slauth-cli](https://github.com/slauth-io/slauth-cli) - CLI that scans directories for Cloud Provider SDK usage generates the IAM Policies/Permissions needed
