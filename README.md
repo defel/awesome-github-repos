@@ -282,6 +282,7 @@
 - [lucaorio/obsidian-image-gallery](https://github.com/lucaorio/obsidian-image-gallery) - A zero setup masonry image gallery for Obsidian
 - [csstools/sanitize.css](https://github.com/csstools/sanitize.css) - A best-practices CSS foundation
 - [cat-a-flame/CSSHell](https://github.com/cat-a-flame/CSSHell) - Collection of common CSS mistakes, and how to fix them
+- [architecture-decision-record/architecture-decision-record](https://github.com/architecture-decision-record/architecture-decision-record) - Architecture decision record (ADR) examples for software planning, IT leadership, and template documentation
 - [jagregory/abrash-black-book](https://github.com/jagregory/abrash-black-book) - Markdown source for Michael Abrash's Graphics Programming Black Book
 - [NsCDE/NsCDE](https://github.com/NsCDE/NsCDE) - Modern and functional CDE desktop based on FVWM
 - [jaicab/progressiveenhancement](https://github.com/jaicab/progressiveenhancement) - A site for all things progressively enhanced
@@ -1253,7 +1254,6 @@
 - [alabid/flylatex](https://github.com/alabid/flylatex) - FlyLatex: A Realtime Collaborative Environment (with a concurrent editor) in node-js.
 - [Reportr/dashboard](https://github.com/Reportr/dashboard) - Your life's personal dashboard.
 - [Unitech/angular-bridge](https://github.com/Unitech/angular-bridge) - Link models easily via a REST interface between Mongoose/Node-Express/Angular.js
-- [videojs/video.js](https://github.com/videojs/video.js) - Video.js - open source HTML5 video player
 - [begriffs/css-ratiocinator](https://github.com/begriffs/css-ratiocinator) - because your CSS is garbage
 - [jakutis/httpinvoke](https://github.com/jakutis/httpinvoke) - A no-dependencies HTTP client library for browsers and Node.js with a promise-based or Node.js-style callback-based API to progress events, text and binary file upload and download, partial response b
 - [sintaxi/harp](https://github.com/sintaxi/harp) - Static Web Server/Generator/Bundler
@@ -2060,7 +2060,6 @@
 - [Netflix/hubcommander](https://github.com/Netflix/hubcommander) - A Slack bot for GitHub organization management -- and other things too
 - [borgbackup/borg](https://github.com/borgbackup/borg) - Deduplicating archiver with compression and authenticated encryption.
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
-- [soundcloud/project-dev-kpis](https://github.com/soundcloud/project-dev-kpis) - Key Performance Indicators of product development teams.
 - [chenjj/CORScanner](https://github.com/chenjj/CORScanner) - 🎯 Fast CORS misconfiguration vulnerabilities scanner
 - [mhagger/git-when-merged](https://github.com/mhagger/git-when-merged) - Determine when a particular commit was merged into a git branch
 - [stav121/i3wm-themer](https://github.com/stav121/i3wm-themer) - 🎨 Theme collection manager for i3-wm
@@ -2439,7 +2438,6 @@
 
 - [arrrrrmin/wiki-history-viewer](https://github.com/arrrrrmin/wiki-history-viewer) - (WIP) A simple web visualization tool to create diagrams to show wikipedia page revision histories.
 - [arrrrrmin/lanz-mining](https://github.com/arrrrrmin/lanz-mining) - A data project to explore media participation in German talk shows of public broadcasting media.
-- [architecture-decision-record/architecture-decision-record](https://github.com/architecture-decision-record/architecture-decision-record) - Architecture decision record (ADR) examples for software planning, IT leadership, and template documentation
 - [Figma-Linux/figma-linux](https://github.com/Figma-Linux/figma-linux) - Figma is the first interface design tool based in the browser, making it easier for teams to create software. Join us in https://t.me/figma_linux
 
 ## Swift 
@@ -2618,7 +2616,7 @@
 - [paulmillr/noble-hashes](https://github.com/paulmillr/noble-hashes) - Audited & minimal JS implementation of hash functions, MACs and KDFs.
 - [cursorless-dev/cursorless](https://github.com/cursorless-dev/cursorless) - Don't let the cursor slow you down
 - [garnix-io/garn](https://github.com/garnix-io/garn) - garn is a build tool and environment manager that replaces justfiles/makefiles, docker, and the annoying parts of READMEs. The builders lingua franca.
-- [openstatusHQ/openstatus](https://github.com/openstatusHQ/openstatus) - 🫖 Status page with uptime monitoring & API monitoring as code   🫖
+- [openstatusHQ/openstatus](https://github.com/openstatusHQ/openstatus) - Open-source status page, incident response and uptime monitoring
 - [tinacms/tinacms](https://github.com/tinacms/tinacms) - TinaCMS is the leading open-source headless CMS that supports Markdown and Visual Editing. Your content is stored in your own GitHub repo 🦙 ❤️
 - [scalar/scalar](https://github.com/scalar/scalar) - Scalar is an open-source API platform:　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　🌐 Modern REST API Client　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　📖 Beautiful API References　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
 - [novuhq/novu](https://github.com/novuhq/novu) - The open-source communication infrastructure for agents and products
@@ -2866,6 +2864,7 @@
 - [baconjs/bacon.js](https://github.com/baconjs/bacon.js) - Functional reactive programming library for TypeScript and JavaScript
 - [tantaman/strut](https://github.com/tantaman/strut) - Strut - An Impress.js and Bespoke.js Presentation Editor
 - [Mathapedia/LaTeX2JS](https://github.com/Mathapedia/LaTeX2JS) - LaTeX web components
+- [videojs/video.js](https://github.com/videojs/video.js) - Video.js v10 - open source media player framework for HTML and React.
 - [dagrejs/dagre](https://github.com/dagrejs/dagre) - Directed graph layout for JavaScript
 - [peers/peerjs](https://github.com/peers/peerjs) - Simple peer-to-peer with WebRTC.
 - [derbyjs/derby](https://github.com/derbyjs/derby) - MVC framework making it easy to write realtime, collaborative applications that run in both Node.js and browsers
