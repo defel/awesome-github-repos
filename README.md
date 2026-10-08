@@ -810,6 +810,7 @@
 
 ## JavaScript 
 
+- [jasonjmcghee/livelove](https://github.com/jasonjmcghee/livelove) - Love2D LSP (VS Code / Neovim / Zed / etc.) extension for live coding and live variable tracking
 - [hughhowey/neo](https://github.com/hughhowey/neo) - A novel-writing tool created by a novelist.
 - [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) - A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.
 - [automerge/automerge](https://github.com/automerge/automerge) - A JSON-like data structure (a CRDT) that can be modified concurrently by different users, and merged again automatically.
@@ -1129,7 +1130,7 @@
 - [json-schema-form/angular-schema-form](https://github.com/json-schema-form/angular-schema-form) - Generate forms from a JSON schema, with AngularJS!
 - [JakeChampion/fetch](https://github.com/JakeChampion/fetch) - A window.fetch JavaScript polyfill.
 - [plouc/mozaik](https://github.com/plouc/mozaik) - Mozaïk is a tool based on nodejs / react / redux / nivo / d3 to easily craft beautiful dashboards
-- [wekan/wekan](https://github.com/wekan/wekan) - The Open Source kanban, built with Meteor. GitHub issues/PRs are only for FLOSS Developers, not for support, support is at https://wekan.fi/commercial-support/ . PR source translation to imports/i18n/
+- [wekan/wekan](https://github.com/wekan/wekan) - FLOSS kanban, built with Meteor. Official Public Support at GitHub issues only. Official Private Pre-Paid Support at https://wekan.fi/commercial-support/ only. Translation PRs to imports/i18n/data/en.
 - [cainus/percolator](https://github.com/cainus/percolator) - Percolator is a framework for quickly and easily building quality HTTP APIs in Node.js
 - [mikeal/sequest](https://github.com/mikeal/sequest) - Simplified API for SSH and SFTP similar to request.
 - [mikeric/rivets](https://github.com/mikeric/rivets) - A lightweight data binding library.
@@ -2522,7 +2523,7 @@
 - [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) - Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click
 - [dmno-dev/varlock](https://github.com/dmno-dev/varlock) - AI-safe .env files: Schemas for agents, Secrets for humans.
 - [DataAnts-AI/CutScript](https://github.com/DataAnts-AI/CutScript) - Open-source AI-powered text-based video editor. Edit video by editing text.
-- [comarkdown/comark](https://github.com/comarkdown/comark) - A high-performance Markdown parser and renderer for Angular, React, Svelte, Vue, HTML and ANSI.
+- [comarkdown/comark](https://github.com/comarkdown/comark) - Comark is an open-source Markdown parser and renderer with components, attributes and plugins. It streams AI output to React, Vue, Svelte, Angular, HTML and the terminal.
 - [stackables/bridge](https://github.com/stackables/bridge) - Declarative dataflow for GraphQL
 - [antfu/visual-json](https://github.com/antfu/visual-json) - The Visual JSON Editor. Schema-aware, embeddable, extensible.
 - [RtlZeroMemory/Rezi](https://github.com/RtlZeroMemory/Rezi) - Build TypeScript TUI backed by fast native rendering engine
