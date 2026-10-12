@@ -105,7 +105,7 @@
 
 ## C 
 
-- [Legrandin/pycryptodome](https://github.com/Legrandin/pycryptodome) - A self-contained cryptographic library for Python
+- [fyzugx/DEsk](https://github.com/fyzugx/DEsk) - 
 - [dmellok/CrossInk](https://github.com/dmellok/CrossInk) - CrossInk firmware with a Tesserae dashboard client: paint a server-rendered dashboard as your Xteink e-reader's sleep screen. Fork of uxjulia/CrossInk.
 - [dankamongmen/notcurses](https://github.com/dankamongmen/notcurses) - blingful character graphics/TUI library. definitely not curses.
 - [philipl/pifs](https://github.com/philipl/pifs) - πfs - the data-free filesystem!
@@ -1777,6 +1777,7 @@
 - [Tracer-Cloud/opensre](https://github.com/Tracer-Cloud/opensre) - Build your own AI SRE agents. The open source toolkit for the AI era.
 - [street1983nk/infranode](https://github.com/street1983nk/infranode) - InfraNode - free, key-less open-data REST API + MCP server for 84 German cities
 - [max-mal/aa_local_db](https://github.com/max-mal/aa_local_db) - Annas archive local db and torrent downloader
+- [Legrandin/pycryptodome](https://github.com/Legrandin/pycryptodome) - A self-contained cryptographic library for Python
 - [index-tts/index-tts](https://github.com/index-tts/index-tts) - An Industrial-Level Controllable and Efficient Zero-Shot Text-To-Speech System
 - [dmellok/tesserae](https://github.com/dmellok/tesserae) - E-ink dashboard companion. Compose dashboards in a browser, render server-side, and push to e-ink panels over REST or MQTT.
 - [henriquebastos/beans](https://github.com/henriquebastos/beans) - Graph-based issue tracker for AI agent coordination
@@ -2178,7 +2179,7 @@
 - [wojtczyk/trust](https://github.com/wojtczyk/trust) - TRUST – Coding Rust like it's 1989
 - [CertainLach/age-plugin-gpg](https://github.com/CertainLach/age-plugin-gpg) - Age plugin utilizing gpg-agent & keygrips as recipients/identities
 - [austin-weeks/miasma](https://github.com/austin-weeks/miasma) - Trap AI web scrapers in an endless poison pit.
-- [pydantic/monty](https://github.com/pydantic/monty) - A minimal, secure Python interpreter written in Rust for use by AI
+- [pydantic/monty](https://github.com/pydantic/monty) - A secure Python sandbox, written in Rust, for code written by AI.
 - [Raudbjorn/llmrmd](https://github.com/Raudbjorn/llmrmd) - llmermaid: Mermaid diagram indexer with Structural RAG for LLM-assisted planning
 - [googleworkspace/cli](https://github.com/googleworkspace/cli) - Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.
 - [oxc-project/oxc](https://github.com/oxc-project/oxc) - ⚓ A collection of high-performance JavaScript tools.
@@ -2602,7 +2603,7 @@
 - [omni-media/omniclip](https://github.com/omni-media/omniclip) - Open source video editing web application
 - [extension-js/extension.js](https://github.com/extension-js/extension.js) - The cross-browser extension framework.
 - [opengovern/opensecurity](https://github.com/opengovern/opensecurity) - opensecurity: open-source security and compliance. See and secure your cloud, containers, code, networks, deployments, devices. Define your rules, get precise checks, fix gaps fast. Streamlined audits
-- [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets, certificates, and privileged access management.
+- [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for securing secrets, certificates, access, and AI Agents.
 - [github-aws-runners/terraform-aws-github-runner](https://github.com/github-aws-runners/terraform-aws-github-runner) - Terraform module for scalable GitHub action runners on AWS
 - [pubkey/rxdb](https://github.com/pubkey/rxdb) - The local-first database that runs on every JS runtime and replicates with your existing backend - no vendor, no lock-in - https://rxdb.info/
 - [classvsoftware/under-new-management](https://github.com/classvsoftware/under-new-management) - Detect when your installed extensions have changed owners.
