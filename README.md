@@ -52,6 +52,7 @@
 - [Nix](#nix)
 - [Nunjucks](#nunjucks)
 - [OCaml](#ocaml)
+- [Odin](#odin)
 - [Open Policy Agent](#open-policy-agent)
 - [Others](#others)
 - [PHP](#php)
@@ -406,7 +407,7 @@
 - [basecamp/hey-cli](https://github.com/basecamp/hey-cli) - HEY CLI and Agent Skills
 - [gocolly/colly](https://github.com/gocolly/colly) - Elegant Scraper and Crawler Framework for Golang
 - [ffuf/pencode](https://github.com/ffuf/pencode) - Complex payload encoder
-- [cynative/cynative](https://github.com/cynative/cynative) - Open-source AI agent framework for cloud security across AWS, Azure, GCP and Kubernetes: AI-powered cloud detection and response, and cloud security posture management findings triage.
+- [cynative/cynative](https://github.com/cynative/cynative) - Open-source AI agent framework for security engineering across AWS, GCP, Azure, Kubernetes, GitHub & GitLab: AI-powered security review, findings triage, detection and response.
 - [joerdav/xc](https://github.com/joerdav/xc) - Markdown defined task runner.
 - [signalnine/bd](https://github.com/signalnine/bd) - Dependency-aware issue tracker for AI agents built on Dolt version-controlled SQL, a stripped-down fork of beads
 - [pengelbrecht/ticks](https://github.com/pengelbrecht/ticks) - 
@@ -512,7 +513,6 @@
 - [jetify-com/devbox](https://github.com/jetify-com/devbox) - Instant, easy, and predictable development environments
 - [VictoriaMetrics/VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) - VictoriaMetrics: fast, cost-effective monitoring solution and time series database
 - [getlago/lago](https://github.com/getlago/lago) - Open Source Metering and Usage Based Billing API ⭐️ Consumption tracking, Subscription management, Pricing iterations, Payment orchestration & Revenue analytics
-- [donuts-are-good/shhhbb](https://github.com/donuts-are-good/shhhbb) - bbs based on SSH
 - [frain-dev/convoy](https://github.com/frain-dev/convoy) - The Cloud Native Webhooks Gateway
 - [ProtonMail/gluon](https://github.com/ProtonMail/gluon) - An IMAP server library written in Go
 - [metrico/gigapipe](https://github.com/metrico/gigapipe) - ⭐️ The Open-Source Polyglot Observability Warehouse: Light, Fast, Cloud Native, Drop-in Grafana LGTMP alternative :rocket: Indie All-in-One Opentelemetry, Loki, Prometheus, Tempo, Pyroscope On-Prem Al
@@ -1514,6 +1514,10 @@
 - [savonet/liquidsoap](https://github.com/savonet/liquidsoap) - Liquidsoap is a statically typed scripting general-purpose language with dedicated operators and backend for all thing media, streaming, file generation, automation, HTTP backend and more.
 - [reasonml/reason](https://github.com/reasonml/reason) - Simple, fast & type safe code that leverages the JavaScript & OCaml ecosystems
 
+## Odin 
+
+- [Huseynteymurzade28/hnoss](https://github.com/Huseynteymurzade28/hnoss) - An immediate-mode TUI library for Odin. Pure Odin, no C, batteries included.
+
 ## Open Policy Agent 
 
 - [Checkmarx/kics](https://github.com/Checkmarx/kics) - Find security vulnerabilities, compliance issues, and infrastructure misconfigurations early in the development cycle of your infrastructure-as-code with KICS by Checkmarx.
@@ -2162,7 +2166,7 @@
 - [mizzy/serverspec](https://github.com/mizzy/serverspec) - RSpec tests for your servers configured by CFEngine, Puppet, Chef, Ansible, Itamae or anything else even by hand
 - [fairmondo/fairmondo](https://github.com/fairmondo/fairmondo) - 
 - [jordansissel/fpm](https://github.com/jordansissel/fpm) - Effing package management! Build packages for multiple platforms (deb, rpm, etc) with great ease and sanity.
-- [aaronpk/IndieAuth.com](https://github.com/aaronpk/IndieAuth.com) - This service is being discontinued in favor of indielogin.com
+- [aaronpk/IndieAuth.com](https://github.com/aaronpk/IndieAuth.com) - This service is being discontinued in favor of indielogin.com and indiekey.id
 - [zmoazeni/csscss](https://github.com/zmoazeni/csscss) - A CSS redundancy analyzer that analyzes redundancy.
 - [maccman/abba](https://github.com/maccman/abba) - A/B testing framework
 - [sbeyer/Piratistiken](https://github.com/sbeyer/Piratistiken) - Mitgliederverlauf der Piratenpartei Deutschland
@@ -2403,7 +2407,7 @@
 - [npryce/adr-tools](https://github.com/npryce/adr-tools) - Command-line tools for working with Architecture Decision Records
 - [DreymaR/BigBagKbdTrixXKB](https://github.com/DreymaR/BigBagKbdTrixXKB) - "DreymaR's Big Bag of Keyboard Tricks" for *nix with XKB
 - [pascalw/kindle-dash](https://github.com/pascalw/kindle-dash) - Power efficient dashboard for Kindle 4 NT devices
-- [BrowserBox/BrowserBox](https://github.com/BrowserBox/BrowserBox) - 💚🇺🇸🗽Secure remote browsing anywhere, any way you like it.
+- [BrowserBox/BrowserBox](https://github.com/BrowserBox/BrowserBox) - 💚🇺🇸🗽Secure remote browsing anywhere, any way you like it. Since 2018.
 - [donavon/hook-flow](https://github.com/donavon/hook-flow) - A flowchart that explains the new lifecycle of a Hooks component. https://dwe.st/hf
 - [datkt/uv](https://github.com/datkt/uv) - libuv bindings for Kotlin
 - [albenik/git-summary](https://github.com/albenik/git-summary) - Checks what repos has been changed in your workspace.
