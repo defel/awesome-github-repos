@@ -773,6 +773,7 @@
 - [Pocket/pocket-android](https://github.com/Pocket/pocket-android) - Pocket Android app
 - [GoogleCloudPlatform/jit-groups](https://github.com/GoogleCloudPlatform/jit-groups) - JIT Groups is an open source application that lets you implement secure, self-service access management for Google Cloud using groups.
 - [cedar-policy/cedar-java](https://github.com/cedar-policy/cedar-java) - Java bindings for the Cedar language
+- [comet-ml/opik](https://github.com/comet-ml/opik) - Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, automated evaluations, and production-ready dashboards.
 - [apache/shiro](https://github.com/apache/shiro) - Apache Shiro is a powerful and easy-to-use Java security framework that performs authentication, authorization, cryptography, and session management
 - [youngmonkeys/ezyfox-server](https://github.com/youngmonkeys/ezyfox-server) - A socket server (include SSL) supports realtime application, realtime game, MMORPG, messaging, chat and streaming data with TCP, UDP and Websocket
 - [enso-org/enso](https://github.com/enso-org/enso) - Enso Analytics is a self-service data prep and analysis platform designed for data teams.
@@ -1886,7 +1887,6 @@
 - [EndoTheDev/Awesome-Ollama](https://github.com/EndoTheDev/Awesome-Ollama) - An opinionated list of awesome Ollama web and desktop uis, frameworks, libraries, software and resources.
 - [Cinnamon/kotaemon](https://github.com/Cinnamon/kotaemon) - An open-source RAG-based tool for chatting with your documents.
 - [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - 100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.
-- [comet-ml/opik](https://github.com/comet-ml/opik) - Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, automated evaluations, and production-ready dashboards.
 - [agno-agi/agno](https://github.com/agno-agi/agno) - The self-managing agent platform
 - [docling-project/docling](https://github.com/docling-project/docling) - Get your documents ready for gen AI
 - [hydrusnetwork/hydrus](https://github.com/hydrusnetwork/hydrus) - A personal booru-style media tagger that can import files and tags from your hard drive and popular websites. Content can be shared with other users via user-run servers.
@@ -2606,13 +2606,13 @@
 - [browserbase/stagehand](https://github.com/browserbase/stagehand) - The SDK to extract data and interact with any site on the web. Get started with Claude Code, Codex, Eve, Mastra, and more.
 - [continuedev/continue](https://github.com/continuedev/continue) - open-source coding agent
 - [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
-- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - Knowledge infrastructure to make your agents smarter. Search, scrape and 550+ data providers through one API.
 - [aws-samples/github-actions-oidc-cdk-construct](https://github.com/aws-samples/github-actions-oidc-cdk-construct) - 
 - [bullfrogsec/bullfrog](https://github.com/bullfrogsec/bullfrog) - Simple plug-and-play Github Action to block unauthorized outbound traffic (egress) in your Github workflows
 - [heyform/heyform](https://github.com/heyform/heyform) - Open-Source Form Builder
 - [Surfer-Org/Protocol](https://github.com/Surfer-Org/Protocol) - Open-source framework for exporting your personal data.
 - [javierarce/arena-manager](https://github.com/javierarce/arena-manager) - Publish content from Obsidian to Are.na and the other way around.
-- [step-security/harden-runner](https://github.com/step-security/harden-runner) - Harden-Runner is a CI/CD security agent that works like an EDR for GitHub Actions runners. It monitors network egress, file integrity, and process activity on those runners, detecting threats in real-
+- [step-security/harden-runner](https://github.com/step-security/harden-runner) - Harden-Runner is a CI/CD security agent that works like an EDR for GitHub Actions runners. It monitors network, file, and process activity and integrates with Secure Registry to apply package cooldown
 - [sanity-io/sanity](https://github.com/sanity-io/sanity) - Sanity Studio – Rapidly configure content workspaces powered by structured content
 - [bytebase/bytebase](https://github.com/bytebase/bytebase) - Database governance built for humans and agents — controlling changes and access across every major database.
 - [chrnorm/build-your-own-cloudtrail](https://github.com/chrnorm/build-your-own-cloudtrail) - 
@@ -2661,7 +2661,7 @@
 - [webpro-nl/knip](https://github.com/webpro-nl/knip) - ✂️  Find unused files, dependencies and exports in your JavaScript and TypeScript projects. Knip it before you ship it!
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.
 - [TfTHacker/obsidian42-strange-new-worlds](https://github.com/TfTHacker/obsidian42-strange-new-worlds) - Revealing the strange new world of connected thoughts in your vault.
-- [event-catalog/eventcatalog](https://github.com/event-catalog/eventcatalog) - Documentation tool built for software architecture. Document your domains, services, events and schemas — for your teams and your AI agents.
+- [event-catalog/eventcatalog](https://github.com/event-catalog/eventcatalog) - The docs platform designed for software architecture. Document your domains, services, events and schemas — for your teams and your AI agents.
 - [muxinc/media-chrome](https://github.com/muxinc/media-chrome) - Custom elements (web components) for making audio and video player controls that look great in your website or app.
 - [winglang/wing](https://github.com/winglang/wing) - A programming language for the cloud ☁️ A unified programming model, combining infrastructure and runtime code into one language ⚡
 - [unjs/magicast](https://github.com/unjs/magicast) - 🧀  Programmatically modify JavaScript and TypeScript source codes with a simplified, elegant and familiar syntax powered by recast and babel.
