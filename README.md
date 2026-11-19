@@ -2248,7 +2248,7 @@
 - [feldera/feldera](https://github.com/feldera/feldera) - The Feldera Incremental Computation Engine
 - [lsd-rs/lsd](https://github.com/lsd-rs/lsd) - The next gen ls command
 - [theryangeary/choose](https://github.com/theryangeary/choose) - A human-friendly and fast alternative to cut (and sometimes awk)
-- [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, rg --json, and blame output
+- [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting interface for git, diff, blame, and grep/ripgrep
 - [BurntSushi/xsv](https://github.com/BurntSushi/xsv) - A fast CSV command line toolkit written in Rust.
 - [apache/iggy](https://github.com/apache/iggy) - Apache Iggy: Hyper-Efficient Message Streaming at Laser Speed
 - [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
@@ -2478,7 +2478,7 @@
 
 ## TeX 
 
-- [kevinraymond/florilegium](https://github.com/kevinraymond/florilegium) - Procedurally generated Delft-blue floral page margins for LuaLaTeX, with plants and visitors sampled from genomes and a TikZ library that also draws them under pdfLaTeX
+- [kevinraymond/florilegium](https://github.com/kevinraymond/florilegium) - Procedurally generated Delft-blue page margins for LuaLaTeX, with plants, visitors, shells and Gothic tracery sampled from genomes, and a TikZ library that draws them in pure TikZ under pdfLaTeX.
 - [angea/pocorgtfo](https://github.com/angea/pocorgtfo) - a "Proof of Concept or GTFO" mirror with an extensive index with also whole issues or individual articles as clean PDFs.
 - [21-lessons/21-lessons-book-de](https://github.com/21-lessons/21-lessons-book-de) - 21 Lektionen - Ein Buch über eine Bitcoin-Reise, geschrieben von einem Bitcoiner
 - [cryptoparty/handouts](https://github.com/cryptoparty/handouts) - a collection of handouts and, where possible, their source files to help others make new cryptoparty handouts
@@ -2515,7 +2515,7 @@
 - [pixel-point/toolcraft](https://github.com/pixel-point/toolcraft) - Build your own design apps with AI.
 - [datajournal-org/eclipse-2026](https://github.com/datajournal-org/eclipse-2026) - 
 - [nexu-io/open-design](https://github.com/nexu-io/open-design) - The 1st Collaborative AI Design Agent Workspace. Local-first and open source. Create motion, prototypes, websites, apps, dashboards, presentations, images, and videos with your team and AI agents. Sha
-- [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) - Write HTML. Render video. Built for agents.
+- [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) - AI video you can actually edit. HyperFrames is a free, open-source AI video editor. Describe any video and get a real project you can change down to the frame.
 - [AlmanacCode/codealmanac](https://github.com/AlmanacCode/codealmanac) - A codebase wiki for AI coding agents. Captures what the code can't say: decisions, flows, invariants, gotchas.
 - [oxnw/agentrail](https://github.com/oxnw/agentrail) - 
 - [vercel-labs/deepsec](https://github.com/vercel-labs/deepsec) - Deepsec is a security harness for finding vulnerabilities in your codebase powered by coding agents
